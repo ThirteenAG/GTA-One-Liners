@@ -1,0 +1,6 @@
+[submodule "plugins/external/injector"]
+	path = plugins/external/injector
+	url = https://github.com/thelink2012/injector
+[submodule "plugins/external/hooking"]
+	path = plugins/external/hooking
+	url = https://github.com/ThirteenAG/Hooking.Patterns
