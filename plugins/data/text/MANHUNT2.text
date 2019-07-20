@@ -1,0 +1,2133 @@
+1-5          //  1-5
+11-15        //  11-15
+16-19        //  16
+1600X1200    //  1600x1200
+1920X1200    //  1920x1200
+6-10         //  6-10
+600X800      //  600x800
+ACCEPT       //  ACCEPT ~cross~
+ACIDBOT      //  Bottle of Acid
+ACTION1      //  "ACTION ""1"
+ACTION2      //  "ACTION ""2"
+ACTMAP_PC    //  action controls
+ACTMAP_T     //  ACTION CONTROLS
+ADVGUN_PC    //  ~!~
+ADVTUT_PC    //  ~!~
+ANTIAL_PC    //  anti-aliasing
+APPLY_PC     //  apply
+APR          //  Apr
+AUDIO        //  audio
+AUDIOT       //  AUDIO
+AUDSET       //  audio settings
+AUDVID       //  audio/video
+AUDVIDT      //  AUDIO/VIDEO
+AUG          //  Aug
+AUTSAV       //  auto-saving
+AXE          //  Axe
+A_BACK_PC    //  move backwards
+A_BLOCK_PC   //  block
+A_CLIMB_PC   //  climb
+A_CLIP       //  Ammo Clip (30)
+A_CRAWL_PC   //  crawl
+A_DROP_PC    //  drop
+A_EXECU_PC   //  execute
+A_FIREW_PC   //  fire/punch
+A_FP_PC      //  first person
+A_FWD_PC     //  move forward
+A_GUNAM_PC   //  gun aim mode
+A_INV1_PC    //  slot 1
+A_INV2_PC    //  slot 2
+A_INV3_PC    //  slot 3
+A_INV4_PC    //  slot 4
+A_INVDI_PC   //  display inventory
+A_INVDN_PC   //  cycle inventory down
+A_INVUP_PC   //  cycle inventory up
+A_LKBK_PC    //  look back
+A_MENU_PC    //  menu
+A_PAUSE_PC   //  pause
+A_PEEKL_PC   //  peek left
+A_PEEKR_PC   //  peek right
+A_PICUP_PC   //  pick up
+A_PUNCH_PC   //  punch
+A_RLOAD_PC   //  reload
+A_RUN_PC     //  run
+A_SNEAK_PC   //  sneak
+A_STRFL_PC   //  strafe left
+A_STRFR_PC   //  strafe right
+A_SWPWN_PC   //  swap weapon
+A_TARGT_PC   //  manual target
+A_THROW_PC   //  throw
+A_USE_PC     //  use
+A_WALLH_PC   //  wall hug
+A_ZMIN_PC    //  zoom in
+A_ZMOUT_PC   //  zoom out
+BAC2_FE      //  ~circle~ Quit to Menu
+BACK         //  back
+BACKC        //  BACK ~circle~
+BACKT        //  BACK ~triangle~
+BACKWL       //  ~triangle~ button Back without load
+BACKWLC      //  ~cross~ button Back without load
+BAT_SPI      //  Baseball Bat with Spikes
+BLAKJAK      //  Blackjack
+BLOWTOR      //  Blowtorch
+BOCOUNT      //  Kill counter
+BONFEA       //  bonus features
+BONUS        //  bonus
+BONUSSC      //  bonus
+BOTTLE       //  Bottle
+BRICK        //  Brick
+BRIGHNT      //  BRIGHTNESS
+BRIGHTN      //  brightness
+BRINFO       //  TO BEST EXPERIENCE MANHUNT~nbsp~2 ADJUST THE DARKER BOX MAKING SURE THE RECTANGLE IS JUST VISIBLE.
+BRINFS       //  FOR THE BEST EXPERIENCE, IT IS RECOMMENDED THAT THE GAME BE PLAYED WITH HEADPHONES
+BRSET1       //  please check this picture
+BRSET2       //  and make sure that the box
+BRSET3       //  on the left is just visible.
+BRSET4       //  ^
+BWSCR        //  BACK WITHOUT SAVE ~cross~
+BWSTR        //  CONTINUE WITHOUT SAVE ~triangle~
+CAM1         //  CAM1
+CAMERA       //  Video Camera
+CAN          //  Can
+CANCEL       //  cancel
+CANCELT      //  CANCEL ~triangle~
+CASHBUN      //  Cash Bundle
+CHAINSW      //  Chainsaw
+CHEKPNT      //  Checkpoint hit
+CIRCSAW      //  Power-Saw
+CNF_DEL_PC   //  Are you sure you want to delete this Manhunt~nbsp~2 save game?
+CNF_LD       //  Are you sure you want to load this Manhunt~nbsp~2 save game data?
+COASAC       //  SAVE ~cross~
+COLT_C       //  Assault Rifle
+COMPLT       //  -Complete
+CONADC       //  DELETE ~cross~
+CONALC       //  LOAD ~cross~
+CONFC        //  CONFIRM ~cross~
+CONF_SA      //  Save Game Data?
+CONOSAV      //  CONTINUE WITHOUT SAVING ~triangle~
+CONTC        //  CONTINUE ~cross~
+CONTC_PC     //  CONTINUE ~ACTION_USE~
+CONTINU      //  continue
+CONTR        //  controls
+CONTS        //  CONTROLS
+CONTSEN      //  aim sensitivity
+CONTTYP      //  control setup
+CONTV_PC     //  view control layout
+CREATIN      //  Creating Game Directory
+CRED1        //  ROCKSTAR NORTH
+CRED10       //  John Whyte
+CRED100      //  Audio Talent procurement: Judy Henderson
+CRED101      //  Motion Capture Directed by: Navid Khonsari
+CRED102      //  Studios: Track Nine and Sound Space
+CRED103      //  @Acting
+CRED104      //  @Cash : Kurt Bauccio
+CRED105      //  Cerberus : Jon Bernthal
+CRED106      //  Ramirez : Darren Lenz
+CRED107      //  Starkweather : Alan Mozes
+CRED108      //  Piggsy : Alex Wouman
+CRED109      //  Journalist : Melle Powers
+CRED11       //  @- Programmers -
+CRED110      //  Gang Member : Lawrence Ballard
+CRED111      //  Stunt Coordinator : Manny Siverio
+CRED112      //  Stunts : Bob Colletti
+CRED113      //  @- Voiceover -
+CRED114      //  @Hoods:
+CRED115      //  Sean Lynch, John Doman, Lenny Venito, Greg Salata
+CRED116      //  Peter Appel, Nestor Serrano
+CRED117      //  @Innocents:
+CRED118      //  Greg Sims, Adam Seitz, Geoffrey Cantor, Antone Pagan
+CRED119      //  James Urbaniak, David Coburn
+CRED12       //  John Gurney, Derek Ward, Keith McLeman, Steve Gallacher
+CRED120      //  @War Dogs:
+CRED121      //  Kendall Clark aka Loose Cannon, Ricky Aiello
+CRED122      //  Julian Rebolledo aka Julian Dean, Chris McKinney
+CRED123      //  Erik Bergman, PJ Sosko
+CRED124      //  @Skinz:
+CRED125      //  Burke Moses, Todd Cummings, Evan Seinfeld, Andrew Totolos
+CRED126      //  Lloyd Floyd, Jeff Gurner
+CRED127      //  @Smilies:
+CRED128      //  Robert Stanton, Patrick McCartney, Rob Sedgwick
+CRED129      //  Glenn Fleshler, David Pittu, Tony Devito, Jeremy Schwartz
+CRED13       //  Shaun McKillop, Alexander Illes, Alexander Roger, Greg Smith
+CRED130      //  @Cerberus:
+CRED131      //  Brian Maillard, Julian Fletcher, Michael Mulheren
+CRED132      //  @Cops:
+CRED133      //  John Henry Cox, Dennis Ostermaier, Gary Littman
+CRED134      //  Hunter Platin
+CRED135      //  @SWAT's:
+CRED136      //  Richard Mover, Matt Walton, Rodd Houston
+CRED137      //  @Ramirez:
+CRED138      //  Barry Carl, Chris McKinney
+CRED139      //  @Director:
+CRED14       //  @- Lead Artist -
+CRED140      //  Brian Cox
+CRED141      //  @Cash:
+CRED142      //  Stephen Wilfong
+CRED143      //  @Journalist:
+CRED144      //  Kate Miller
+CRED145      //  @Piggsy:
+CRED146      //  Hunter Platin
+CRED147      //  @Prison Voice:
+CRED148      //  Brad Abelle
+CRED149      //  @Dispatcher:
+CRED15       //  Andy Hay
+CRED150      //  Noelle Sadler
+CRED151      //  @- Additional voice acting -
+CRED152      //  Kevin Wong, Adam Cochrane, Kim Gurney, Paul Kurowski
+CRED153      //  @- Thanks -
+CRED154      //  Alan Mui, Chris Hunter, Chris Mitchell, Iain Berekis
+CRED155      //  Ben Greenall, Bryan Bradley, Julia Davies, Duncan Shields
+CRED156      //  Eric Joseph, Andy Rimroth, Jason Paige, Kris Larson
+CRED157      //  Alan McGregor
+CRED158      //  @- Special Thanks -
+CRED159      //  Valerio Faggioni, Andrew Dowell, Morag Reilly
+CRED16       //  @- Character Design -
+CRED160      //  Aaron, Louise and Kieran Hay, Phil Gurney, Sarah Oram
+CRED161      //  Siun Clohosey, Alex Wright, Richard Ralfe, Layla Gedick
+CRED162      //  Jennifer Arthur, Iain Fugue, Jack Hunter, The Pond
+CRED163      //  <END>
+CRED17       //  Alan Davidson
+CRED18       //  @- Lead Environment Artist -
+CRED19       //  Michael Pirso
+CRED2        //  @- Producer -
+CRED20       //  @- Artists -
+CRED21       //  Alan Burns, Campbell-John Dick, Gillian Bertram, Simon Little
+CRED22       //  @- Lead Animator -
+CRED23       //  Mark Tennant
+CRED24       //  @- Animators -
+CRED25       //  Terry Kenny, Ray O`Dwyer, Gus Braid
+CRED26       //  @- Audio Design -
+CRED27       //  Allan Walker
+CRED28       //  @- Music -
+CRED29       //  Craig Conner
+CRED3        //  Andy Hay
+CRED30       //  @- Dialogue Engineering -
+CRED31       //  Will Morton
+CRED32       //  @- Audio Programming -
+CRED33       //  Colin Entwistle
+CRED34       //  @- Development Director -
+CRED35       //  Leslie Benzies
+CRED36       //  @- Art Director -
+CRED37       //  Aaron Garbut
+CRED38       //  @- Technical Directors -
+CRED39       //  Obbe Vermeij, Adam Fowler
+CRED4        //  @- Lead Level Designer -
+CRED40       //  @- Hunter Dialogue -
+CRED41       //  James Worrall, Christian Cantamessa
+CRED42       //  @- Cut Scene Animation -
+CRED43       //  Mondo Ghulam, Iwan Scheer, Lee Montgomery
+CRED44       //  @- Graphic design -
+CRED45       //  Stuart Petrie
+CRED46       //  @- Story -
+CRED47       //  Alan Davidson, Christian Cantamessa
+CRED48       //  @- Test Manager -
+CRED49       //  Craig Arbuthnott
+CRED5        //  Christian Cantamessa
+CRED50       //  @- Lead Analysts -
+CRED51       //  David Murdoch, Dave Watson, Neil Corbett
+CRED52       //  @- Testers -
+CRED53       //  Neil Meikle, James Allan, David Beddoes, George Williamson
+CRED54       //  Scott Cameron, Thomas Whittaker, Neil Walker, Chris Wood
+CRED55       //  @- Additional Art -
+CRED56       //  Tony Porter, Craig Moore, Jolyon Orme, Ian McQue
+CRED57       //  @- Technical support -
+CRED58       //  Lorraine Roy, Christine Chalmers
+CRED59       //  @- Studio Director -
+CRED6        //  @- Level design -
+CRED60       //  Andrew Semple
+CRED61       //  @- Office Support -
+CRED62       //  Kim Gurney, Charlene McGuire
+CRED63       //  @@ROCKSTAR NYC
+CRED64       //  @- Executive Producer -
+CRED65       //  Sam Houser
+CRED66       //  @- VP of Creative -
+CRED67       //  Dan Houser
+CRED68       //  @- VP of Development -
+CRED69       //  Jamie King
+CRED7        //  Paul Davis, Steve Taylor, William Mills
+CRED70       //  @- Chief Technology Officer -
+CRED71       //  Gary J. Foreman
+CRED72       //  @- Director of Quality Assurance -
+CRED73       //  Jeff Rosa
+CRED74       //  @- Technical Manager -
+CRED75       //  Sandeep Bisla
+CRED76       //  @- Lead Analyst -
+CRED77       //  Lee Cummings
+CRED78       //  @- Rockstar Test Team -
+CRED79       //  Lance Williams, Brian Planer, Rich Huie, Chris Choi
+CRED8        //  Simon Lashley, John Haime
+CRED80       //  Scott Peterman, Christopher Plummer, Ethan Abeles
+CRED81       //  William Rompf, Elizabeth Satterwhite
+CRED82       //  Devin Smither, Tammy Beatty, Scott Peterman
+CRED83       //  @- Research and Analysis -
+CRED84       //  Joe Howell
+CRED85       //  @- Production Team -
+CRED86       //  Terry Donovan, Alex Horton, Mark Garone, Jenefer Gross
+CRED87       //  Jeff Castaneda, Jennifer Kolbe, Adam Tedman
+CRED88       //  Devin Winterbottom, Brian Wood, Brian Noto, David Kim
+CRED89       //  Lindsey Caldwell, Hosi Simon, Daniel Einzig, Jerry Luna
+CRED9        //  @- Lead Programmer -
+CRED90       //  Stuart Petri, Futaba Hayashi, Jeff Williams, Richard Kruger
+CRED91       //  Jake King, Jordan Chew, Devin Bennett, Chris Carro
+CRED92       //  Rob Fleischer, Bill Linn, Noelle Sadler, John Zurhellen
+CRED93       //  Kerry Shaw, David Thomson, Susan Lewis
+CRED94       //  @- Rockstar Games Intro Animation -
+CRED95       //  - Manhunt 2 Title Sequence -
+CRED96       //  Maryam Parwana
+CRED97       //  @- Cut scenes -
+CRED98       //  Written by: James Worrall, Christian Cantamessa
+CRED99       //  Audio Directed by: Renaud Sebbane
+CRE_DIR      //  ~circle~ Create Directory ~cross~ Continue without saving
+CROSSBW      //  Crossbow
+CROWBAR      //  Crowbar
+CRO_2_C      //  Press ~cross~ to Continue
+CRO_2_C_PC   //  Press ~ACTION_USE~ to Continue
+CRPTLDF_PC   //  Load Failed! Data may be corrupted.
+CRPT_D       //  corrupt data
+CTLCFG       //  Control Layout
+CTLCFGA      //  layout a
+CTLCFGB      //  layout b
+CTYPE1       //  A
+CTYPE2       //  B
+CTYPE3       //  mode c
+CUTTHRO      //  Razor Blade
+CWOS         //  continue without saving
+CWOSSUR      //  Are you sure you want to continue without saving?
+CWSSQ        //  CONTINUE WITHOUT SAVING ~square~
+CWSSQ_PC     //  Press ESC to continue without saving.
+C_FULEQ      //  Fully equipped
+C_GOD        //  God mode
+C_HELI       //  Helium hunters
+C_INVIS      //  Invisibility
+C_MONKE      //  Monkey skin
+C_PIGGS      //  Piggsy skin
+C_RABBI      //  Rabbit skin
+C_REGEN      //  Regenerate
+C_RUN        //  Runner
+C_SILEN      //  Silence
+C_SUPUN      //  Super punch
+DANNY        //  Danny
+DEC          //  Dec
+DEFQU        //  ARE YOU SURE YOU WANT TO RESTORE ALL SETTINGS TO THE DEFAULT?
+DEFSET       //  default settings
+DEFSETT      //  DEFAULT SETTINGS
+DELETEG      //  delete game
+DELETET      //  DELETE GAME
+DELETIN_PC   //  Deleting in progress.
+DEL_FAI_PC   //  Delete failed! Would you like to retry?
+DEL_SUC      //  Game deleted successfully.
+DIFF         //  difficulty
+DIFFT        //  DIFFICULTY
+DILDO        //  Dildo
+DIRVOL       //  director volume
+DIR_SUC      //  Directory Created Successfully
+DOLL_1       //  doll_1
+DOLL_2       //  Doll 2
+DOLL_3       //  Doll 3
+DONOT        //  Saving in progress.
+DVTAPE       //  Video Tape
+D_EAGLE      //  Heavy Handgun
+EASY         //  sane
+EASYI        //  the standard level of difficulty
+EASYU        //  sane
+EMPTY        //  -
+ENCONT       //  Press Enter to continue.
+ENG          //  english
+ENV_EXE      //  environmental executions
+ESP          //  español
+ETDONE1_PC   //  Tutorial Complete.
+ETDONE2_PC   //  ~!~
+ETSTRT1A_PC  //  The Power Meter will display the amount of force you are using in your motions.
+ETSTRT1B_PC  //  Some motions require more force than others.
+ETSTRT1_PC   //  Executions use movements illustrated by various icons.
+ETSTRT2_PC   //  Press ~ACTION_USE~ to begin a tutorial to learn these moves. You can then skip the tutorial by pressing ~ACTION_MENU~
+ET_SUCC_PC   //  SUCCESS
+EXECTYP      //  interactive executions
+EXETUT_PC    //  execution tutorial
+EXTUTBD_PC   //  ~!~
+EXTUTBS_PC   //  ~!~
+EXTUTB_PC    //  Press ~ACTION_PUNCH~
+EXTUTDL_PC   //  Quickly move the mouse clockwise in a circle.
+EXTUTDR_PC   //  ~!~
+EXTUTG_PC    //  Quickly pull the mouse backward.
+EXTUTND_PC   //  ~!~
+EXTUTNL_PC   //  ~!~
+EXTUTNR_PC   //  ~!~
+EXTUTNU_PC   //  ~!~
+EXTUTSA_PC   //  Move the mouse forward and backward repeatedly.
+EXTUTSH_PC   //  Quickly shake the mouse left and right repeatedly.
+EXTUTWD_PC   //  Quickly pull the mouse backward.
+EXTUTWF_PC   //  Thrust the mouse forward.
+EXTUTWL_PC   //  Quickly move the mouse left.
+EXTUTWR_PC   //  Quickly move the mouse right.
+EXTUTWU_PC   //  Thrust the mouse forward.
+FEB          //  Feb
+FINAL        //  Final Score
+FINLSCR      //  final score
+FIREAXE      //  Fire Axe
+FISTS        //  Fists
+FLAREG       //  Flare Gun
+FLARE_A      //  Flare Ammo
+FONTT        //  font test
+FONTTST      //  ABC DEF GHI JKL MNO PQR STU VWX YZ abc def ghi jkl mno pqr stu vwx yz 012 345 678 9 ~TM~ ~cross~ ~circle~ ~triangle~ ~square~ ~up~ ~down~ ~left~ ~right~ ~(C)~ ~(R)~
+FRA          //  français
+GAMCOMP      //  game completed
+GASTANK      //  Gasoline Tank
+GER          //  deutsch
+GFC_SUC      //  Game Files Created Successfully.
+GLOCK        //  Light Handgun
+GOLFBAL      //  Golfball
+GUNTUT_PC    //  Press and hold ~ACTION_LOCKON~ to use gun.
+G_SHARD      //  Glass Shard
+HACKSAW      //  Saw
+HAMMER       //  Hammer
+HANDCAM      //  Video Camera
+HB_BUL       //  Handgun Bullets (12)
+HEAD         //  Head
+HEADSET      //  headset
+HEDGETR      //  Hedge Trimmers
+HEDVOL       //  headset volume
+HSDEF        //  ^^
+HSETDET      //  Headset detected. The headset allows you to generate noise within the gameusing your voice. The reactions of the hunters will vary according to howloud you speak. The microphone and earpiece volumes can be adjusted in the SETTINGSpage of the front-end. Press the ~cross~ button to continue.
+HUN_EXE      //  hunters executed
+HUN_KIL      //  hunters killed
+ICE_PIK      //  Ice Pick
+INCON01      //  STRAFE LEFT
+INCON02      //  TARGET/AIM
+INCON03      //  CYCLE INVENTORY
+INCON04      //  RELOAD/TORCH
+INCON05      //  CYCLE INVENTORY
+INCON06      //  SWAP WEAPON
+INCON07      //  LOOK BACK
+INCON08      //  MOVE/ZOOM
+INCON09      //  INVENTORY
+INCON10      //  STRAFE RIGHT
+INCON11      //  SHOOT/THROW
+INCON12      //  ATTACK/TAP
+INCON13      //  BLOCK/WALL HUG
+INCON14      //  ACTION
+INCON15      //  RUN
+INCON16      //  FIRST PERSON/AIM
+INCON17      //  PEEK/CYCLE TARGET
+INCON18      //  PAUSE/OPTIONS
+INCON19      //  180° TURN
+INF10A       //  STRAFE RIGHT
+INF10B       //  STRAFE
+INF11A       //  ATTACK/
+INF11B       //  ATTACK/
+INF12A       //  THROW/TAP
+INF12B       //  THROW/TAP
+INF13A       //  BLOCK/ZOOM/
+INF13B       //  BLOCK/ZOOM/
+INF14A       //  WALL HUG
+INF14B       //  WALL HUG
+INF15A       //  ACTION/ZOOM
+INF15B       //  ACTION/ZOOM
+INF16A       //  RUN
+INF16B       //  RUN
+INF17A       //  PAUSE/OPTIONS
+INF17B       //  PAUSE/OPTIONS
+INF18A       //  info 18a
+INF18B       //  TARGET/
+INF1A        //  TARGET/AIM
+INF1B        //  AIM
+INF2A        //  STRAFE LEFT
+INF2B        //  LOOK/AIM
+INF3A        //  LOOK/AIM
+INF3B        //  INF3B
+INF4A        //  PEEK/
+INF4B        //  PEEK/
+INF5A        //  CYCLE TARGET
+INF5B        //  CYCLE TARGET
+INF6A        //  RELOAD/TORCH/
+INF6B        //  RELOAD/TORCH/
+INF7A        //  SWAP WEAPON
+INF7B        //  SWAP WEAPON
+INF8A        //  MOVE/AIM
+INF8B        //  MOVE/AIM
+INF9A        //  INVENTORY
+INF9B        //  INVENTORY
+INPRO        //  -In Progress
+INPROG       //  in progress
+INV1         //  "INVENTORY ITEM ""1"
+INV2         //  "INVENTORY ITEM ""2"
+INV3         //  "INVENTORY ITEM ""3"
+INV4         //  "INVENTORY ITEM ""4"
+INVDN        //  INVENTORY DOWN
+INVERTA      //  invert aim
+INVERTY      //  invert look
+INVSWAP      //  SWAP ITEMS
+INVUP        //  INVENTORY UP
+ITA          //  italiano
+JAN          //  Jan
+JUL          //  Jul
+JUN          //  Jun
+KATANA       //  Katana
+KEY          //  Key
+KEY0         //  0
+KEY1         //  1
+KEY2         //  2
+KEY3         //  3
+KEY4         //  4
+KEY5         //  5
+KEY6         //  6
+KEY7         //  7
+KEY8         //  8
+KEY9         //  9
+KEYA         //  A
+KEYB         //  B
+KEYBS        //  BACKSPACE
+KEYBSLA      //  \
+KEYC         //  C
+KEYCAPS      //  CAPS LOCK
+KEYCOMM      //  ,
+KEYD         //  D
+KEYDEL       //  DELETE
+KEYDOWN      //  DOWN
+KEYE         //  E
+KEYEND       //  END
+KEYENT       //  ENTER
+KEYEQU       //  =
+KEYESC       //  ESC
+KEYF         //  F
+KEYF1        //  F1
+KEYF10       //  F10
+KEYF11       //  F11
+KEYF12       //  F12
+KEYF2        //  F2
+KEYF3        //  F3
+KEYF4        //  F4
+KEYF5        //  F5
+KEYF6        //  F6
+KEYF7        //  F7
+KEYF8        //  F8
+KEYF9        //  F9
+KEYFSLA      //  /
+KEYFSTO      //  .
+KEYG         //  G
+KEYH         //  H
+KEYHASH      //  """"
+KEYHOME      //  HOME
+KEYHYP1      //  `
+KEYI         //  I
+KEYINS       //  INSERT
+KEYJ         //  J
+KEYK         //  K
+KEYL         //  L
+KEYLALT      //  LEFT ALT
+KEYLBR       //  LEFT BRACKET
+KEYLCTR      //  LEFT CTRL
+KEYLEFT      //  LEFT
+KEYLSH       //  LEFT SHIFT
+KEYLWIN      //  LEFT WIN
+KEYM         //  M
+KEYMAP_PC    //  assign controls
+KEYMINU      //  -
+KEYN         //  N
+KEYNLOC      //  NUM LOCK
+KEYO         //  O
+KEYP         //  P
+KEYPAD5      //  NUM 5
+KEYPAUS      //  PAUSE
+KEYPDEL      //  NUM DELETE
+KEYPDIV      //  NUM /
+KEYPDOW      //  NUM DOWN
+KEYPEND      //  NUM END
+KEYPENT      //  NUM ENTER
+KEYPGDN      //  PAGE DOWN
+KEYPGUP      //  PAGE UP
+KEYPHOM      //  NUM HOME
+KEYPINS      //  NUM INSERT
+KEYPLEF      //  NUM LEFT
+KEYPMIN      //  NUM -
+KEYPPGD      //  NUM PAGE DOWN
+KEYPPGU      //  NUM PAGE UP
+KEYPPLU      //  NUM +
+KEYPRIG      //  NUM RIGHT
+KEYPRSC      //  PRINT SCREEN
+KEYPTIM      //  NUM *
+KEYPUP       //  NUM UP
+KEYQ         //  Q
+KEYR         //  R
+KEYRALT      //  RIGHT ALT
+KEYRBR       //  RIGHT BRACKET
+KEYRCLI      //  RIGHT CLICK
+KEYRCTR      //  RIGHT CTRL
+KEYRIGH      //  RIGHT
+KEYRSH       //  RIGHT SHIFT
+KEYRWIN      //  RIGHT WIN
+KEYS         //  S
+KEYSCRL      //  SCROLL LOCK
+KEYSEMI      //  ";"
+KEYSH        //  SHIFT
+KEYSPC       //  SPACE
+KEYT         //  T
+KEYTAB       //  TAB
+KEYU         //  U
+KEYUNDF      //  - ? -
+KEYUP        //  UP
+KEYV         //  V
+KEYW         //  W
+KEYX         //  X
+KEYY         //  Y
+KEYZ         //  Z
+KNIFE        //  Knife
+LANGUA       //  language
+LANGUAT      //  LANGUAGE
+LEVEL_C      //  **LEVELNAME** completed
+LEVEL_F      //  episode failed!
+LEVLD1       //  "level load ""1"
+LEVLD2       //  "level load ""2"
+LEVLD3       //  "level load ""3"
+LEVLD4       //  "level load ""4"
+LEVLD5       //  "level load ""5"
+LEVLD6       //  "level load ""6"
+LEVLD7       //  "level load ""7"
+LEVLD8       //  "level load ""8"
+LEVSAV1      //  "level save ""1"
+LEVSAV2      //  "level save ""2"
+LEVSAV3      //  "level save ""3"
+LEVSAV4      //  "level save ""4"
+LEVSAV5      //  "level save ""5"
+LEVSAV6      //  "level save ""6"
+LEVSAV7      //  "level save ""7"
+LEVSAV8      //  "level save ""8"
+LGTQTY       //  lighting resolution
+LOADG        //  load game
+LOADGT       //  LOAD GAME
+LOADING_PC   //  ~!~
+LOADLEV      //  loading
+LOAD_FA_PC   //  Loading Failed! Do you want to retry?
+LOAD_SU      //  Game loaded successfully.
+LOOKB        //  LOOK BACK
+LOOKX        //  mouse sensitivity
+LOOKY        //  mouse sensitivity
+LRS          //  ~left~ ~right~ Select
+LRSETB       //  ~left~ ~right~ Set brightness
+LRUDS        //  ~left~ ~right~ ~up~ ~down~ Select
+LSETB        //  ~left~ Set brightness
+LVL_1        //  awakening
+LVL_10       //  bees' honey pot
+LVL_10A      //  -
+LVL_11       //  origins
+LVL_11A      //  -
+LVL_12       //  assassination
+LVL_12A      //  -
+LVL_13       //  unused
+LVL_13A      //  -
+LVL_14       //  best friends
+LVL_14A      //  -
+LVL_15       //  personality clash
+LVL_15A      //  -
+LVL_16       //  broadcast interrupted
+LVL_16A      //  -
+LVL_17       //  altered state
+LVL_17A      //  -
+LVL_18       //  release therapy
+LVL_18A      //  -
+LVL_19       //  unused
+LVL_19A      //  -
+LVL_1A       //  -
+LVL_2        //  ghosts
+LVL_20       //  end
+LVL_20A      //  -
+LVL_21       //  new_house
+LVL_21A      //  -
+LVL_22       //  bonus 1
+LVL_22A      //  -
+LVL_23       //  bonus 2
+LVL_23A      //  -
+LVL_24       //  bonus 3
+LVL_24A      //  -
+LVL_25       //  bonus 4
+LVL_25A      //  -
+LVL_2A       //  -
+LVL_3        //  domestic disturbance
+LVL_3A       //  -
+LVL_4        //  sexual deviants
+LVL_4A       //  -
+LVL_5        //  history museum
+LVL_5A       //  -
+LVL_6        //  most wanted
+LVL_6A       //  -
+LVL_7        //  red light
+LVL_7A       //  -
+LVL_7B       //  safe house
+LVL_8        //  sorority_house
+LVL_8A       //  -
+LVL_9        //  ritual cleansing
+LVL_9A       //  -
+LVL_CLO      //  locked
+LVL_E1       //  end_whyte
+LVL_E1A      //  -
+LVL_E2       //  end_leo
+LVL_E2A      //  -
+M2DB         //  -2d
+M3DB         //  -3d
+M4DB         //  -4d
+M6DB         //  -6d
+MACE         //  Mace
+MACHETE      //  Machete
+MAINM        //  main menu
+MAPPIN_PC    //  ASSIGN CONTROLS
+MAR          //  Mar
+MATCHBK      //  Match Book
+MAY          //  May
+MBACK        //  BACK
+MBASBAT      //  Baseball Bat
+MC_CHEA      //  Cheat mode active - Save function disabled.
+MC_NOSA      //  Continuing without saving.
+MEAT_C       //  Meat Cleaver
+METALHK      //  Metal Hook
+MFWD         //  FORWARD
+MH2          //  manhunt 2
+MH2C         //  Manhunt 2
+MICVOL       //  mic volume
+MILKBOT      //  Milk Bottle
+MLEFT        //  STRAFE LEFT
+MLR          //  MOVE ~left~~right~
+MONO         //  mono
+MOVMAP_PC    //  movement controls
+MOVMAP_T     //  MOVEMENT CONTROLS
+MRIGHT       //  STRAFE RIGHT
+MUDLR        //  MOVE ~up~~down~~left~~right~
+MUPD         //  MOVE ~up~~down~
+MUSVOL       //  music volume
+NAILGUN      //  Nail Gun
+NAILS        //  Box of Nails (10)
+NAME         //  Enter Patient Name
+NAND_01_PC   //  ~!~
+NAND_02_PC   //  ~!~
+NAND_03_PC   //  ~!~
+NAND_04_PC   //  ~!~
+NAND_05_PC   //  ~!~
+NAND_06_PC   //  ~!~
+NAND_07_PC   //  ~!~
+NAND_08_PC   //  ~!~
+NEWG         //  new game
+NEWGA        //  -New Game
+NEWSPAP      //  Newspaper
+NEXT         //  Next
+NITSTIK      //  Nightstick
+NO           //  no
+NOISEFX      //  screen noise fx
+NOMENU       //  No menu items available yet!
+NOOSE        //  Noose
+NORMAL       //  insane
+NORMALI      //  the hardest level of difficulty
+NORMALU      //  insane
+NOV          //  Nov
+NO_CDT       //  The disc tray/disc cover is open. Please close it to continue.
+NO_FILE_PC   //  Do you want to save Manhunt~nbsp~2 game data?
+OCT          //  Oct
+OFF          //  off
+OK           //  OK
+OKC          //  OK ~cross~
+ON           //  on
+OVWR_PR      //  Manhunt~nbsp~2 only allows one in-progress save per slot. If you continue with this in-progress saveyou will overwrite your previous in-progress save. ~cross~ button to overwrite ~triangle~ button to cancel.
+OVWR_PR_PC   //  ~!~
+OVWR_SA      //  Do you want to overwrite this data?
+P2DB         //  +2d
+P3DB         //  +3d
+P4DB         //  +4d
+P6DB         //  +6d
+PADAND       //  and
+PADOR        //  or
+PADSEL       //  select
+PADSTRT      //  start
+PAINKIL      //  Painkillers
+PATIENT      //  continue
+PAUSE        //  PAUSE / MENU
+PBVOL        //  earpiece
+PCLMB        //  MOUSE L
+PCMMB        //  MOUSE M
+PCMWDN       //  WHEEL DOWN
+PCMWUP       //  WHEEL UP
+PCRMB        //  MOUSE R
+PCX1MB       //  MOUSE X1
+PCX2MB       //  MOUSE X2
+PEEKL        //  PEEK LEFT
+PEEKR        //  PEEK RIGHT
+PEN          //  Pen
+PENE         //  sane
+PENN         //  insane
+PERSON1      //  FIRST PERSON
+PICKDUP      //  Picked Up :
+PIG_SHA      //  Shard
+PIG_WIR      //  Wire
+PIST_A       //  Pistol Ammo
+PLAY         //  continue treatment
+PLA_BAG      //  Plastic Bag
+PLIERS       //  Pliers
+PORN         //  Porno Mag
+PREV         //  Previous
+PREVIOU      //  Previous Best Score
+PROFILE      //  PROFILE
+PROGRES      //  Lose progress in current level?
+QTMGO_PC     //  Keep your cursor inside the circle.
+QUESNO       //  NO
+QUESYES      //  YES
+QUIT         //  quit
+QUITC        //  QUIT TO MENU ~circle~
+QUITC_PC     //  QUIT TO WINDOWS?
+QUITT        //  QUIT TO MENU ~triangle~
+QUITT_PC     //  Press ~ACTION_MENU~ to quit to menu.
+RATIO        //  ratio
+READING      //  Reading Disc.
+RECVOL       //  microphone
+RELOAD       //  RELOAD
+REMAPC       //  REMAP CONTROLS
+RESCHG_PC    //  The resolution has been changed. Do you want to keep these settings?
+RESO         //  resolution
+REST1        //  restart level
+REST2        //  restart from last checkpoint
+RETRY        //  retry
+RET_CON      //  ~cross~ Retry ~circle~ Continue without saving
+REVLVR       //  Revolver Six Shooter
+RIFLE_A      //  Rifle Bullets (6)
+RMBBACK      //  PRESS #RIGHT MOUSE# TO CONTINUE...
+RSETB        //  ~right~ Set brightness
+RTMM         //  return to main menu and save
+RTPM         //  Return to previous menu
+RUS          //  russian
+SAVEC        //  SAVE ~cross~
+SAVEERR      //  SAVE FAILED
+SAVEG        //  SAVE GAME
+SAVEGAM      //  save
+SAVEGT       //  SAVE GAME
+SAVEPAT      //  save game
+SAVING_PC    //  Saving in progress.
+SAVSET       //  save settings
+SAV_FAI_PC   //  Save failed! Continue without saving?
+SAV_GAM      //  Do you want to Save ?~triangle~ YES~square~NO
+SAV_SUC      //  Game saved successfully.
+SAWNOFF      //  Sawn Off Shotgun
+SCENE        //  scene
+SCESEL       //  episode selection
+SCRH         //  screen h
+SCRTOOP      //  score to open:
+SCRV         //  screen v
+SEL          //  SELECT EPISODE
+SELECT       //  SELECT ~cross~
+SELSCE       //  relive episode
+SEP          //  Sep
+SETINGS      //  settings
+SETT         //  settings
+SETTT        //  SETTINGS
+SFXVOL       //  sfx volume
+SG_INPU      //  ~triangle~ Yes ~circle~ No ~cross~ Back
+SHADOW_PC    //  shadows
+SHELLS       //  Shotgun Shells (8)
+SHOTGUN      //  Shotgun
+SHOVEL       //  Shovel
+SHO_TOR      //  Shotgun + Light
+SICKLE       //  Sickle
+SKPTUT_PC    //  SKIP TUTORIAL ~ACTION_MENU~
+SLEDGEH      //  Sledgehammer
+SMOVH        //  horizontal move
+SMOVV        //  vertical move
+SNDOPT       //  sound options
+SNEAK        //  SNEAK
+SNI_RIF      //  Sniper Rifle (Scoped)
+SPIKE        //  Wooden Spike
+SPRINT       //  SPRINT
+SSNIRIF      //  Sniper Rifle (Scoped) + Silencer
+START        //  START
+START_PC     //  press enter
+STEREO       //  stereo
+STL_PTS      //  style points
+STUNPRO      //  Stun Prod
+SUBTIT       //  subtitles
+SURRND       //  pro logic II
+SWAPINV      //  Press and hold ~down~ to swap this item for the
+SYRINGE      //  Syringe
+TARGET       //  target
+TARGETX      //  x-axis sensitivity
+TARGETY      //  y-axis sensitivity
+TDARTS       //  Darts (6)
+THEEND       //  the end
+TIMBON       //  time bonus
+TIME         //  time
+TORCH        //  Flashlight
+TOTAL        //  total
+TRANQ_R      //  Tranquilizer Gun
+TXTQTY_PC    //  texture quality
+UDLRSEL      //  ~up~ ~down~ ~left~ ~right~ Select
+UDLSEL       //  ~up~ ~down~ ~left~ Select
+UDRSEL       //  ~up~ ~down~ ~right~ Select
+UNKNOWN      //  Unknown
+UPDS         //  SELECT ~up~ ~down~
+UQUIT?       //  Quit and lose progress since last checkpoint?
+USE          //  use
+UZI          //  Sub-Machine Gun
+UZI_TOR      //  Sub-Machine Gun + Light
+VIBR         //  vibration
+VIDEO        //  video
+VIDEOT       //  VIDEO
+VIDSET       //  video settings
+WBASBAT      //  Baseball Bat
+WELLD        //  well done
+WIDESC       //  widescreen
+WIRE         //  Wire
+WPNSWP       //  Hold ~ACTION_INVENT_SWAP~ to swap weapons
+WPNSWP_PC    //  Press ~ACTION_PICKUP~ to swap weapons.
+XB2          //  Disc read error. Trying again.
+XNEWGAM      //  Any current progress will be lost. Continue?
+XQUIT1       //  Quit and lose progress since last checkpoint?
+XQUIT2       //  Quit and do not save level completed?
+XREST1       //  Restart level from the beginning?
+XREST2       //  Restart level from last checkpoint?
+YES          //  yes
+BB2_A        //  A cell door is open.
+BB3_A        //  Cells locked down.
+BLOCK_A      //  Hide in the shadows. These guys are vicious, remember?
+BOD1_A       //  Hide the body in the shadows
+BOD2_A       //  You can`t leave those bodies in full view...
+BTW1         //  Break the ~blue~window~colour~ to escape
+CAMREST      //  This bar indicates your health. You can replenish your health by picking up medicine.
+DAN10        //  I...I...killed him. I feel sick.
+DAN11        //  I don`t want to hurt anybody!
+DAN13        //  This is insane!
+DAN14        //  Please keep back - I don`t want to hurt you!
+DAN15        //  But he`s a nurse - he`ll help me.
+DAN6         //  Head straight...follow you...
+DAN6_A       //  Head straight...follow you...
+DRV7_A       //  If the driver suspects anything when he comes out, we're finished.
+ESCAP_A      //  That truck's our ticket out of here...
+EXEC2        //  You must have a weapon to execute an enemy.
+EXEC3_PC     //  There are three levels of execution. The longer you press and hold ~ACTION_EXECUTE~, the more gruesome the attack.
+EXEC9        //  You can perform a HASTY, ~yellow~VIOLENT~colour~ and ~red~GRUESOME~colour~ kill.
+EXEC_NI_PC   //  To execute, press and hold ~ACTION_EXECUTE~, when the cursor changes to the desired colour, release ~ACTION_EXECUTE~.
+EXEC_PC      //  To execute, press and hold ~ACTION_EXECUTE~ and perform the first, and each successive, on-screen action.
+FPS1_A       //  Press ~ACTION_LOOKAROUND~ to toggle first person looking on and off
+FPS1_A_PC    //  Press ~ACTION_LOOKAROUND~ to toggle first person view on and off.
+GL5_NI_PC    //  To execute, press and hold ~ACTION_EXECUTE~, when the cursor changes to the desired colour, release ~ACTION_EXECUTE~.
+GLAS1        //  Some windows can be broken with a punch
+GLAS2        //  Break windows by punching them
+GOAL1        //  Get upstairs
+GOAL10       //  Find a way out of the building
+GOAL12       //  Get to the ~colour_location~garbage truck~colour~
+GOAL13       //  Kill the guards
+GOAL15       //  Get inside the ~blue~truck~colour~
+GOAL1A_PC    //  The mouse controls the direction you are looking. ~ACTION_MOVE_FORWARD~ and ~ACTION_MOVE_BACKWARDS~ control forward and backward movement.
+GOAL1B       //  Press and hold ~ACTION_RUN~ to sprint
+GOAL1B_PC    //  Press and hold ~ACTION_RUN~ to sprint.
+GOAL2        //  ~green~Green~colour~ items are disposable
+GOAL2C       //  Pick up the ~blue~syringe~colour~
+GOAL3        //  The radar shows enemies and other objects of interest
+GOAL3B       //  Be careful! There's no radar in the Insane difficulty level
+GOAL3C       //  Different coloured arrows indicate levels of awareness
+GOAL3D       //  ~red~Red~colour~ is aware, ~orange~orange~colour~ is suspicious, ~yellow~yellow~colour~ is idle
+GOAL4        //  Hide in the shadows
+GOAL4B       //  Knock on a wall to lure enemies
+GOAL5_PC     //  To execute, press and hold ~ACTION_EXECUTE~ and perform the first, and each successive, on-screen action.
+GOAL6        //  Get into the elevator
+GOAL6A       //  Press ~ACTION_USE~ to use an object
+GOAL6A_PC    //  Press ~ACTION_USE~ to use an object.
+GOAL8_PC     //  To punch, press ~ACTION_PUNCH~. Press ~ACTION_LOCKON~ to target.
+GOAL9        //  To climb use ~ACTION_CLIMB~
+GOAL9_PC     //  To climb use ~ACTION_JUMP~
+GRAB         //  Press ~ACTION_GRAPPLE~ to grapple. Time the attack right and you can chain 3 hits together.
+GRAB2        //  To break free from an enemy's grapple press ~ACTION_GRAPPLE_BLOCK~ repeatedly.
+GRAB2_PC     //  ~!~
+GRAB_PC      //  ~!~
+HIDE1_PC     //  One way to lure an enemy is to knock on the wall by pressing ~ACTION_PUNCH~ while facing the wall. This will make a noise and if an enemy hears it they will investigate.
+HIDE2        //  Enemies will not see you in the dark. Your Health Bar turns dark blue when you are safely hidden.
+HIDE2B       //  You can hide in the shadows. Enemies will not see you in the dark.
+HTB1_A       //  Hide the bodies in the shadows
+H_RADR1      //  The radar shows you the location of the enemies. Enemies are displayed whenever they are visible or making noise. The arrow shows the direction they are facing.
+H_RADR2      //  The colour of the arrow indicates the enemy's level of awareness.
+H_RADR3      //  ~red~Red~colour~ is aware, ~orange~orange~colour~ is suspicious, ~yellow~yellow~colour~ is idle.
+H_RUN        //  Press and hold ~ACTION_SPRINT~ to run. Sneaking is totally silent, but enemies can hear you running. The ~red~red~colour~ pulse on the radar indicates your noise level.
+H_RUN2       //  Running for long periods will make you tired.
+H_RUNB       //  Press and hold ~ACTION_SPRINT~ to run. Sneaking is totally silent, but enemies can hear you running.
+H_RUNB_PC    //  Press and hold ~ACTION_RUN~ while moving to run. Press and hold ~ACTION_SNEAK~ to sneak. Sneaking is totally silent, but enemies can hear you running. The ~red~red~colour~ pulse on the radar indicates your noise level.
+H_RUN_PC     //  Press and hold ~ACTION_RUN~ while moving to run. Press and hold ~ACTION_SNEAK~ to sneak. Sneaking is totally silent, but enemies can hear you running.
+H_SAVE1_PC   //  When you pass a checkpoint, you can save your progress by selecting save in the pause menu.
+H_SAVE_PC    //  You have passed a CHECKPOINT.
+KNOCK_PC     //  Knock on any wall by facing the wall and pressing ~ACTION_PUNCH~ to lure an enemy to you.
+LE16A_A      //  Now get the syringe.
+LEAVE_A      //  Now climb into the garbage truck.
+LEO10_A      //  I`ll scout ahead Danny. Get your head straight and follow me.
+LEO11_A      //  We need a weapon. Get a syringe from the supplies office.
+LEO16_A      //  We need a weapon. Get a syringe from the supplies office.
+LEO20_A      //  Don't leave any witnesses.
+LEO31_A      //  Don't let these crazies spot you.
+LEO32_A      //  Move into the shadow - they can't see you in the darkness.
+LEO33_A      //  Move when their backs are turned.
+LEO34_A      //  If you make a noise, they'll hear you.
+LEO35_A      //  You still got it - they didn't see a thing.
+LEO36_A      //  You'll have to do better than that, Danny.
+LEO37_A      //  How are we gonna survive this if you can't sneak past a couple of whackjobs? Huh?
+LEO40_A      //  That's it Danny. Listen to me and I'll get us out of here.
+LEO45        //  I`d take it slowly if I were you.
+LEO46_A      //  Sneak into the nurses' room.
+LEO49        //  You had no choice, Danny - you had to do it.
+LEO50_A      //  If he sees you, he will kill you. Understand? WASTE HIM!
+LEO53_A      //  This guy stands between you and freedom.
+LEO8_A       //  If that guy lives, we're dead.
+LEO9_A       //  Go on, try it. See how it feels to own a life.
+LFA1         //  Objectives are shown as a ~blue~blue~colour~ target on the radar.
+LIFT1_A      //  Get in the elevator. It's the only way out of here.
+LIFT2        //  To open the door, stand in front of the switch and press ~ACTION_USE~.
+LIFT2_PC     //  To open the door, stand in front of the switch and press ~ACTION_USE~.
+LIFT3        //  Press ~ACTION_CLIMB~ to climb.
+LIFT3_PC     //  Press ~ACTION_JUMP~ to climb.
+LSE2_A       //  They've seen us - you're gonna have to deal with those orderlies before you get in the truck.
+LUR1         //  To lure the guard out, hide in a nearby ~blue~shadow~colour~.
+LUR2_PC      //  Face the wall and press ~ACTION_PUNCH~ to knock on the wall. If the guard hears a noise, he will investigate.
+MELE2_PC     //  Press and hold ~ACTION_LOCKON~ to target an enemy. Press ~ACTION_MOVE_LEFT~ or ~ACTION_MOVE_RIGHT~ to strafe left or right.
+MELE3_PC     //  Press ~ACTION_PUNCH~ to punch.
+MELE4        //  When targeting, press ~ACTION_BLOCK~ to block.
+MELE4_PC     //  When targeting, press ~ACTION_BLOCK~ to block.
+MELE5        //  When you target an enemy the colours of the cursor show the health status.
+MELE6        //  ~green~Green~colour~ is healthy, ~red~red~colour~ is close to death.
+ML11_A       //  He's down, now finish him.
+ML12_A       //  You did good, Danny. Now go find some first aid, patch yourself up.
+MLT1         //  You have to take this psycho down, Danny!
+MLT1_A       //  You have to take this psycho down, Danny!
+MLT2         //  What?! No... I can`t!
+MLT3         //  You don`t have a choice!
+MLT9         //  Put some muscle into it!
+MOVE1_PC     //  Press ~ACTION_MOVE_FORWARD~ to walk forward and use the mouse to turn. While walking press ~ACTION_SNEAK~ to sneak or ~ACTION_RUN~ to run.
+MTG1_PC      //  Press and hold ~ACTION_LOCKON~ to target an enemy.
+MTG2         //  When you target an enemy the colours of the cursor change to show health.
+MTG2_PC      //  Press and hold ~ACTION_LOCKON~ to target an enemy. When you target an enemy the colours of the cursor change to show health.
+MTG3         //  ~green~Green~colour~ is healthy, ~red~red~colour~ is close to death.
+MTG4         //  During a fight, target an enemy and press ~ACTION_BLOCK~ to block.
+MTG4_PC      //  During a fight, target an enemy and press ~ACTION_BLOCK~ to block.
+MTG5_PC      //  Press ~ACTION_PUNCH~ to attack.
+MTG6_PC      //  ~!~
+MTG7_PC      //  ~!~
+MTG8_PC      //  Press ~ACTION_PUNCH~ near a floored opponent to hit him while he's down.
+NEX1_NI_PC   //  To execute, press and hold ~ACTION_EXECUTE~, when the cursor changes to the desired colour, release ~ACTION_EXECUTE~.
+NEX1_PC      //  To execute, press and hold ~ACTION_EXECUTE~ and perform the first, and each successive, on-screen action.
+NEX3         //  You need a weapon to execute an enemy.
+NEX4_PC      //  When you are within execution range, your stance will change.
+OFFICE       //  The office is shown as a blue marker on the radar.
+OPEN_PC      //  Lockers, drawers, cabinets and trunks may contain valuable items. Press ~ACTION_USE~ when standing in front of these to open them.
+PAUSE        //  You can review your objectives on the pause screen by pressing the START button.
+PAUSE_PC     //  You can review your objectives on the pause screen by pressing ~ACTION_MENU~
+PICK1        //  Daniel! It's not safe out here! Return to your room immediately.
+PICK2        //  Reznik - escort Mr Lamb.
+PUB1         //  Stand over a body and press ~ACTION_PICKUP~ to pick it up.
+PUB1_PC      //  Stand over a body and press ~ACTION_PICKUP~ to pick it up.
+PUB2         //  Press ~ACTION_USE~ again to drop the body.
+PUB2_PC      //  Press ~ACTION_DROP~ to drop the body.
+PYU1         //  Get some ~blue~first aid~colour~.
+REZNIK1      //  Control? Open this door!
+REZNIK2      //  Control - aw fuck it - wait there Lamb, I`ll find another way round.
+SRE2_A       //  Go back and get that syringe, Danny.
+SYR1_A       //  We might need that syringe.
+SYR2         //  ~green~Green~colour~ weapons like the syringe are lost after you've used them to execute an enemy.
+SZT_A        //  Your Health Bar turns dark blue when you are safely hidden.
+TARGET       //  To target an enemy, face him then press and hold ~ACTION_LOCKON~.
+TARGET_PC    //  ~!~To target an enemy, face him then press and hold ~ACTION_LOCKON~
+TARGO        //  To target an enemy, face him then press and hold ~ACTION_LOCKON~
+TARGO_PC     //  ~!~To target an enemy, face him then press and hold ~ACTION_LOCKON~
+TWO1_A       //  That truck's our way out of here...
+WAL1_A       //  Press ~ACTION_WALLSQUASH~ when beside a wall to wall hug.
+WAL1_A_PC    //  Press ~ACTION_WALLSQUASH~ when facing a wall to wall hug.
+WAL2_A_PC    //  Move along the wall using ~ACTION_MOVE_LEFT~ and ~ACTION_MOVE_RIGHT~
+WAL3_A       //  Push towards a corner to peek around it
+WAL3_A_PC    //  Press ~ACTION_PEEKL~ or ~ACTION_PEEKR~ to peer around walls.
+BASEM_A      //  Danny, let's try the basement.
+BATH         //  Check the ~colour_location~bathroom~colour~ for a syringe.
+CHK4         //  Sweep this place. Start at the basement. I`ll search the bedrooms.
+CLIMB        //  Press ~ACTION_CLIMB~ when facing a wall or obstacle to climb over it.
+CLIMB_PC     //  Press ~ACTION_JUMP~ when facing a wall or obstacle to climb over it
+CROW1_A      //  You can use this crowbar to break open locks. Go break open the padlock on the back door.
+CROW2_A      //  Now you can break open the padlock on the back door.
+CROWB1       //  Equip the crowbar and press ~ACTION_USE~ to break open the chain lock.
+DAN1         //  Who are they?
+DAN2         //  Shit - what are we going to do?
+DAN3         //  What happened here?
+DOTS         //  Use the flashlight to search for objects hidden in the dark.
+DUCK1        //  Press ~ACTION_CRAWL~ when facing a low opening to crawl under it.
+DUCK2        //  Press ~ACTION_WALLSQUASH~ when facing a wall to hide against it.
+FIND         //  Press ~ACTION_USE~ to break open the trunk.
+FINDC        //  Press ~ACTION_USE~ to break open the cupboard.
+FIND_PC      //  Press ~ACTION_USE~ to break open the trunk.
+FLASHON      //  Press ~down~ to switch the flashlight on.
+FLASHON_PC   //  ~!~
+GOAL_1       //  Find the old house
+GOAL_2       //  Find a tool to break the lock on the front door
+GOAL_3       //  Break into the house
+GOAL_31      //  Investigate the house
+GOAL_4       //  Search the cabinets and trunks
+GOAL_41      //  Top floor cleared
+GOAL_42      //  Ground floor cleared
+GOAL_43      //  Basement cleared
+GOAL_5       //  Find your stash - Use the flashlight to search each room for the ~colour_location~storage boxes~colour~
+GOAL_6       //  Look for a syringe in the ~colour_location~bathroom~colour~
+GOAL_61      //  Meet Leo in the hallway
+GOAL_7       //  Kill all remaining hunters
+GOD_4        //  Search the cabinets and trunks.
+GOD_41       //  Top floor cleared
+GOD_42       //  Ground floor cleared
+GOD_43       //  Basement cleared
+GOD_61       //  Meet Leo in the hallway
+GROUN_A      //  Nothing. Okay, the only place left is the ground floor. It's gotta be there.
+HOUSE_A      //  This is the place. You left a drug in there that'll clear your head.
+HUNT1_A      //  Shit! Another Watchdog... Take him out!
+JPTU_NI_PC   //  To execute from an elevated platform, press ~ACTION_EXECUTE~ when your stance changes above an enemy.
+JUMPTUT_PC   //  To execute from an elevated platform, press and hold ~ACTION_EXECUTE~ when your stance changes above an enemy and perform the first, and each successive, on-screen action.
+KDOR1_A      //  Danny, we need to find a way to break into the house.
+KILLHNT      //  Kill all remaining hunters.
+LEO1         //  Watchdogs - they got here fast.
+LEO10        //  Get rid of all those Watchdogs.
+LEO11        //  We don't want to be disturbed.
+LEO2         //  They`re the Project's clean-up crew.
+LEO3         //  Do? We`re gonna do what they trained us to do. We`re gonna kill them.
+LEO4         //  The Project happened here.
+LEO7         //  Nice. Now all we need is a syringe. Try the bathroom.
+LEO8         //  Search all the cabinets and trunks.
+NOISE        //  Jumping over walls will alert nearby hunters.
+PICK1        //  You will not remember anything before this moment.
+PICK2        //  You will not remember us being here.
+QTMTUT1      //  If a hunter becomes suspicious he may investigate and discover you hiding in the shadows.
+QTMTUT2      //  Follow the on-screen prompt to freeze motionless and hold your breath.
+QTMTUT2_PC   //  To avoid being seen, keep your cursor inside the circle.
+QTMTUT3      //  Remember, if a hunter becomes suspicious he may investigate and discover you hiding in the shadows.
+SECON_A      //  Not here. Let's try upstairs in the bedrooms.
+WD11         //  Grimmins? Venchek? Where are they? I`ve had enough of these amateurs.
+5YEARA       //  Five years earlier
+5YEARB       //  Five years ago
+COP7_A       //  You heard the APB, people. That serial killer from the Plaza is headed for our happy little community.
+COP7_B       //  I want you looking in every garbage can, mailbox, and goddamn treehouse for this guy.
+DAN1_A       //  What then?
+DAN2_A       //  Everything's gonna be alright, honey.
+INT3_A       //  What then?
+LEO1_A       //  I've got some unfinished business here, Danny. Something I need to do alone.
+LEO1_B       //  Go to the safe house and wait for me there.
+LEO2_A       //  Freedom my man, freedom.
+LEO4         //  I gotta hide from these cops.
+LEO7_A       //  One of these garages must contain something I can use.
+LEO8_A       //  Everything's gonna be alright, honey.
+OBJ1         //  Get through the ~blue~fence~colour~
+OBJ2         //  Find the ~green~gas can~colour~
+OBJ3         //  Get to ~blue~safety~colour~
+OBJ4         //  Go to the ~blue~house~colour~
+OBJ5         //  Get the pliers from one of the ~green~garages~colour~
+TUT01        //  Press the ~ACTION_CLIMB~ button to climb.
+TUT01_PC     //  Press ~ACTION_JUMP~ to climb.
+WHYTE        //  I know it's difficult, Danny, but you must go back to that night. I need you to remember.
+WIF1_A       //  Danny - what's happened? Are you ok?
+WIF2_A       //  Everything's gonna be fine, honey...
+BK_PC        //  When a throwable item is equipped, press and hold ~ACTION_ZOOMAIM~ to enter throwing mode. Move the mouse to aim. Then press ~ACTION_PUNCH~ to throw the item.
+BLIGHT       //  Flickering lights can be destroyed to create an area of shadow.
+BT_PC        //  When a throwable item is equipped, press and hold ~ACTION_ZOOMAIM~ to enter throwing mode. Move the mouse to aim. Then press ~ACTION_PUNCH~ to throw the item.
+CF03_A       //  Smash the light so we can hide.
+DEADB        //  Press ~ACTION_USE~ while over a dead hunter to pick up the body. Press ~ACTION_USE~ again to drop it.
+DEADB_PC     //  Press ~ACTION_PICKUP~ while over a dead hunter to pick up the body. Press ~ACTION_DROP~ to drop it.
+DEAFTT1      //  Hunters who are in noisy areas will be unresponsive to lures and movement sounds.
+DEAFTT2      //  These 'deaf' hunters will appear as cyan blips on your radar.
+DJ06         //  Listen up, Perverts! If you want to taste the real hardcore, enter the dungeon!
+DUNG_A       //  There was...There was a dungeon underneath this place.
+EE1          //  The Environmental Executions are marked on the radar by a White Skull.
+EE1A         //  You can use some environmental objects to carry out executions, try out the toilet.
+EE2_NI_PC    //  To perform an environmental execution, sneak up on an enemy and press ~ACTION_EXECUTE~ when your stance changes.
+EE2_PC       //  To perform an environmental execution, sneak up on an enemy, press and hold ~ACTION_EXECUTE~ when your stance changes then perform the first, and each successive, on-screen action.
+EXEC3_PC     //  There are three levels of execution. The longer you press and hold ~ACTION_EXECUTE~, the more gruesome the attack.
+EXEC4_PC     //  Hack the heads off corpses by selecting the appropriate weapon, then stand over the head of the corpse and press ~ACTION_PUNCH~
+EXEC5        //  Some levels of execution also sever heads if the right weapon is equipped.
+EXECT_PC     //  Hack the heads off corpses by selecting the appropriate weapon, then stand over the head of the corpse and press ~ACTION_PUNCH~
+GOAL1        //  Find a way into the club
+GOAL2        //  Investigate the club
+GOAL21       //  Find and trigger the release mechanism for the stage door
+GOAL3        //  Unlock the entrance to the underground dungeon
+GOAL4        //  Show a familiar face to the guard
+GOAL5        //  Gain access to the underground dungeon
+GOAL6        //  Investigate the underground dungeon
+GOAL7        //  Open all the cell doors to cancel dungeon lock down
+HU06_A       //  My God...Danny? Is that you? What are you doing here?
+JUDY1        //  Everything's ready. Come with me.
+JUDY_A       //  It's coming back to me, we're close, we have to find her.
+LEO1         //  I got a bad feeling about this.
+LEO10        //  Looks like they're closing this place down for the night.
+LEO11        //  The Pervs run this club. They`re pure sleaze.
+LEO11A       //  Guys come in expecting a blowjob, they go out Project zombies.
+LEO11B       //  They`d rip your head off in a heartbeat.
+LEO2         //  He wants a familiar face? Go get him one.
+LEO9         //  There must have been emergency access built into these rooms.
+MUSIC_A      //  They're not going to hear us with this music blasting.
+PERV13       //  Hey! Who let that fuck in here? Get the bitch backstage and shut that fucking noise off!
+PERV31       //  I don`t know your face and only faces I know get in. Get the fuck outta here.
+PERV32       //  Georgy-boy! C'mon in! Jeez, you look like shit.
+PERV33       //  Georgy-boy? What did you do to Georgy-boy?
+POSTE2       //  and all cells are cleared of test subjects before they can leave the test area#
+POSTE3       //  #Due to last month`s incident, staff must ensure all cell doors are open and all cells are cleared of test subjects before they can leave the test area#
+POSTER       //  #Due to last month`s incident, staff must ensure all cell doors are open...
+SEEDED       //  If a hunter sees a dead body they will become suspicious and search more carefully.
+SHOHED       //  Equip the head and press ~ACTION_USE~ to show it to the guard.
+V01_A        //  Well, we need to find a way inside.
+V03_A        //  I remember this place. The person I'm looking for is here somewhere.
+BHD10_A      //  He`s trying to get to the train yard.
+BHD11_A      //  This is our last chance, Watchdogs. Take up your positions and ready your weapons.
+BHD12_A      //  Flank him!
+BHD13_A      //  He's making a run for it!
+BHD1_A       //  Freeze!
+BHD2_A       //  We have his exit sealed. Moving to intercept.
+BHD3_A       //  Slippery bastard. Fuck it, we got him holed up in there. Where's he gonna go?
+BHD4_A       //  Cletus, when I give the word I want you to flush that sucker out.
+BHD5_A       //  You are surrounded!
+BHD6_A       //  Aww, fuck it, Pickman only wants the head. Send the chopper over to soften him up.
+BHD7_A       //  Alright, after the third sweep, he`s all yours.
+BHD8_A       //  That bastard slipped right through! But he ain't gettin' far.
+BHD8_B       //  You two light up and cover this area. The chopper'll do a circle sweep of the shadows.
+BHD9_A       //  I see that bastard! He's right there!
+CHD1_A       //  Be careful, Daddy!
+CHD2_A       //  Daddy!
+CHD3_A       //  Daddy, daddy! A man with blood on him!
+CIV1_A       //  Yes, ma`am, I will stay calm, but please send someone quickly.
+CIV2_A       //  Son, you shut that door and you remember what I taught you!
+GOAL00       //  Meet up with Leo at the train yard
+GOAL01       //  Find a place to hide from the Project mercenaries
+GOAL02       //  Find a backdoor way out of the joinery
+GOAL03       //  Get to the storm drain behind the yard
+GOAL04       //  Follow the storm drain
+GOAL05       //  Find a way to lower the flood gate
+GOAL06       //  Find a way to the train yard
+GOAL07       //  Get to a higher level to scout the area
+GOAL08       //  Take cover in the sewer pipe
+GOAL09       //  Follow the sewer pipe and see where it comes out
+GOAL10       //  Find a way into the train yard
+GOAL11       //  Fight through the Watchdogs to get to the train yard
+HE01_A       //  Open Fire!
+HE02_A       //  There he is! Freeze!
+HE03_A       //  Over here! We got him.
+HE04_A       //  Got him in my sights!
+HE05_A       //  Hey, who's that down there?!
+HE06_A       //  It's the target!
+HE07_A       //  Just one of ours, I guess.
+HELI2_A      //  Target is going subterranean. Go get him boys!
+HELI3_A      //  Bloodhound down!
+HELI4_A      //  No sign of the target. Returning to sweep pattern.
+HELI5_A      //  Target located. Moving to LZ.
+HELI6_A      //  Picking up reinforcements.
+HELI7_A      //  Responding to intercepted call. ... Daniel Lamb, this is your last chance. Give yourself up!
+HELI8_A      //  No sign of the target. Expanding the search.
+HELI9_A      //  Lost the target again. Contact the sanitation guys and get some blueprints for those sewers.
+LEO10_A      //  You need a better view, Danny. See if you can get higher.
+LEO11_A      //  You were supposed to lose the damn helicopter. Get underground!
+LEO1_A       //  Two targets are harder to hunt. I`ll see you at the train yard a couple of blocks from here.
+LEO2_A       //  It's a trap! Get out of here! RUN!
+LEO3_A       //  These bounty hunters were not paid to take us alive, Danny. There must be a way out of here.
+LEO4_A       //  Nice one, Danny. Follow the drain but try and find a way back onto the street.
+LEO5_A       //  Show no mercy, Danny. This whole town is a Project dormitory.
+LEO6_A       //  The streets will be crawling with Bloodhounds - we need to find another way out of here.
+LEO7_A       //  You`re nearly there, Danny. See you on the other side.
+LEO8_A       //  Us or them, Danny!
+LEO9_A       //  Lucky for me, that helicopter decided to follow you. Unlucky for you, that searchlight will cut through the darkest shadow.
+MCH1_A       //  ... who the fuck are you, strolling in like that?
+MCH2_A       //  Show me some ID first - you can't just walk in and start dishing out orders. This isn't a police state yet.
+V01_A        //  It's a trap! Get out of here! RUN!
+WD1_A        //  Keep calm - we believe an escaped mental patient is in the vicinity.
+WD2_A        //  Of course, sir.
+WD2_B        //  Good enough? Idiot.
+WD3_A        //  No sign of the target yet. I`m going to hold the interior.
+WHEEL        //  Press ~ACTION_USE~ to turn the wheel.
+DAN1_A       //  You killed Michael?
+DAN3_A       //  I'm sick of this.
+DAN4_A       //  Wait - what's this?
+DAN5_A       //  Judy?
+DAN6_A       //  We're gonna find Judy - and talk to her.
+DAN7_A       //  Michael said they'd messed with my head.
+GOAL09       //  Find a ~blue~way out~colour~ of the safe house
+GRAV         //  Walking on gravel will make more noise, but sneaking on gravel is silent.
+GUNH_PC      //  ~!~
+GUNP         //  Padlocks can also be shot open.
+GUNTG_PC     //  ~!~
+GUNT_PC      //  ~!~
+HLD1_A       //  You killed Michael?
+HLD2_A       //  He set us up. It was him or us. C'mon Danny, we gotta move.
+HLD3_A       //  Wait - let me check here... Ahh - I stashed this.
+HLD4_A       //  At last, something useful. Let's get going.
+LEO1_A       //  If you've found what you're looking for, meet me out the front.
+LEO6_A       //  That fucker double crossed us. C'mon, we gotta get out of here.
+LEO7_A       //  Whoa, a pacifist - you just gonna reason with them? Go ahead!
+LEO8_A       //  Those cops knew who you were. You're going to have to change those clothes.
+OUT1_A       //  Good work killer.
+OUT2_A       //  I`m sick of this.
+TGL6_NI_PC   //  To perform a gun execution, sneak up on an enemy and press ~ACTION_EXECUTE~ when your stance changes.
+TGOAL06      //  You can perform a gun execution when you shoot at an enemy from a very close range.
+TGOAL06_PC   //  To perform a gun execution, sneak up on an enemy, press and hold ~ACTION_EXECUTE~ when your stance changes then perform the first, and each successive, on-screen action.
+TUT11        //  You can also use a gun to perform an execution.
+WHR1_A       //  I doubt the target is even here.
+WHR2_A       //  Benny - take a look.
+WHR2_B       //  Spengler - look for Higgs and Spaulding - they're coming up from the adult speciality shop.
+WHR3_A       //  It's called 'porno' genius. Why is it always me that has to look?
+COP1_A       //  We're in charge here, motherfucker!
+COP2_A       //  That's the one - he matches the description. Hey four-eyes!
+GOAL01       //  Visit your old safe house in the derelict cinema
+GOAL02       //  Find an ~colour_location~alternative route~colour~ into the building
+GOAL02A      //  Get a pair of pliers
+GOAL02B      //  Use the pliers to cut a hole in the wire mesh
+GOAL03       //  Make your way through the ~colour_location~porn shop~colour~
+GOAL03B      //  Get ~colour_location~upstairs~colour~
+GOAL07       //  Find your ~colour_location~old hideout~colour~
+HU01_A       //  That psycho's in the shop! HELP! HELP!
+HU02_A       //  Hey handsome!
+HU03_A       //  Are you cold? Come inside. I'll warm you up.
+HU04_A       //  Mmm, I like that rugged type!
+HU05_A       //  Finally, a real man walks into town!
+KNG1_A       //  Some narc been poking their nose round here. Looks like we got some action going.
+LEO5_A       //  Watch out for those security lights Danny. Any quick movement snaps them on.
+LEO6_A       //  I don't like this, Danny - I smell Project. It's a setup.
+PRP2_A       //  That's the one - he matches the description. Hey four-eyes!
+RK1_A        //  This is our fucking turf now, the Kings are taking over!
+RK2_A        //  You lost, buddy? We`ll show you the way home! Heh heh.
+TUT17_PC     //  When equipped with a ~red~red~colour~ or ~blue~blue~colour~ weapon, wall hug to the corner of a wall and press ~ACTION_PUNCH~ to perform a swing out attack.
+V01_A        //  The safe house, that derelict movie theatre.
+V03_A        //  Okay, Mr. Commando. You see another way into this place?
+V06_A        //  This must be the safe house. What a shithole.
+V09_A        //  We need something to cut through this.
+V10_A        //  Those pliers can cut a hole in the wire mesh.
+V11_A        //  Safe house... All these clippings, photos of me... I put these here... to make me remember.
+V11_B        //  But why?
+V11_C        //  That's me and Michael!
+V11_D        //  Oh my god - Michael...
+WD1_A        //  Like a lamb to the slaughter, Danny.
+WD2_A        //  Sergeant - this man is ours.
+WD3_A        //  There's our man!
+5YEARA       //  Five years earlier
+5YEARB       //  Five years ago
+B11A_NI_PC   //  When the hunter is standing in the ~green~gasoline~colour~, approach from behind and execute him by pressing and releasing ~ACTION_EXECUTE~
+B11_A        //  When the hunter is standing in the ~green~gasoline~colour~, approach from behind, hold ~WII_A~ and execute him by performing the onscreen action.
+B11_A_PC     //  When the hunter is standing in the ~green~gasoline~colour~, approach from behind and execute him by performing the onscreen action.
+B12          //  This gate is locked from the other side.
+B13          //  This door is locked from the other side.
+B14          //  The ~green~gasoline~colour~ can be used to execute hunters.
+B5_A_PC      //  Press ~ACTION_PUNCH~ to pour ~green~gasoline~colour~ on the ground, then lure an enemy towards the puddle.
+B9_A         //  Press ~ACTION_USE~ to pick up the ~green~gasoline can~colour~.
+B9_A_PC      //  Press ~ACTION_PICKUP~ to pick up the ~green~gasoline can~colour~.
+CD1          //  This door is chained up. Find something to break the chains.
+CROW         //  Shutters can be opened with the crowbar
+DIST_A       //  Press ~ACTION_USE~ when holding the ~green~gas can~colour~ to set fire to these files.
+DIST_A_PC    //  Press ~ACTION_USE~ when holding the ~green~gas can~colour~ to set fire to these files.
+DIST_B       //  The ~blue~paper stacks~colour~ can be torched using the gas can.
+GL4_NI_PC    //  To execute with gasoline, press ~ACTION_PUNCH~ to pour ~green~gasoline~colour~ then press and hold ~ACTION_EXECUTE~ and release ~ACTION_EXECUTE~ when ready to execute.
+GOAL_1       //  Find the ~green~gasoline can~colour~
+GOAL_2       //  Break into the Project storage complex
+GOAL_3       //  Find ~blue~Danny's files~colour~ and ~blue~Leo's files~colour~ then burn them
+GOAL_3A      //  Find ~blue~Danny's files~colour~ then burn them
+GOAL_3B      //  Find ~blue~Leo's files~colour~ then burn them
+GOAL_4_PC    //  To execute with gasoline, press ~ACTION_PUNCH~ to pour ~green~gasoline~colour~ then press and hold ~ACTION_EXECUTE~ and perform the on-screen action.
+GOAL_5       //  Distract the guard by creating a ~blue~fire~colour~
+GOAL_6       //  Find the ~blue~main Project storage warehouse~colour~
+GOAL_7       //  Get a new ~green~gas can~colour~
+GOAL_8       //  Shutters can be opened with the crowbar
+LEO1_A       //  Rent-a-cops. I doubt these suckers even know who`s paying them.
+LEO2_A       //  Guess you earned your pay cheque today, fats.
+LEO3_A       //  Fire drill, huh? Maybe we need to give them the real thing.
+LEO4_A       //  More fuel. Now I just need to find some paper.
+LEO5_A       //  Our history is officially erased. Now we can be whoever we want.
+LEO5_B       //  There`s just one more person to take care of. After that - freedom.
+LEO6_A       //  I need his gas can.
+LEO7_A       //  That wasn`t very clever, now was it?
+LEO8_A       //  I'd better find a place to hide...
+PTR1_A       //  What the fuck is that?
+PTR5_A       //  We got an intruder!
+SEC1_A       //  Just got a call from head office...
+SEC2_A       //  More deliveries? Man, it`s been non-stop all week.
+SEC3_A       //  Nah, they`re just checking we know how to use the intruder lockdown system. Easy as cake.
+SEC4_A       //  Why, are they expecting someone?
+SEC5_A       //  It`s just the usual BS. There`s gonna be a fire drill on Friday too.
+CLI1         //  Did you hear something outside?
+CLI1_A       //  Did you hear something outside?
+CLI2_A       //  What the hell was that?
+DAN3         //  I'm looking for Judy.
+DG10_A       //  Why don`t you stay where I can see ya, tough guy?
+DG1_A        //  Can I help you?
+DG2_A        //  Er, can you wait a minute, I'll check...to see.
+DG3_A        //  There's a guy here asking for Judy...
+DG4_A        //  ...glasses...
+DG5_A        //  10 minutes? No problem sir, we'll keep him entertained...
+DG6_A        //  Keep your eyes open - one of Pickman's lab rats is loose. He's looking for that scientist bitch upstairs.
+DG6_B        //  Watchdogs will be here soon, so just stop him getting out.
+DG7_A        //  Okay, don't go nowhere.
+DG8_A        //  Wait here.
+DG9_A        //  Hey, buddy. Don't go snoopin', alright?
+GOAL1        //  Find ~colour_person~Judy~colour~ in the building
+JU1          //  He's here...with Leo...
+JU2          //  I don't know how he found me.
+JU3          //  Are you crazy? He's an animal and Danny barely remembers who I am!
+JU4          //  That was years ago, he barely remembers who I am.
+JU5          //  Don't threaten me, Pickman. I won't do this anymore! I quit!
+JUDY1        //  Stay away, they`ll kill us.
+LEO1         //  We need something to cut this mesh.
+PHN1         //  Hello? Hello? Higgs? Fuck!
+WCC1_A       //  These wire cutters can cut through wire mesh.
+CROW01       //  You'll need a crowbar to get this open
+DAN1         //  Are the Project behind this too?
+DAN2         //  But what are they doing with this TV network?
+DAN2A        //  TV MK? I watch that channel all the time.
+DOCWH_A      //  Hey, that's him! That fat fucker's scared.
+FAIL_A       //  We needed him ALIVE, Danny! What's wrong with you?!
+GOAL00       //  Find Doctor ~blue~Pickman~colour~
+GOAL01       //  Get into the building
+GOAL02       //  Find a way into the Veterinary Lab
+GOAL03       //  Bypass the ~green~security door~colour~
+GOAL04       //  Get past the defending Watchdogs
+GOAL05       //  You'll need a tranquiliser gun to take Pickman alive
+GUARD1       //  What the hell happened here?
+GUARD2       //  I'm coming. I'm coming.
+GUARD3       //  Ehh...children of a sick society.
+HACK         //  The saw can be used to chop heads off.
+HU01_A       //  NO! He's right here!
+HU02_A       //  Stay away!
+HU03_A       //  How hard is it to STOP HIM?!?
+HYPNO        //  I've induced a deep hypnotic state - I think you'll be able to handle him now. Dr Lamb isn't going to cause us any more trouble.
+KILLP_A      //  Pickman is the head scientist for the entire Project. We need him - alive.
+L1           //  ~!~
+L2           //  ~!~
+L3           //  ~!~
+LEO1         //  We`ve got to shut him up.
+LEO2         //  Get the tranquilizer gun - Pickman must be in the auditorium.
+LEO3         //  Good work, Danny. I'll take it from here - you can be a little squeamish...
+LEO4         //  They're behind everything, Danny.
+LEO5         //  Exactly, come on, let's deal with Pickman.
+LEO6         //  We need Pickman alive.
+LOCK1_A      //  Danny, it's locked, we need to find another way to get to him.
+MDOC1        //  Can I have a word, Sergeant?
+MGUARD       //  One move, Lamb, and I`ll kill you before the Doc could shut you down again.
+NURS1        //  Are you a patient here? Wait - you're the guy everyone is talking about! Security!
+PASS         //  """ The player is shown that Danny hears a code phrase and is shut down by Pickman. Danny comes round in the recovery room """
+PICK1        //  This is futile, Danny...
+PICK2        //  Give up, Daniel...
+PICK3        //  Let us help you...
+PICK4        //  I know, you fool! I invented it! But these results are not nearly good enough. Shut it down.
+PICK5        //  Don't dare speak that name to me! I am in control, and we will prevail!
+PICK6        //  If I speak the failsafe phrase, your brain will be wiped clean! Do you really want that?
+PKSPK1       //  This wasn't supposed to happen, Danny! The bridge in your head is malfunctioning!
+PKSPK2       //  Damn you, Danny!
+PKSPK3       //  This is futile Daniel...
+PM1          //  To be expected - he was the very best. Are you ready - in case?
+PM2_A        //  Good, I`ll bolt the animal lab from the inside.
+PM2_B        //  Remember - 'alive' if you can manage it. If not, get the head to me as soon as possible.
+PM4          //  Lamb`s here - get ready!
+PM5A         //  What seest thou else in the dark backward and abysm of time...
+PM7A         //  One move Danny and I`ll repeat the shutdown phrase - every time you hear that you will black out.
+PM7B         //  Next time I have to use it you will not wake up - that I promise you.
+RETI2        //  Everyone ready! He`s coming!
+RETIN_A      //  This is a retina scan, you will need a fresh pair of eyes to work this out.
+S1           //  What are you looking at freak?
+S2           //  They`re gonna open your head up.
+S3           //  Tough guy huh? Not so fucking tough now.
+S4           //  You wasted a lot of my buddies, freak. Just give me a fucking reason.
+SG2          //  They lost him.
+SG3          //  Two squads of our finest agents are waiting to say hello.
+SG4          //  Everyone ready! He`s coming!
+SPHELP       //  Shoot the ~red~speakers~colour~
+SU1          //  Subject A is far too dominant. If we take the bridge out now, the latent personality will be lost forever.
+SU2          //  The results have been the same since Dr. La-
+SURG1        //  The bridge was stable for 171 hours.
+SURG2        //  Not good enough, after 7 years, not nearly good enough.
+SURG3        //  What are you doing here? Are you new here?
+SURG4        //  It`s you - Dr Lamb! Security! Security!
+TH1          //  Stay where you are.
+TH21         //  Keep back or I`ll shoot.
+TH22         //  Move back.
+TH23         //  Move back now!
+TH3          //  You asked for this!
+TRANF_A      //  We can use this gun to put Pickman to sleep.
+WD1          //  Where can you run to now, huh? You're cornered like a sick dog.
+5YEARA       //  Five years earlier
+5YEARB       //  Five years ago
+DAN1_A       //  We killed one of our own! The Project's not gonna be happy.
+GOAL1A       //  Execute your escape plan
+GOAL1B       //  Gain access to the ~blue~roof~colour~
+GOAL1C       //  Locate the ~blue~escape point~colour~
+GOAL1D       //  Escape plan compromised
+GOAL2A       //  Avoid capture - locate a new ~blue~escape route~colour~
+GOAL2B       //  Get down to ~blue~street level~colour~
+GOAL2C       //  Enter the ~blue~sewer system~colour~
+INTRO_A      //  They wanted a perfect assassin, well they got one! Right between the eyes.
+LEO1_A       //  I told you, Danny. They wanted to make us slaves. We're not going to be controlled by anyone, right? Brothers in war!
+TT_ZOOM_PC   //  Press and hold ~ACTION_ZOOMAIM~ to use the rifle's scope. Press ~ACTION_ZOOMIN~ and ~ACTION_ZOOMOUT~ to zoom in and out.
+5YEARA       //  Five years earlier
+5YEARB       //  Five years ago
+ADVTUT_PC    //  ~!~
+BUTTON       //  Note: Please ensure correct weight of sugar is on platform before initiating packing
+GATE         //  Caution: Gate safety engaged when packing machine is not in use
+GOAL00       //  Get the boat key off ~colour_person~Michael~colour~
+GOAL00B      //  Kill ~colour_person~Michael~colour~ and get the boat key
+GOAL01       //  Chase ~colour_person~Michael~colour~ down
+GOAL02       //  Eliminate the Project operatives to get to Michael
+GOAL03       //  Check out the yard
+GOAL04       //  Kill the remaining Project operatives before they take the key off Michael
+GOAL05       //  ~colour_person~Michael~colour~ lost you - pick up his trail again
+GOAL09       //  Follow ~colour_person~Michael~colour~ onto the roof
+GOAL11       //  Get back to the ~colour_location~boat~colour~
+GODGUN_PC    //  You need a gun to go after Michael.
+HE01_A       //  Open fire!
+HE02_A       //  There he is! Freeze!
+HE03_A       //  Over here! We got him.
+HE04_A       //  Got him in my sights!
+HU03_A       //  Captain, target B is captured. We're outside in the yard - want to do some interrogating?
+LEO1         //  I'll take care of this one, Danny. He has the key to the boat. It's our only way out of here.
+LEO2_A       //  Gotta get that key - that boat is our only way off this island.
+LEO3_A       //  More Project scum arriving...
+LEO4_A       //  Drop that key, Mikey!
+LEO5_A       //  Give me that fucking key!
+LEO6_A       //  If the Project wants a war, they got one.
+LOCK         //  Locked from the inside.
+MICH10A      //  This is not happening ... oh please, this can't be happening!
+MICH11A      //  Don't make me have to choose between my life and yours.
+MICH12A      //  You're fucked in the head.
+MICH13A      //  I'm not gonna let you kill me.
+MICH14A      //  You expect me to lay down and die?
+MICH15A      //  Fuck the Project! I quit, I quit!
+MICH16A      //  Stop!
+MICH1_A      //  This is not you, you don't have to do this.
+MICH2_A      //  Snap out of it, it's me, Michael! Remember?
+MICH3_A      //  Don't make me kill you!
+MICH5_A      //  The Project did this to us!
+MICH6_A      //  I'm your best friend!
+MICH8_A      //  What did they do to you?
+PM10_A       //  Fuck! You stay there. Let's see how this guy fares in the open.
+PM4_A        //  Listen up, we got a rogue agent in there. You two start a sweep from this side.
+PM4_B        //  B team is coming in from the harbour - let's show him what we do to Project traitors.
+PM5_A        //  What`s going on in there?
+PM6_A        //  You keep watch on this one. Anyone comes through this door who ain`t us - waste him.
+PM8_A        //  Fuck - no reply. Get your asses to machine hall 1. NOW!
+PM9_A        //  Shut up. This guy ain't dangerous, especially unarmed. He shows up and you're first to die.
+TGOAL01_PC   //  Press and hold ~ACTION_LOCKON~ to use a gun, aim with the mouse and press ~ACTION_PUNCH~ to fire.
+TUT01_PC     //  Press and hold ~ACTION_LOCKON~ to use a gun, aim with the mouse and press ~ACTION_PUNCH~ to fire.
+TUT02        //  Press ~ACTION_RELOAD~ to reload.
+TUT02_PC     //  Press ~ACTION_RELOAD~ to reload.
+TUT03        //  Press ~ACTION_WALLSQUASH~ to take cover behind the wall.
+TUT04_PC     //  Press ~ACTION_LOCKON~ to aim around the corner of the wall. Shoot with ~ACTION_PUNCH~
+TUT06        //  Walk toward the wall and press ~ACTION_WALLSQUASH~. Press ~ACTION_LOCKON~ to aim around the corner.
+V02_A        //  Get back to the boat.
+VAULT        //  When ducking behind a low wall, press ~ACTION_CLIMB~ to vault over it.
+VAULT_PC     //  When ducking behind a low wall, press ~ACTION_JUMP~ to vault over it.
+CM_D14A      //  It's padlocked from the other side.
+CM_L12A      //  Here are some more of your victims to chew on!
+DAN1         //  It`s time to get you out of my head once and for all.
+DAN2         //  I have to lay her to rest to be free of you, Leo!
+DAN3         //  I can be you. But I have a choice. A CHOICE! And I choose to be me.
+DAN4         //  I do! I DO! YOU HEAR ME?!?
+DAN5         //  My name... is Daniel Lamb. My NAME... is DANIEL LAMB!
+ET_D02A      //  Keep on coming - just seeing your scrawny hide makes me stronger!
+ET_D04A      //  Looking for something, Danny? Hah hah hah!
+ET_L02B      //  Then I'll just keep coming for you! You fuck!
+ET_L03A      //  Damn, padlocked!
+ET_L05A      //  ...come on, quit this shit - I'm gettin' tired. Come out and fight like a man!
+ET_L06A      //  How about a visit from some old friends? You remember what you did to these guys... don't you?
+GOAL01       //  Defeat Leo and gain entry to the ~colour_location~crypt~colour~
+GOAL01A      //  Execute Leo with the syringe to weaken his power - avoid being seen at all cost
+GOAL02       //  Get Leo's crowbar and use it to break the ~colour_location~crypt door~colour~ padlock
+GOAL02B      //  Enter the crypt
+GOAL03       //  Escape through the ~colour_location~crypt~colour~
+GOAL04       //  Locate the entrance to the ~colour_location~underground catacombs~colour~
+GOAL04B      //  Kill Michael and Dr. Pickman
+GOAL05A      //  Defeat ~colour_pickup~6~colour~ hunters to unlock the ~colour_location~catacomb's~colour~ exit
+GOAL05B      //  Defeat ~colour_pickup~5~colour~ hunters to unlock the ~colour_location~catacomb's~colour~ exit
+GOAL05C      //  Defeat ~colour_pickup~4~colour~ hunters to unlock the ~colour_location~catacomb's~colour~ exit
+GOAL05D      //  Defeat ~colour_pickup~3~colour~ hunters to unlock the ~colour_location~catacomb's~colour~ exit
+GOAL05E      //  Defeat ~colour_pickup~2~colour~ hunters to unlock the ~colour_location~catacomb's~colour~ exit
+GOAL05F      //  Defeat ~colour_pickup~1~colour~ hunter to unlock the ~colour_location~catacomb's~colour~ exit
+GOAL05G      //  Locate the ~colour_location~catacomb's~colour~ exit
+GOAL06       //  Carry ~colour_pickup~Danny's wife's corpse~colour~ to her ~colour_location~grave~colour~
+GOAL07       //  Break the cemetery gate lock from inside the graveyard
+GRATTUT      //  Use a crowbar to pry the ~green~metal grate~colour~ open
+LEO10        //  Fuck you, Danny - I won. Fuck you, Pickman. Fuck you, Whyte. Fuck the Project - I won.
+LEO1B        //  Time to say goodnight, Danny. Your mind's only got room for one of us.
+LEO1C        //  But don't worry, I'll take care of business from now on!
+LEO2         //  You think it`s that easy to get rid of me? I made you!
+LEO3         //  Time to face up to all the things you`ve done, Danny! Remember these guys? You killed 'em all, Danny.
+LEO4         //  Danny Lamb! The best killing machine the Project ever had!
+LEO5         //  What`s the matter, Danny? Trying to turn over a new leaf or something? You know you wanna kill these fuckers!
+LEO6         //  Still standing, huh? How about a visit from some old friends? You remember what you did to these guys... don`t you?
+LEO7         //  And what about your wife, Danny? Do you remember what you did to her?
+LEO8         //  Heh heh. Who the fuck wants to be #Daniel Lamb#?
+LEO9         //  You see...heh heh...can`t get rid of me...can never...get rid of me.
+LEOTUT1      //  Use the syringe to execute Leo silently and weaken his hold over you.
+LEOTUT2      //  Avoid being detected by him, as he will regain his strength and take longer to kill.
+TUT          //  Lightning flashes will light the shadowed areas.
+WHYTE        //  Don't let your guilt drag you into oblivion. Your only chance to be free is to rid your mind of Leo - once and for all.
+WIFE1        //  It wasn't your fault Danny.
+WIFE2        //  I don't blame you.
+WIFE3        //  Lay me to rest and be free.
+WIFETUT      //  You must lay Sarah's corpse to rest at the correct tomb.
+BOD1_A       //  Jesus, Leo. Did you have to kill them all?
+BOD1_B       //  This place is the Project's front line, Danny.
+BOD1_C       //  Don't go pussy on me. All these fuckers are guilty.
+DAN5         //  These sets are ridiculous. They're giving me a headache.
+DAN6         //  I remember... I think.
+GOAL         //  ~colour_location~Get out~colour~ of the TV Studio alive
+GOAL2        //  Kill all the hunters and escape
+LEO4_A       //  The Project shot coded messages through the TV straight into their agents` heads.
+LEO4_B       //  Told them to do horrible things. That`s how they got through to you.
+TV1          //  Look at this... a massacre. What happened?
+TV2          //  Who cares? They were all working for the Project.
+TV3          //  You`re not telling me the whole story Leo.
+TV4          //  I tell you the whole story and your brain would implode. Trust me.
+V01_A        //  Whoo-hooo! Alright, Bloodhounds, let's tag 'em and bag 'em!
+WTF1_A       //  Please ignore
+WTF1_B       //  Please ignore
+FAL1_A       //  Here he comes! Fall back to the house!
+GOAL01       //  Find a ~colour_location~way out~colour~ of the studio back lot
+GOAL02       //  Get inside the ~colour_location~barn~colour~
+GOAL03       //  Find your ~colour_location~way out~colour~ of the barn
+GOAL04       //  Make your way through the ~colour_location~farm house~colour~
+GOAL05       //  Get to the ~colour_location~exit~colour~ and escape
+SHO1_A       //  We got him corralled, boys. Go get him!
+TUT01_PC     //  Press and hold ~ACTION_ZOOMAIM~ to use the crossbow's scope. Press ~ACTION_ZOOMIN~ and ~ACTION_ZOOMOUT~ to zoom in and out.
+COM1_A       //  I'm coming for you, Leo.
+COM2_A       //  I'm here, Leo!
+DAN1_A       //  Rot in hell, Leo.
+DAN2_A       //  It's over, Leo. I don't want you in my head anymore.
+DAN2_B       //  You're a cancer and I know how I can cut you out.
+DAN3_A       //  I just have to ignore you, Leo - you know it.
+DAN4_A       //  Arrrrgh, I'll fucking kill you, you psycho piece of shit!
+DAN5_A       //  Shut up.
+DAN6_A       //  You shut your fucking mouth, Leo.
+DAN7_A       //  Shut up.
+EXC1_A       //  DANNY EXECUTES LEO
+GOAL1        //  Get to Danny
+GOAL2        //  Defeat Danny
+HLL1_A       //  Rot in hell, Leo.
+LEO1_A       //  You think you can get rid of me? You goddamn runt!
+LEO1_B       //  I'm the one who belongs here, who deserves to be here.
+LEO1_C       //  You're nothing. Without me you'd be nothing!
+LEO2_A       //  Ignore me? How about your wife's blood on your hands, can you ignore that?
+LEO3_A       //  Fuck you, Danny - I won. Fuck you, Pickman. Fuck you, Whyte. Fuck the Project - I won.
+LEO4_A       //  You made me. You put me in your own head for the sake of your pathetic career.
+LEO5_A       //  You turned yourself into a monster.
+LEO6_A       //  And you cut your wife's throat right in front of her baby boy.
+LEO7_A       //  I WON!
+WHYTE        //  There is a cell, hidden away in the darkest recesses of your mind. Lock Leo into this cell, and walk away from him forever.
+LINE0        //  Holy fuck - that ain`t supposed to happen.
+LINE1        //  We're back online - thank fuckin' god.
+LINE10       //  You want to get out of here?
+LINE11       //  Then come on.
+LINE2        //  Oh shit - look!
+LINE3        //  Get some help!
+LINE4        //  Isn't Dr Whyte down in the psycho section?
+LINE5        //  Danny! Stop!
+LINE6        //  Danny!
+LINE7        //  Shut up!
+LINE8        //  We did it.
+LINE9        //  Come on!
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  Keep moving, we haven't got much time. We have to get to the house.
+LINE1        //  Wait a minute...
+LINE2        //  I used to live around here.
+LINE3        //  Not any more, Danny. But there's something in that house we need.
+LINE4        //  Something you left for yourself.
+LINE5        //  We've got to be quick. This is the first place the Project will look for us!
+LINE6        //  How do you know all this?
+LINE7        //  Danny, listen.
+LINE8        //  It's a manhunt, and they won't stop until we're both dead!
+LINE9        //  Come on, let's go!
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  Go ahead...
+LINE1        //  Leo?~nl~That's right. But we don't have time to reminisce.
+LINE2        //  Getting out was just the beginning, Danny.
+LINE3        //  The Project can't let us live.
+LINE4        //  They can buy a private army if they want to, and they will.
+LINE5        //  Why did I leave myself these?
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+LINE0        //  Leo?
+LINE1        //  You can talk to Leo any time you want, Danny.
+LINE10       //  Our intention was to create the perfect weapon -
+LINE11       //  a killer with no conscience or memory.
+LINE12       //  Does he sound familiar, Danny?
+LINE13       //  Leo.
+LINE14       //  Two minds in one body, unaware of each other...
+LINE15       //  Wait, that's not right - Leo and I talk all the time...
+LINE16       //  The Bridge malfunctioned early on.
+LINE17       //  We were working to repair the damage when you - or Leo - decided to escape.
+LINE18       //  I see...
+LINE19       //  How do we fix this?
+LINE2        //  But first, let's you and I talk.
+LINE20       //  Pickman thought his mercenaries could destroy Leo. I believe the only person who can stop him is you.
+LINE3        //  What's going on?
+LINE4        //  Do you remember who you were, Danny?
+LINE5        //  No.
+LINE6        //  Do you remember the work we did?
+LINE7        //  No.
+LINE8        //  You believed we could take a normal individual,
+LINE9        //  and implant a second personality, triggered at will.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE13      //  -
+PAUSE14      //  -
+PAUSE15      //  -
+PAUSE16      //  -
+PAUSE17      //  -
+PAUSE18      //  -
+PAUSE19      //  -
+PAUSE2       //  -
+PAUSE20      //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  Daniel, you will not remember anything before this moment.
+LINE1        //  You will not remember us being here.
+LINE2        //  You will never speak to Leo again.
+LINE3        //  A little too effective, I feel.
+LINE4        //  Get him out of here.
+LINE5        //  Remove the cameras.
+LINE6        //  Torch the house.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+LINE0        //  You know this place. The Project recruited here.
+LINE1        //  They preyed on people, made them disappear.
+LINE10       //  Oh, shit.
+LINE11       //  I told you we shouldn't be here!
+LINE12       //  Are you trying to get us killed?
+LINE13       //  Well, it's too late to back out now.
+LINE14       //  Let's move.
+LINE2        //  We shouldn't be here.
+LINE3        //  I need to be here.
+LINE4        //  There's someone I need to speak to. I saved these matches for a reason...
+LINE5        //  This is not important. It's a distraction.
+LINE6        //  I want my past back. This is all I have to go on.
+LINE7        //  The past doesn't matter. Let it go!
+LINE8        //  I'm going to find a way in.
+LINE9        //  Who's down there?
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE13      //  -
+PAUSE14      //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  You shouldn't have come here, Danny.
+LINE1        //  You know my name?
+LINE10       //  Safe house? Where?
+LINE11       //  Above the cinema.
+LINE12       //  Don't come back here Danny. Please...just let it go.
+LINE13       //  She's setting us up, Danny.
+LINE2        //  They'll catch you, take you back.
+LINE3        //  Tell me what's going on.
+LINE4        //  It's The Project, Danny. They're everywhere.
+LINE5        //  What's going on? Leo -
+LINE6        //  Leo? You've spoken to Leo?
+LINE7        //  Without Leo, I wouldn't even be here.
+LINE8        //  Ok...you told me to give you this.
+LINE9        //  The old safe house.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE13      //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  No!
+LINE1        //  There's no time for this, move!
+LINE2        //  What's going on?
+LINE3        //  Bounty hunters. They're after us. There's a price on our head.
+LINE4        //  But... My hands...
+LINE5        //  What's done is done - come on!
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+LINE0        //  -
+LINE1        //  What are we doing here?
+LINE2        //  There's a warehouse nearby where the Project keeps its old records.
+LINE3        //  We're going to destroy our past.
+LINE4        //  You can't destroy the past, Leo.
+LINE5        //  Come on. We're going to need fuel.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+LINE0        //  What do you mean you've volunteered for an experiment?~nl~You can't play god with your own mind...
+LINE1        //  -
+LINE10       //  Son, we`re just arguing, we still love each other.~nl~You're asking too much of us, Danny, of yourself...
+LINE11       //  -
+LINE12       //  What does 'psycho' mean?~nl~It just means someone who thinks differently.
+LINE13       //  -
+LINE14       //  Can`t you see that you have to put your family first?~nl~I am putting them first.
+LINE15       //  -
+LINE16       //  If this all works out we`ll be providing for our great grandchildren.
+LINE17       //  Why can`t you support me here?!?
+LINE18       //  -It's the Project, Danny...~nl~His Conditioning has fractured...
+LINE19       //  -
+LINE2        //  We`ve tested it, it's safe, it's just the final part of the process.
+LINE20       //  Daddy, what's wrong?
+LINE21       //  You can wake up now...~nl~I said wake up!
+LINE22       //  -
+LINE23       //  Judy...~nl~I don't believe this shit...
+LINE24       //  -
+LINE25       //  Danny, this is crazy.
+LINE26       //  She's no use to us.
+LINE27       //  She knows more than she's saying. I've got to talk to her again.
+LINE3        //  You`re gambling with your life. What about me and the kids?
+LINE4        //  Look, if it's a success, we can clear all our debts and start a new life.
+LINE5        //  By turning yourself into a psycho? What are you thinking?
+LINE6        //  This is a real chance to change the course of medical history.
+LINE7        //  Stop fighting!
+LINE8        //  What`s wrong, mom?~nl~Come here, honey.
+LINE9        //  -
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE13      //  -
+PAUSE14      //  -
+PAUSE15      //  -
+PAUSE16      //  -
+PAUSE17      //  -
+PAUSE18      //  -
+PAUSE19      //  -
+PAUSE2       //  -
+PAUSE20      //  -
+PAUSE21      //  -
+PAUSE22      //  -
+PAUSE23      //  -
+PAUSE24      //  -
+PAUSE25      //  -
+PAUSE26      //  -
+PAUSE27      //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  There she is!
+LINE1        //  Stay away from me!
+LINE2        //  No! I need to talk to you!
+LINE3        //  I can't trust Leo.
+LINE4        //  Don't listen to her, Danny.
+LINE5        //  I've helped you all I can, Danny. Don't trust anybody, especially -
+LINE6        //  No!
+LINE7        //  It's the Project! Move!
+LINE8        //  It's okay, it's okay. I've got you!
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+LINE0        //  Keep it together, Danny.
+LINE1        //  I can't handle these blackouts...
+LINE2        //  It's all right - I'll take care of everything.
+LINE3        //  C'mon, let's get going.
+LINE4        //  Hello?
+LINE5        //  Where is that idiot of a man?
+LINE6        //  That's him, that's Pickman!
+LINE7        //  Pickman?
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+LINE0        //  Daniel?
+LINE1        //  Daniel, please untie me.
+LINE10       //  Shut up! Danny's gone!
+LINE11       //  Shut up? Or what, Leo?
+LINE12       //  What do you think?
+LINE13       //  If you kill me, Leo, you'll be lost forever.
+LINE14       //  Now let me speak to Daniel!
+LINE15       //  You're lying.
+LINE16       //  It only takes one phrase from me, Leo. Don't push me...
+LINE17       //  Or what?
+LINE18       //  What the hell are you going to do?~nl~-What seest thou else...
+LINE19       //  ...in the dark backward and abysm of time?
+LINE2        //  Danny isn't here.
+LINE20       //  Oh God.
+LINE21       //  Michael, is he ready to go?
+LINE22       //  Motor muscles at rest, pupillary dilatation complete.
+LINE23       //  Dr Whyte, pass me the sample container marked 'Leo'.
+LINE24       //  But we agreed to use the control personality, not Leo? Leo is a killer.
+LINE25       //  Yes! I know what Leo was. Now we've got one chance to make this work before they shut this project down.
+LINE26       //  OK Dr Pickman, he's ready to go
+LINE3        //  Leo?
+LINE4        //  Where's Daniel? I'd like to have a word with him.
+LINE5        //  This is about what I want.
+LINE6        //  I want you to remove the Pickman Bridge.
+LINE7        //  Think, Leo. If I take it out, what do you think will happen to you?
+LINE8        //  I'll be free!
+LINE9        //  No, you'll be dead. Now, let me speak to Daniel.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE13      //  -
+PAUSE14      //  -
+PAUSE15      //  -
+PAUSE16      //  -
+PAUSE17      //  -
+PAUSE18      //  -
+PAUSE19      //  -
+PAUSE2       //  -
+PAUSE20      //  -
+PAUSE21      //  -
+PAUSE22      //  -
+PAUSE23      //  -
+PAUSE24      //  -
+PAUSE25      //  -
+PAUSE26      //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  -
+LINE1        //  Lock down those buildings. Nobody gets in or out!
+LINE2        //  Need backup! If you got a visual, shoot to kill!
+LINE3        //  You were right, we got him!
+LINE4        //  See? You've just got to trust me, Danny.
+LINE5        //  I have a visual on the shooter.
+LINE6        //  Let's move out.
+LINE7        //  I can handle it, Leo.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+LINE0        //  -
+LINE1        //  I'm sorry Danny, but it's got to be this way.
+LINE2        //  The Pickman Bridge. Remove it. Get it out of my head so I can think straight!
+LINE3        //  If you thought I would do that, you're out of your fucking mind!
+LINE4        //  Michael? Where are we?
+LINE5        //  All units into position. Terminate both targets, repeat, both targets.
+LINE6        //  What?!
+LINE7        //  Not both targets! Not me, you fucking assholes!
+LINE8        //  They'll be here any minute, and Mike's still got the keys.
+LINE9        //  We're going to have to find him.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  I can`t do this. I can`t just dump Leo, Dr Whyte. He saved my life.
+LINE1        //  Your only way out of this, is to focus on the past.
+LINE10       //  This will help you understand why you must let go of Leo.
+LINE11       //  Jesus, Danny, you`re scaring me!
+LINE12       //  Danny? Let go of me, Danny!
+LINE13       //  Danny isn't here.
+LINE14       //  I'll be taking care of him from now on.
+LINE15       //  Oh God.
+LINE16       //  Oh God...Oh God.
+LINE17       //  Oh God...Oh God...Oh God.
+LINE18       //  Oh...God.
+LINE2        //  I still don`t understand. What is all this stuff?
+LINE3        //  Is this my house?
+LINE4        //  Yes it was torched. Pickman`s orders.
+LINE5        //  And those are my kids?
+LINE6        //  Yes and they are fine, by the way.
+LINE7        //  And my wife?
+LINE8        //  What?
+LINE9        //  Ah. This is going to be painful, Danny, but I think you should see for yourself.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE13      //  -
+PAUSE14      //  -
+PAUSE15      //  -
+PAUSE16      //  -
+PAUSE17      //  -
+PAUSE18      //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  My name is...
+LINE1        //  I don't know my name.
+LINE2        //  Your name is David Joiner.
+LINE3        //  You live downtown at the following address.
+LINE4        //  You'll find everything you need there.
+LINE5        //  Good luck.
+LINE6        //  526 Hope Street, Apartment B.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+LINE0        //  When I came to, Leo was dragging me out of the lab.
+LINE1        //  He said Pickman was dead.
+LINE10       //  No, no, you can't quit, Danny!
+LINE11       //  There's got to be something in these tapes I can use...
+LINE12       //  ...to help you.
+LINE13       //  -
+LINE14       //  Dr Whyte.
+LINE15       //  Who?
+LINE16       //  We're going to have to deal with her, Danny.
+LINE2        //  I knew I could never find the key to my past.
+LINE3        //  But Leo said there was another.
+LINE4        //  One last person we could get answers from.
+LINE5        //  We searched everywhere.
+LINE6        //  Days turned into weeks.
+LINE7        //  I was slowly becoming a ghost.
+LINE8        //  Fourteen... fifty-four... eleven...
+LINE9        //  ...Cerebral conditioning stable.~nl~-I've had enough.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE13      //  -
+PAUSE14      //  -
+PAUSE15      //  -
+PAUSE16      //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  Behind you!
+LINE1        //  Leo?
+LINE2        //  Leo?
+LINE3        //  LEO!
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE2       //  -
+PAUSE3       //  -
+LINE0        //  I can`t do this. I can`t just dump Leo, Dr Whyte. He saved my life.
+LINE1        //  Your only way out of this, is to focus on the past.
+LINE10       //  This will help you understand why you must let go of Leo.
+LINE11       //  Jesus, Danny, you`re scaring me!
+LINE12       //  Danny? Let go of me, Danny!
+LINE13       //  Danny isn't here.
+LINE14       //  I'll be taking care of him from now on.
+LINE15       //  Oh God.
+LINE16       //  Oh God...Oh God.
+LINE17       //  Oh God...Oh God...Oh God.
+LINE18       //  Oh...God.
+LINE2        //  I still don`t understand. What is all this stuff?
+LINE3        //  Is this my house?
+LINE4        //  Yes it was torched. Pickman`s orders.
+LINE5        //  And those are my kids?
+LINE6        //  Yes and they are fine, by the way.
+LINE7        //  And my wife?
+LINE8        //  What?
+LINE9        //  Ah. This is going to be painful, Danny, but I think you should see for yourself.
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE13      //  -
+PAUSE14      //  -
+PAUSE15      //  -
+PAUSE16      //  -
+PAUSE17      //  -
+PAUSE18      //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
+LINE0        //  Daniel.
+LINE1        //  You can wake up now, Daniel.
+LINE10       //  We're very keen to resume work on the Project.
+LINE11       //  Shall I gather the staff?
+LINE12       //  Yes, just give me a moment...
+LINE2        //  Dr. Lamb, can you hear me?
+LINE3        //  Dr. Lamb?
+LINE4        //  How do you feel?
+LINE5        //  I followed the protocols exactly as you left them.
+LINE6        //  How... How long was I out?
+LINE7        //  You've been out for three weeks now.
+LINE8        //  We... I took the decision to remove the Pickman Bridge.
+LINE9        //  It was the only way we could be sure...
+PAUSE0       //  -
+PAUSE1       //  -
+PAUSE10      //  -
+PAUSE11      //  -
+PAUSE12      //  -
+PAUSE2       //  -
+PAUSE3       //  -
+PAUSE4       //  -
+PAUSE5       //  -
+PAUSE6       //  -
+PAUSE7       //  -
+PAUSE8       //  -
+PAUSE9       //  -
