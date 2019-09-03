@@ -64,6 +64,8 @@ void GetNVidiaSettings()
         DefaultPathW += L"\\Grand Theft Auto EFLC"; ///???????????
     else if (isPCSX2)
         DefaultPathW += L"\\PCSX2";
+    //else if (true)
+    //    DefaultPathW += L"\\Manhunt";
 
     std::wstring temp;
     GetRegistryData(temp, HKEY_CURRENT_USER, L"Software\\NVIDIA Corporation\\Global\\ShadowPlay\\NVSPCAPS", L"ManualHKeyCount");
@@ -86,7 +88,8 @@ std::filesystem::path GetLatestFileName()
         if (p.path().extension() == ".mp4")
         {
             auto timestamp = std::filesystem::last_write_time(p);
-            if (timestamp > latest_tm) {
+            if (timestamp > latest_tm)
+            {
                 latest = p;
                 latest_tm = timestamp;
             }
@@ -120,7 +123,7 @@ void ToggleRecording()
     {
         keybd_event(var, 0x45, KEYEVENTF_EXTENDEDKEY | 0, 0);
     }
-    
+
     for each (auto var in Keys)
     {
         keybd_event(var, 0x45, KEYEVENTF_EXTENDEDKEY | KEYEVENTF_KEYUP, 0);
@@ -306,6 +309,18 @@ void Init()
                     {
 
                     }
+                    else
+                    {
+                        if (true) //mh
+                        {
+                            m_Message = (char*)0x7213B0;
+                            bDisplayHud = (uint8_t*)0x7CF0A0;
+                            bDisplayRadar = (uint8_t*)0x7CF0A0;
+
+                            void InitMH();
+                            InitMH();
+                        }
+                    }
                 }
             }
         }
@@ -390,19 +405,19 @@ extern "C" __declspec(dllexport) void InitializeASI()
 {
     static std::once_flag flag;
     std::call_once(flag, []()
+    {
+        if (GetExeModuleName<std::string>() == "pcsx2.exe")
+            isPCSX2 = true;
+
+        Init();
+
+        if (isPCSX2)
         {
-            if (GetExeModuleName<std::string>() == "pcsx2.exe")
-                isPCSX2 = true;
-
-            Init();
-
-            if (isPCSX2)
-            {
-                extern void InitPCSX2();
-                std::thread t(InitPCSX2);
-                t.detach();
-            }
-        });
+            extern void InitPCSX2();
+            std::thread t(InitPCSX2);
+            t.detach();
+        }
+    });
 }
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD reason, LPVOID lpReserved)
@@ -424,7 +439,7 @@ uint32_t ParseText(std::map<std::string, std::string>& m, std::wstring fileName)
         std::string line;
         while (getline(textFile, line))
         {
-            auto delimiter = std::string("// ");
+            auto delimiter = std::string("//  ");
             auto delimiterPos = line.find(delimiter);
 
             if (line[0] == '#' || line.empty() || delimiterPos == std::string::npos)
@@ -432,8 +447,8 @@ uint32_t ParseText(std::map<std::string, std::string>& m, std::wstring fileName)
 
             auto name = line.substr(0, min(min(delimiterPos, line.find("\t")), line.find(" ")));
             auto value = line.substr(delimiterPos + delimiter.length());
-            m.emplace(value, name);
-            std::cout << name << " " << value << '\n';
+            m.emplace(value.substr(0, 50), name);
+            //std::cout << name << " " << value << '\n';
         }
     }
     else
@@ -462,17 +477,31 @@ void RenameFiles(std::map<std::string, std::string>& m, std::wstring folderName)
             //    line.erase(std::remove_if(line.begin(), line.end(), [](char c) { return c == '\''; }), line.end());
 
             auto name = line.substr(0, min(delimiterPos, line.find("\t")));
-            auto value = line.substr(delimiterPos + delimiter.length());
+            auto value = line.substr(delimiterPos + delimiter.length()).substr(0, 50);
 
-            if (name.front() == '"') {
+            if (name.front() == '"')
+            {
                 name.erase(0, 1);
                 name.erase(name.size() - 2);
             }
 
-            if (m.find(value) == m.end() || name == "")
+            if (/*m.find(value) == m.end() || */name == "")
                 continue;
 
-            auto gxt = m.at(value);
+            //auto gxt = m.at(value);
+            auto gxt = std::string();
+            for each (auto var in m)
+            {
+                if (var.first.substr(0, value.size()) == value)
+                {
+                    gxt = m.at(var.first);
+                    break;
+                }
+            }
+
+            if (gxt.empty())
+                continue;
+
             std::filesystem::path p = DefaultPathW + folderName + L"\\";
             auto oldName = p / name;
             auto newName = p / (gxt); newName += ".mp4";
@@ -504,14 +533,20 @@ int main()
     //if (ParseText(text, L"\\GTAVC.text"))
     //    RenameFiles(text, L"\\Grand Theft Auto Vice City");
 
-    if (ParseText(text, L"\\GTAIII.text"))
-        RenameFiles(text, L"\\Grand Theft Auto 3");
+    //if (ParseText(text, L"\\GTAIII.text"))
+    //    RenameFiles(text, L"\\Grand Theft Auto 3");
 
     //if (ParseText(text, L"\\GTALCS.text"))
     //    RenameFiles(text, L"\\PCSX2");
 
     //if (ParseText(text, L"\\GTAVCS.text"))
     //    RenameFiles(text, L"\\PCSX2");
+
+    if (ParseText(text, L"\\text\\TLAD.text"))
+        RenameFiles(text, L"\\Grand Theft Auto 4");
+
+    if (ParseText(text, L"\\text\\GTAIV.text"))
+        RenameFiles(text, L"\\Grand Theft Auto 4");
 
     return 0;
 }

@@ -21,6 +21,7 @@ workspace "GTA-One-Liners-Recorder"
    files { "source/dllmain.cpp" }
    files { "source/stories.cpp" }
    files { "source/episodes.cpp" }
+   files { "source/meowhunt.cpp" }
    files { "external/hooking/Hooking.Patterns.h", "external/hooking/Hooking.Patterns.cpp" }
    
    characterset ("Unicode")

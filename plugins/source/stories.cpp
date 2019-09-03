@@ -29,7 +29,7 @@ extern uint8_t* bDisplayRadar;
 extern void ToggleRecording();
 extern std::filesystem::path GetLatestFileName();
 
-wchar_t lastMsg[400];
+wchar_t lastMsg[4000];
 
 void LogRecordingW2()
 {
