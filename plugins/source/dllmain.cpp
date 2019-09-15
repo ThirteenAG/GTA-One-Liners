@@ -512,7 +512,7 @@ void RenameFiles(std::map<std::string, std::string>& m, std::wstring folderName)
             if (std::filesystem::exists(oldName))
                 std::filesystem::rename(oldName, newName);
 
-            std::cout << oldName.filename() << " renamed to" << newName.filename() << '\n';
+            //std::cout << oldName.filename() << " renamed to" << newName.filename() << '\n';
         }
     }
     else
@@ -542,11 +542,17 @@ int main()
     //if (ParseText(text, L"\\GTAVCS.text"))
     //    RenameFiles(text, L"\\PCSX2");
 
-    if (ParseText(text, L"\\text\\TLAD.text"))
+    //if (ParseText(text, L"\\text\\TLAD.text"))
+    //    RenameFiles(text, L"\\Grand Theft Auto 4");
+
+    if (ParseText(text, L"\\text\\TBOGT.text"))
         RenameFiles(text, L"\\Grand Theft Auto 4");
 
     if (ParseText(text, L"\\text\\GTAIV.text"))
         RenameFiles(text, L"\\Grand Theft Auto 4");
+
+    //if (ParseText(text, L"\\text\\GTAV.text"))
+    //    RenameFiles(text, L"\\Grand Theft Auto V");
 
     return 0;
 }

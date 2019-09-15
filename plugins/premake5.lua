@@ -70,3 +70,31 @@ project "GTA-One-Liners-Renamer"
    kind "ConsoleApp"
    targetextension ".exe"
    targetdir ("data")
+   
+   
+workspace "GTA-One-Liners-x64"
+   configurations { "Release", "Debug" }
+   architecture "x64"
+   location "build"
+   buildoptions {"-std:c++latest"}
+   kind "SharedLib"
+   language "C++"
+   targetextension ".asi"
+   characterset ("Unicode")
+   
+   defines { "rsc_CompanyName=\"ThirteenAG\"" }
+   defines { "rsc_LegalCopyright=\"MIT License\""} 
+   defines { "rsc_FileVersion=\"1.0.0.0\"", "rsc_ProductVersion=\"1.0.0.0\"" }
+   defines { "rsc_InternalName=\"%{prj.name}\"", "rsc_ProductName=\"%{prj.name}\"", "rsc_OriginalFilename=\"%{prj.name}.dll\"" }
+   defines { "rsc_FileDescription=\"GTA-One-Liners-Recorder\"" }
+   defines { "rsc_UpdateUrl=\"https://github.com/ThirteenAG/GTA-One-Liners/\"" }
+   
+   includedirs { "source" }
+   includedirs { "external/injector/include" }
+   includedirs { "external/hooking" }
+   files { "source/resources/Versioninfo.rc" }
+   files { "source/v.cpp" }
+   files { "external/hooking/Hooking.Patterns.h", "external/hooking/Hooking.Patterns.cpp" }
+   
+project "GTA-One-Liners-Recorder-V"
+   setpaths("X:/Games/Grand Theft Auto V/", "GTAVLauncher.exe")
