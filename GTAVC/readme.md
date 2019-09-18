@@ -380,6 +380,7 @@
 | COL5B_7  | https://i.imgur.com/WkrNwl9.gif | Gracias, amigo. Hasta luego.                                                                     |
 | COL5B_8  | https://i.imgur.com/U8RSLLw.gif | Adios, amigo.                                                                                    |
 | COL5_2   | https://i.imgur.com/wfVUibp.gif | They're attacking from starboard!                                                                |
+| COL5_17  | https://i.imgur.com/uPFN1Jf.gif | Oh my god they've got a helicopter!                                                              |
 
 ## BARON1 (The Chase)
 
