@@ -5908,3 +5908,371 @@
 | MCAT06G  | https://i.imgur.com/Ars1slj.gif | So sorry, it is such an easy mistake to make,                                                                                          |
 | MWUZ00C  | https://i.imgur.com/YEF9vry.gif | Hey, if you got some time I'd like for you to come over so we can talk about something.                                                |
 | MJET_3E  | https://i.imgur.com/oyZjVJU.gif | Now there's a showroom round the block that's come up for sale                                                                         |
+
+## ITRD (The Introduction)
+
+| GXT NAME | GIF LINK                        | SUBTITLE                                                                    |
+| -------- | ------------------------------- | --------------------------------------------------------------------------- |
+| ITRD_50  | https://i.imgur.com/31K9W3k.gif | Tell me! You better tell me what I want to know.                            |
+| ITRD_295 | https://i.imgur.com/QNpT20S.gif | - I mean, it's difficult out there. - Domestic violence?                    |
+| ITRD_356 | https://i.imgur.com/Gx0WmAI.gif | - Oh Mama! Mama! - No! No! No!                                              |
+| ITRD_103 | https://i.imgur.com/lizzJt0.gif | But I'm a gangster rapper! It's my calling, homie!                          |
+| ITRD_2   | https://i.imgur.com/N49sGOk.gif | Yeah, always do, once they understand the choices we're offering.           |
+| ITRD_218 | https://i.imgur.com/OjXCVtX.gif | Oh! Oh really? You told him I called?                                       |
+| ITRD_232 | https://i.imgur.com/vJo7ekQ.gif | A bit of emotion never hurt no one. Er, great.                              |
+| ITRD_181 | https://i.imgur.com/pQ21PJg.gif | Coke is for the weak. Coke is for the weak.                                 |
+| ITRD_204 | https://i.imgur.com/GJc126Y.gif | You about to wake up with your head 50 feet away                            |
+| ITRD_226 | https://i.imgur.com/YsskFVK.gif | You're like a race horse or a great little sloshpot.                        |
+| ITRD_221 | https://i.imgur.com/3gVnXu3.gif | Hello? Hello? Damn it!                                                      |
+| ITRD_92  | https://i.imgur.com/yiuqodk.gif | - Like Sweet or Big Smoke. - Jeffrey, you ain't no gangster.                |
+| ITRD_127 | https://i.imgur.com/KSbSrB5.gif | but my brother used to make my life miserable.                              |
+| ITRD_125 | https://i.imgur.com/qaeQkH9.gif | Joey. Hey, wassup, man? It's CJ.                                            |
+| ITRD_122 | https://i.imgur.com/K4pByDM.gif | Damn. Shit!                                                                 |
+| ITRD_321 | https://i.imgur.com/EUosnYa.gif | So this is the way it is. You're sitting here already,                      |
+| ITRD_108 | https://i.imgur.com/hCx8XMl.gif | - that guys like us will ever see. - I got all the shit I need.             |
+| ITRD_12  | https://i.imgur.com/Z06pj64.gif | Hey Frank, how about passing me a smoke?                                    |
+| ITRD_287 | https://i.imgur.com/CfVWbL5.gif | You got this young kid, okay?                                               |
+| ITRD_242 | https://i.imgur.com/oCcA0Vc.gif | - Here, man. Here, man, take it. - Yeah.                                    |
+| ITRD_106 | https://i.imgur.com/refZFMo.gif | - Forget y'all! - This ain't a playground craze, man.                       |
+| ITRD_182 | https://i.imgur.com/kr5QGh1.gif | I am strong. I am strong!                                                   |
+| ITRD_216 | https://i.imgur.com/8Hrxww9.gif | Ken Rosenberg. You haven't heard of me? Who are you?                        |
+| ITRD_104 | https://i.imgur.com/dHuNmYi.gif | Look man, do whatever you want, but get the fuck outta here.                |
+| ITRD_51  | https://i.imgur.com/usSDBUZ.gif | Hey Mendez! Come on, enough.                                                |
+| ITRD_41  | https://i.imgur.com/CJojsUr.gif | Ain't nothing to feel bad about.                                            |
+| ITRD_271 | https://i.imgur.com/4LCiMum.gif | So, we got a vacancy. We kept our end of the bargain.                       |
+| ITRD_44  | https://i.imgur.com/CjQhegM.gif | You don't want a bullet in the brain, but if you can make it work           |
+| ITRD_332 | https://i.imgur.com/uYI65Lz.gif | I'm the job! Me and my money.                                               |
+| ITRD_40  | https://i.imgur.com/MLSkw2J.gif | Now, the way I see it is that we don't have a choice.                       |
+| ITRD_190 | https://i.imgur.com/DIEKBAE.gif | I'm cleaner than a new toilet seat.                                         |
+| ITRD_139 | https://i.imgur.com/oIGCPT6.gif | That's impossible. That's been impossible                                   |
+| ITRD_131 | https://i.imgur.com/6Vnack6.gif | No, no. I gotta get this thing off the street, man.                         |
+| ITRD_162 | https://i.imgur.com/YcGqehO.gif | Your father? He ain't fit to wipe my ass.                                   |
+| ITRD_290 | https://i.imgur.com/ro5aIvg.gif | No man hits a woman. Well, it turns out this woman                          |
+| ITRD_329 | https://i.imgur.com/GoSxYaq.gif | I've got a good mind to end this here and now, you Judas, you rat!          |
+| ITRD_133 | https://i.imgur.com/ibbGMT7.gif | All right, cool. Later.                                                     |
+| ITRD_97  | https://i.imgur.com/MU8sIVh.gif | You know what? I'm gonna prove to y'all how real I am.                      |
+| ITRD_205 | https://i.imgur.com/wtBqECy.gif | from your body, son. Do what we agreed.                                     |
+| ITRD_142 | https://i.imgur.com/6hzbFlk.gif | The personal stuff is nonsense.                                             |
+| ITRD_62  | https://i.imgur.com/waD9fDv.gif | Well, I'm sorry it seems that way to you.                                   |
+| ITRD_129 | https://i.imgur.com/ZZMVoVF.gif | Anyway, I got that thing you wanted.                                        |
+| ITRD_141 | https://i.imgur.com/VMtRdsu.gif | Hey, you know me. Business is business.                                     |
+| ITRD_288 | https://i.imgur.com/SNgQnuu.gif | Can't be more than 20 years old,                                            |
+| ITRD_293 | https://i.imgur.com/dnhS4p1.gif | I could take this guy in, and leave a little kid with a drug-addict mother, |
+| ITRD_166 | https://i.imgur.com/9WKg41G.gif | Me? I'm just an old fool.                                                   |
+| ITRD_89  | https://i.imgur.com/SyY2wRp.gif | Man, who ever heard of a gangster rapper called Jeffrey, man?               |
+| ITRD_90  | https://i.imgur.com/j1j0ZcF.gif | Hey Jeffrey, man, you're messing up the game, man!                          |
+| ITRD_24  | https://i.imgur.com/yE1Xlke.gif | - we blast 'em. - For sure.                                                 |
+| ITRD_126 | https://i.imgur.com/G08ZGEX.gif | Yeah. I hear you. I never knew my dad,                                      |
+| ITRD_110 | https://i.imgur.com/5U0ek1e.gif | not destroying the family, man. This Grove Street, nigga.                   |
+| ITRD_91  | https://i.imgur.com/8aZbWqv.gif | O.G. Loc! Now that's a gangster name, man.                                  |
+| ITRD_76  | https://i.imgur.com/GGLiXjp.gif | My connections in Panama can get us all the product we need, untouched!     |
+| ITRD_49  | https://i.imgur.com/BddNjxL.gif | You gonna tell me right now, homie.                                         |
+| ITRD_362 | https://i.imgur.com/KffvXOM.gif | I think you better come home.                                               |
+| ITRD_227 | https://i.imgur.com/rrFcsjr.gif | Guaranteed banker. This time, my son, this time!                            |
+| ITRD_175 | https://i.imgur.com/A3LNH4L.gif | We can't do that, Mr. Leone. We got our guy in there already.               |
+| ITRD_319 | https://i.imgur.com/q2JNzr8.gif | Are you enjoying yourself, huh?                                             |
+| ITRD_222 | https://i.imgur.com/M7qOjYZ.gif | I got the signature! I am now the proud                                     |
+| ITRD_323 | https://i.imgur.com/ettdccs.gif | and you not doing a thing about it? Huh?                                    |
+| ITRD_243 | https://i.imgur.com/Y2TQlij.gif | Come on, man, just don't shoot me.                                          |
+| ITRD_193 | https://i.imgur.com/VC8pAWU.gif | I could use a ride.                                                         |
+| ITRD_107 | https://i.imgur.com/AGouwIW.gif | This is the biggest moneymaking opportunity                                 |
+| ITRD_320 | https://i.imgur.com/00FnRsa.gif | N-no! I just-- you know, just getting a feel for the place.                 |
+| ITRD_294 | https://i.imgur.com/LhvkdNG.gif | or I let a guy off with beating up his wife.                                |
+| ITRD_326 | https://i.imgur.com/WVH36yI.gif | - Yeah, he came by-- - You spoke with him, huh?                             |
+| ITRD_225 | https://i.imgur.com/pBVN3Dr.gif | 50 grand it cost to me to buy you out of your contract.                     |
+| ITRD_68  | https://i.imgur.com/ge7OLYK.gif | It's vital that it goes ahead. History will understand.                     |
+| ITRD_120 | https://i.imgur.com/1j3o3J5.gif | CJ running 'round like a fool on the East Coast.                            |
+| ITRD_337 | https://i.imgur.com/b5cgo5b.gif | Yes! Yes! Understood! Understood.                                           |
+| ITRD_355 | https://i.imgur.com/OfIipjk.gif | No! Oh shit! Hell!                                                          |
+| ITRD_334 | https://i.imgur.com/qr1UJuh.gif | Johnny fucking Sindacco even so much as blinks at you,                      |
+| ITRD_42  | https://i.imgur.com/wPuQLEh.gif | You put a gun to a brother's head, brother's gonna do what he's told,       |
+| ITRD_215 | https://i.imgur.com/RhPfkht.gif | Tell him Ken Rosenberg called.                                              |
+| ITRD_80  | https://i.imgur.com/t9JkzQt.gif | I'm gonna get this piece of shit outta here.                                |
+| ITRD_123 | https://i.imgur.com/LdF364i.gif | - Oh! - Get out of the car!                                                 |
+| ITRD_291 | https://i.imgur.com/BgsxG3l.gif | spends all day freebasing and nearly let their kid starve to death.         |
+| ITRD_237 | https://i.imgur.com/qj6mDEJ.gif | - You got any B, Pablo? - No!                                               |
+| ITRD_289 | https://i.imgur.com/FFODKM8.gif | beating up his wife. So I figure, easy, right?                              |
+| ITRD_324 | https://i.imgur.com/Bl1OPxr.gif | No, not at all. I spoke with Johnny.                                        |
+| ITRD_244 | https://i.imgur.com/Yh9TCn9.gif | Punk ass motherfucker!                                                      |
+| ITRD_234 | https://i.imgur.com/2YbyFNW.gif | Wow! These doves are blinding.                                              |
+| ITRD_220 | https://i.imgur.com/6ca75kP.gif | Just put him on the phone right now!                                        |
+| ITRD_112 | https://i.imgur.com/qezJ8Xe.gif | - you heard from CJ lately? - We ain't speaking.                            |
+| ITRD_254 | https://i.imgur.com/NilRyqL.gif | Nah, he was kosher. A little too kosher.                                    |
+| ITRD_34  | https://i.imgur.com/QS4Ixeu.gif | I need to be in charge of my destiny, homie.                                |
+| ITRD_185 | https://i.imgur.com/8kHWPbT.gif | I am in control of my own destiny!                                          |
+| ITRD_83  | https://i.imgur.com/58vmYdO.gif | - Shit! - Hey, fool, we losing the streets, man.                            |
+| ITRD_79  | https://i.imgur.com/uWNhoTJ.gif | - and get on it, all right? Huh? - Man, fuck it, man.                       |
+| ITRD_180 | https://i.imgur.com/dg5wIYL.gif | I don't need a bump.                                                        |
+| ITRD_77  | https://i.imgur.com/vjOzIY9.gif | But you've got to arrange the market.                                       |
+| ITRD_269 | https://i.imgur.com/g9LeaMq.gif | - Can you believe that shit? - Oh Mother of Christ Almighty,                |
+| ITRD_130 | https://i.imgur.com/OuQCuu0.gif | Want me to shoot it by the garage?                                          |
+| ITRD_47  | https://i.imgur.com/k9PyRWp.gif | It's gonna take more than a bullet in the head to stop me.                  |
+| ITRD_96  | https://i.imgur.com/FwoF46M.gif | Okay, cool! Now kick rocks, you messin' up my game.                         |
+| ITRD_246 | https://i.imgur.com/s92FtrQ.gif | She's a ballbuster. Ever since we moved to Venturas,                        |
+| ITRD_95  | https://i.imgur.com/cKLq0gn.gif | Man, I'm for real, homie. For real!                                         |
+| ITRD_183 | https://i.imgur.com/mrYh3tH.gif | Winners win and losers hit the rails                                        |
+| ITRD_236 | https://i.imgur.com/OGfD0vy.gif | 19. Come on! Give it some!                                                  |
+| ITRD_100 | https://i.imgur.com/crpxA4C.gif | we messed our lives up. We fucked up in the game, man.                      |
+| ITRD_18  | https://i.imgur.com/NWtmD4Q.gif | - Man, whatever! - Man, you sure about this thing?                          |
+| ITRD_228 | https://i.imgur.com/rQPZ9UY.gif | Fucking great, kiddo. Bowing in!                                            |
+| ITRD_132 | https://i.imgur.com/YxgHq0B.gif | It's way hot.                                                               |
+| ITRD_335 | https://i.imgur.com/AaRPevc.gif | I want to hear about it. You find a way                                     |
+| ITRD_101 | https://i.imgur.com/OoasiJO.gif | We products of the environment. Don't be a idiot, man.                      |
+| ITRD_33  | https://i.imgur.com/0duZV7z.gif | The way I see it, man,                                                      |
+| ITRD_177 | https://i.imgur.com/6YtSrWm.gif | you want my organization's involvement.                                     |
+| ITRD_223 | https://i.imgur.com/H15f0iZ.gif | and legal manager of The Gurning Chimps.                                    |
+| ITRD_325 | https://i.imgur.com/KMoQWqs.gif | - He explained everything. - Oh, you spoke with Johnny?                     |
+| ITRD_267 | https://i.imgur.com/sSNyJkt.gif | Hey, you hear about Bobby back east?                                        |
+| ITRD_121 | https://i.imgur.com/LInATdd.gif | He can rot in hell for all I give a fuck.                                   |
+| ITRD_111 | https://i.imgur.com/RFNpyJk.gif | - Roll the dice! - Talking of holding families together,                    |
+| ITRD_275 | https://i.imgur.com/6RwnWhY.gif | There's this lawyer, used to work for the Forellis down in Florida.         |
+| ITRD_250 | https://i.imgur.com/xvE55Jh.gif | - with this guy, will you? - Yeah.                                          |
+| ITRD_168 | https://i.imgur.com/aE6wqCz.gif | Actually, less than nothing.                                                |
+| ITRD_333 | https://i.imgur.com/U1vTFqO.gif | And I want it back, and I want it back fast.                                |
+| ITRD_118 | https://i.imgur.com/YPuazDF.gif | - old perpetratin' ass bitch. - You real gangsta, man,                      |
+| ITRD_64  | https://i.imgur.com/uHKc6iR.gif | - It's unconventional, yes. - Come on. Get off me, man.                     |
+| ITRD_161 | https://i.imgur.com/hRdi3gi.gif | You show me no respect. You insult my family.                               |
+| ITRD_98  | https://i.imgur.com/tu0XF0D.gif | - Watch me! - Jeffrey, go to college, man!                                  |
+| ITRD_327 | https://i.imgur.com/1nVltWG.gif | - Yeah! - Did you suck him off as well,                                     |
+| ITRD_86  | https://i.imgur.com/Y9nuxZa.gif | Every day, ballers get stronger, and you and I get weaker.                  |
+| ITRD_81  | https://i.imgur.com/yeZHj4j.gif | You weigh a lot for a fucking dead body, man.                               |
+| ITRD_43  | https://i.imgur.com/GlM2Slv.gif | no matter if he's a fool or a wise man.                                     |
+| ITRD_39  | https://i.imgur.com/tPYXLK3.gif | Yeah, yeah, it's cool.                                                      |
+| ITRD_105 | https://i.imgur.com/Kiu4tR7.gif | No, man, go be a gangster someplace else, baby.                             |
+| ITRD_87  | https://i.imgur.com/Mcu7MkA.gif | - You and I get poorer, man! - Man, that shit'll blow over.                 |
+| ITRD_72  | https://i.imgur.com/9uqehnb.gif | Now look, I gotta go. I gotta go.                                           |
+| ITRD_157 | https://i.imgur.com/z0GIbhU.gif | Sit down or I'll slit your throat myself!                                   |
+| ITRD_25  | https://i.imgur.com/7REBazg.gif | Man, Grove Street ain't even no real gang no more, homie.                   |
+| ITRD_113 | https://i.imgur.com/bw1SeaY.gif | He got his own life. More than he deserves.                                 |
+| ITRD_102 | https://i.imgur.com/mnzAFZ9.gif | Make us proud. Do shit different, baby.                                     |
+| ITRD_73  | https://i.imgur.com/4P6iMax.gif | Mendez!                                                                     |
+| ITRD_93  | https://i.imgur.com/kCpDup7.gif | Man, you ain't never put in no work for the set.                            |
+| ITRD_153 | https://i.imgur.com/AyeF5Cz.gif | Are you calling my mother an idiot who goes with morons?                    |
+| ITRD_1   | https://i.imgur.com/PAwMRR3.gif | I knew that fat fuck would see it our way.                                  |
+| ITRD_196 | https://i.imgur.com/Aqk9sEX.gif | about your principles, I don't give a fuck about your friends.              |
+| ITRD_186 | https://i.imgur.com/rWTQOcR.gif | I need a job.                                                               |
+| ITRD_238 | https://i.imgur.com/ow4Ib0Y.gif | 50 grand for this northern prick.                                           |
+| ITRD_94  | https://i.imgur.com/9xx9T2F.gif | You a friend, but you ain't no gangster.                                    |
+| ITRD_19  | https://i.imgur.com/NcRKX7m.gif | Man, I'm telling you, dude, Grove Street's gone to shit, man.               |
+| ITRD_55  | https://i.imgur.com/sy87BHG.gif | - He ain't going to talk now. - So what do we do now, homes?                |
+| ITRD_176 | https://i.imgur.com/1l8msNY.gif | Get rid of him. Show me exactly how much                                    |
+| ITRD_257 | https://i.imgur.com/OQGdgzy.gif | so we gotta get a new guy in. You know,                                     |
+| ITRD_99  | https://i.imgur.com/vgec0Bh.gif | Make something of yourself. Me and the fat man,                             |
+| ITRD_194 | https://i.imgur.com/ACq6fQp.gif | Ah, this sucks.                                                             |
+| ITRD_119 | https://i.imgur.com/pIGr2Nj.gif | but you gotta lighten up. See, CJ, he's--                                   |
+| ITRD_3   | https://i.imgur.com/aGTjzzw.gif | Say, Frank, what the hell are we gonna do                                   |
+| ITRD_154 | https://i.imgur.com/eHKkk4M.gif | No, of course not, Mr. Leone. I'm only making an offer.                     |
+| ITRD_189 | https://i.imgur.com/VpGvKyq.gif | I've done it. I'm clean!                                                    |
+| ITRD_353 | https://i.imgur.com/TmuyXX1.gif | Then be a fucking man. You cap him, or I cap you.                           |
+| ITRD_57  | https://i.imgur.com/WnDKRYD.gif | Por cuanto, homes? How much?                                                |
+| ITRD_109 | https://i.imgur.com/Qumq0z9.gif | Man, I thought we was in this for the hood,                                 |
+| ITRD_240 | https://i.imgur.com/9Yc0NcI.gif | I can't fucking wait!                                                       |
+| ITRD_255 | https://i.imgur.com/EYUf82e.gif | - That's why he had to go. - Oh, I get it.                                  |
+| ITRD_343 | https://i.imgur.com/GwNUiMp.gif | - Who you gonna tell now? - Eddie, chill out, man.                          |
+| ITRD_159 | https://i.imgur.com/6mlO9O4.gif | Ever since Sonny Forelli got himself pasted all over Florida,               |
+| ITRD_45  | https://i.imgur.com/CqJuE8w.gif | and make some benjamins while you at it,                                    |
+| ITRD_312 | https://i.imgur.com/luMtXJz.gif | 'Cause this is a game of percentages, 24/7, 365. We're just trying          |
+| ITRD_253 | https://i.imgur.com/zOTUUye.gif | Oh man. What, he was on the take?                                           |
+| ITRD_56  | https://i.imgur.com/GiuMzI3.gif | I think I got us a buyer down in Los Santos.                                |
+| ITRD_230 | https://i.imgur.com/ARNt3fG.gif | I love you, lad. I love you.                                                |
+| ITRD_276 | https://i.imgur.com/Xjk6sIS.gif | I heard he's sniffing around for a job.                                     |
+| ITRD_134 | https://i.imgur.com/AM6YLTY.gif | So, Johnny,                                                                 |
+| ITRD_248 | https://i.imgur.com/d5j3RUC.gif | For Chrissakes, I got better luck on the tables.                            |
+| ITRD_296 | https://i.imgur.com/nLgrtwP.gif | Yeah, yeah. Serious stuff, man.                                             |
+| ITRD_36  | https://i.imgur.com/MliPHmj.gif | You know I got your back, right, homie?                                     |
+| ITRD_28  | https://i.imgur.com/kLdktxl.gif | Even O.G.s want a slice of this...                                          |
+| ITRD_239 | https://i.imgur.com/RUPHMun.gif | America! America!                                                           |
+| ITRD_358 | https://i.imgur.com/Xc8QNaB.gif | - Mama! - No!                                                               |
+| ITRD_145 | https://i.imgur.com/f4AWXKT.gif | - seeing a way past this? - No, I was saying I'd like to,                   |
+| ITRD_270 | https://i.imgur.com/mqtDQ7a.gif | - I've seen everything! - Minchia!                                          |
+| ITRD_247 | https://i.imgur.com/jj7alFD.gif | all she wants to do-- spend, spend, spend.                                  |
+| ITRD_256 | https://i.imgur.com/qGyBT1X.gif | Yeah, he was declaring too much money,                                      |
+| ITRD_224 | https://i.imgur.com/lFzR8VH.gif | You're mine, Maccer, son. You're mine.                                      |
+| ITRD_361 | https://i.imgur.com/fF6STfy.gif | Okay. What you want?                                                        |
+| ITRD_280 | https://i.imgur.com/lEAYGnv.gif | don't fuck this up, kid.                                                    |
+| ITRD_202 | https://i.imgur.com/wLzKIGQ.gif | - Eddie, organize a hit squad. - Not a problem.                             |
+| ITRD_235 | https://i.imgur.com/HV6jv16.gif | - I'm rushing me cock off! - How many have you done, then?                  |
+| ITRD_336 | https://i.imgur.com/o3kO8D1.gif | to get me my money and fast. Understood?                                    |
+| ITRD_178 | https://i.imgur.com/ObS0AnD.gif | I don't need a bump.                                                        |
+| ITRD_69  | https://i.imgur.com/wFm27id.gif | I've done a lot of work, they trust me now.                                 |
+| ITRD_231 | https://i.imgur.com/tXz81HT.gif | - I've never felt like this before. - Fantastic, son.                       |
+| ITRD_192 | https://i.imgur.com/trVt2FM.gif | Ha! Ha!                                                                     |
+| ITRD_264 | https://i.imgur.com/e3PeKZB.gif | So, Mickey gets capped, so we get a new guy in,                             |
+| ITRD_116 | https://i.imgur.com/0V4NSbA.gif | when he should have been dead. Man, I lost two brothers, man.               |
+| ITRD_48  | https://i.imgur.com/pZmeJtl.gif | I don't doubt that, homie.                                                  |
+| ITRD_6   | https://i.imgur.com/gFBy6TD.gif | He's either gonna play our way, or he's gonna have a problem                |
+| ITRD_82  | https://i.imgur.com/2oxSPCQ.gif | - Baby needs diapers! - Oh!                                                 |
+| ITRD_313 | https://i.imgur.com/nhIMVAn.gif | - to screw as many bad guys we can. - Yeah, I know.                         |
+| ITRD_346 | https://i.imgur.com/ydzG4U8.gif | - finish him off. - Come on. Please.                                        |
+| ITRD_344 | https://i.imgur.com/H9zStys.gif | - The prick's still breathing. - That's good.                               |
+| ITRD_359 | https://i.imgur.com/a9PeRl1.gif | - Damn! Damn. - No!                                                         |
+| ITRD_65  | https://i.imgur.com/9hA7Izb.gif | Well, when did your methods ever get results? When?                         |
+| ITRD_37  | https://i.imgur.com/dGAC8hV.gif | Cool.                                                                       |
+| ITRD_272 | https://i.imgur.com/VIPghOe.gif | Then I guess we're on. You want something to drink?                         |
+| ITRD_75  | https://i.imgur.com/5h3cDyv.gif | We're not thinking big enough here, okay?                                   |
+| ITRD_263 | https://i.imgur.com/Uqyygnz.gif | Buonanotte, dirtball.                                                       |
+| ITRD_349 | https://i.imgur.com/5RONSbG.gif | - He's a fucking cop, you maniac. - Not no more he ain't.                   |
+| ITRD_124 | https://i.imgur.com/CfhSNTs.gif | - What the-- - Out! Now!                                                    |
+| ITRD_360 | https://i.imgur.com/6yd8tht.gif | CJ, it's your brother.                                                      |
+| ITRD_17  | https://i.imgur.com/XXSqqLY.gif | That ain't cess, homie. That's that hydro.                                  |
+| ITRD_5   | https://i.imgur.com/dflWk7S.gif | Exactly the same thing as last time.                                        |
+| ITRD_357 | https://i.imgur.com/t6an4yi.gif | Come on, girl!                                                              |
+| ITRD_354 | https://i.imgur.com/yRaGO5b.gif | Come on, do it! Pull the trigger!                                           |
+| ITRD_330 | https://i.imgur.com/vBDB6CN.gif | Come on, sir! I thought that was the job.                                   |
+| ITRD_66  | https://i.imgur.com/9rUdBub.gif | Hey, I know people who are dead because of you,                             |
+| ITRD_292 | https://i.imgur.com/0QxXq1h.gif | All right, so what do I do?                                                 |
+| ITRD_249 | https://i.imgur.com/fxH0fdk.gif | Yeah, I hear you. Hey, give me a hand                                       |
+| ITRD_229 | https://i.imgur.com/sdlDCLy.gif | - Give us an hug! - Come here!                                              |
+| ITRD_4   | https://i.imgur.com/QRLQ1xJ.gif | about this Hernandez coming on board with us?                               |
+| ITRD_70  | https://i.imgur.com/joBSdEH.gif | Yeah. No, you can't play with shit and not get dirty.                       |
+| ITRD_273 | https://i.imgur.com/u9bGBRL.gif | No, no, I'm good, thank you. So, who's gonna run this casino for us?        |
+| ITRD_331 | https://i.imgur.com/Ha5EM41.gif | Oh, you thought that was the job? Mike, get the door.                       |
+| ITRD_23  | https://i.imgur.com/kwmgilE.gif | And if anyone tries shit...                                                 |
+| ITRD_135 | https://i.imgur.com/fKJHm8R.gif | you want \$5 million of my money?                                           |
+| ITRD_214 | https://i.imgur.com/5vWHgtZ.gif | Let's initiate the little bastard into the force.                           |
+| ITRD_67  | https://i.imgur.com/GtEQEto.gif | so don't mess with me on this one, okay?                                    |
+| ITRD_84  | https://i.imgur.com/W7tdrjX.gif | Nah. We just standing by our principles, homie.                             |
+| ITRD_233 | https://i.imgur.com/Ii2RITy.gif | Yeah, let me go now. You're sweating.                                       |
+| ITRD_137 | https://i.imgur.com/WTD9x7a.gif | My father wants to unite our organizations.                                 |
+| ITRD_165 | https://i.imgur.com/83dZ2wn.gif | - just misunderstanding-- - Hey, you're a good kid.                         |
+| ITRD_88  | https://i.imgur.com/5l2QVaX.gif | - Oh whatever, man! - It always does.                                       |
+| ITRD_78  | https://i.imgur.com/SbMye4Q.gif | So why don't you stop dancing with your boyfriend here                      |
+| ITRD_158 | https://i.imgur.com/Nwx94Wu.gif | You little cocksucker.                                                      |
+| ITRD_117 | https://i.imgur.com/HCL1K5B.gif | One got killed and one showed himself,                                      |
+| ITRD_26  | https://i.imgur.com/4YEUXs7.gif | They perpetrators, now they even know it.                                   |
+| ITRD_63  | https://i.imgur.com/Tllgi9b.gif | Yeah. No. Yes.                                                              |
+| ITRD_59  | https://i.imgur.com/t3UFRPo.gif | Up to a hundred k's a month, low risk.                                      |
+| ITRD_305 | https://i.imgur.com/o6l04rc.gif | See, what you said was you found a woman on drugs a difficult situation.    |
+| ITRD_339 | https://i.imgur.com/tA5kwWm.gif | This is supposed to be a casino, not a monastery.                           |
+| ITRD_265 | https://i.imgur.com/WrYsvMa.gif | who everybody bullies. Then, when he misbehaves...                          |
+| ITRD_197 | https://i.imgur.com/BThu0N7.gif | People who step in my way get fucked with.                                  |
+| ITRD_38  | https://i.imgur.com/F8sNFed.gif | How my shit look, fool?                                                     |
+| ITRD_258 | https://i.imgur.com/j4pol0R.gif | I hear the Leones are lending the bosses some money.                        |
+| ITRD_179 | https://i.imgur.com/2T4JjMP.gif | I don't need a bump.                                                        |
+| ITRD_266 | https://i.imgur.com/5HgGkxs.gif | - We dig another hole. - Exactly.                                           |
+| ITRD_46  | https://i.imgur.com/9gKuUXU.gif | then that's cool.                                                           |
+| ITRD_53  | https://i.imgur.com/NMWXtHW.gif | I can smell it on him.                                                      |
+| ITRD_308 | https://i.imgur.com/O834hnK.gif | This ain't about being a good cop, Pepe.                                    |
+| ITRD_61  | https://i.imgur.com/gA7kWo3.gif | Yes, you read it correctly.                                                 |
+| ITRD_184 | https://i.imgur.com/vKPJSu9.gif | and nail hookers.                                                           |
+| ITRD_21  | https://i.imgur.com/qzh7m28.gif | of one of they O.G.s, man. You sure this is cool,                           |
+| ITRD_170 | https://i.imgur.com/ayvDfmM.gif | - We can? - If you give me control of the books.                            |
+| ITRD_302 | https://i.imgur.com/5IRNTKP.gif | Now, this is a bit more serious than a domestic dispute, pal.               |
+| ITRD_187 | https://i.imgur.com/hfOhVAZ.gif | I've been disbarred from the law.                                           |
+| ITRD_298 | https://i.imgur.com/SwjGD98.gif | Well, I deal with drug dealers, gangbangers and psychotics,                 |
+| ITRD_32  | https://i.imgur.com/ZjAgMY0.gif | For sure. Let's bounce, homie.                                              |
+| ITRD_150 | https://i.imgur.com/NjLt0iv.gif | - Bingo! - Yeah.                                                            |
+| ITRD_22  | https://i.imgur.com/sd88Lxk.gif | - or this some kinda trap? - Be cool, man.                                  |
+| ITRD_268 | https://i.imgur.com/39j1NCe.gif | - No, what? - He's gone queer.                                              |
+| ITRD_191 | https://i.imgur.com/NjgVFsj.gif | I don't need a bump!                                                        |
+| ITRD_71  | https://i.imgur.com/tfbfBlF.gif | Everybody knows that. Even you, okay?                                       |
+| ITRD_155 | https://i.imgur.com/o19N4EB.gif | Clearly, I misinterpreted your intentions here.                             |
+| ITRD_58  | https://i.imgur.com/iCotytu.gif | Not sure, yet. But they're talking big.                                     |
+| ITRD_348 | https://i.imgur.com/zAkTc4o.gif | - I can't. - Hey, I thought you understood.                                 |
+| ITRD_199 | https://i.imgur.com/CuEOLFc.gif | I'm trying to set you up for life here, boy, and you're inadequate.         |
+| ITRD_278 | https://i.imgur.com/RBu8HLm.gif | - Yeah, that'll work. - I'll make a call.                                   |
+| ITRD_347 | https://i.imgur.com/o1fkVg2.gif | - Don't make me do this! - Say what?                                        |
+| ITRD_252 | https://i.imgur.com/8FTjwU6.gif | - He was a stand-up guy. - I dunno, something about money.                  |
+| ITRD_14  | https://i.imgur.com/JV63piJ.gif | For sure, homie.                                                            |
+| ITRD_262 | https://i.imgur.com/ucLXbJm.gif | but he said they needed the money.                                          |
+| ITRD_174 | https://i.imgur.com/G3xgm6D.gif | He runs the place, and together we run him.                                 |
+| ITRD_85  | https://i.imgur.com/l6xSlIZ.gif | But our principles are making us bitches, man.                              |
+| ITRD_342 | https://i.imgur.com/wAWhaKs.gif | Smile, schmuck!                                                             |
+| ITRD_30  | https://i.imgur.com/2P8vsDD.gif | Guess you're right.                                                         |
+| ITRD_16  | https://i.imgur.com/9fcSF7z.gif | Man, you ain't got nothing real to smoke?                                   |
+| ITRD_144 | https://i.imgur.com/G8kksNc.gif | - Now where were we? - Uh, you was...                                       |
+| ITRD_260 | https://i.imgur.com/TtUWa6A.gif | Get the fuck outta here. We hate the Leones.                                |
+| ITRD_338 | https://i.imgur.com/SDzWzGq.gif | And cheer up. Have some fun around here.                                    |
+| ITRD_340 | https://i.imgur.com/hEBm3uQ.gif | Christ, I've had more fun taking a crap than I've had here.                 |
+| ITRD_156 | https://i.imgur.com/MPOeOPM.gif | Look, I humbly apologize. Forgive me.                                       |
+| ITRD_164 | https://i.imgur.com/FVPrb7W.gif | - How does that feel? - Mr. Leone, I think you're                           |
+| ITRD_29  | https://i.imgur.com/tbxVniW.gif | and loyal customers.                                                        |
+| ITRD_115 | https://i.imgur.com/lrXlvma.gif | - five years now? - Yeah, CJ have five years                                |
+| ITRD_31  | https://i.imgur.com/SrR2GQy.gif | That shit changes everything, don't it?                                     |
+| ITRD_261 | https://i.imgur.com/os0tDQL.gif | I know. That's what I said to Johnny,                                       |
+| ITRD_114 | https://i.imgur.com/w17Tccq.gif | What-- what-- what, Brian been dead, what,                                  |
+| ITRD_314 | https://i.imgur.com/hG8iu1v.gif | That means letting some bad guys get away with things.                      |
+| ITRD_195 | https://i.imgur.com/TN3A52k.gif | Listen to me, son, I don't give a fuck about you,                           |
+| ITRD_307 | https://i.imgur.com/6X7THtt.gif | - if you're so easily confused? - Look, I'm a good cop.                     |
+| ITRD_300 | https://i.imgur.com/sY5zx3N.gif | none of them scared to kill me, you, or all our families,                   |
+| ITRD_303 | https://i.imgur.com/V45ryha.gif | I didn't mean anything by it. I was just--                                  |
+| ITRD_20  | https://i.imgur.com/TCUobTP.gif | - They done. - But we copping off                                           |
+| ITRD_169 | https://i.imgur.com/UwEK5q1.gif | You can have the money.                                                     |
+| ITRD_136 | https://i.imgur.com/gmecXax.gif | I want to help you make a fortune, Mr. Leone.                               |
+| ITRD_15  | https://i.imgur.com/V7c5mhc.gif | Man, what's this cess bullshit?                                             |
+| ITRD_201 | https://i.imgur.com/K41HM1f.gif | Maybe I should kill you instead.                                            |
+| ITRD_345 | https://i.imgur.com/bs7cpRU.gif | Hernandez...                                                                |
+| ITRD_172 | https://i.imgur.com/mbdPDKW.gif | Then, I meant it. Your mother's a fucking transvestite.                     |
+| ITRD_171 | https://i.imgur.com/2piVa0J.gif | Yeah, you see, we can't do that, Mr. Leone.                                 |
+| ITRD_200 | https://i.imgur.com/XlJKudX.gif | You're no use to me at all, boy.                                            |
+| ITRD_251 | https://i.imgur.com/kwhgJQm.gif | I mean, why'd we whack Mickey anyhow?                                       |
+| ITRD_13  | https://i.imgur.com/8kiDuY8.gif | Hey, lemme hit some of that, homie.                                         |
+| ITRD_210 | https://i.imgur.com/XWDQJia.gif | I'm your superior officer and don't you forget that shit!                   |
+| ITRD_198 | https://i.imgur.com/MSALqmY.gif | Now, you got paid. You took the money.                                      |
+| ITRD_188 | https://i.imgur.com/K8hoC41.gif | But I'm in control.                                                         |
+| ITRD_209 | https://i.imgur.com/NPJ2tAy.gif | - All good, pal? - Pal?                                                     |
+| ITRD_213 | https://i.imgur.com/3v2wFR6.gif | - So we gonna go get the kid? - Yeah.                                       |
+| ITRD_306 | https://i.imgur.com/UFuEgQs.gif | Now how the hell am I supposed to trust you                                 |
+| ITRD_151 | https://i.imgur.com/I6oSMQR.gif | Yeah. You must really think my mother, God rest her soul,                   |
+| ITRD_54  | https://i.imgur.com/9W89J5l.gif | I think that's something else we can smell.                                 |
+| ITRD_163 | https://i.imgur.com/PcdnxZT.gif | I'd fuck an elephant before I'd fuck your mother.                           |
+| ITRD_259 | https://i.imgur.com/LMM0AOs.gif | - The Leones? - Yeah.                                                       |
+| ITRD_309 | https://i.imgur.com/jadPSHs.gif | It's about taking control of the streets from the fucking savages           |
+| ITRD_341 | https://i.imgur.com/v4kAKiJ.gif | Come on, go get me a drink.                                                 |
+| ITRD_245 | https://i.imgur.com/pmptomj.gif | Hey, how's your woman?                                                      |
+| ITRD_208 | https://i.imgur.com/RlFJGFC.gif | So do it! This week!                                                        |
+| ITRD_11  | https://i.imgur.com/jAjmRoR.gif | Yeah.                                                                       |
+| ITRD_212 | https://i.imgur.com/krAYOFv.gif | Didn't I say it's all good?                                                 |
+| ITRD_352 | https://i.imgur.com/G1XtJCM.gif | - his or mine? - Yours, Frank! Yours!                                       |
+| ITRD_160 | https://i.imgur.com/06NDMHr.gif | you think you run things in this town.                                      |
+| ITRD_350 | https://i.imgur.com/AuQDbZ7.gif | We went over this. It's about percentages.                                  |
+| ITRD_311 | https://i.imgur.com/MbaYvwh.gif | - Then you'll do what it takes? - Yeah, whatever it takes!                  |
+| ITRD_138 | https://i.imgur.com/xKotx3r.gif | The Sindaccos and the Leones?                                               |
+| ITRD_147 | https://i.imgur.com/P5Ha4MC.gif | So, let me understand it. I go in on your casino,                           |
+| ITRD_152 | https://i.imgur.com/T7Qum0t.gif | fucked an idiot instead of my father.                                       |
+| ITRD_211 | https://i.imgur.com/8Jey9wF.gif | - But yeah, all good. - So is he gonna do it?                               |
+| ITRD_351 | https://i.imgur.com/cxGGjrn.gif | - I know! - So who's side you on,                                           |
+| ITRD_315 | https://i.imgur.com/FTfT3AN.gif | And sometimes it means doing shit that you ain't proud of,                  |
+| ITRD_299 | https://i.imgur.com/qvB60vT.gif | all of them chasing after a lot of money,                                   |
+| ITRD_206 | https://i.imgur.com/IW9udXX.gif | Oh, you think you can put one over on me?                                   |
+| ITRD_310 | https://i.imgur.com/FBHA0W0.gif | - who've got it now! - I know!                                              |
+| ITRD_284 | https://i.imgur.com/eDY7tYa.gif | gang crime. That's why I joined CRASH.                                      |
+| ITRD_148 | https://i.imgur.com/hAJ509c.gif | take a third stake along with your organization and the Forellis,           |
+| ITRD_318 | https://i.imgur.com/8TURp8x.gif | You don't know shit. Get the fuck out the car, ese.                         |
+| ITRD_304 | https://i.imgur.com/G2hOkB9.gif | I'm not really interested in what you meant to say.                         |
+| ITRD_283 | https://i.imgur.com/iVjgaNo.gif | and I realized there is only one kind of crime in Los Santos--              |
+| ITRD_9   | https://i.imgur.com/h6ofONY.gif | Pendelbury is more of a concern. If he does what he's threatening,          |
+| ITRD_207 | https://i.imgur.com/PQBCpvT.gif | Do you? I don't think so.                                                   |
+| ITRD_282 | https://i.imgur.com/O43w0Qf.gif | Yeah, been working on the streets three years though,                       |
+| ITRD_274 | https://i.imgur.com/bQaaSg4.gif | Hey, we're gonna need a real idiot. A guy we can all push around.           |
+| ITRD_10  | https://i.imgur.com/7zjLrbh.gif | then shit's about to get real interesting.                                  |
+| ITRD_317 | https://i.imgur.com/KjFXSJC.gif | - to understand the bigger picture. - Look, I know.                         |
+| ITRD_279 | https://i.imgur.com/fGg5bdG.gif | - Great. - Hey...                                                           |
+| ITRD_301 | https://i.imgur.com/mHDo6Mm.gif | if they think it'll help them.                                              |
+| ITRD_277 | https://i.imgur.com/FTOI60V.gif | Just got out of rehab or something.                                         |
+| ITRD_316 | https://i.imgur.com/E0UlGNQ.gif | because you're strong enough and smart enough                               |
+| ITRD_149 | https://i.imgur.com/FYbn9kv.gif | then I let you guys manage my investment for me?                            |
+| ITRD_7   | https://i.imgur.com/RMdlQIk.gif | like that oversized asshole back there.                                     |
+| ITRD_8   | https://i.imgur.com/fVf0ghv.gif | Look, I ain't worried about that, Pulaski,                                  |
+| ITRD_285 | https://i.imgur.com/aKD7rFH.gif | Get in the car, kid.                                                        |
+| ITRD_146 | https://i.imgur.com/hktfvUc.gif | and you were asking me for \$5 million.                                     |
+| ITRD_281 | https://i.imgur.com/J9JeeTk.gif | So, you're the new kid, huh?                                                |
+| ITRD_286 | https://i.imgur.com/aSosfLD.gif | I was called in on this domestic dispute case once.                         |
+| ITRD_60  | https://i.imgur.com/nAwEGt6.gif | Hello. Yeah. Yes.                                                           |
+| ITRD_27  | https://i.imgur.com/hTiDBrl.gif | Shit changes. And this shit changes everybody, man.                         |
+| ITRD_217 | https://i.imgur.com/NKmKz0N.gif | Ken Rosenberg. Rosenberg!                                                   |
+| ITRD_203 | https://i.imgur.com/546q8tO.gif | You hear that? You feelin' me here?                                         |
+| ITRD_241 | https://i.imgur.com/K9N5XMa.gif | - Give me your fucking money! - All right, man. All right, man.             |
+| ITRD_167 | https://i.imgur.com/B0mXGiD.gif | What do I know? Nothing, really.                                            |
+| ITRD_140 | https://i.imgur.com/v04B4B6.gif | since your associates whacked my cousin.                                    |
+| ITRD_74  | https://i.imgur.com/T7k8l3c.gif | Now listen. That was a buyer. We gotta step up production.                  |
+| ITRD_173 | https://i.imgur.com/hsbp1KF.gif | I got an idea. What about a third party? An independent guy.                |
+| ITRD_297 | https://i.imgur.com/4uyFPh4.gif | Yeah, I'm sure. Pulaski, pull over.                                         |
+| ITRD_52  | https://i.imgur.com/XOcjg90.gif | Punk ass. I think this vato's a fucking rat, ese.                           |
+| ITRD_219 | https://i.imgur.com/MDWiY6u.gif | Look, I made that ingrate, and now he won't take my calls?                  |
+| ITRD_328 | https://i.imgur.com/zj6fnGn.gif | you little fucking weasel? You're my man, not his!                          |
+| ITRD_35  | https://i.imgur.com/QLJ7Xnp.gif | This way you will be, homie. This is all about destiny.                     |
+| ITRD_322 | https://i.imgur.com/qcfrpBu.gif | having a good time. Me, 5 million in the hole to the Sindaccos,             |
+| ITRD_363 | https://i.imgur.com/0AdX6V4.gif | It's about Mama. She's dead, bro'.                                          |
+| ITRD_143 | https://i.imgur.com/ri8NkaK.gif | I'd like to see a way past this bullshit.                                   |
+| ITRD_128 | https://i.imgur.com/UhgP01e.gif | Yeah well, that's what family for.                                          |
