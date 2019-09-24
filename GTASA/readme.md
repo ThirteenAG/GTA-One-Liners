@@ -1275,7 +1275,7 @@
 | -------- | ------------------------------- | -------------------------------------------------------------------------------- |
 | DOFFE3Y  | https://i.imgur.com/JHpjixc.gif | Yeah, for sure!                                                                  |
 | DSTAR2   | https://i.imgur.com/uzsL9JX.gif | Let's see what you got...                                                        |
-| HI1      | https://i.imgur.com/nKTQRim.gif |                                                                                  |
+| HI10E52  | https://i.imgur.com/nKTQRim.gif | Hey, what's poppin'?                                                             |
 | HI3Y     | https://i.imgur.com/Cxho300.gif | Just looking for some fun...                                                     |
 | LOC1_YT  | https://i.imgur.com/AtYRueK.gif | He's stealing the sounds!                                                        |
 | STR1A01  | https://i.imgur.com/0gvleVF.gif | Looking real technical, gangsta!                                                 |
@@ -5743,7 +5743,7 @@
 | MTOR01C  | https://i.imgur.com/IfhhBzB.gif | I've got some information relating to your brother.                                                                                    |
 | MTRU01L  | https://i.imgur.com/VbJ1xoH.gif | We do? Who?                                                                                                                            |
 | MZER02F  | https://i.imgur.com/JcUls1a.gif | should come through and have a look at the business, y'know.                                                                           |
-| MTOR01F2 | https://i.imgur.com/jvMvEAY.gif |                                                                                                                                        |
+| MTOR01F  | https://i.imgur.com/jvMvEAY.gif | Who the fuck is this?                                                                                                                  |
 | MSWE06D  | https://i.imgur.com/H9YFGqp.gif | If you don't respect your body, ain't nobody going to respect you!                                                                     |
 | MJET_1H  | https://i.imgur.com/8SZ2jnN.gif | What is your point, Jethro?                                                                                                            |
 | MCAT07D  | https://i.imgur.com/egLXMwx.gif | Yes, Claude, faster, harder, DEEPER!                                                                                                   |

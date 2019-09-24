@@ -6,7 +6,7 @@
 | ------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 0x0CF2FC73    | https://i.imgur.com/6a5Ivo3.gif | What the fuck are you talking about, man?                                                                                       |
 | 0x0DF2E509    | https://i.imgur.com/4HD6PkF.gif | Have it your way. See you soon.                                                                                                 |
-| 0x0E614BE8    | https://i.imgur.com/nbzBf81.gif |                                                                                                                                 |
+| 0x0E614BE8    | https://i.imgur.com/nbzBf81.gif | Whatever.                                                                                                                       |
 | 0x1C7DDEDC    | https://i.imgur.com/NCRAx0K.gif | and maybe it's just hanging out with you - who the fuck knows?                                                                  |
 | 0x3A35AECE    | https://i.imgur.com/clHp1YD.gif | Sometimes I wonder if you brought me on as a partner just to share the blame when the IRS comes knocking.                       |
 | 0x3C245AD1    | https://i.imgur.com/N1B3xLz.gif | Little Luis. Little Luis.                                                                                                       |
@@ -24,7 +24,7 @@
 | 0x8E69E8F1    | https://i.imgur.com/RgyJ0pc.gif | As if people buy CDs anymore.                                                                                                   |
 | 0x09A0FDBA    | https://i.imgur.com/ykUqIGw.gif | What's up, Tone?                                                                                                                |
 | 0x13E8D02F    | https://i.imgur.com/5k2pJrV.gif | Here we be. Are ya wit me, breda?                                                                                               |
-| 0x16B9D92A    | https://i.imgur.com/nAMwKFD.gif |                                                                                                                                 |
+| 0x16B9D92A    | https://i.imgur.com/nAMwKFD.gif | ~z~Okay.                                                                                                                        |
 | 0x24C5853D    | https://i.imgur.com/KtigTZ4.gif | I gotta make some calls. You work the floor.                                                                                    |
 | 0x33A45BA9    | https://i.imgur.com/YQmhVhV.gif | Seven days. Junkies need junk rain, sleet, or shine.                                                                            |
 | 0x54D9F5CE    | https://i.imgur.com/77PltJp.gif | A very important client is coming tonight. We need complete discretion.                                                         |
@@ -41,7 +41,7 @@
 | 0x04868A06    | https://i.imgur.com/utqWPdd.gif | No more of that shit left, T.                                                                                                   |
 | 0x5806EA70    | https://i.imgur.com/z2oUMbO.gif | I was investing in your industry and acumen. Don't look for anything sinister here.                                             |
 | 0x6626B6CC    | https://i.imgur.com/WdV66Ri.gif | I don't know anything about it, but take care of it, Luis. No nonsense.                                                         |
-| 0x7170E914    | https://i.imgur.com/aMYU1eE.gif |                                                                                                                                 |
+| 0x7170E914    | https://i.imgur.com/aMYU1eE.gif | ~z~Here we are.                                                                                                                 |
 | 0x48640AC8    | https://i.imgur.com/Kvi40q7.gif | I knew that club of yours was bullshit. You gonna take us back to the Heights or what?                                          |
 | 0x803458AF    | https://i.imgur.com/99HFY78.gif | Troy! Get over here!                                                                                                            |
 | 0x65956558    | https://i.imgur.com/8eQZkHe.gif | Time to be charming, Lou Lou.                                                                                                   |
@@ -56,7 +56,7 @@
 | 0xC9F6F777    | https://i.imgur.com/vOwEVf8.gif | I never thought about being grateful to you for signing me up to the "fight off hairy ass rapists day and night" exercise plan. |
 | 0xC40B6AA5    | https://i.imgur.com/TAvwSMR.gif | Don't tell me that sugar daddy of yours woulda been interested in the scrawny fucker that went away?                            |
 | 0xC195EDA5    | https://i.imgur.com/HNVND1J.gif | You know who it is?                                                                                                             |
-| 0xCADC2EA1    | https://i.imgur.com/zdGkaHp.gif |                                                                                                                                 |
+| INT_33        | https://i.imgur.com/zdGkaHp.gif | Diablo, que mienda.                                                                                                             |
 | 0xCC1E9937    | https://i.imgur.com/p90mncf.gif | Troy's getting anxious.                                                                                                         |
 | 0xCDE3BC79    | https://i.imgur.com/qsZZwgn.gif | Made me wonder why I need you around at all.                                                                                    |
 | 0xCFFAEC0E    | https://i.imgur.com/3FJkN8G.gif | Blah. Blah. Blah. Another time, Troy. We'll be at Maisonette.                                                                   |
@@ -77,11 +77,11 @@
 | 0xF85813AB    | https://i.imgur.com/OEbjA7P.gif | Yeah see you, mama huevos.                                                                                                      |
 | 0xFAE63EF0    | https://i.imgur.com/FSKaMIc.gif | Fuck that shit. I don't need any press like that.                                                                               |
 | 0xFB73E4EC    | https://i.imgur.com/EmloSaQ.gif | If them Ivy League motherfuckers can't find work, what you think Rique is meant to do?                                          |
-| BG04_CA_4     | https://i.imgur.com/2nLVtfF.gif |                                                                                                                                 |
-| E1A1_BA_4     | https://i.imgur.com/XdsnKQb.gif |                                                                                                                                 |
-| E1A3_AA_31    | https://i.imgur.com/kkqQYtf.gif |                                                                                                                                 |
-| E1B2_PH1_4    | https://i.imgur.com/gMsg743.gif |                                                                                                                                 |
-| E1B2_PH1_24   | https://i.imgur.com/lsFcShB.gif |                                                                                                                                 |
+| BG04_CA_4     | https://i.imgur.com/2nLVtfF.gif | What?                                                                                                                           |
+| E1A1_BA_4     | https://i.imgur.com/XdsnKQb.gif | What's wrong?                                                                                                                   |
+| E1A3_AA_31    | https://i.imgur.com/kkqQYtf.gif | Fuck!                                                                                                                           |
+| INT_AD_1      | https://i.imgur.com/gMsg743.gif | Yo, what's up, Papi?                                                                                                            |
+| E1B2_PH1_24   | https://i.imgur.com/lsFcShB.gif | Come on.                                                                                                                        |
 | GT1AAP2_1     | https://i.imgur.com/k1MgXiH.gif | Oh, how are you?                                                                                                                |
 | GT1AAP2_2     | https://i.imgur.com/DG7y8HY.gif | I'm good, boss. How are you? You look terrible.                                                                                 |
 | GT1AAP2_3     | https://i.imgur.com/XFyjONG.gif | That's good, because I am terrible. Fucking wretched.                                                                           |
