@@ -12,6 +12,8 @@
 #include "injector\hooking.hpp"
 #include "injector\utility.hpp"
 
+#include "Hooking.Patterns.h"
+
 #include <Trampoline.h>
 
 TrampolineMgr trampolines;
@@ -37,98 +39,6 @@ uint8_t* bCutscene;
 #include <tlhelp32.h>
 #include <RestartManager.h>
 #pragma comment(lib ,"Rstrtmgr.lib")
-
-void DoSuspendThread(DWORD targetProcessId, DWORD targetThreadId, bool action)
-{
-    HANDLE h = CreateToolhelp32Snapshot(TH32CS_SNAPTHREAD, 0);
-    if (h != INVALID_HANDLE_VALUE)
-    {
-        THREADENTRY32 te;
-        te.dwSize = sizeof(te);
-        if (Thread32First(h, &te))
-        {
-            do
-            {
-                if (te.dwSize >= FIELD_OFFSET(THREADENTRY32, th32OwnerProcessID) + sizeof(te.th32OwnerProcessID))
-                {
-                    if (te.th32ThreadID != targetThreadId && te.th32OwnerProcessID == targetProcessId)
-                    {
-                        HANDLE thread = ::OpenThread(THREAD_ALL_ACCESS, FALSE, te.th32ThreadID);
-                        if (thread != NULL)
-                        {
-                            if (action)
-                                SuspendThread(thread);
-                            else
-                                ResumeThread(thread);
-                            CloseHandle(thread);
-                        }
-                    }
-                }
-                te.dwSize = sizeof(te);
-            }
-            while (Thread32Next(h, &te));
-        }
-        CloseHandle(h);
-    }
-}
-
-BOOL CheckForFileLock(LPCWSTR pFilePath, bool bReleaseLock = false)
-{
-    BOOL bResult = FALSE;
-
-    DWORD dwSession;
-    WCHAR szSessionKey[CCH_RM_SESSION_KEY + 1] = { 0 };
-    DWORD dwError = RmStartSession(&dwSession, 0, szSessionKey);
-    if (dwError == ERROR_SUCCESS)
-    {
-        dwError = RmRegisterResources(dwSession, 1, &pFilePath, 0, NULL, 0, NULL);
-        if (dwError == ERROR_SUCCESS)
-        {
-            UINT nProcInfoNeeded = 0;
-            UINT nProcInfo = 0;
-            RM_PROCESS_INFO rgpi[1];
-            DWORD dwReason;
-
-            dwError = RmGetList(dwSession, &nProcInfoNeeded, &nProcInfo, rgpi, &dwReason);
-            if (dwError == ERROR_SUCCESS || dwError == ERROR_MORE_DATA)
-            {
-                if (nProcInfoNeeded > 0)
-                {
-                    //If current process does not have enough privileges to close one of
-                    //the "offending" processes, you'll get ERROR_FAIL_NOACTION_REBOOT
-                    if (bReleaseLock)
-                    {
-                        dwError = RmShutdown(dwSession, RmForceShutdown, NULL);
-                        if (dwError == ERROR_SUCCESS)
-                        {
-                            bResult = TRUE;
-                        }
-                    }
-                }
-                else
-                    bResult = TRUE;
-            }
-        }
-    }
-
-    RmEndSession(dwSession);
-
-    SetLastError(dwError);
-    return bResult;
-}
-
-bool CheckForLockedFiles()
-{
-    for (auto& p : std::filesystem::directory_iterator(DefaultPathW))
-    {
-        if (p.path().extension() == ".mp4")
-        {
-            if (!CheckForFileLock(p.path().wstring().c_str()))
-                return false;
-        }
-    }
-    return true;
-}
 
 DWORD GetRegistryData(std::wstring& str, HKEY key, std::wstring_view subKey, std::wstring_view valueName)
 {
@@ -159,11 +69,11 @@ void GetNVidiaSettings()
     DefaultPathW += L"\\Grand Theft Auto V";
 
     std::wstring temp;
-    GetRegistryData(temp, HKEY_CURRENT_USER, L"Software\\NVIDIA Corporation\\Global\\ShadowPlay\\NVSPCAPS", L"ManualHKeyCount");
+    GetRegistryData(temp, HKEY_CURRENT_USER, L"Software\\NVIDIA Corporation\\Global\\ShadowPlay\\NVSPCAPS", L"DVRHKeyCount");
     DWORD ManualHKeyCount = *(DWORD*)temp.data();
     for (size_t i = 0; i < ManualHKeyCount; i++)
     {
-        std::wstring k = L"ManualHKey" + std::to_wstring(i);
+        std::wstring k = L"DVRHKey" + std::to_wstring(i);
         GetRegistryData(temp, HKEY_CURRENT_USER, L"Software\\NVIDIA Corporation\\Global\\ShadowPlay\\NVSPCAPS", k.data());
         DWORD ManualHKey = *(DWORD*)temp.data();
         Keys.push_back(ManualHKey);
@@ -189,15 +99,12 @@ std::filesystem::path GetLatestFileName()
     return latest.path().filename();
 }
 
-void LogRecordingA()
+void LogRecordingA(std::string s)
 {
-    if (!std::string_view(lastMsg).empty())
-    {
-        logfileA << GetLatestFileName() << " // " << lastMsg << std::endl;
-    }
+    logfileA << /*GetLatestFileName() <<*/ s << " // " << lastMsg << std::endl;
 }
 
-void ToggleRecording()
+void SaveRecording()
 {
     keybd_event(VK_SCROLL, 0x45, KEYEVENTF_EXTENDEDKEY | 0, 0);
     keybd_event(VK_SCROLL, 0x45, KEYEVENTF_EXTENDEDKEY | KEYEVENTF_KEYUP, 0);
@@ -211,6 +118,9 @@ void ToggleRecording()
     {
         keybd_event(var, 0x45, KEYEVENTF_EXTENDEDKEY | KEYEVENTF_KEYUP, 0);
     }
+
+    keybd_event(VK_SCROLL, 0x45, KEYEVENTF_EXTENDEDKEY | 0, 0);
+    keybd_event(VK_SCROLL, 0x45, KEYEVENTF_EXTENDEDKEY | KEYEVENTF_KEYUP, 0);
 }
 
 injector::hook_back<char*(__fastcall*)(char*, void*, int64_t)> hbsub_140153448;
@@ -221,11 +131,10 @@ char* __fastcall sub_140153448(char* a1, void* a2, int64_t a3)
     auto str = m_Message;
     if (!isRecording)
     {
-        if (str[0] != '\0' && *bCutscene)
+        if (str[0] != '\0')
         {
             if ((str[0] == L'~' && str[1] == L'z' && str[2] == L'~' && str[3] != '\0'))
             {
-                ToggleRecording();
                 isRecording = true;
                 start = std::chrono::high_resolution_clock::now();
             }
@@ -235,40 +144,22 @@ char* __fastcall sub_140153448(char* a1, void* a2, int64_t a3)
     {
         if (str[0] == '\0' || strcmp(str, lastMsg) != 0)
         {
+            finish = std::chrono::high_resolution_clock::now();
+            std::chrono::duration<double> elapsed = finish - start;
+            std::string out(std::to_string(std::chrono::duration_cast<std::chrono::milliseconds>(elapsed).count()));
+
+            isRecording = false;
+
+            SaveRecording();
+            LogRecordingA(out);
+
+
+            if (str[0] != '\0')
             {
-                finish = std::chrono::high_resolution_clock::now();
-                std::chrono::duration<double> elapsed = finish - start;
-
-                if (std::chrono::duration_cast<std::chrono::seconds>(elapsed).count() >= 1.0)
+                if ((str[0] == L'~' && str[1] == L'z' && str[2] == L'~' && str[3] != '\0'))
                 {
-                    ToggleRecording();
-                    isRecording = false;
-                }
-                DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
-                if (std::chrono::duration_cast<std::chrono::seconds>(elapsed).count() < 1.0)
-                {
-                    Sleep(1000 - std::chrono::duration_cast<std::chrono::milliseconds>(elapsed).count());
-                    ToggleRecording();
-                    isRecording = false;
-                }
-                Sleep(100);
-                while (!CheckForLockedFiles())
-                {
-                    Sleep(1);
-                    if ((GetAsyncKeyState(VK_F1) & 0xF000) != 0)
-                        break;
-                }
-                LogRecordingA();
-                DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
-
-                if (str[0] != '\0' /*&& *bCutscene*/)
-                {
-                    if ((str[0] == L'~' && str[1] == L'z' && str[2] == L'~' && str[3] != '\0'))
-                    {
-                        ToggleRecording();
-                        isRecording = true;
-                        start = std::chrono::high_resolution_clock::now();
-                    }
+                    isRecording = true;
+                    start = std::chrono::high_resolution_clock::now();
                 }
             }
         }
@@ -297,35 +188,14 @@ int64_t __fastcall sub_140175EE8()
 
     if (isRecording)
     {
+        finish = std::chrono::high_resolution_clock::now();
+        std::chrono::duration<double> elapsed = finish - start;
+        std::string out(std::to_string(std::chrono::duration_cast<std::chrono::milliseconds>(elapsed).count()));
 
-        {
-            finish = std::chrono::high_resolution_clock::now();
-            std::chrono::duration<double> elapsed = finish - start;
+        isRecording = false;
 
-            if (std::chrono::duration_cast<std::chrono::seconds>(elapsed).count() >= 1.0)
-            {
-                ToggleRecording();
-                isRecording = false;
-            }
-            DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
-            if (std::chrono::duration_cast<std::chrono::seconds>(elapsed).count() < 1.0)
-            {
-                Sleep(1000 - std::chrono::duration_cast<std::chrono::milliseconds>(elapsed).count());
-                ToggleRecording();
-                isRecording = false;
-            }
-            Sleep(500);
-            while (!CheckForLockedFiles())
-            {
-                Sleep(1);
-                if ((GetAsyncKeyState(VK_F1) & 0xF000) != 0)
-                    break;
-            }
-            LogRecordingA();
-            DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
-        }
-
-        lastMsg[0] = 0;
+        SaveRecording();
+        LogRecordingA(out);
     }
 
     if (isRecording)
@@ -344,26 +214,37 @@ int64_t __fastcall sub_140175EE8()
 
 void InitV()
 {
-    auto aslr64 = [](uint64_t p) -> void*
-    {
-        static uintptr_t module = (uintptr_t)GetModuleHandle(NULL);
-        return (void*)((p - 0x140000000) + module);
-    };
+    //auto aslr64 = [](uint64_t p) -> void*
+    //{
+    //    static uintptr_t module = (uintptr_t)GetModuleHandle(NULL);
+    //    return (void*)((p - 0x140000000) + module);
+    //};
+    //
+    //m_Message = (char*)aslr64(0x1424699F0);
+    //bDisplayHud = (uint8_t*)aslr64(0x140000000 + 0x1F36BC4);
+    //bDisplayRadar = (uint8_t*)aslr64(0x140000000 + 0x1F36BC0);
+    //
+    //Trampoline& trampoline = trampolines.MakeTrampoline(GetModuleHandle(NULL));
+    //
+    //hbsub_140153448.fun = injector::MakeCALL(aslr64(0x140CF9051), trampoline.Jump(sub_140153448)).get();
+    //hbsub_140175EE8.fun = injector::MakeCALL(aslr64(0x140CFA0D1), trampoline.Jump(sub_140175EE8)).get();
 
-    m_Message = (char*)aslr64(0x1424699F0);
-    bDisplayHud = (uint8_t*)aslr64(0x140000000 + 0x1F36BC4);
-    bDisplayRadar = (uint8_t*)aslr64(0x140000000 + 0x1F36BC0);
-    //bCutscene = (uint8_t*)aslr64(0x140000000 + 0x1B60288);
-    bCutscene = (uint8_t*)aslr64(0x140000000 + 0x23CC4FA);
-    //GTA5.exe+1DAEA21
-    //GTA5.exe+1DAEA22
-    //GTA5.exe+1F42E4F
-    //GTA5.exe+23CC4FA
+    auto pattern = hook::pattern("80 3D ? ? ? ? ? 74 0C C6 05 ? ? ? ? ? E8 ? ? ? ? 48 83 C4 28 C3");
+    m_Message = (char*)((uintptr_t)pattern.get_first(0) + *pattern.get_first<uint32_t>(2) + 7);
+
+    pattern = hook::pattern("8B 05 ? ? ? ? 3B C6 0F 45 C6 89 05 ? ? ? ? 8B 05 ? ? ? ? 3B C6 0F 45 C6 89 05 ? ? ? ? 8B 05 ? ? ? ? 3B C6 0F 45 C6 89 05 ? ? ? ? 8B 05 ? ? ? ? 3B C6 0F 45 C6 89 05 ? ? ? ? E8 ? ? ? ? 44 8D 4E 06 84 C0");
+    bDisplayHud = (uint8_t*)((uintptr_t)pattern.get_first(0) + *pattern.get_first<uint32_t>(2) + 6);
+
+    pattern = hook::pattern("83 25 ? ? ? ? ? 48 8D 0D ? ? ? ? E8 ? ? ? ? E8 ? ? ? ? 48 8B CB E8 ? ? ? ? E8 ? ? ? ? 48 83 3D ? ? ? ? ? 74 10 48 83 25 ? ? ? ? ? 48 83 25 ? ? ? ? ? 48 8D 0D ? ? ? ? C6 05 ? ? ? ? ? 48 83 C4 20 5B E9");
+    bDisplayRadar = (uint8_t*)((uintptr_t)pattern.get_first(0) + *pattern.get_first<uint32_t>(2) + 7);
 
     Trampoline& trampoline = trampolines.MakeTrampoline(GetModuleHandle(NULL));
 
-    hbsub_140153448.fun = injector::MakeCALL(aslr64(0x140CF9051), trampoline.Jump(sub_140153448)).get();
-    hbsub_140175EE8.fun = injector::MakeCALL(aslr64(0x140CFA0D1), trampoline.Jump(sub_140175EE8)).get();
+    pattern = hook::pattern("41 B8 ? ? ? ? E8 ? ? ? ? 48 8B CB E8 ? ? ? ? 48 83 C4 20 5B C3 ");
+    hbsub_140153448.fun = injector::MakeCALL(pattern.get_first(6), trampoline.Jump(sub_140153448)).get();
+
+    pattern = hook::pattern("C6 05 ? ? ? ? ? E8 ? ? ? ? 4C 8D 9C 24 ? ? ? ? 49 8B 5B 10 49 8B 73 18 49 8B 7B 20 49 8B E3 41 5E C3");
+    hbsub_140175EE8.fun = injector::MakeCALL(pattern.get_first(7), trampoline.Jump(sub_140175EE8)).get();
 }
 
 void Init()

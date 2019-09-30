@@ -5,6 +5,8 @@
 #include <fstream>
 #include <iostream>
 #include <map>
+#include <set>
+#include <sstream>
 
 #include "injector\injector.hpp"
 #include "injector\calling.hpp"
@@ -25,6 +27,7 @@ uint8_t* bDisplayHud;
 uint8_t* bDisplayRadar;
 
 bool isPCSX2 = false;
+bool isManhunt = false;
 
 DWORD GetRegistryData(std::wstring& str, HKEY key, std::wstring_view subKey, std::wstring_view valueName)
 {
@@ -64,8 +67,8 @@ void GetNVidiaSettings()
         DefaultPathW += L"\\Grand Theft Auto EFLC"; ///???????????
     else if (isPCSX2)
         DefaultPathW += L"\\PCSX2";
-    //else if (true)
-    //    DefaultPathW += L"\\Manhunt";
+    else if (isManhunt)
+        DefaultPathW += L"\\Manhunt";
 
     std::wstring temp;
     GetRegistryData(temp, HKEY_CURRENT_USER, L"Software\\NVIDIA Corporation\\Global\\ShadowPlay\\NVSPCAPS", L"ManualHKeyCount");
@@ -311,7 +314,7 @@ void Init()
                     }
                     else
                     {
-                        if (true) //mh
+                        if (isManhunt) //mh
                         {
                             m_Message = (char*)0x7213B0;
                             bDisplayHud = (uint8_t*)0x7CF0A0;
@@ -447,7 +450,7 @@ uint32_t ParseText(std::map<std::string, std::string>& m, std::wstring fileName)
 
             auto name = line.substr(0, min(min(delimiterPos, line.find("\t")), line.find(" ")));
             auto value = line.substr(delimiterPos + delimiter.length());
-            m.emplace(value.substr(0, 50), name);
+            m.emplace(value/*.substr(0, 50)*/, name);
             //std::cout << name << " " << value << '\n';
         }
     }
@@ -477,7 +480,7 @@ void RenameFiles(std::map<std::string, std::string>& m, std::wstring folderName)
             //    line.erase(std::remove_if(line.begin(), line.end(), [](char c) { return c == '\''; }), line.end());
 
             auto name = line.substr(0, min(delimiterPos, line.find("\t")));
-            auto value = line.substr(delimiterPos + delimiter.length()).substr(0, 50);
+            auto value = line.substr(delimiterPos + delimiter.length())/*.substr(0, 50)*/;
 
             if (name.front() == '"')
             {
@@ -545,14 +548,120 @@ int main()
     //if (ParseText(text, L"\\text\\TLAD.text"))
     //    RenameFiles(text, L"\\Grand Theft Auto 4");
 
-    if (ParseText(text, L"\\text\\TBOGT.text"))
-        RenameFiles(text, L"\\Grand Theft Auto 4");
-
-    if (ParseText(text, L"\\text\\GTAIV.text"))
-        RenameFiles(text, L"\\Grand Theft Auto 4");
+    //if (ParseText(text, L"\\text\\TBOGT.text"))
+    //    RenameFiles(text, L"\\Grand Theft Auto 4");
+    //
+    //if (ParseText(text, L"\\text\\GTAIV.text"))
+    //    RenameFiles(text, L"\\Grand Theft Auto 4");
 
     //if (ParseText(text, L"\\text\\GTAV.text"))
     //    RenameFiles(text, L"\\Grand Theft Auto V");
+
+    //GTAV
+
+    if (ParseText(text, L"\\text\\GTAV.text"))
+    {
+        namespace fs = std::filesystem;
+        fs::path someDir(DefaultPathW + L"\\Grand Theft Auto V");
+        fs::directory_iterator end_iter;
+
+        typedef std::multimap<fs::file_time_type, fs::path> result_set_t;
+        result_set_t result_set;
+        std::vector<fs::path> files;
+
+        if (fs::exists(someDir) && fs::is_directory(someDir))
+        {
+            for (fs::directory_iterator dir_iter(someDir); dir_iter != end_iter; ++dir_iter)
+            {
+                if (fs::is_regular_file(dir_iter->status()))
+                {
+                    if (dir_iter->path().extension() == ".mp4")
+                        result_set.insert(result_set_t::value_type(fs::last_write_time(dir_iter->path()), *dir_iter));
+                }
+            }
+            for each (auto var in result_set)
+                files.push_back(var.second);
+        }
+
+        CreateDirectory(std::wstring(DefaultPathW + L"\\Grand Theft Auto V\\out").c_str(), NULL);
+        std::ifstream logFile(DefaultPathW + L"\\Grand Theft Auto V" + L"\\log.txt");
+        if (logFile.is_open())
+        {
+            std::string line;
+            size_t count = 0;
+            while (getline(logFile, line))
+            {
+                auto delimiter = std::string("// ");
+                auto delimiterPos = line.find(delimiter);
+
+                if (line[0] == '#' || line.empty() || delimiterPos == std::string::npos)
+                    continue;
+
+                auto start = std::stoi(line.substr(0, min(delimiterPos, line.find("\t"))));
+                auto duration = std::stoi(line.substr(0, min(delimiterPos, line.find("\t")))) - 350; // removing 350ms to remove overlap
+                auto value = line.substr(delimiterPos + delimiter.length());
+                auto gxt = text.at(value);
+                //auto gxt = std::string();
+                //for each (auto var in text)
+                //{
+                //    if (var.first.substr(0, value.size()) == value)
+                //    {
+                //        gxt = text.at(var.first);
+                //        break;
+                //    }
+                //}
+
+                if (gxt.empty() || count >= files.size())
+                {
+                    count++;
+                    continue;
+                }
+
+                auto ffmpeg = std::wstring(L"D:\\Program Files\\FFmpeg\\ffmpeg.exe");
+                auto source = files[count];
+                auto dest = (source.parent_path() / "out" / gxt).replace_extension("mp4");
+
+                auto format_duration = [](std::chrono::milliseconds ms) -> std::wstring
+                {
+                    using namespace std::chrono;
+                    auto secs = duration_cast<seconds>(ms);
+                    ms -= duration_cast<milliseconds>(secs);
+                    auto mins = duration_cast<minutes>(secs);
+                    secs -= duration_cast<seconds>(mins);
+                    auto hour = duration_cast<hours>(mins);
+                    mins -= duration_cast<minutes>(hour);
+
+                    std::wstringstream ss;
+                    ss << hour.count() << ":" << mins.count() << ":" << secs.count() << "." << ms.count();
+                    return ss.str();
+                };
+
+                auto shield = [](std::wstring& s) ->std::wstring
+                {
+                    return L"\"" + s + L"\"";
+                };
+
+                std::wstring cmd = std::wstring(L"\"" + shield(ffmpeg) + L" -y -sseof -" + format_duration(std::chrono::milliseconds(start)) + L" -t " + format_duration(std::chrono::milliseconds(duration)) + + L" -i " + shield(source.wstring()) + L" -c copy " + shield(dest.wstring()));
+
+                AllocConsole();
+                if (_wsystem(cmd.c_str()) == 0)
+                {
+                    //MessageBox(0,0,0,0);
+                }
+
+                count++;
+            }
+        }
+        else
+        {
+            std::cerr << "Couldn't open log.txt file for reading.\n";
+        }
+
+
+
+    }
+
+
 
     return 0;
 }

@@ -31,8 +31,6 @@ extern void DoSuspendThread(DWORD targetProcessId, DWORD targetThreadId, bool ac
 
 void InitMH()
 {
-    //something broken
-
     struct Hack1
     {
         void operator()(injector::reg_pack& regs)
@@ -52,55 +50,126 @@ void InitMH()
             *bDisplayHud = 1;
         }
     };
-    injector::MakeInline<Hack1>(0x48A49D - 2, 0x48A49D - 2 + 10);
-    injector::MakeInline<Hack1>(0x48A715 - 2, 0x48A715 - 2 + 10);
-    injector::MakeInline<Hack1>(0x48A3B2 - 2, 0x48A3B2 - 2 + 10);
-    injector::MakeInline<Hack1>(0x48A552 - 2, 0x48A552 - 2 + 10);
-    injector::MakeInline<Hack1>(0x57F412 - 2, 0x57F412 - 2 + 10);
-    injector::MakeInline<Hack1>(0x528E62 - 2, 0x528E62 - 2 + 10);
     injector::MakeInline<Hack1>(0x489E03, 0x489E03 + 10);
     injector::MakeInline<Hack1>(0x489EAB, 0x489EAB + 10);
+
+    struct Hack11
+    {
+        void operator()(injector::reg_pack& regs)
+        {
+            *(uint32_t*)(regs.ebx + 0x1990) = 0;
+
+            if (regs.ebx + 0x1990 == 0x722034)
+            {
+                if (isRecording)
+                {
+                    ToggleRecording();
+                    isRecording = false;
+                    DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
+                    Sleep(500);
+                    LogRecordingW();
+                    DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
+                }
+
+                *bDisplayHud = 1;
+            }
+        }
+    };
+    injector::MakeInline<Hack11>(0x48A49D - 2, 0x48A49D - 2 + 10);
+    injector::MakeInline<Hack11>(0x48A715 - 2, 0x48A715 - 2 + 10);
+
+    struct Hack111
+    {
+        void operator()(injector::reg_pack& regs)
+        {
+            *(uint32_t*)(regs.ecx + 0x1990) = 0;
+
+            if (regs.ecx + 0x1990 == 0x722034)
+            {
+                if (isRecording)
+                {
+                    ToggleRecording();
+                    isRecording = false;
+                    DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
+                    Sleep(500);
+                    LogRecordingW();
+                    DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
+                }
+
+                *bDisplayHud = 1;
+            }
+        }
+    };
+    injector::MakeInline<Hack111>(0x48A3B2 - 2, 0x48A3B2 - 2 + 10);
+    injector::MakeInline<Hack111>(0x48A552 - 2, 0x48A552 - 2 + 10);
+    injector::MakeInline<Hack111>(0x57F412 - 2, 0x57F412 - 2 + 10);
+
+    struct Hack1111
+    {
+        void operator()(injector::reg_pack& regs)
+        {
+            *(uint32_t*)(regs.edx + 0x1990) = 0;
+
+            if (regs.edx + 0x1990 == 0x722034)
+            {
+                if (isRecording)
+                {
+                    ToggleRecording();
+                    isRecording = false;
+                    DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
+                    Sleep(500);
+                    LogRecordingW();
+                    DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
+                }
+
+                *bDisplayHud = 1;
+            }
+        }
+    };
+    injector::MakeInline<Hack1111>(0x528E62 - 2, 0x528E62 - 2 + 10);
 
     struct Hack2
     {
         void operator()(injector::reg_pack& regs)
         {
-            *(uint32_t*)0x722034 = 1;
+            *(uint32_t*)(regs.ebx + 0x1990) = 1;
 
-            auto str = (wchar_t*)m_Message;
-            //if (*(uint32_t*)0x7CF0F0 != 0) //cutscene check
+            if (regs.ebx + 0x1990 == 0x722034)
             {
-                if (wcscmp(str, lastMsg) != 0 && lastMsg[0] != 0)
+                auto str = (wchar_t*)m_Message;
+                //if (*(uint32_t*)0x7CF0F0 != 0) //cutscene check
                 {
-                    if (isRecording)
+                    if (wcscmp(str, lastMsg) != 0 && lastMsg[0] != 0)
                     {
-                        ToggleRecording();
-                        isRecording = false;
-                        DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
-                        Sleep(500);
-                        LogRecordingW();
-                        DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
+                        if (isRecording)
+                        {
+                            ToggleRecording();
+                            isRecording = false;
+                            DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
+                            Sleep(500);
+                            LogRecordingW();
+                            DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
 
-                        ToggleRecording();
-                        isRecording = true;
+                            ToggleRecording();
+                            isRecording = true;
+                        }
+                    }
+                    else
+                    {
+                        if (!isRecording)
+                        {
+                            ToggleRecording();
+                            isRecording = true;
+                        }
                     }
                 }
+                wcscpy(lastMsg, str);
+
+                if (isRecording)
+                    * bDisplayHud = 0;
                 else
-                {
-                    if (!isRecording)
-                    {
-                        ToggleRecording();
-                        isRecording = true;
-                    }
-                }
+                    *bDisplayHud = 1;
             }
-            wcscpy(lastMsg, str);
-
-            if (isRecording)
-                *bDisplayHud = 0;
-            else
-                *bDisplayHud = 1;
-
         }
     }; injector::MakeInline<Hack2>(0x48AE55 - 2, 0x48AE55 - 2 + 10);
 
@@ -137,4 +206,7 @@ void InitMH()
         }
     };
     injector::MakeInline<Hack4>(0x590440, 0x590440 + 7);
+
+    injector::WriteMemory<float>(0x48A409 + 6, *(float*)(0x48A409 + 6) * 1.5f, true);
+    injector::WriteMemory<float>(0x48A413 + 6, *(float*)(0x48A413 + 6) * 1.5f, true);
 }
