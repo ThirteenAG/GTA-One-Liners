@@ -136,40 +136,33 @@ void InitMH()
 
             if (regs.ebx + 0x1990 == 0x722034)
             {
-                auto str = (wchar_t*)m_Message;
                 //if (*(uint32_t*)0x7CF0F0 != 0) //cutscene check
                 {
-                    if (wcscmp(str, lastMsg) != 0 && lastMsg[0] != 0)
+                    if (isRecording)
                     {
-                        if (isRecording)
-                        {
-                            ToggleRecording();
-                            isRecording = false;
-                            DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
-                            Sleep(500);
-                            LogRecordingW();
-                            DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
+                        ToggleRecording();
+                        isRecording = false;
+                        DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
+                        Sleep(500);
+                        LogRecordingW();
+                        DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
 
-                            ToggleRecording();
-                            isRecording = true;
-                        }
+                        ToggleRecording();
+                        isRecording = true;
                     }
                     else
                     {
-                        if (!isRecording)
-                        {
-                            ToggleRecording();
-                            isRecording = true;
-                        }
+                        ToggleRecording();
+                        isRecording = true;
                     }
                 }
-                wcscpy(lastMsg, str);
-
-                if (isRecording)
-                    * bDisplayHud = 0;
-                else
-                    *bDisplayHud = 1;
             }
+            wcscpy(lastMsg, (wchar_t*)m_Message);
+
+            if (isRecording)
+                *bDisplayHud = 0;
+            else
+                *bDisplayHud = 1;
         }
     }; injector::MakeInline<Hack2>(0x48AE55 - 2, 0x48AE55 - 2 + 10);
 
@@ -184,7 +177,7 @@ void InitMH()
                 isRecording = false;
                 DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), true);
                 Sleep(500);
-                wcscpy(lastMsg, L"EXECUTION");
+                //wcscpy((wchar_t*)m_Message, L"EXECUTION");
                 LogRecordingW();
                 DoSuspendThread(GetCurrentProcessId(), GetCurrentThreadId(), false);
             }
