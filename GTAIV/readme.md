@@ -3311,6 +3311,7 @@
 | 0x4A5EC6AD    | https://i.imgur.com/kceHvjw.gif | Not going to leave much residue on the notes either so they should be washable.                                             |
 | 0x4B871D5D    | https://i.imgur.com/NW80u58.gif | Once the situation has been controlled, Derrick's going to rig the vault door with explosive.                               |
 | 0x26AFC6A3    | https://i.imgur.com/Sv1G81U.gif | Niko, when the door blows, I want you and Michael to go down into the vault to get the cash.                                |
+
 ## M_67 (Actions Speak Louder than Words)
 
 | GXT NAME    | GIF LINK                        | SUBTITLE                                                                                                                                  |
@@ -7302,764 +7303,1012 @@
 
 ## 0x6A7A2816 (Misc)
 
-| GXT NAME     | GIF LINK                        | SUBTITLE                                                                                                                         |
-| ------------ | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 0x00FCA8F9   | https://i.imgur.com/xaUSkmx.gif | How many good years have I got left, ten... fifteen? Not many.                                                                   |
-| 0x26A66525   | https://i.imgur.com/bxzsR3U.gif | Yo money, I appreciate what you doing for me. There be so many fake cats out there.                                              |
-| 0x0A00D2C3   | https://i.imgur.com/i6kbhTN.gif | Wha'gwan rasta?                                                                                                                  |
-| 0x0A20026C   | https://i.imgur.com/EujCZAz.gif | The Derrick that came back to Liberty City was broken.                                                                           |
-| 0x0B5AA9DB   | https://i.imgur.com/exq3uxp.gif | I don't know what she is, but she was lying to us all along and now I'm paying for it.                                           |
-| 0x0BE6E215   | https://i.imgur.com/XBVaJZC.gif | Tell him you were sent by a mutual friend. He's expecting you.                                                                   |
-| 0x0D0E82AD   | https://i.imgur.com/st9kmSC.gif | Niko, I told Jimmy P about you. He wants to meet ya.                                                                             |
-| 0x0D73FE93   | https://i.imgur.com/FUZEe6r.gif | I don't know... getting out, doing stuff, not working or fighting with my family. Getting to know you.                           |
-| 0x0D794FBB   | https://i.imgur.com/DTNMooT.gif | I'm saying, would you take my sister, Katie, out for a drink or something?                                                       |
-| 0x0D1191B0   | https://i.imgur.com/HAN13qW.gif | Super! Your interview will be with Mr. Goldberg.                                                                                 |
-| 0x0DED7639   | https://i.imgur.com/OneuUW2.gif | Go check your emails, Niko. Let's hang out soon, okay?                                                                           |
-| 0x0E311CC8   | https://i.imgur.com/1Giwx5N.gif | Just like everyone else in this city. What's your deal?                                                                          |
-| 0x0EA300F5   | https://i.imgur.com/DImDKpD.gif | What's nice?                                                                                                                     |
-| 0x0EAA2153   | https://i.imgur.com/lj299MJ.gif | Have things ever made sense?                                                                                                     |
-| 0x0FD7E9FB   | https://i.imgur.com/9gBpSm1.gif | I'm already working for a Mafia family. They are scum.                                                                           |
-| 0x001DC00E   | https://i.imgur.com/54VkUVM.gif | We'd like to arrange an interview for you at the earliest convenience.                                                           |
-| 0x1A84D593   | https://i.imgur.com/7DAiOsl.gif | You don't get no real music, punk.                                                                                               |
-| 0x1A25202D   | https://i.imgur.com/PzATG4J.gif | I heard that Vlad went missing soon after I left Hove Beach.                                                                     |
-| 0x1BAA3C54   | https://i.imgur.com/B8qJH6i.gif | It's a funny thing that you should mention that to me, brother. Badman is right impressed with what you doing for I an' I.       |
-| 0x1BDE767E   | https://i.imgur.com/bH8SztX.gif | What's up Jacob?                                                                                                                 |
-| 0x1C45C438   | https://i.imgur.com/Ku6ErHr.gif | You remember my man, Dwayne?                                                                                                     |
-| 0x1C625EA0   | https://i.imgur.com/ITyWmsm.gif | Let's hope this thing isn't too heavy for me to carry by myself. Sick.                                                           |
-| 0x1C352588   | https://i.imgur.com/lUPEDDC.gif | I need more drivers for the cab company. I'll pay you properly.                                                                  |
-| 0x1DA595A9   | https://i.imgur.com/XBmFO1X.gif | No, he can take care of that all by himself. Brucie is a major motor head.                                                       |
-| 0x1DB062D1   | https://i.imgur.com/jVYTZ4M.gif | The one who hooked us up with the sweet ride.                                                                                    |
-| 0x1F415AF2   | https://i.imgur.com/HBoNqvG.gif | So, I hear you've found the big bad monster you were after? Bernie Crane, the muscle Mary. Come on.                              |
-| 0x1F2126D2   | https://i.imgur.com/Zng3G8I.gif | Has he got work?                                                                                                                 |
-| 0x1F360766   | https://i.imgur.com/4oebFnR.gif | Not on my watch he don't. Something ain't right.                                                                                 |
-| 0x1F408502   | https://i.imgur.com/aOUHFtJ.gif | Now that I hear you are friends with Bryce Dawkins and Bernie Crane, I know what it is.                                          |
-| 0x1FC13357   | https://i.imgur.com/5ylrtNW.gif | You'd be amazed by the things I've been doing since I cleaned up.                                                                |
-| 0x2A5A1E16   | https://i.imgur.com/tIbwUKf.gif | Come over to me Ma's on Savannah Avenue in Meadows Park.                                                                         |
-| 0x2A20FA1D   | https://i.imgur.com/fgXZB89.gif | Wait here while I make the deal, dude.                                                                                           |
-| 0x2A70ED76   | https://i.imgur.com/hjRE671.gif | What's that film where that guy is on a mountain and he gets chased by that huge boulder?                                        |
-| 0x2A529BCC   | https://i.imgur.com/1XcIAGD.gif | I just took some photos. But, yeah. How you doing now, anyway? You leave that bitch?                                             |
-| 0x2A170187   | https://i.imgur.com/Hu3XRQe.gif | Hello, you have reached United Liberty Paper Merchants. None of our operatives can come to the phone.                            |
-| 0x2AF0FE29   | https://i.imgur.com/Knp6hLR.gif | You know why I killed Faustin. It was not my choice.                                                                             |
-| 0x2B4FBC20   | https://i.imgur.com/6fvn3Km.gif | Pissing all over my couch? Slumlord kicked me out on the street.                                                                 |
-| 0x2B8D96D7   | https://i.imgur.com/Q7zTYev.gif | Damn those blackouts.                                                                                                            |
-| 0x2B33E162   | https://i.imgur.com/72Ql0Qt.gif | Me too.                                                                                                                          |
-| 0x2B62D906   | https://i.imgur.com/n232cRt.gif | He never tells me anything. I heard they took him to a warehouse off Lompoc in Bohan Industrial.                                 |
-| 0x2B75D7EE   | https://i.imgur.com/7pkn5c4.gif | Be smart, friend.                                                                                                                |
-| 0x2CC37A2A   | https://i.imgur.com/4ZVps0f.gif | Niko, Gerald McReary here. Calling from the Alderney State Correctional Facility.                                                |
-| 0x2D6C4ACA   | https://i.imgur.com/NS0gEQs.gif | These guys are fucking scientists.                                                                                               |
-| 0x2D62D62C   | https://i.imgur.com/cCF9awE.gif | So, Nicky, you and the Peg is getting close I see?                                                                               |
-| 0x2D75A3E5   | https://i.imgur.com/H9xYn9O.gif | He likes to party. He stays out late the whole time. You know what he's like.                                                    |
-| 0x2D8255DE   | https://i.imgur.com/d8PyXUe.gif | Next stop - floating on the BAWSAQ. I'll give you shares, NB. Later on.                                                          |
-| 0x2DD76481   | https://i.imgur.com/syek48g.gif | Take your own advice, Jeff. Be calm.                                                                                             |
-| 0x2EF0A739   | https://i.imgur.com/b0paOSS.gif | More out there for ya, eh? Right? More for me and you buddy!                                                                     |
-| 0x2F1BD5D4   | https://i.imgur.com/4Ze5tUl.gif | If you're in need of another file we can discuss it -                                                                            |
-| 0x2FEED01E   | https://i.imgur.com/GBFl8Dv.gif | I'll check it out.                                                                                                               |
-| 0x03EB512B   | https://i.imgur.com/MY5wXv2.gif | He's not going anywhere. Him and Mallorie are only getting married.                                                              |
-| 0x3A0A7B99   | https://i.imgur.com/WGxMZFI.gif | How you doing?                                                                                                                   |
-| 0x3B13D900   | https://i.imgur.com/7eIQg4F.gif | Congratulations on the engagement.                                                                                               |
-| 0x3B78A9F2   | https://i.imgur.com/B0lYYDo.gif | I'm starting to think he's more interested in cards than chasing pussy.                                                          |
-| 0x3B6085B6   | https://i.imgur.com/e5GP6vD.gif | Maybe we do something together?                                                                                                  |
-| 0x3BC713FD   | https://i.imgur.com/qMubEdE.gif | You think I wouldn't have fingered him in a second if he was your guy?                                                           |
-| 0x3BD02159   | https://i.imgur.com/f3hXFe9.gif | I have a client with a problem.                                                                                                  |
-| 0x3C872C4A   | https://i.imgur.com/sNnFy6N.gif | You pretty dumb for a banker. You forgot about interest, bitch.                                                                  |
-| 0x3C874266   | https://i.imgur.com/jnfQkjB.gif | We all have to settle down sometime.                                                                                             |
-| 0x3CD7A707   | https://i.imgur.com/LmhcRVV.gif | I wanna talk about Roman. He's got a problem.                                                                                    |
-| 0x3E04C56B   | https://i.imgur.com/GEp33AA.gif | Well, if I'd a known it was such a big deal to you, I woulda asked you to let them kill me.                                      |
-| 0x3EB9B0F9   | https://i.imgur.com/9VhCQSA.gif | Everything is taken care of, brother.                                                                                            |
-| 0x3EC97E30   | https://i.imgur.com/eU5k33h.gif | Phil's good at that. I only talk business on a hard line.                                                                        |
-| 0x3EEAEC05   | https://i.imgur.com/KDCczJr.gif | Hi Niko.                                                                                                                         |
-| 0x3F3D3F8B   | https://i.imgur.com/pv6FgFp.gif | Wicked, man. Give I a call when you ready for this first run.                                                                    |
-| 0x3F6AA790   | https://i.imgur.com/ETuHpDJ.gif | Niko Bellic, we did not find your body with the others in the warehouse.                                                         |
-| 0x3F61EEB5   | https://i.imgur.com/lbYVPjP.gif | Thing's meant to be bigger than my fist.                                                                                         |
-| 0x3F319ACE   | https://i.imgur.com/lgJSUgG.gif | I'm helping you find the man you're after, I'm not some reunite old boyfriends service. Look, I was in the army.                 |
-| 0x3FAFFA3C   | https://i.imgur.com/4yal2uU.gif | A good use of your assets and shit.                                                                                              |
-| 0x04FBD982   | https://i.imgur.com/m5JUyu1.gif | The target you require is on top of the Booth Tunnel.                                                                            |
-| 0x4A0197B7   | https://i.imgur.com/MLmfCCi.gif | That was fun - but this is goodnight.                                                                                            |
-| 0x4C99F9FB   | https://i.imgur.com/A3J7DwA.gif | Cool. Goodnight, Kate.                                                                                                           |
-| 0x4C4261E6   | https://i.imgur.com/dCw24Ly.gif | You mean I saved your ass?                                                                                                       |
-| 0x4CE9EA27   | https://i.imgur.com/LAakUq1.gif | How did the big real estate deal go?                                                                                             |
-| 0x4DDBC859   | https://i.imgur.com/qxdSQK1.gif | Why youth, him a' doing ting right now, ya no see? Catch up wit 'im girl and ting.                                               |
-| 0x4E0EC793   | https://i.imgur.com/UxaxOgF.gif | Hey man, did you just call me?                                                                                                   |
-| 0x4E59CA13   | https://i.imgur.com/XW17P3X.gif | He's gambling like an animal. Online, in clubs, everywhere. You need to control your cousin bro.                                 |
-| 0x4E078C00   | https://i.imgur.com/9jZsq9y.gif | Bigger than a melon, fucking genius!                                                                                             |
-| 0x4F46BA2F   | https://i.imgur.com/iLLjM99.gif | You see, Niko. You should have gone with your instinct not to trust him.                                                         |
-| 0x4FCB98C4   | https://i.imgur.com/h7UOK5J.gif | You have a sharp tongue, Niko. It is only a matter of time before it is cut out of your mouth.                                   |
-| 0x5A90A066   | https://i.imgur.com/nztGKBp.gif | I love the food in those places but the people are terrible.                                                                     |
-| 0x5A334C46   | https://i.imgur.com/zrNjK27.gif | Sure, just got out of the pen, old friends aren't paying him no mind.                                                            |
-| 0x5A411C46   | https://i.imgur.com/Fs45jLe.gif | Don't worry, he's always being hauled in but the charges don't stick.                                                            |
-| 0x5AAC2571   | https://i.imgur.com/RsRfoNi.gif | The boy over pon Carrollton Street my youth. Come mek a' forward.                                                                |
-| 0x5ADF5229   | https://i.imgur.com/YCpUVAz.gif | I'm sure you do, but you said you'd help me.                                                                                     |
-| 0x5B75B5BB   | https://i.imgur.com/iAsmOwA.gif | Yo, rudeboy, this a' de place.                                                                                                   |
-| 0x5BB9A097   | https://i.imgur.com/MxUTKQy.gif | Niko, how you doing? This is so much fun.                                                                                        |
-| 0x5C2D6BE0   | https://i.imgur.com/dhneUQI.gif | Tell the client that they don't need to worry.                                                                                   |
-| 0x5C07AC70   | https://i.imgur.com/6zvay3Q.gif | Date? This isn't a date, Niko. We're just getting to know each other. We might be friends and that's all.                        |
-| 0x5C29DC1C   | https://i.imgur.com/Ubh9PeN.gif | Alright, Niko. Maybe we do something when you have some free time.                                                               |
-| 0x5CAFE05E   | https://i.imgur.com/2jr7VfA.gif | Drinking their lives away, it's not for me.                                                                                      |
-| 0x5D5E0867   | https://i.imgur.com/70VR5pV.gif | You know the truth when you see it.                                                                                              |
-| 0x5D8AD2DF   | https://i.imgur.com/mZSDeOy.gif | Yeah?                                                                                                                            |
-| 0x5D5603FF   | https://i.imgur.com/B8DV6j9.gif | Nicky, what the fuck is this? Roman's getting hitched?                                                                           |
-| 0x5DE21E23   | https://i.imgur.com/6pdFIYn.gif | Shut the fuck up, Jacob. Niko, I hear you can understand this rasta shit.                                                        |
-| 0x5DFD0339   | https://i.imgur.com/UW4Aket.gif | You seem like you got my back, Niko. Help me out on this one, dog.                                                               |
-| 0x5E957066   | https://i.imgur.com/m722mYH.gif | Trust the higher power... trust the HP.                                                                                          |
-| 0x5EE31466   | https://i.imgur.com/H1h1NHT.gif | I proposed to Mallorie, Niko. She said she would marry me.                                                                       |
-| 0x06A84F68   | https://i.imgur.com/wMsBGUi.gif | You'll be okay. Just chill out.                                                                                                  |
-| 0x6A1B5830   | https://i.imgur.com/nt99ecl.gif | On the down low, I think Playboy wants me dead.                                                                                  |
-| 0x6A11B9A7   | https://i.imgur.com/JpxMNFU.gif | Hey man, we're here to pay back the money my friend here owed you.                                                               |
-| 0x6ABDD165   | https://i.imgur.com/fgrWsgG.gif | Do not mention it.                                                                                                               |
-| 0x6B15577C   | https://i.imgur.com/Q2Uk2o1.gif | Niko, how're you finding things? Have you got enough to do here in Liberty City?                                                 |
-| 0x6C1CAED7   | https://i.imgur.com/3zz4Jke.gif | Cousin, I have bought us a present.                                                                                              |
-| 0x6D0C71F8   | https://i.imgur.com/iCW1Ard.gif | Yeah, that's what he think. He got friends all over the shop but he living in the past.                                          |
-| 0x6D5A4AF8   | https://i.imgur.com/TdqxZnX.gif | A friend of mine saw him at that card club on Hunt Point.                                                                        |
-| 0x6D7C2C80   | https://i.imgur.com/Srp3Kf4.gif | Sure, I'll see you there, Kate. Goodbye.                                                                                         |
-| 0x6D9B40BA   | https://i.imgur.com/TTJsLIF.gif | You think money's gonna do it? Do ya, Mel?                                                                                       |
-| 0x6D76BD4C   | https://i.imgur.com/DS5uxXf.gif | Get over here before I run out of patience and start shooting.                                                                   |
-| 0x6E117B70   | https://i.imgur.com/5w72Ypo.gif | Cousin, how about we play some pool? Remember how we used to hustle those American soldiers back home when the war started?      |
-| 0x6E555FAB   | https://i.imgur.com/kiN2GnB.gif | Okay.                                                                                                                            |
-| 0x6E670A25   | https://i.imgur.com/PsXICix.gif | Nicky, we got to talk serious.                                                                                                   |
-| 0x6F21328A   | https://i.imgur.com/kDS5SIJ.gif | And you still ain't made it yet. But you're the one saving my life.                                                              |
-| 0x7A57F107   | https://i.imgur.com/MwCTes4.gif | She kisses our kid with that mouth. I love her so much.                                                                          |
-| 0x7B3E3D0C   | https://i.imgur.com/qaqXqwi.gif | I always thought that there was something not quite right about you, Niko.                                                       |
-| 0x7BBC3EB7   | https://i.imgur.com/T06iQlD.gif | I'll stick by you 'til the end. Take him out for me.                                                                             |
-| 0x7BC7FE95   | https://i.imgur.com/jKH0TlH.gif | I'd like some work, brother.                                                                                                     |
-| 0x7BD22319   | https://i.imgur.com/ctm66KG.gif | Yeah, yeah, must have been.                                                                                                      |
-| 0x7CA850EE   | https://i.imgur.com/A6SApPn.gif | He's going to send you emails about all the cars he wants and you're going to get them for him.                                  |
-| 0x7CBF9D0E   | https://i.imgur.com/YH14i8K.gif | That's exactly right, he's an old school romantic. See you soon, Mal.                                                            |
-| 0x7EFFC525   | https://i.imgur.com/6WuGE2E.gif | Meet me at the garage off Silicon Street at the north east corner of Middle Park.                                                |
-| 0x7F51E427   | https://i.imgur.com/RTSUeBB.gif | He doesn't want no trouble.                                                                                                      |
-| 0x7FA18013   | https://i.imgur.com/74pyO94.gif | Yeah, let's go.                                                                                                                  |
-| 0x008C01B6   | https://i.imgur.com/kjUy6bV.gif | When you've taken care of something for me, call me on my cellular, but no specifics.                                            |
-| 0x8AF9EC89   | https://i.imgur.com/Tx37dP0.gif | That was a cold streak. Now I'm hot, cousin.                                                                                     |
-| 0x8BB5EBB3   | https://i.imgur.com/9Q0eyvq.gif | Thanks, I'll try to hang in there... I guess. Enjoy the dream.                                                                   |
-| 0x8BCE9AC6   | https://i.imgur.com/ULjSJbl.gif | They liked your shit, man.                                                                                                       |
-| 0x8C91E049   | https://i.imgur.com/eQ21Slw.gif | I need your help.                                                                                                                |
-| 0x8C2434B2   | https://i.imgur.com/hFl7Jt6.gif | I know it gets lonely. I know what it feels like to get close to a man.                                                          |
-| 0x8D50465C   | https://i.imgur.com/Leq63S3.gif | Niko, it's your cousin.                                                                                                          |
-| 0x8DD13743   | https://i.imgur.com/S8XLKdg.gif | Are you coming to Roman's wedding?                                                                                               |
-| 0x8E4D8040   | https://i.imgur.com/A9Ntq62.gif | I guess it's nice be honest for a change.                                                                                        |
-| 0x8E5F4504   | https://i.imgur.com/DoVh4PZ.gif | Mr. Bulgarin and I were very disappointed.                                                                                       |
-| 0x8E290579   | https://i.imgur.com/Ouncv4H.gif | The fucking stupid bastards.                                                                                                     |
-| 0x8FB346D1   | https://i.imgur.com/bKoruMo.gif | Sure, I have an ability to find stuff if the price is right. Give him my number.                                                 |
-| 0x8FD0E631   | https://i.imgur.com/KAC9Lzp.gif | Stop blackmailing my friends, Dimitri. You do not want to anger me more.                                                         |
-| 0x09A49A50   | https://i.imgur.com/ec69S1Y.gif | Hey, is there anything you need done?                                                                                            |
-| 0x09FE6842   | https://i.imgur.com/A9p3iCg.gif | In-fucking-sane. You saved my ass again.                                                                                         |
-| 0x9A2CD9B3   | https://i.imgur.com/u9UUIgJ.gif | I cannot, Michelle. Maybe some other time.                                                                                       |
-| 0x9A10B74A   | https://i.imgur.com/sQ2iCMS.gif | Cool, I guess.                                                                                                                   |
-| 0x9A22FD9C   | https://i.imgur.com/TDusvRi.gif | Sure you are, I'm happy too. Fucking happy. Brucie's ecstatic, homie.                                                            |
-| 0x9A62CD6C   | https://i.imgur.com/9JfOpAT.gif | The client will be pleased to hear that.                                                                                         |
-| 0x9B9CB88A   | https://i.imgur.com/mWckjN6.gif | It is much better than the shit we got back in the Old Country.                                                                  |
-| 0x9BAEA751   | https://i.imgur.com/jiDs7gH.gif | So, what are you showing me?                                                                                                     |
-| 0x9C81A4E4   | https://i.imgur.com/JhdRTdv.gif | Yeah, he wasn't around for much longer. A few people moved away.                                                                 |
-| 0x9C88E157   | https://i.imgur.com/rIP70X8.gif | I was loyal to you, Dimitri. Why did you turn on me?                                                                             |
-| 0x9CF63AE6   | https://i.imgur.com/nA9DAhX.gif | Please leave a message.                                                                                                          |
-| 0x9E0FE019   | https://i.imgur.com/KDzrFRY.gif | I will smoke you out of any other hiding place you have in this city. See you soon, Niko.                                        |
-| 0x9F5EB290   | https://i.imgur.com/i4jc39h.gif | Dry now though, dry as a bone.                                                                                                   |
-| 0x11E61EA9   | https://i.imgur.com/1e1gGc4.gif | This a real sound investment you making.                                                                                         |
-| 0x12F84694   | https://i.imgur.com/Grh2XI9.gif | Hey Gerry. I heard you'd been locked up, I'm sorry to hear that.                                                                 |
-| 0x015EEA7F   | https://i.imgur.com/dp3ttnb.gif | There isn't any good way to go though, is there?                                                                                 |
-| 0x16C91FDF   | https://i.imgur.com/aQCyB0e.gif | Where?                                                                                                                           |
-| 0x16EAB016   | https://i.imgur.com/VMw0FI2.gif | Niko, I think Roman has been kidnapped. I heard he owes some Russians money.                                                     |
-| 0x17ADB662   | https://i.imgur.com/NLB1I03.gif | I'm looking to earn some money, friend.                                                                                          |
-| 0x17BFDCDC   | https://i.imgur.com/H6A6S4M.gif | And I am one dangerous motherfucker, okay? Put him in Gamblers Anonymous or something.                                           |
-| 0x17C3481B   | https://i.imgur.com/1VNUk0I.gif | Yeah, but this ain't no rock - it's a fucking boulder. This shit's gonna blast me to the moon.                                   |
-| 0x17C46451   | https://i.imgur.com/B5qQoKX.gif | She don't get out much and she sure as hell don't go on dates. We're starting to worry.                                          |
-| 0x18CFF0EC   | https://i.imgur.com/8LHasdf.gif | You remember my brother Derrick, came along on the bank job?                                                                     |
-| 0x019EA2F1   | https://i.imgur.com/nrocwwU.gif | You been a useful set of hands. Look after yourself.                                                                             |
-| 0x23A347AC   | https://i.imgur.com/6oUPlK7.gif | Niko Bellic, I know who you are, brother. You're after some money.                                                               |
-| 0x23B90744   | https://i.imgur.com/OyIAl1t.gif | I can free that period up in my schedule.                                                                                        |
-| 0x24DE490F   | https://i.imgur.com/2uWwCOQ.gif | Remember to wear a suit, Niko. We can't have you dressed like a bum in the church.                                               |
-| 0x24F21470   | https://i.imgur.com/m5LfBH0.gif | This is a voice from your past Niko. Can you guess who it is?                                                                    |
-| 0x25D7D70F   | https://i.imgur.com/EHcKgG7.gif | Nicky, this is Ray Boccino. The man keeping your Irish friends in liquor.                                                        |
-| 0x18F42DD3   | https://i.imgur.com/fg9KtHl.gif | This is step number nine in the program. I'm making amends to all those I harmed. Expensive process.                             |
-| 0x7F0E0C01   | https://i.imgur.com/ybAd6y5.gif | Good. Got a little business opportunity I need your help with.                                                                   |
-| 0x6CFDB09B   | https://i.imgur.com/BZJ0yGU.gif | Now all we need to do is find you a wife and we can all settle down happily ever after.                                          |
-| 0x24572E4B   | https://i.imgur.com/YiJLLBX.gif | Can't you remember coming over to my place and throwing the TV out the window?                                                   |
-| 0x27AABC7B   | https://i.imgur.com/UgdDlxm.gif | Good thing you haven't been hanging around with them too much. That shit is fucked up. I'm sorry for getting you involved.       |
-| 0x28D4E4A3   | https://i.imgur.com/9Nr55RE.gif | Brucie don't need to settle down just yet.                                                                                       |
-| 0x31B7E3D5   | https://i.imgur.com/TXbed0h.gif | I come to people like you when I need someone handled. Do you get me, brother?                                                   |
-| 0x31C5D1BB   | https://i.imgur.com/0L38R5V.gif | Hey Kate, I am sorry to hear about your brother.                                                                                 |
-| 0x34ACAFDA   | https://i.imgur.com/Tg9CuXR.gif | I will cut you in Niko. Let's be friends.                                                                                        |
-| 0x34F8099F   | https://i.imgur.com/sBAFRdB.gif | We're back on top, Niko. The Pegorinos is still somebody.                                                                        |
-| 0x35E842F9   | https://i.imgur.com/BPIoDld.gif | It's super fancy, but I'm too hungry to care.                                                                                    |
-| 0x37A5B672   | https://i.imgur.com/Hr7CFZv.gif | You could say I cut some ties.                                                                                                   |
-| 0x38BD0CB8   | https://i.imgur.com/thOwoND.gif | Might just let him do it, put a cap in my dome. End it all.                                                                      |
-| 0x38EAB3EC   | https://i.imgur.com/DQyXnUU.gif | How am I gonna cope out here? Who knows what I did when I was on the sauce?                                                      |
-| 0x41EE4A5D   | https://i.imgur.com/NCa7JsV.gif | Persuade them to give up the contracts. We can work together.                                                                    |
-| 0x41EE44ED   | https://i.imgur.com/GJurfK3.gif | There be a lot of work so call whenever, you know. One love, bredren.                                                            |
-| 0x43DB74DC   | https://i.imgur.com/6bX0jN4.gif | Niko. The shit went down with those guys in Bohan. Elizabeta's doing a bid. I think she might have killed Manny.                 |
-| 0x44E890D3   | https://i.imgur.com/eIoTf83.gif | I'd like some work, my friend. You got anything?                                                                                 |
-| 0x46B32602   | https://i.imgur.com/QUOubln.gif | Anyway, that's how I gonna feel when this shit's chasing me round my head.                                                       |
-| 0x46C4D254   | https://i.imgur.com/kyF1f1e.gif | Be cool, brother. Keep your senses alert and you might make retirement.                                                          |
-| 0x47F3AB25   | https://i.imgur.com/0UW3egp.gif | That what you want? Seriously?                                                                                                   |
-| 0x48F420D9   | https://i.imgur.com/BLnehTx.gif | Pick me up in the next hour.                                                                                                     |
-| 0x49A133E5   | https://i.imgur.com/Jryi5wI.gif | We gotta discuss something. I've put you on the visitors list here. Come down...                                                 |
-| 0x49B587CC   | https://i.imgur.com/Hzz2SIU.gif | You don't normally take the guys you date back to meet the family?                                                               |
-| 0x51B14207   | https://i.imgur.com/5JUPAqo.gif | Peace, man.                                                                                                                      |
-| 0x51FFD157   | https://i.imgur.com/8XWDIx8.gif | Alright man.                                                                                                                     |
-| 0x56C94E1B   | https://i.imgur.com/hn52Qli.gif | I'm more gangster than you ever gonna know, punk.                                                                                |
-| 0x57BA9899   | https://i.imgur.com/0ufO3lv.gif | You know Roman, I haven't been having that much fun since I got here. Has been a lot like hard work.                             |
-| 0x058D37C1   | https://i.imgur.com/DU8fz42.gif | Where is Jacob?                                                                                                                  |
-| 0x60CFB190   | https://i.imgur.com/k7kuRV6.gif | Gonna last me weeks.                                                                                                             |
-| 0x061B6C9D   | https://i.imgur.com/aRWWXri.gif | Mr. Bellic. This is Karen from Goldberg, Ligner and Shyster.                                                                     |
-| 0x63AF17B1   | https://i.imgur.com/LJ1LomW.gif | Niko, shit is getting fucked up. I need to see you at my crib.                                                                   |
-| 0x67E8FD29   | https://i.imgur.com/G1RiOcm.gif | If you want my advice, the only way you're going to get your balls back to normal is if you stop juicing or you get implants.    |
-| 0x69E37C81   | https://i.imgur.com/TlZCtJO.gif | You robbed Bulgarin, you killed Mikhail. You know no more of loyalty than I do.                                                  |
-| 0x71CFB3F2   | https://i.imgur.com/MRcijg3.gif | Make it a memorial to Union workers who've died in accidents.                                                                    |
-| 0x72B4810A   | https://i.imgur.com/BSOOPIs.gif | Well, we do what we can to survive, Kate.                                                                                        |
-| 0x76AFC3F5   | https://i.imgur.com/AHh3Gtq.gif | It wasn't so long ago that your debts got you kidnapped by the Russian mob.                                                      |
-| 0x79D94A50   | https://i.imgur.com/X5sz4Lp.gif | You bought it, or I did?                                                                                                         |
-| 0x80FAB1AE   | https://i.imgur.com/OarR34w.gif | He is a good friend of mine, he'll be a good friend of yours too if you let him.                                                 |
-| 0x81C89ECE   | https://i.imgur.com/yUFIxAt.gif | They made sense inside. Three meals a day, time in the yard, lockdown at eight.                                                  |
-| 0x84C6AF7A   | https://i.imgur.com/Ig7Gnem.gif | Shit, you want that back? I thought it was a gift, B. You and us being so tight and all.                                         |
-| 0x84DF1569   | https://i.imgur.com/FkDZP2V.gif | I need you to go over to the Governor Greg Johnson projects over in Northwood,                                                   |
-| 0x86D11662   | https://i.imgur.com/ibfBqHW.gif | Thank you, Bryce Dawkins. I hope the cash for this didn't come out of city funds.                                                |
-| 0x87C5EFB6   | https://i.imgur.com/NjyyiZt.gif | You bout feel me teeth now!                                                                                                      |
-| 0x88DBC0B6   | https://i.imgur.com/jHkjm5M.gif | Niko, it's Roman.                                                                                                                |
-| 0x88FDD88B   | https://i.imgur.com/C6yu41v.gif | What do you want, Dimitri?                                                                                                       |
-| 0x89D78CDB   | https://i.imgur.com/m5GMq1E.gif | I have no debts to Bulgarin, Dimitri.                                                                                            |
-| 0x91A76B27   | https://i.imgur.com/tC1QYcH.gif | That's them. Do you mind waiting here?                                                                                           |
-| 0x93FABFD4   | https://i.imgur.com/FsoG9Qn.gif | I owe that fool - ain't payback a bitch? Peace out, money.                                                                       |
-| 0x98BB70C5   | https://i.imgur.com/Vv0C7F0.gif | Well, you've been spending time with the rest of my family, I figured you may as well complete the set.                          |
-| 0x98CFF2BF   | https://i.imgur.com/yi6VqU3.gif | He want know if you want deliver some package around town to some various people and ting inna the city.                         |
-| 0x98DC9F1D   | https://i.imgur.com/WvWdv6C.gif | I thought all I'd been doing since I got here was helping you out.                                                               |
-| 0x99CBB819   | https://i.imgur.com/kChqEWN.gif | That sounds good.                                                                                                                |
-| 0x119B3B13   | https://i.imgur.com/gnrnlCe.gif | he holding up there and needs help with some shit. You assist his broke ass, I'll send some paper your way.                      |
-| 0x134AA16F   | https://i.imgur.com/zNTyZf8.gif | This is great news, Niko. I got the insurance money for the cab depot burning down.                                              |
-| 0x136DFD79   | https://i.imgur.com/tX95knf.gif | Apart from those other ones you screw, right?                                                                                    |
-| 0x140EE8B3   | https://i.imgur.com/JGlvXAd.gif | Niko, it's Dimitri.                                                                                                              |
-| 0x168BE019   | https://i.imgur.com/6zccdkB.gif | Sure, Brucie. Thanks for the heads up.                                                                                           |
-| 0x169A402E   | https://i.imgur.com/Ri97ahL.gif | Sure, sure. Enjoy all that extra pussy then, Brucie. See you around.                                                             |
-| 0x171C552C   | https://i.imgur.com/IXPtpYv.gif | What made you want to get clean?                                                                                                 |
-| 0x201D490D   | https://i.imgur.com/IIpBT57.gif | This don't necessarily mean she's cheating on you.                                                                               |
-| 0x203F9712   | https://i.imgur.com/bh5Yo7W.gif | Niko, I'm offended. I've got us an apartment in Algonquin. What did I say when you got here?                                     |
-| 0x221A70DB   | https://i.imgur.com/rHeggQK.gif | My youth, listen, you a righteous youth, my youth. Jacob tell me about you long time.                                            |
-| 0x249A8E00   | https://i.imgur.com/ggnzIzp.gif | I understand. This is not the type of thing you want to develop a taste for.                                                     |
-| 0x260BA05C   | https://i.imgur.com/VCeYv25.gif | You animal. Awooo!                                                                                                               |
-| 0x343C0901   | https://i.imgur.com/E8N7n60.gif | Shit, I know what it like to not be appreciated in my own time.                                                                  |
-| 0x357A184C   | https://i.imgur.com/hdLXz3d.gif | How many times I have to tell you homie, my balls are golden. Okay?                                                              |
-| 0x368E6BA2   | https://i.imgur.com/3RsoJxo.gif | Can I come in?                                                                                                                   |
-| 0x376F6AC9   | https://i.imgur.com/AoxfMER.gif | Thanks for helping me, dude.                                                                                                     |
-| 0x389CBA9B   | https://i.imgur.com/jr1naqg.gif | Anyway, if you're in need of extra funds I'm in need of a good man.                                                              |
-| 0x426E5921   | https://i.imgur.com/NqbjStR.gif | No man, this means something.                                                                                                    |
-| 0x428C5F76   | https://i.imgur.com/E2MvSJg.gif | Niko, my friend Brucie has a business proposition for us.                                                                        |
-| 0x471F0EA3   | https://i.imgur.com/Q0j9fod.gif | People come to me when they need something handled.                                                                              |
-| 0x509C247A   | https://i.imgur.com/AII7W36.gif | I got rid of that body for you. You should be clean.                                                                             |
-| 0x533BFABC   | https://i.imgur.com/0x9fAiQ.gif | I'm the big shot money lender who screws his hot apple pie American fiancée three times a week.                                  |
-| 0x552D2A12   | https://i.imgur.com/LQ5rxwk.gif | The target's over in the Acter Industrial Park.                                                                                  |
-| 0x559C1F0C   | https://i.imgur.com/2MmW94Q.gif | whoa, like the fucking sprinkler had gone off.                                                                                   |
-| 0x606E2D60   | https://i.imgur.com/fUNvQz0.gif | The target's on a boat trip in the canal between Tudor and Acter.                                                                |
-| 0x622B1AEC   | https://i.imgur.com/vX4ubUf.gif | Penthouse, model on each arm.                                                                                                    |
-| 0x625A1E25   | https://i.imgur.com/4h7uPq1.gif | That's a pretty heavy request, Dwayne -                                                                                          |
-| 0x640BF7D1   | https://i.imgur.com/7fbTRlT.gif | I was talking to Brucie...                                                                                                       |
-| 0x681A04EB   | https://i.imgur.com/5muYzHK.gif | What're you talking about, man?                                                                                                  |
-| 0x686E2772   | https://i.imgur.com/PzSeGq5.gif | And you have paid for this place?                                                                                                |
-| 0x0700CDBE   | https://i.imgur.com/F6MKZsQ.gif | Why didn't I fucking control myself?                                                                                             |
-| 0x716BCB66   | https://i.imgur.com/hJaZXDN.gif | Yeah, he's got stuff that needs doing. Head over to his house off of Beaverhead in Westdyke.                                     |
-| 0x722BFFF9   | https://i.imgur.com/vUBUqcJ.gif | Hey, Kate. I decided to work with that guy.                                                                                      |
-| 0x762F51E6   | https://i.imgur.com/QEEOWFD.gif | You got a lot of debt to pay, Mel.                                                                                               |
-| 0x773EB5B8   | https://i.imgur.com/GybeWl9.gif | That's something I won't be able to forget.                                                                                      |
-| 0x787F7163   | https://i.imgur.com/ojNkeoH.gif | Uhhh... hello? I'm a friend of Phil's.                                                                                           |
-| 0x818EE2C5   | https://i.imgur.com/Jpqy5qo.gif | This is where they should be. Can you clear things up with him?                                                                  |
-| 0x825BD262   | https://i.imgur.com/UkkOzDm.gif | Thanks, man. I'll catch you around.                                                                                              |
-| 0x835CD010   | https://i.imgur.com/9Olr5pF.gif | I have to admit, that was not my first thought when I heard. I'm happy for him.                                                  |
-| 0x861F55AB   | https://i.imgur.com/lMHZnUJ.gif | Niko, it's Patrick McReary. You and me did some work for Elizabeta Torres together.                                              |
-| 0x869D25D1   | https://i.imgur.com/78XxtT7.gif | Did you get it?                                                                                                                  |
-| 0x889F90F1   | https://i.imgur.com/AR5dDNe.gif | You a righteous youth my youth.                                                                                                  |
-| 0x910B3D53   | https://i.imgur.com/3yy24LV.gif | Things out here is mad crazy.                                                                                                    |
-| 0x946C50DA   | https://i.imgur.com/CwhT6Gr.gif | Niko, tell me it weren't you that shot up the strip club in Bohan.                                                               |
-| 0x966AE18C   | https://i.imgur.com/9AGZuQl.gif | Look, I ain't a pimp or nothing.                                                                                                 |
-| 0x1273A585   | https://i.imgur.com/LXsRT0Q.gif | I get you.                                                                                                                       |
-| 0x1801AC4C   | https://i.imgur.com/bhADnd8.gif | I cannot believe that you would steal from my friend Ray Bulgarin twice.                                                         |
-| 0x2146BA1A   | https://i.imgur.com/NhYkIUc.gif | Press the buzzer and we'll let you in. Have a nice day.                                                                          |
-| 0x2289CA13   | https://i.imgur.com/NTM6Swm.gif | Okay, you and Badman got any more work you need help with?                                                                       |
-| 0x2370A465   | https://i.imgur.com/J6iHAmf.gif | Sorry, cousin. I have no time to play pool right now.                                                                            |
-| 0x2384C03B   | https://i.imgur.com/E1ZZFkl.gif | Why don't you just pay him what you owe and we can all get along?                                                                |
-| 0x2834DF5F   | https://i.imgur.com/TPZw1vj.gif | I don't normally socialize with Packie's gangster friends, but sure.                                                             |
-| 0x2903E0FD   | https://i.imgur.com/0xQRJ2w.gif | I was wondering if you wanted to come out with me sometime?                                                                      |
-| 0x3036E56D   | https://i.imgur.com/zVOfjeJ.gif | Alright me man, Niko. How's it going?                                                                                            |
-| 0x3093A1BC   | https://i.imgur.com/akPD4SR.gif | I nearly ran into your cousin the other day. My friends were hanging out with him.                                               |
-| 0x3747EDE2   | https://i.imgur.com/NysvtDQ.gif | I'll stop by, man. I'll see you there.                                                                                           |
-| 0x4061E472   | https://i.imgur.com/EJz7eaA.gif | This is nice, isn't it?                                                                                                          |
-| 0x4326FAAF   | https://i.imgur.com/0LS610D.gif | That's it. But it's nice. I'm enjoying myself.                                                                                   |
-| 0x4748CF31   | https://i.imgur.com/Nq7N9cb.gif | The target is in a car, they're moving around Alderney.                                                                          |
-| 0x5116E2CD   | https://i.imgur.com/bwzT8ND.gif | Take them out.                                                                                                                   |
-| 0x5817D8EA   | https://i.imgur.com/v6GOOjA.gif | You, who has so many enemies?                                                                                                    |
-| 0x5970FE15   | https://i.imgur.com/AZnKig1.gif | Putanesca. There was always something funky about her. I'm real sorry.                                                           |
-| 0x6402AEEF   | https://i.imgur.com/GUhSGQr.gif | Just call me whenever you want to take a fare. You can do as many as you like, Niko.                                             |
-| 0x6427C328   | https://i.imgur.com/cv6yBXL.gif | The stupid bastards thought it was an electrical fire, not arson.                                                                |
-| 0x6436CF63   | https://i.imgur.com/0MZecRj.gif | They're over on Onion, just off Asparagus Avenue.                                                                                |
-| 0x6841D3AD   | https://i.imgur.com/Y4STfwE.gif | Any time you want to race, give me a call and I'll hit you up with a location.                                                   |
-| 0x7429EE2A   | https://i.imgur.com/r5mCH0o.gif | Teach him for sticking his nose in other peoples' business and get the files.                                                    |
-| 0x7947F3E1   | https://i.imgur.com/bC0d27N.gif | Yeah, I think I've got enough on my plate at the moment, Roman.                                                                  |
-| 0x8010C4EB   | https://i.imgur.com/twx6R8f.gif | Can't use you no more though.                                                                                                    |
-| 0x8347D414   | https://i.imgur.com/9iWjtCm.gif | So what, I took on a little debt?                                                                                                |
-| 0x8413FBFB   | https://i.imgur.com/7aEhTyu.gif | And you shoulda seen the can after I was done with it,                                                                           |
-| 0x9237AA49   | https://i.imgur.com/u0sH92w.gif | Perfect, the smug bastard ain't gonna know what's coming at him.                                                                 |
-| 0x09308E4C   | https://i.imgur.com/ySz0CgG.gif | I asked my sponsor to come along but he says this is something I got to do without him.                                          |
-| 0x9327E513   | https://i.imgur.com/57ZOzmj.gif | The world can mess you up, y know?                                                                                               |
-| 0x9638DC2A   | https://i.imgur.com/kRbzPJx.gif | That 'roid monkey?                                                                                                               |
-| 0x9800ABE6   | https://i.imgur.com/8FDqyio.gif | my problem hurt a lot of people.                                                                                                 |
-| 0x11516D2B   | https://i.imgur.com/CM3hNKy.gif | I need you to come around to my place Niko. Please, come soon.                                                                   |
-| 0x13074D0E   | https://i.imgur.com/dG8M81q.gif | I don't wanna spend them staring into the bottom of a glass.                                                                     |
-| 0x13764E5D   | https://i.imgur.com/iyoTUzm.gif | Yo Nicky, what's up homie? Our boy, Stevie, hit me up.                                                                           |
-| 0x16713BD8   | https://i.imgur.com/0P3Zwcd.gif | Okay, that could be interesting.                                                                                                 |
-| 0x17585B57   | https://i.imgur.com/LUGDpZj.gif | Sure Badman, some Russians been up in my face as well.                                                                           |
-| 0x19708C53   | https://i.imgur.com/JtW2T74.gif | I can't do it myself. He was my boy back in the day.                                                                             |
-| 0x22908C5D   | https://i.imgur.com/FObrb6q.gif | Nah, fuck that shit. I ain't ready to go out yet. I need you to get him for me.                                                  |
-| 0x29E97AC6   | https://i.imgur.com/Bfu0ha2.gif | Positive thinking is what it's all about.                                                                                        |
-| 0x077BF0C6   | https://i.imgur.com/7cMP6G3.gif | the courage to change the things you can, and the wisdom to know the difference. Right, dude?                                    |
-| 0x82B52D6C   | https://i.imgur.com/PsVliCF.gif | You asked me to help out Dwayne, that's what I was doing.                                                                        |
-| 0x215DF7CB   | https://i.imgur.com/6GhOwP5.gif | I don't want a full stomach for the stuff I have to do. Another time...                                                          |
-| 0x1456EAC5   | https://i.imgur.com/zjBGuud.gif | Yeah, you're right. Just chill out.                                                                                              |
-| 0x0220CE89   | https://i.imgur.com/LY0PLVY.gif | Gravelli is the only man who can get what you need done. He's in Schottler Medical center.                                       |
-| 0x510C9E71   | https://i.imgur.com/EpN2cV6.gif | The bitch, the cum-guzzling bitch.                                                                                               |
-| 0x603CBC5F   | https://i.imgur.com/WeUBgzk.gif | That said, it's a lot harder to ask people to write off the emotional debts than the financial ones...                           |
-| 0x8619DC86   | https://i.imgur.com/j89uHnh.gif | That cat ain't got no vision, wants to shut down the site and shit.                                                              |
-| 0xC33411C5   | https://i.imgur.com/CzhQYrc.gif | I hear you need work. I wanna throw you a bone, Nicky.                                                                           |
-| 0x29279BA7   | https://i.imgur.com/Spfkax6.gif | The big man's hanging up his hunting rifle?                                                                                      |
-| 0x37434F51   | https://i.imgur.com/9BelYaH.gif | It's three men, they've been lured to an old building in Alderney City.                                                          |
-| 0x41881EB2   | https://i.imgur.com/C3UiUvm.gif | I don't know if it was the right decision but I did it. He screwed me over again.                                                |
-| 0x45192AB3   | https://i.imgur.com/5sUSMnK.gif | Yo don't nobody treat the Pathos like that.                                                                                      |
-| 0x53496FEA   | https://i.imgur.com/KgzGuRb.gif | You think I'm getting old? I've got the abs of a seventeen year old gymnast and the forehead of a toddler, baby.                 |
-| 0x58212E71   | https://i.imgur.com/o4M2PHT.gif | Thanks, man. Can you take me back to where we were before?                                                                       |
-| 0x60216CE4   | https://i.imgur.com/HD5VMoY.gif | You know that youth. He love 'im girl and ting, ya no know?                                                                      |
-| 0x65243FA1   | https://i.imgur.com/6PtJ7Dq.gif | Take me back to my place on Wappinger.                                                                                           |
-| 0x68387A29   | https://i.imgur.com/4ZzWPal.gif | You'll get your normal rate to assist them with it.                                                                              |
-| 0x71077E79   | https://i.imgur.com/TH0k4sJ.gif | You could have told me he was here.                                                                                              |
-| 0x71780E65   | https://i.imgur.com/D4OYrGc.gif | I was in the shower and I heard the phone ringing so I thought you mighta called or something. My bad. Later.                    |
-| 0x72140A15   | https://i.imgur.com/yeNIhK9.gif | Hey, home boys. Hit me up with that paper you borrowed.                                                                          |
-| 0x73304D4A   | https://i.imgur.com/WcQ4BV6.gif | There are always more customers.                                                                                                 |
-| 0x73908F23   | https://i.imgur.com/B4G5bJq.gif | Don't help him out when it fucks up my business interests. Damn, son. That ain't cool.                                           |
-| 0x75994B5D   | https://i.imgur.com/4rvCqzC.gif | I and I am a bred' that goin' mash the ting ya know. crossed the wrong rasta, rudeboy.                                           |
-| 0x82944E21   | https://i.imgur.com/xWdxdi4.gif | Niko. I'm getting worried. Roman didn't get back at all last night.                                                              |
-| 0x84750EC4   | https://i.imgur.com/2NzAlga.gif | I have an interview with Goldberg tomorrow.                                                                                      |
-| 0x092368DE   | https://i.imgur.com/XMR23YM.gif | Hotter than the models we'll be bedding. I can't lose.                                                                           |
-| 0x93860DF1   | https://i.imgur.com/kEzg6pR.gif | Niko, now that you've settled into life in Liberty City,                                                                         |
-| 0x93928EE8   | https://i.imgur.com/0O4gduM.gif | I just hope he was smacked out of his brain when it happened because it wouldn't have suited him to be jonesing when he died.    |
-| 0x95197A32   | https://i.imgur.com/VXigA2y.gif | Hey, this Mallorie. Leave me a message and I'll hit you back.                                                                    |
-| 0x149878BF   | https://i.imgur.com/798Dl4n.gif | Go to Alderney City.                                                                                                             |
-| 0x212719E1   | https://i.imgur.com/5Xorq4V.gif | He going to pay me to pump him full of steroids and tell him how great his abs are?                                              |
-| 0x327129AD   | https://i.imgur.com/EuYfAYq.gif | A man loses taste for this kind of work after a time. I can't run that risk with a partner.                                      |
-| 0x538392E9   | https://i.imgur.com/8JzzctV.gif | I love it, man.                                                                                                                  |
-| 0x545298E9   | https://i.imgur.com/CMUauZ9.gif | He owed them money?                                                                                                              |
-| 0x545510B6   | https://i.imgur.com/hMQuqpR.gif | I only get you the prices I do because I am known for reliability.                                                               |
-| 0x656445A4   | https://i.imgur.com/QxcYoEc.gif | Mos def.                                                                                                                         |
-| 0x0659356E   | https://i.imgur.com/B6EX0ay.gif | with a bottom feeder like you?                                                                                                   |
-| 0x738746B6   | https://i.imgur.com/7MibCh0.gif | Don't worry. I'll make sure everything's cool.                                                                                   |
-| 0x853876F4   | https://i.imgur.com/scRkLBQ.gif | Make sure they don't come back.                                                                                                  |
-| 0x911701B6   | https://i.imgur.com/A8mpDFc.gif | Roman hasn't spoken to you about anything, has he? Nothing about maybe asking me to marry him?                                   |
-| 0x01919302   | https://i.imgur.com/pQoQaD3.gif | Can you get us a car?                                                                                                            |
-| 0x02491388   | https://i.imgur.com/yA25KD5.gif | Kate, it is Niko. We met with your brother, Packie.                                                                              |
-| 0x4245451F   | https://i.imgur.com/jCPao8H.gif | I have nothing to say to you.                                                                                                    |
-| 0x4307336E   | https://i.imgur.com/TejSo2r.gif | He's getting involved with some serious cats, homie. Even people I might think twice about dealing with.                         |
-| 0x4377463E   | https://i.imgur.com/Q7Bfg5m.gif | Alright man, I'll go find him.                                                                                                   |
-| 0x04410091   | https://i.imgur.com/xL4c0bK.gif | Really?                                                                                                                          |
-| 0x7973568C   | https://i.imgur.com/HLzrdW0.gif | No comment.                                                                                                                      |
-| 0x9372748F   | https://i.imgur.com/abBaL7i.gif | Man, I'm going to immortalize you. Keep it real, from your man Pathos.                                                           |
-| 0x09394574   | https://i.imgur.com/faZw7Zu.gif | And that ain't cool. You dig?                                                                                                    |
-| 0x9841176B   | https://i.imgur.com/r0C8LIA.gif | I was wondering if you could start to help your cousin with the family business?                                                 |
-| 0x9952324E   | https://i.imgur.com/vXJnoMe.gif | Yo, rudeboy, I catch you around an ting man, one love, rasta.                                                                    |
-| 0x15558148   | https://i.imgur.com/3auXtu0.gif | You don't even know her, Roman so please try not to embarrass me.                                                                |
-| 0x18893215   | https://i.imgur.com/H5AVKLF.gif | Positive, that's me.                                                                                                             |
-| 0x26005307   | https://i.imgur.com/2QU9eQ0.gif | Alright, man. You got any work for me?                                                                                           |
-| 0x29351481   | https://i.imgur.com/NiW8XvZ.gif | Oh boy, that shook me up, man. The stress was too much.                                                                          |
-| 0x34856553   | https://i.imgur.com/ji7Mog9.gif | You are in debt to him, Niko.                                                                                                    |
-| 0x35199793   | https://i.imgur.com/Nncrg4D.gif | Roman's a grown up. He can look after himself, Brucie.                                                                           |
-| 0x44743054   | https://i.imgur.com/YOVLWva.gif | Fuck man, you are the boy. I'll call Stevie.                                                                                     |
-| 0x45413828   | https://i.imgur.com/H5GKjA0.gif | Take me over to Masterson Street.                                                                                                |
-| 0x46266377   | https://i.imgur.com/BuFrBh5.gif | Me check the man here.                                                                                                           |
-| 0x58628968   | https://i.imgur.com/Nfseqw5.gif | Yo, me need a drop to Meadow Hills.                                                                                              |
-| 0x65483672   | https://i.imgur.com/BBZqqEV.gif | I hear the real America is all strip malls and clinical obesity?                                                                 |
-| 0x76566785   | https://i.imgur.com/uHRmsRK.gif | Maybe it was an accident.                                                                                                        |
-| 0x79592637   | https://i.imgur.com/349ezGD.gif | It is now time to collect from the client.                                                                                       |
-| 0x79623188   | https://i.imgur.com/QZEtNgo.gif | I hope so, man, I do.                                                                                                            |
-| 0x82993756   | https://i.imgur.com/yhMaKiU.gif | Don't worry about it.                                                                                                            |
-| 0x87929076   | https://i.imgur.com/aplcoXn.gif | Well, if you need some down time go hang out at the apartment and watch some American TV.                                        |
-| 0x89480663   | https://i.imgur.com/KtywVt8.gif | Obviously, the DTs hit me pretty hard when I first got sober.                                                                    |
-| 0x97576051   | https://i.imgur.com/APYKJnt.gif | He's in a bad way. Last I heard he was spending his hours in some park in Acter.                                                 |
-| 0x98722562   | https://i.imgur.com/mL52tun.gif | This your place?                                                                                                                 |
-| 0xA1FCC54A   | https://i.imgur.com/Wd52VJL.gif | Most of the shit on TV in the Old Country was from America, don't you remember, Roman?                                           |
-| 0xA4AA5048   | https://i.imgur.com/xgCh3bo.gif | You free? Want to hang out or something?                                                                                         |
-| 0xA4BAAD1A   | https://i.imgur.com/L4nLazw.gif | Rather than me keeping secrets about my family from you, you're probably keeping secrets about my family from me?                |
-| 0xA4EA0897   | https://i.imgur.com/O6lmsEn.gif | Make you tink that tings matter, when all that matter is that the sun come up and we have good time and laughter and ting, seen? |
-| 0xA4FE136C   | https://i.imgur.com/1EYCbdE.gif | I'm always in need of money. See you there.                                                                                      |
-| 0xA6D82D38   | https://i.imgur.com/iQPGaZk.gif | What's up, Mallorie?                                                                                                             |
-| 0xA6EB3C00   | https://i.imgur.com/GK2OzN9.gif | It's hard for my ma. I'm trying to be there for her.                                                                             |
-| 0xA7FFF950   | https://i.imgur.com/PmxJIoO.gif | You uphill you know, Niko? Even for a shotta.                                                                                    |
-| 0xA9FA7B5F   | https://i.imgur.com/5x9uKAq.gif | He's going to be in touch with you about some cars he needs found. If you catch my meaning?                                      |
-| 0xA25C40FF   | https://i.imgur.com/sc9g0yP.gif | You love to disappoint me, Niko Bellic. You really do.                                                                           |
-| 0xA31FA7C4   | https://i.imgur.com/m8VIL5D.gif | They're just over on Berners Road.                                                                                               |
-| 0xA46FE186   | https://i.imgur.com/NysFH6d.gif | If you want more files, you can reach me on the outside line.                                                                    |
-| 0xA49F3261   | https://i.imgur.com/kBsFCfj.gif | Ha ha. I'm sitting here with Brucie.                                                                                             |
-| 0xA52F65FF   | https://i.imgur.com/sSlgIVo.gif | I can't believe you could care about money that much.                                                                            |
-| 0xA67E3A60   | https://i.imgur.com/FwOr9nA.gif | You have, you have, but I mean officially.                                                                                       |
-| 0xA85EED27   | https://i.imgur.com/qp4ghRN.gif | I've already helped you but I'll help you again. Wait for me to be in touch.                                                     |
-| 0xA399D518   | https://i.imgur.com/GPYxVkx.gif | Niko, my boy, this is Packie's brother Gerald McReary.                                                                           |
-| 0xA0822A2B   | https://i.imgur.com/UrbHYlP.gif | Well, we're sitting here and calling the cops and watching them show up and look around.                                         |
-| 0xA860A754   | https://i.imgur.com/14iliDQ.gif | Niko, it's finally official.                                                                                                     |
-| 0xA3570DEC   | https://i.imgur.com/teDI7nr.gif | I'll have to think about it.                                                                                                     |
-| 0xA9043F30   | https://i.imgur.com/hB0leTD.gif | Don't worry about it. You've got enough on your plate looking after Roman. See you soon.                                         |
-| 0xA144991C   | https://i.imgur.com/oVYMO0J.gif | No, certainly not. They were just distractions from my one true love.                                                            |
-| 0xA5417180   | https://i.imgur.com/hljBEN1.gif | No, sir. No way.                                                                                                                 |
-| 0xAA5B5897   | https://i.imgur.com/jXVr2DT.gif | Since I got out things just don't make no sense.                                                                                 |
-| 0xAA9E965C   | https://i.imgur.com/df1Z8UP.gif | Plenty o' corn in that for you, you know.                                                                                        |
-| 0xAA665FD0   | https://i.imgur.com/gzRm6bU.gif | The youth a grind my youth, the man a hustlin youth, big respect fe him to that.                                                 |
-| 0xAA902BBF   | https://i.imgur.com/xY2xQVY.gif | I'm working on it, cousin. There's this girl I like - she's called Kate McReary.                                                 |
-| 0xAABA979E   | https://i.imgur.com/UcrUMdq.gif | Sure... sure. Yeah. Serenity...                                                                                                  |
-| 0xAADB58F7   | https://i.imgur.com/hOaplcn.gif | The whore, she brought this on herself!                                                                                          |
-| 0xAC3FD1AB   | https://i.imgur.com/VnN5Xy4.gif | And the only thing I owe you is a bullet through the temple.                                                                     |
-| 0xAC67C8C3   | https://i.imgur.com/FuZsw4A.gif | Dude, this is meant to be the biggest rock in the world.                                                                         |
-| 0xACF492A0   | https://i.imgur.com/cQ58e2b.gif | Oh... you don't want to hang out? Well, thanks. Thanks a lot.                                                                    |
-| 0xAD0BCE7B   | https://i.imgur.com/7Oo3SD4.gif | I couldn't date you... someone like my brothers. I couldn't do that to myself.                                                   |
-| 0xAD3E0D7C   | https://i.imgur.com/IcYlurk.gif | Niko, can you pick me up a' me house man, me need a lift?                                                                        |
-| 0xAE37A095   | https://i.imgur.com/RJ96aBV.gif | The target is in Alderney City. You're being relied on to eliminate it.                                                          |
-| 0xAE225FBB   | https://i.imgur.com/QdHEDb4.gif | It is very important that you be there. Goodbye.                                                                                 |
-| 0xAEF20556   | https://i.imgur.com/YNmxmVl.gif | He don't want you to give it back to him, does he?                                                                               |
-| 0xAF7AA93A   | https://i.imgur.com/JJCSHET.gif | The Pegorinos? They're not a family.                                                                                             |
-| 0xAF7BB58C   | https://i.imgur.com/R3opHfO.gif | Roman, we have spoken about your gambling.                                                                                       |
-| 0xAF24BA4B   | https://i.imgur.com/tENCrki.gif | Thanks, dude. I'm glad you were here for me.                                                                                     |
-| 0xAF165A77   | https://i.imgur.com/IlldXhE.gif | I went to the sewage works on Charge Island.                                                                                     |
-| 0xB1CE024B   | https://i.imgur.com/dWN4bR6.gif | Nicky, you animal. The guys we raced the other day want a rematch.                                                               |
-| 0xB1FE71E1   | https://i.imgur.com/t9vMhlL.gif | Come and see me at my ma's house. Use the back entrance.                                                                         |
-| 0xB4DD30DF   | https://i.imgur.com/F3PAsHM.gif | Hey, this is Jeff. Yeah, you remember, that happy go lucky guy?                                                                  |
-| 0xB6BAF160   | https://i.imgur.com/h0suqzi.gif | Thank you, cousin.                                                                                                               |
-| 0xB7D2DB86   | https://i.imgur.com/cYs8iP4.gif | That's a ridiculous generalization. They're good people. Good people.                                                            |
-| 0xB08AC4BA   | https://i.imgur.com/USykqSV.gif | You poor bastard, you have. I don't normally socialize with people that know my family.                                          |
-| 0xB9CA5318   | https://i.imgur.com/NbukNve.gif | Yeah, thanks for helping him get rid of the body. He has such fire in his heart.                                                 |
-| 0xB14B8F3B   | https://i.imgur.com/KAQMims.gif | Dem come pon me corner and ting. Come upon me city. An all a' dis a fucker, rudeboy.                                             |
-| 0xB27C60DD   | https://i.imgur.com/Pl8F5dw.gif | Could be.                                                                                                                        |
-| 0xB28F3F7E   | https://i.imgur.com/n21aNm0.gif | What're you going to do?                                                                                                         |
-| 0xB32EDDFC   | https://i.imgur.com/yVBWsHK.gif | on the hard line.                                                                                                                |
-| 0xB38EA462   | https://i.imgur.com/yIq126y.gif | He's in an alley off of Montauk Avenue.                                                                                          |
-| 0xB80E6C63   | https://i.imgur.com/dXHN3ZQ.gif | Are you disappointed that I have not found and killed you yet, Dimitri Rascalov?                                                 |
-| 0xB82AF756   | https://i.imgur.com/NVNDpxN.gif | Alright brother, I'm in need of a job.                                                                                           |
-| 0xB93C9ABE   | https://i.imgur.com/YTjgrBp.gif | I will find you, Niko. I have burnt you and your cousin out of Hove Beach.                                                       |
-| 0xB0105FCA   | https://i.imgur.com/YkFqGjm.gif | Don't worry about it man.                                                                                                        |
-| 0xB403C147   | https://i.imgur.com/LFAL4F2.gif | Playboy was your best friend, and he's always been straight with me, more or less.                                               |
-| 0xB535D895   | https://i.imgur.com/q82hGwM.gif | Yeah, it still has to be hard for you.                                                                                           |
-| 0xB759D7D6   | https://i.imgur.com/r0pbzsV.gif | Maybe that is the problem.                                                                                                       |
-| 0xB778E2C4   | https://i.imgur.com/xyPdG09.gif | I'm waking up before noon, for Christ's sake.                                                                                    |
-| 0xB04361D7   | https://i.imgur.com/oEVeYqS.gif | Then watch the TV here and get nostalgic, I don't know. Later on.                                                                |
-| 0xB62742E1   | https://i.imgur.com/EPGDLuV.gif | Since the moment I met Mallorie, I knew that she was the only woman for me.                                                      |
-| 0xB84162A2   | https://i.imgur.com/g8oyPPa.gif | Right on, brother. I'll collect the funds.                                                                                       |
-| 0xBA0C8F59   | https://i.imgur.com/CkguUZ7.gif | Niko, man, I'm going crazy.                                                                                                      |
-| 0xBB40A671   | https://i.imgur.com/c77oxix.gif | If Mallorie calls you, we are bowling together. See you later.                                                                   |
-| 0xBB396AD6   | https://i.imgur.com/Yhc11MV.gif | Alright then, this isn't a date. We're just two people, hanging out.                                                             |
-| 0xBBD31EA3   | https://i.imgur.com/zBNDzST.gif | Shaking off all the negative energy and concentrating on the productive.                                                         |
-| 0xBBDA47C0   | https://i.imgur.com/qE55HJf.gif | The target is at the police station in Leftwood.                                                                                 |
-| 0xBC09A4B7   | https://i.imgur.com/Q57Uz7n.gif | I want my operation to run right. I don't want no Russian boy come tell me what fe do, ye see it?                                |
-| 0xBC582D7A   | https://i.imgur.com/Z1zkoUv.gif | I'll give her a call man, but I don't think she'll wanna see me.                                                                 |
-| 0xBD5D73E6   | https://i.imgur.com/ziHY6FL.gif | You will be paid in full, fear not.                                                                                              |
-| 0xBD5F89B2   | https://i.imgur.com/zIz0Cp5.gif | He gave me your number.                                                                                                          |
-| 0xBDE5FB75   | https://i.imgur.com/gSnkcoB.gif | Dem Russian boy, cause me no more boderation rudeboy, respect due.                                                               |
-| 0xBDFF27E3   | https://i.imgur.com/GkOPhz1.gif | Okay then.                                                                                                                       |
-| 0xBE09230F   | https://i.imgur.com/hrWk1JT.gif | Not hanging around with losers like Sergei.                                                                                      |
-| 0xBE506045   | https://i.imgur.com/d8agdRt.gif | Try to keep those two sides of my life separate.                                                                                 |
-| 0xBF4CCEF6   | https://i.imgur.com/D0kGiSL.gif | Salve. This is Jimmy Pegorino's phone. Leave a message.                                                                          |
-| 0xBF45C9C1   | https://i.imgur.com/2HNXlSt.gif | Niko, I heard that Michelle was a cop or a fed or something, is it true?                                                         |
-| 0xC3B1D45F   | https://i.imgur.com/hjhnVeQ.gif | We should eat together.                                                                                                          |
-| 0xC3F1C647   | https://i.imgur.com/39TOmjB.gif | Yo, thanks for the lift, fire.                                                                                                   |
-| 0xC4A78201   | https://i.imgur.com/uY3sVUU.gif | It's just that he gets so angry and jealous. I don't know what to do.                                                            |
-| 0xC4BA4718   | https://i.imgur.com/GoV8OWV.gif | Nick, babe. You got to start treating me right, man. Take me to a show.                                                          |
-| 0xC4E3A25D   | https://i.imgur.com/T49u6Jk.gif | Shit dude, I should remember this.                                                                                               |
-| 0xC4F3DE2E   | https://i.imgur.com/NdQdzdB.gif | Hang in there man, this should help. And it is a gift. Believe it, baby.                                                         |
-| 0xC6EA19E6   | https://i.imgur.com/QBNr1p2.gif | Sure Jacob - I'm on my way - be there in an hour.                                                                                |
-| 0xC8EF79A1   | https://i.imgur.com/jewh8gC.gif | Come to Derrick's funeral. It'd mean a lot to the family. It's today at the Church in Suffolk.                                   |
-| 0xC28BED22   | https://i.imgur.com/50sKlaG.gif | I've got work for you, but it needs to be done.                                                                                  |
-| 0xC40E293B   | https://i.imgur.com/hgTWfxx.gif | Thanks for everything, here's a token of my gratitude. Stay safe.                                                                |
-| 0xC81FDD85   | https://i.imgur.com/KHodZO8.gif | Yo thanks, son. You, you a child of the street.                                                                                  |
-| 0xC91BFB5A   | https://i.imgur.com/hqbdwXj.gif | Well, you should hang out with your cousin more often.                                                                           |
-| 0xC92A571D   | https://i.imgur.com/kJRfERr.gif | Not many in this game cross that line. So long.                                                                                  |
-| 0xC6464D23   | https://i.imgur.com/bV2MAxC.gif | I wish you had been there. We could have had some fun.                                                                           |
-| 0xC8394FC0   | https://i.imgur.com/g5LdX3t.gif | Niko, I got a favor to ask ya.                                                                                                   |
-| 0xB490C8A9   | https://i.imgur.com/Z73BqUt.gif | Thanks and hey, Roman and I decided to be honest with each other last night. He told me about Vlad.                              |
-| R13_CUT1_40  | https://i.imgur.com/pS7etW2.gif | We have to find him.                                                                                                             |
-| 0xC93339D8   | https://i.imgur.com/eqL9zVf.gif | Shit, no, that's cool. I was just telling him how you know, you can make things happen.                                          |
-| 0xC194658E   | https://i.imgur.com/niISP7F.gif | I don't think I've ever played peacemaker, but I'll be there in a bit.                                                           |
-| 0xCA0A52D7   | https://i.imgur.com/BBari2b.gif | Not all work, work, work, y'know? We got to ease up from time to time, to see how the world turns, you know what I'm saying?     |
-| 0xCADB992D   | https://i.imgur.com/Amuv9cU.gif | Yeah, who are you? Can you remind me?                                                                                            |
-| 0xCB1B8856   | https://i.imgur.com/tuX53pL.gif | If you want more work, contact me on the hard line.                                                                              |
-| 0xCB7A9FC9   | https://i.imgur.com/8e2DwvK.gif | Oh, calm Jeff, calm, be calm, calm down.                                                                                         |
-| 0xCBBB13C0   | https://i.imgur.com/enls2eX.gif | I am sorry. Or maybe the thugs who failed to kill me should be blamed though.                                                    |
-| 0xCC2CF7E1   | https://i.imgur.com/2TUFQdw.gif | I haven't heard anything, but I'm sure it would be a really good thing for both of you.                                          |
-| 0xCC10BEDE   | https://i.imgur.com/QYwHC2b.gif | I was just getting jacked up thinking about hanging with you. Shit! Another time, bro.                                           |
-| 0xCD296A5E   | https://i.imgur.com/0c00oM6.gif | There's some heat on this one.                                                                                                   |
-| 0xCD5147C9   | https://i.imgur.com/2i8VbDH.gif | I'll see what I can do about this.                                                                                               |
-| 0xCDED2ACD   | https://i.imgur.com/py0nOtO.gif | Hi Niko. What's up?                                                                                                              |
-| 0xCE1E5E65   | https://i.imgur.com/kFCdpnG.gif | That's not what I meant, friend.                                                                                                 |
-| 0xCE1947AA   | https://i.imgur.com/K4jBBJ0.gif | No, man. Must have been someone else.                                                                                            |
-| 0xCEBF8963   | https://i.imgur.com/fMJnZ9e.gif | Of everywhere here, Alderney is the most like the Real America.                                                                  |
-| 0xCED1A4AB   | https://i.imgur.com/bqfKT4G.gif | Hey brother, is there anything that needs to be handled?                                                                         |
-| 0xCF633FB0   | https://i.imgur.com/mfRq5ry.gif | I don't feel like sitting around laughing, Brucie. Maybe another time.                                                           |
-| 0xCF897E96   | https://i.imgur.com/d1tTl0T.gif | He did?                                                                                                                          |
-| 0xCF18860F   | https://i.imgur.com/9zNGiK2.gif | No shit.                                                                                                                         |
-| 0xCFFB608D   | https://i.imgur.com/NruUpAW.gif | The party got busted up though before I got there.                                                                               |
-| 0xD1BC91A2   | https://i.imgur.com/TX15EvS.gif | Are you going to be at the funeral?                                                                                              |
-| 0xD2D99989   | https://i.imgur.com/WF5uy9x.gif | I bet they did.                                                                                                                  |
-| 0xD3F36F0B   | https://i.imgur.com/dCGnUWz.gif | The one you told about his two-faced, cheating slut of a wife.                                                                   |
-| 0xD04F773D   | https://i.imgur.com/tJvh4qZ.gif | I'll invite her to the wedding.                                                                                                  |
-| 0xD11E0746   | https://i.imgur.com/1oKlzOV.gif | Hey Niko.                                                                                                                        |
-| 0xD28DCAFF   | https://i.imgur.com/eQhoQX7.gif | If you and your boy don't get out of here, we're gonna start taking this personal.                                               |
-| 0xD50CAB1D   | https://i.imgur.com/fChrzCJ.gif | Who knows what I'll need. So long. Be serene...                                                                                  |
-| 0xD60C55F1   | https://i.imgur.com/pAyl7q5.gif | What about you?                                                                                                                  |
-| 0xD189A673   | https://i.imgur.com/MpXTtZp.gif | Now all you need to worry about is your conscience.                                                                              |
-| 0xD505B568   | https://i.imgur.com/6dlBR63.gif | Come over to Drusilla's in Little Italy. We'll have a little sit down.                                                           |
-| 0xD973F1AA   | https://i.imgur.com/rFFPgKs.gif | I think so.                                                                                                                      |
-| 0xD6733ACE   | https://i.imgur.com/g7RbmgC.gif | Gerry, how's it going?                                                                                                           |
-| 0xD6758DC3   | https://i.imgur.com/RiHfgro.gif | I don't know.                                                                                                                    |
-| 0xD31779F8   | https://i.imgur.com/nKKYRqJ.gif | Dude, take me over to Wappinger and Hardin.                                                                                      |
-| 0xD62079C8   | https://i.imgur.com/ypEwjkm.gif | Wait until you see the new place, NB. You will change your song.                                                                 |
-| 0xDAB2B0CD   | https://i.imgur.com/p2sRVsS.gif | If you wanted to pass something up to me... pay me some tribute.                                                                 |
-| 0xDB5A2948   | https://i.imgur.com/2nQnR39.gif | Come into our offices at noon tomorrow. Is that alright?                                                                         |
-| 0xDC0E1BC8   | https://i.imgur.com/cYTgizW.gif | Is nice to get to know you too, seems like I've gotten pretty close to everyone else in your family.                             |
-| 0xDC2F3339   | https://i.imgur.com/UBUCmfw.gif | Bellic Enterprises is up and running again.                                                                                      |
-| 0xDC5FECF2   | https://i.imgur.com/3HaKPMB.gif | I don't think those guys are going to be calling that debt in.                                                                   |
-| 0xDC7F54A6   | https://i.imgur.com/iBWX9ZL.gif | I don't think so, Niko. I don't want to be around you right now.                                                                 |
-| 0xDC68FAFA   | https://i.imgur.com/LOmyqZK.gif | That stuff is what got you here in the first place.                                                                              |
-| 0xDC353BE0   | https://i.imgur.com/QxNJtqQ.gif | That doesn't matter. You need to meet me outside the United Liberty Paper building in Algonquin.                                 |
-| 0xDC8320C8   | https://i.imgur.com/al7dWua.gif | They took Gerry down?                                                                                                            |
-| 0xDD17D9DC   | https://i.imgur.com/BD5R9oP.gif | Phil's bringing me my taste of the cash and Dimitri's still got hold of the horse. This is perfect.                              |
-| 0xDD58E095   | https://i.imgur.com/cEWOOfT.gif | My friend lent you some money and he wants it back.                                                                              |
-| 0xDDA0D665   | https://i.imgur.com/iE9GM1j.gif | Tell me about it.                                                                                                                |
-| 0xDDB61AEF   | https://i.imgur.com/IQasjdl.gif | His love for me took over and he just had to kill him.                                                                           |
-| 0xDE0870DA   | https://i.imgur.com/pF2FAn1.gif | She likes you, just as friends, I'm gonna send you her number.                                                                   |
-| 0xDECD9F72   | https://i.imgur.com/WxLdGFp.gif | You have to have the serenity to accept the things you cannot change,                                                            |
-| 0xDED439F2   | https://i.imgur.com/uTjnX3j.gif | Do not worry, your time will soon come.                                                                                          |
-| 0xDF8F6F0E   | https://i.imgur.com/RzcRvBN.gif | Anyway, he's got some work and we are in need of money.                                                                          |
-| 0xDF64ABE2   | https://i.imgur.com/ldnbmoy.gif | You need to eliminate three targets at the refinery in the Acter Industrial Park.                                                |
-| 0xE1DAAB93   | https://i.imgur.com/JC1BUkn.gif | Niko, I don't know if you've heard it but my brother, Derrick's dead.                                                            |
-| 0xE5DA4CB8   | https://i.imgur.com/rSLjkUW.gif | Maybe I'll keep a ten spot for myself though.                                                                                    |
-| 0xE006AE36   | https://i.imgur.com/Edtyrha.gif | I remember looking up to him as a kid. He had a dream back then, he was inspired.                                                |
-| 0xE6A441C5   | https://i.imgur.com/RGD8gSI.gif | Yeah sorta... no. It doesn't matter. Here's some dolla. Appreciate the ride.                                                     |
-| 0xE07C3BD6   | https://i.imgur.com/XzTCfpi.gif | Yo, Mr. Banker-man.                                                                                                              |
-| 0xE8D62A91   | https://i.imgur.com/4Uix5tL.gif | I'll inform the accountant of your success.                                                                                      |
-| 0xE9F89E17   | https://i.imgur.com/yodU0IJ.gif | I want to be someone, help people... seriously!                                                                                  |
-| 0xE20F8637   | https://i.imgur.com/3L6xqGZ.gif | Maybe just one drink would calm my nerves?                                                                                       |
-| 0xE42C3C80   | https://i.imgur.com/0PstKDv.gif | You here to make friends too?                                                                                                    |
-| 0xE57A76F3   | https://i.imgur.com/KnNsVlh.gif | Mel ain't nearly hit rock bottom yet.                                                                                            |
-| 0xE458B8A8   | https://i.imgur.com/FOb2WxF.gif | Sure it will.                                                                                                                    |
-| 0xE637C8B9   | https://i.imgur.com/haSekgy.gif | First in Europe and then these diamonds in Liberty City.                                                                         |
-| 0xE0846DAC   | https://i.imgur.com/qB1Gisj.gif | These bull buka Russians boy make I an' I vex, rasta!                                                                            |
-| 0xE884B1E5   | https://i.imgur.com/ATBys8N.gif | Finish them there.                                                                                                               |
-| 0xE1980D7C   | https://i.imgur.com/XF7F0D8.gif | Bellic, I want to introduce you to John Gravelli, head of the Gambetti family. He needs help.                                    |
-| 0xE2478F18   | https://i.imgur.com/WZD5B5p.gif | Florian?                                                                                                                         |
-| 0xE4623C9A   | https://i.imgur.com/dcRGQIH.gif | Shit, I couldn't hold a glass of water without spilling it all over myself.                                                      |
-| 0xE5933BB6   | https://i.imgur.com/8Jc1QbI.gif | The target you're after is on a boat at the northern mouth of the West River.                                                    |
-| 0xE361060F   | https://i.imgur.com/x4ihZzE.gif | Go down and check on him? Me and Gerald will cover any expenses incurred.                                                        |
-| 0xE479445A   | https://i.imgur.com/ZvVKA8l.gif | Sorry, Ray. I'm freelance. I don't buy into that tribute stuff.                                                                  |
-| 0xE9619016   | https://i.imgur.com/tErhgwf.gif | Wha'gwan, me breda? It's me, Jacob.                                                                                              |
-| 0xEA6A40B8   | https://i.imgur.com/pG46fDU.gif | I bet he went back to Russia.                                                                                                    |
-| 0xEBFFA2EF   | https://i.imgur.com/1uqBu7b.gif | Cool.                                                                                                                            |
-| 0xEC1FAFD3   | https://i.imgur.com/piCAfv3.gif | Come on, I made the introduction. I'm the manager, man.                                                                          |
-| 0xEC213A11   | https://i.imgur.com/pH6MYUd.gif | That is a healthy attitude.                                                                                                      |
-| 0xEC475CBC   | https://i.imgur.com/pckvj9R.gif | Cab or walk? What do you think?                                                                                                  |
-| 0xED133BFD   | https://i.imgur.com/JI9db1M.gif | Step nine's a tough one. Not everyone wants you to get better. I'll talk about it in group.                                      |
-| 0xED391FAA   | https://i.imgur.com/WsgyQRV.gif | You've done good, brother. Cleared a lot of files from my desk.                                                                  |
-| 0xEE2B1B18   | https://i.imgur.com/rKkeYQb.gif | Boy, it's good fe spend some quality time wit de I, seen?                                                                        |
-| 0xEE3D4AA3   | https://i.imgur.com/fvM1vJD.gif | Yeah. I didn't really know Derrick that well.                                                                                    |
-| 0xEEAA8455   | https://i.imgur.com/QPJILXC.gif | You seemed to like it when I last met you?                                                                                       |
-| 0xF0BEA13A   | https://i.imgur.com/maptdSs.gif | Oh - oh, I'm getting the shakes again!                                                                                           |
-| 0xF2D2924C   | https://i.imgur.com/KdGyMX1.gif | You a righteous youth, my youth, you sound like a rastaman.                                                                      |
-| 0xF4A29201   | https://i.imgur.com/rlgAHMg.gif | You think I could survive in a cesspit of a city like this by aligning myself                                                    |
-| 0xF6F1EEE7   | https://i.imgur.com/qdTB9vS.gif | Here's the roll I was gonna give that loanshark.                                                                                 |
-| 0xF8B737F0   | https://i.imgur.com/oQdImb0.gif | I made the mistake of working with you before. It's not one I'll repeat. Goodbye.                                                |
-| 0xF9A75C70   | https://i.imgur.com/0P01SWc.gif | Fuck, I think they see us. Have to go, Niko.                                                                                     |
-| 0xF9E06E9B   | https://i.imgur.com/CPmwGBE.gif | Ha, ha. Yeah right. I've put the money into another cab depot.                                                                   |
-| 0xF010C7E3   | https://i.imgur.com/thV81hz.gif | I guess not, Gerald got arrested too. They got him in the Alderney State Correctional Facility.                                  |
-| 0xF61C5C2F   | https://i.imgur.com/Fv8jM1f.gif | Bidding war was fierce dude. Like being on the trading floor... yeah! Hah!                                                       |
-| 0xF62CB5AE   | https://i.imgur.com/oqyUQVE.gif | Just, you know, kind of gonna, gonna miss him is all.                                                                            |
-| 0xF091E499   | https://i.imgur.com/zfgnqkS.gif | Hey, Niko, it's me.                                                                                                              |
-| 0xF658A034   | https://i.imgur.com/OWq0tVI.gif | The kids are in bed and the dishes are done.                                                                                     |
-| 0xF740DF11   | https://i.imgur.com/dvAF4ar.gif | Take it out.                                                                                                                     |
-| 0xF0862B95   | https://i.imgur.com/xXJ9dfy.gif | That's not my name.                                                                                                              |
-| 0xF4901DD5   | https://i.imgur.com/OmkW4x8.gif | Trust me, she will. Call her, man.                                                                                               |
-| 0xF12841D3   | https://i.imgur.com/xk0pUlo.gif | I guess when he found out about me and Vlad he couldn't help himself.                                                            |
-| 0xF274049C   | https://i.imgur.com/rggkkMk.gif | I hope your partnership is a fruitful one. Good luck and goodbye.                                                                |
-| 0xF1549298   | https://i.imgur.com/seEIfjF.gif | Meet him at Brucie's Executive Autos on Mohanet in East Hook.                                                                    |
-| 0xF7214727   | https://i.imgur.com/JrVN2ux.gif | This is a regular account.                                                                                                       |
-| 0xFA495669   | https://i.imgur.com/APlnvcd.gif | Are you upset that you couldn't make amends?                                                                                     |
-| 0xFAD39C60   | https://i.imgur.com/uvQYa5b.gif | What?                                                                                                                            |
-| 0xFAE35795   | https://i.imgur.com/EpT5z4k.gif | I mean that makes sense, I just can't always live it...                                                                          |
-| 0xFB0E233E   | https://i.imgur.com/R6mhSZy.gif | Reach me on the hard line if you want another pass at a job, brother.                                                            |
-| 0xFC0F42A7   | https://i.imgur.com/GBSZgDr.gif | Bernie, what can I do for you?                                                                                                   |
-| 0xFC6D61FC   | https://i.imgur.com/y5hSlGi.gif | You shouldn't cry wolf, Roman. Who knows when you will really need help.                                                         |
-| 0xFC18E415   | https://i.imgur.com/SpIhm44.gif | Typical of everyone in Hove Beach. Come to Liberty City but only speak to Russians.                                              |
-| 0xFC68E17C   | https://i.imgur.com/GO70B0T.gif | Drop these chumps before they start getting on my nerves.                                                                        |
-| 0xFC806729   | https://i.imgur.com/eqEW51T.gif | He probably wanted to die.                                                                                                       |
-| 0xFCA739E4   | https://i.imgur.com/NNnYyfj.gif | Not as much fun as I would have had with Roman, believe me.                                                                      |
-| 0xFD8DF765   | https://i.imgur.com/MAbFSY5.gif | I picked through the bodies and yours was not amongst them. Very disappointing.                                                  |
-| 0xFDA96D5B   | https://i.imgur.com/GYKfhzI.gif | See you then.                                                                                                                    |
-| 0xFDB2FB1F   | https://i.imgur.com/bT2D7HU.gif | Make this quiet.                                                                                                                 |
-| 0xFF868A6D   | https://i.imgur.com/1eDeXgx.gif | I thought I was doing that.                                                                                                      |
-| 0xFF2179AA   | https://i.imgur.com/lXY3yot.gif | This work has many disadvantages, but, hey, at least it is tax free.                                                             |
-| 0xFFF18FCD   | https://i.imgur.com/0HLk531.gif | Sorry, brother. The milk went sour. You're going to have to drink your coffee black.                                             |
-| B1_CUT1_23   | https://i.imgur.com/5TG9k6I.gif | Yeah.                                                                                                                            |
-| B2_CUT1_7    | https://i.imgur.com/Fbid2BP.gif | Sure.                                                                                                                            |
-| BC1_CUT1_5   | https://i.imgur.com/hpFtdU6.gif | What's going on?                                                                                                                 |
-| BC3_CUT1_17  | https://i.imgur.com/jCUBdhP.gif | Yes.                                                                                                                             |
-| BR3_CUT1_4   | https://i.imgur.com/e0XpTcA.gif | Hey!                                                                                                                             |
-| BR3_CUT1_14  | https://i.imgur.com/2XqKtr4.gif | Fuck you.                                                                                                                        |
-| BR3_CUT1_36  | https://i.imgur.com/0f6or5v.gif | You're a dick.                                                                                                                   |
-| C1_CUT1_14   | https://i.imgur.com/ACflgdH.gif | No doubt.                                                                                                                        |
-| C3_CUT1_3    | https://i.imgur.com/1pcT6pS.gif | Excuse me?                                                                                                                       |
-| DM1_CUT1_38  | https://i.imgur.com/F6f2Bot.gif | Sure...                                                                                                                          |
-| E1_CUT1_30   | https://i.imgur.com/lgM4BdV.gif | Goodbye.                                                                                                                         |
-| F3_CUT1_B_11 | https://i.imgur.com/Rj6eBoU.gif | Get out of here.                                                                                                                 |
-| F3_CUT1_B_14 | https://i.imgur.com/LQ86Jq7.gif | What is it?                                                                                                                      |
-| F4_CUT2_11   | https://i.imgur.com/yw16azc.gif | Niko Bellic.                                                                                                                     |
-| F4_CUT2_31   | https://i.imgur.com/mFsn4Xg.gif | Good.                                                                                                                            |
-| G1_CUT1_2    | https://i.imgur.com/x0jlyUM.gif | C'mon.                                                                                                                           |
-| PIB_CUT1_2   | https://i.imgur.com/HRsXamt.gif | Good. Thank you very much.                                                                                                       |
-| PIB_CUT1_3   | https://i.imgur.com/GTNnUZP.gif | Good! Yes comrade, I am doing good. There is no "I", there is only "we" - it is a glorious system, comrade.                      |
-| PIB_CUT1_5   | https://i.imgur.com/hokTok6.gif | You're excused, comrade. You're excused, now go and mine salt for fifty years...                                                 |
-| PIB_CUT1_7   | https://i.imgur.com/0pBJggM.gif | I'm a rich dick, friend. I'm young, and rich and loaded.                                                                         |
-| PIB_CUT1_8   | https://i.imgur.com/JwOYF2G.gif | Tell you what, have a hundred bucks.                                                                                             |
-| PIB_CUT1_9   | https://i.imgur.com/MiCml6J.gif | On Uncle Sam. Benjamin motherfucking Franklin. Freedom.                                                                          |
-| PIB_CUT1_10  | https://i.imgur.com/AAkpiRM.gif | This coke is okay.                                                                                                               |
-| PIB_CUT2_3   | https://i.imgur.com/MfcpJOf.gif | That's nice. That's real nice.                                                                                                   |
-| PIB_CUT2_4   | https://i.imgur.com/aMGgIXO.gif | Hey, I remember you. You're the comrade guy. The guy with all the jokes?                                                         |
-| PIB_CUT2_5   | https://i.imgur.com/G8Gr1TT.gif | Oh, yeah... how time flies... when you're having fun...                                                                          |
-| PIB_CUT2_6   | https://i.imgur.com/SCgTeYi.gif | Right. And you're definitely having a lot of fun.                                                                                |
-| PIB_CUT2_8   | https://i.imgur.com/CG5MzWl.gif | Listen, dude, you wanna make a quick buck?                                                                                       |
-| PIB_CUT2_9   | https://i.imgur.com/s32ABBB.gif | Come with me, I got something to show you.                                                                                       |
-| PIB_CUT3_1   | https://i.imgur.com/7om1Wk3.gif | Hey, man! Remember me?                                                                                                           |
-| PIB_CUT3_2   | https://i.imgur.com/GM3S4AL.gif | Sure - the crack smoking American dream.                                                                                         |
-| PIB_CUT3_3   | https://i.imgur.com/c7HfOOc.gif | I'm clean, man... what a ride.                                                                                                   |
-| PIB_CUT3_4   | https://i.imgur.com/Ep0XsDN.gif | Yeah. You look good.                                                                                                             |
-| PIB_CUT3_5   | https://i.imgur.com/jfuwG9e.gif | I feel good.                                                                                                                     |
-| PIB_CUT3_7   | https://i.imgur.com/heBSHLj.gif | I sank as far as a man can sink...                                                                                               |
-| PIB_CUT3_8   | https://i.imgur.com/eFnb3IK.gif | when you're giving blowjobs at ten bucks a pop, so you can score your next rock.                                                 |
-| PIB_CUT3_9   | https://i.imgur.com/gnTnKaY.gif | And I have an Ivy League education...                                                                                            |
-| PIB_CUT3_10  | https://i.imgur.com/nG6DJfF.gif | Jesus. What a disgrace.                                                                                                          |
-| PIB_CUT3_11  | https://i.imgur.com/fyj5wzX.gif | But I'm over that now. I'm engaged!                                                                                              |
-| PIB_CUT3_12  | https://i.imgur.com/BP5ECRp.gif | Hey. Congratulations.                                                                                                            |
-| PIB_CUT3_13  | https://i.imgur.com/ZZEN4L1.gif | Hey, I owe you, man!                                                                                                             |
-| PIB_CUT3_14  | https://i.imgur.com/vwBkiVa.gif | I mean, I was a dick. But I'm making up for it.                                                                                  |
-| PIB_CUT3_15  | https://i.imgur.com/aWZYUvm.gif | I was a loud mouthed dick and I apologize.                                                                                       |
-| PIB_CUT3_16  | https://i.imgur.com/24l1SZY.gif | Hey, apology accepted. Don't worry about it.                                                                                     |
-| PIB_CUT3_17  | https://i.imgur.com/E4NKVa9.gif | Listen... I gotta go pay off one of my dealers. Make things right.                                                               |
-| PIB_CUT3_18  | https://i.imgur.com/Nq9ZT21.gif | Would you come with me? I hate to ask, but I'm afraid the temptation might get to me.                                            |
-| PIB_CUT3_19  | https://i.imgur.com/WEw8ITX.gif | Please?                                                                                                                          |
-| PIB_CUT3_21  | https://i.imgur.com/yigD3ZH.gif | Awesome.                                                                                                                         |
-| PIJ_CUT1_1   | https://i.imgur.com/0p6DxWD.gif | Hey, how you doin'?                                                                                                              |
-| PIJ_CUT1_2   | https://i.imgur.com/gCXfrMa.gif | Uh, good. How are you?                                                                                                           |
-| PIJ_CUT1_3   | https://i.imgur.com/w0YclwQ.gif | Well, I'm shit, to be perfectly frank, buddy.                                                                                    |
-| PIJ_CUT1_4   | https://i.imgur.com/ywooa4D.gif | Fuckin' shit.                                                                                                                    |
-| PIJ_CUT1_6   | https://i.imgur.com/n8wCprD.gif | Terrible.                                                                                                                        |
-| PIJ_CUT1_7   | https://i.imgur.com/Vve6EPu.gif | Oh. What's wrong with you?                                                                                                       |
-| PIJ_CUT1_8   | https://i.imgur.com/2T5voUv.gif | Me? My life's a fucking train wreck.                                                                                             |
-| PIJ_CUT1_9   | https://i.imgur.com/NKc1KJM.gif | I cannot believe this is happening to me.                                                                                        |
-| PIJ_CUT1_10  | https://i.imgur.com/Nq2kgFs.gif | bitch! bitch! bitch!                                                                                                             |
-| PIJ_CUT1_11  | https://i.imgur.com/zxTipFH.gif | Hey, come on, calm down.                                                                                                         |
-| PIJ_CUT1_12  | https://i.imgur.com/d4ZINQI.gif | Fucking bitch.                                                                                                                   |
-| PIJ_CUT1_13  | https://i.imgur.com/nbzdS4A.gif | Who are you talking about? Who's this bitch?                                                                                     |
-| PIJ_CUT1_14  | https://i.imgur.com/aMkUyGp.gif | My fucking whore of a fucking wife, that's who!                                                                                  |
-| PIJ_CUT1_15  | https://i.imgur.com/2s6PjDR.gif | Okay. What did she do?                                                                                                           |
-| PIJ_CUT1_16  | https://i.imgur.com/g4Qw6mY.gif | My lovely bride, the mother of my son is up there, right now,                                                                    |
-| PIJ_CUT1_17  | https://i.imgur.com/d2PMo4z.gif | fucking some prick behind my back.                                                                                               |
-| PIJ_CUT1_18  | https://i.imgur.com/dFhU42s.gif | After all I've done for that tramp, whore. Ah!                                                                                   |
-| PIJ_CUT1_19  | https://i.imgur.com/xtdHSlC.gif | Hey, you okay? Hey come on, calm down.                                                                                           |
-| PIJ_CUT1_20  | https://i.imgur.com/FSt1qvj.gif | You're going to do yourself some serious damage if you keep going on like that.                                                  |
-| PIJ_CUT1_21  | https://i.imgur.com/80kjseO.gif | It's only angina.                                                                                                                |
-| PIJ_CUT1_22  | https://i.imgur.com/PJ05Yq8.gif | Come on, Jeff, be calm. Jeff, be cool. Come on, champ. You can do this. Be a winner.                                             |
-| PIJ_CUT1_23  | https://i.imgur.com/dClJTJT.gif | Hey, mister - are you okay?                                                                                                      |
-| PIJ_CUT1_24  | https://i.imgur.com/apDip0V.gif | I'm a winner. I can do anything.                                                                                                 |
-| PIJ_CUT1_25  | https://i.imgur.com/u1bC7ZD.gif | Great. See you later.                                                                                                            |
-| PIJ_CUT1_26  | https://i.imgur.com/xXoVt4q.gif | Hey you know, you could do me a favor here. You know.                                                                            |
-| PIJ_CUT1_28  | https://i.imgur.com/KxbIqY9.gif | Take some photos. Text 'em to me.                                                                                                |
-| PIJ_CUT1_29  | https://i.imgur.com/KOHyyvI.gif | You want me to text you photos of your own wife?                                                                                 |
-| PIJ_CUT1_30  | https://i.imgur.com/ol7GZYn.gif | I'll pay buddy. I've got a black card!                                                                                           |
-| PIJ_CUT1_31  | https://i.imgur.com/wqIYNi8.gif | I'm afraid I only take cash.                                                                                                     |
-| PIJ_CUT1_32  | https://i.imgur.com/4xi1LK6.gif | I'll give you cash. Alright? Five hundred.                                                                                       |
-| PIJ_CUT1_33  | https://i.imgur.com/nqYCibU.gif | Just follow 'em. Take some photos. Text 'em to me.                                                                               |
-| PIJ_CUT1_34  | https://i.imgur.com/P2dqQxb.gif | Come on! Here they come. Here's my card.                                                                                         |
-| PIJ_CUT2_3   | https://i.imgur.com/h5NWmVX.gif | Yeah... I got a bit of a problem. Bit of a big fucking problem.                                                                  |
-| PIJ_CUT2_5   | https://i.imgur.com/YzTjYII.gif | Yeah, Jeff really did it this time. Jeff went too far. Jeff's been a bad boy. A really bad boy.                                  |
-| PIJ_CUT2_6   | https://i.imgur.com/ZR6swm1.gif | What are you saying lunatic?                                                                                                     |
-| PIJ_CUT2_7   | https://i.imgur.com/0f2d7WK.gif | Remember my wife Shirley? She had an accident... in the kitchen.                                                                 |
-| PIJ_CUT2_8   | https://i.imgur.com/p2qhCHv.gif | What kind of an accident?                                                                                                        |
-| PIJ_CUT2_9   | https://i.imgur.com/a0BO2JG.gif | The kind of accident where you stab yourself fifty fucking times with a kitchen knife, you fucking whore.                        |
-| PIJ_CUT2_10  | https://i.imgur.com/XcpzbIV.gif | Fuck my friend will you? Huh? Well, who's laughing now? bitch!                                                                   |
-| PIJ_CUT2_11  | https://i.imgur.com/iXu86Zt.gif | Huh? Not you. You're fucking dead whore!                                                                                         |
-| PIJ_CUT2_12  | https://i.imgur.com/2xBJV1F.gif | Hey, buddy! Whoa! Calm down!                                                                                                     |
-| PIJ_CUT2_13  | https://i.imgur.com/sN1C1AE.gif | Hey! Fuck you!                                                                                                                   |
-| PIJ_CUT2_14  | https://i.imgur.com/n0vGMPJ.gif | Don't be an idiot. Now, what do you want me to do?                                                                               |
-| PIJ_CUT2_15  | https://i.imgur.com/DNUEifp.gif | Get rid of her and get rid of the car. Hey?                                                                                      |
-| PIJ_CUT2_16  | https://i.imgur.com/LDljPHy.gif | Okay, but its going to cost you. Five grand.                                                                                     |
-| PIJ_CUT2_17  | https://i.imgur.com/k961zIL.gif | Sure. Whatever.                                                                                                                  |
-| PIJ_CUT2_18  | https://i.imgur.com/Fz8sFtl.gif | Give me the keys. Put the gun away.                                                                                              |
-| PIJ_CUT2_19  | https://i.imgur.com/qtSRecC.gif | Yeah. Okay thanks. Oh, Jeff really messed up this time, didn't he? Oh.                                                           |
-| PIJ_CUT2_21  | https://i.imgur.com/G81JZEc.gif | Yeah... yeah...                                                                                                                  |
-| PIP_CUT1_1   | https://i.imgur.com/lil1zpA.gif | I sense a little apprehension in your voice.                                                                                     |
-| PIP_CUT1_2   | https://i.imgur.com/RuZvCxb.gif | I like it a bit but, uh, I'm not a crazy fan.                                                                                    |
-| PIP_CUT1_3   | https://i.imgur.com/vkpBkIu.gif | Cause the shit went all commercial? Cause people sold out? I hear you.                                                           |
-| PIP_CUT1_4   | https://i.imgur.com/HwGuHeB.gif | -No, not really.~n~-Cause the shit ain't real no more?                                                                           |
-| PIP_CUT1_5   | https://i.imgur.com/M5spJCS.gif | Ain't got no intelligence? For real.                                                                                             |
-| PIP_CUT1_6   | https://i.imgur.com/aSHzW2v.gif | Well, you gonna love my shit.                                                                                                    |
-| PIP_CUT1_7   | https://i.imgur.com/FURaKvz.gif | Your shit?                                                                                                                       |
-| PIP_CUT1_8   | https://i.imgur.com/aefGtqb.gif | Yes - it's the real urban consciousness and man it is real.                                                                      |
-| PIP_CUT1_9   | https://i.imgur.com/08O1Cww.gif | Pathos. Believe that.                                                                                                            |
-| PIP_CUT1_10  | https://i.imgur.com/f5xcq2x.gif | Why are you selling it on the street?                                                                                            |
-| PIP_CUT1_11  | https://i.imgur.com/AVcO6zk.gif | The majors are just pimps, and I ain't no bitch.                                                                                 |
-| PIP_CUT1_12  | https://i.imgur.com/6cLEufy.gif | No. I can see that.                                                                                                              |
-| PIP_CUT1_13  | https://i.imgur.com/pyau0Zx.gif | Man, if I have to spend the rest of my life preaching on a street corner, so fucking be it.                                      |
-| PIP_CUT1_14  | https://i.imgur.com/GR3TmpL.gif | Give it up for Pathos!                                                                                                           |
-| PIP_CUT1_15  | https://i.imgur.com/qnHQnZJ.gif | Yo, Pathos! You a bitch and you suck dick!                                                                                       |
-| PIP_CUT1_16  | https://i.imgur.com/aw5Zzxo.gif | Man, you hear that punk.                                                                                                         |
-| PIP_CUT1_17  | https://i.imgur.com/cIkrUUx.gif | Yeah, he heard me, bitch. What you gonna do about it?                                                                            |
-| PIP_CUT1_18  | https://i.imgur.com/6oZLbCY.gif | Hey, fuck you... I've had enough of your crap.                                                                                   |
-| PIR_CUT1_1   | https://i.imgur.com/tA4uFpA.gif | Hey, my youth! Wha' gwan?                                                                                                        |
-| PIR_CUT1_2   | https://i.imgur.com/bTaUjhu.gif | Uh... hey.                                                                                                                       |
-| PIR_CUT1_3   | https://i.imgur.com/PMVhCPM.gif | Hey! How ya gwa'an like ya dunno who me is rudeboy? Cho!                                                                         |
-| PIR_CUT1_4   | https://i.imgur.com/BLBUr1E.gif | Ya dunno who me is?                                                                                                              |
-| PIR_CUT1_5   | https://i.imgur.com/gsRPrvz.gif | Badman... what's up?                                                                                                             |
-| PIR_CUT1_6   | https://i.imgur.com/MZEDTL7.gif | Woy, me dare a rude boy! No one can test me nuh, rudeboy!                                                                        |
-| PIR_CUT1_7   | https://i.imgur.com/fd1cqzn.gif | No one can test me, seen?                                                                                                        |
-| PIR_CUT1_8   | https://i.imgur.com/bPt5qTA.gif | Who's testing you?                                                                                                               |
-| PIR_CUT1_9   | https://i.imgur.com/kdHmslG.gif | Them slibba slabba Russian type, my youth.                                                                                       |
-| PIR_CUT1_11  | https://i.imgur.com/RjR6T09.gif | Debts, everyt'ing, disrespect...                                                                                                 |
-| PIR_CUT1_12  | https://i.imgur.com/lVJe0oh.gif | yo rudeboy lemme tell ya somethin' right now.                                                                                    |
-| PIR_CUT1_13  | https://i.imgur.com/r49nfdj.gif | Me come y'here say fe drink milk, rudeboy... me no come yah fi count nah cow!                                                    |
-| PIR_CUT1_14  | https://i.imgur.com/w44B8wE.gif | Right, whatever you say.                                                                                                         |
-| PIR_CUT1_15  | https://i.imgur.com/yyeabn7.gif | Yo rudeboy, lemme tell ya somethin'... y'see, fish could keep dem mouth closed...                                                |
-| PIR_CUT1_16  | https://i.imgur.com/bTix3h6.gif | dem wouldn't get caught, rudeboy.                                                                                                |
-| PIR_CUT1_17  | https://i.imgur.com/f68uNWq.gif | Exactly... tell you what, let's go hit those Russian fuckers right now.                                                          |
-| PIR_CUT1_18  | https://i.imgur.com/yvtMHCe.gif | Y'know what, rudeboy...                                                                                                          |
-| PIR_CUT1_19  | https://i.imgur.com/P4lDZH2.gif | come mek a go deal wit' dem boy dere right now.                                                                                  |
-| PIV_CUT1_1   | https://i.imgur.com/GXyJ4EN.gif | Niko, isn't it?                                                                                                                  |
-| PIV_CUT1_2   | https://i.imgur.com/WYHAwr7.gif | Yes... who are you?                                                                                                              |
-| PIV_CUT1_3   | https://i.imgur.com/0YVAmqk.gif | Ivan... you don't remember me?                                                                                                   |
-| PIV_CUT1_4   | https://i.imgur.com/vq7RHYt.gif | You nearly killed me, motherfucker... good to see you.                                                                           |
-| PIV_CUT1_5   | https://i.imgur.com/VdssLIA.gif | -Yes...~n~-Shit,                                                                                                                 |
-| PIV_CUT1_6   | https://i.imgur.com/JBteqSk.gif | -I owe you my fucking life... fantastic!~n~-Hey...                                                                               |
-| PIV_CUT1_7   | https://i.imgur.com/Rg0eAUr.gif | I'm doin' great, man, life has been good.                                                                                        |
-| PIV_CUT1_8   | https://i.imgur.com/I9fZWqD.gif | I'm living here now, doing very well.                                                                                            |
-| PIV_CUT1_9   | https://i.imgur.com/QNlELtr.gif | Engaged, happy, business is good.                                                                                                |
-| PIV_CUT1_10  | https://i.imgur.com/zU7RgGX.gif | I love this fucking country, man!                                                                                                |
-| PIV_CUT1_12  | https://i.imgur.com/R2r9m6J.gif | I'm not engaged, a lot of people want me dead.                                                                                   |
-| PIV_CUT1_13  | https://i.imgur.com/cdXoIT9.gif | Apart from that, the same as you. What business?                                                                                 |
-| PIV_CUT1_14  | https://i.imgur.com/9v3i2Ut.gif | I lend people money.                                                                                                             |
-| PIV_CUT1_15  | https://i.imgur.com/DaTkHj3.gif | But all very friendly! Listen, do you want to come along?                                                                        |
-| PIV_CUT1_16  | https://i.imgur.com/BE0BaIM.gif | I've got to see someone just around the corner. Come with me.                                                                    |
-| PML_CUT1_1   | https://i.imgur.com/BZnPhOX.gif | Comrades!                                                                                                                        |
-| PML_CUT1_3   | https://i.imgur.com/8H1KdMQ.gif | Didn't I see you at Comrades, pal?                                                                                               |
-| PML_CUT1_5   | https://i.imgur.com/31P2KoH.gif | That bar... Mickey's place.                                                                                                      |
-| PML_CUT1_6   | https://i.imgur.com/w5j1MXk.gif | I'm sure you was one of those commie bastards used to come in there. I remember you.                                             |
-| PML_CUT1_7   | https://i.imgur.com/7DjtPpZ.gif | Yes... you were the drunk guy who fell over.                                                                                     |
-| PML_CUT1_8   | https://i.imgur.com/uSFLl3E.gif | Ha ha! That's about right. I was a mess, a mess!                                                                                 |
-| PML_CUT1_9   | https://i.imgur.com/vnjSdCJ.gif | But I'm all sorted out now.                                                                                                      |
-| PML_CUT1_10  | https://i.imgur.com/mPGkaEB.gif | I'm over that shit!                                                                                                              |
-| PML_CUT1_11  | https://i.imgur.com/xc2CNT6.gif | Good for you!                                                                                                                    |
-| PML_CUT1_12  | https://i.imgur.com/cJPizmv.gif | Yeah... yes, siree. I'm a new man. Not dependent on anything.                                                                    |
-| PML_CUT1_13  | https://i.imgur.com/nvVHqDE.gif | No more drink. No drugs... even gave up hookers. Everything.                                                                     |
-| PML_CUT1_14  | https://i.imgur.com/joivJPb.gif | Good! Why are you telling me this?                                                                                               |
-| PML_CUT1_15  | https://i.imgur.com/iql6TGn.gif | It's good to share.                                                                                                              |
-| PML_CUT1_17  | https://i.imgur.com/fprhni1.gif | I'm positive person now. Positive.                                                                                               |
-| PML_CUT1_18  | https://i.imgur.com/QcXuvya.gif | I'm through with problems. Now they are just opportunities.                                                                      |
-| PML_CUT1_19  | https://i.imgur.com/ePbUzeJ.gif | Well, good luck with your opportunities. I've got to go.                                                                         |
-| PML_CUT1_20  | https://i.imgur.com/q7cfLBO.gif | Oh, no! Wait, wait, wait!                                                                                                        |
-| PML_CUT1_21  | https://i.imgur.com/YKam3WI.gif | I know... this is a lot to ask, but I was wondering...                                                                           |
-| PML_CUT1_22  | https://i.imgur.com/WPy3bhe.gif | I owe a guy some money, from my drinking days...                                                                                 |
-| PML_CUT1_23  | https://i.imgur.com/bV5tQae.gif | and... he's kind of angry.                                                                                                       |
-| PML_CUT1_24  | https://i.imgur.com/9FSLuc7.gif | I don't suppose you could come along and keep him cool?                                                                          |
-| PML_CUT1_25  | https://i.imgur.com/4WLcWvb.gif | I'm going to pay him back.                                                                                                       |
-| 0xF15232F9   | https://i.imgur.com/beCMBFd.gif | Man, fuck Yusuf Amir. I got bigger problems. Come see me now.                                                                    |
+| GXT NAME      | GIF LINK                        | SUBTITLE                                                                                                                         |
+| ------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 0x00FCA8F9    | https://i.imgur.com/xaUSkmx.gif | How many good years have I got left, ten... fifteen? Not many.                                                                   |
+| 0x26A66525    | https://i.imgur.com/bxzsR3U.gif | Yo money, I appreciate what you doing for me. There be so many fake cats out there.                                              |
+| 0x0A00D2C3    | https://i.imgur.com/i6kbhTN.gif | Wha'gwan rasta?                                                                                                                  |
+| 0x0A20026C    | https://i.imgur.com/EujCZAz.gif | The Derrick that came back to Liberty City was broken.                                                                           |
+| 0x0B5AA9DB    | https://i.imgur.com/exq3uxp.gif | I don't know what she is, but she was lying to us all along and now I'm paying for it.                                           |
+| 0x0BE6E215    | https://i.imgur.com/XBVaJZC.gif | Tell him you were sent by a mutual friend. He's expecting you.                                                                   |
+| 0x0D0E82AD    | https://i.imgur.com/st9kmSC.gif | Niko, I told Jimmy P about you. He wants to meet ya.                                                                             |
+| 0x0D73FE93    | https://i.imgur.com/FUZEe6r.gif | I don't know... getting out, doing stuff, not working or fighting with my family. Getting to know you.                           |
+| 0x0D794FBB    | https://i.imgur.com/DTNMooT.gif | I'm saying, would you take my sister, Katie, out for a drink or something?                                                       |
+| 0x0D1191B0    | https://i.imgur.com/HAN13qW.gif | Super! Your interview will be with Mr. Goldberg.                                                                                 |
+| 0x0DED7639    | https://i.imgur.com/OneuUW2.gif | Go check your emails, Niko. Let's hang out soon, okay?                                                                           |
+| 0x0E311CC8    | https://i.imgur.com/1Giwx5N.gif | Just like everyone else in this city. What's your deal?                                                                          |
+| 0x0EA300F5    | https://i.imgur.com/DImDKpD.gif | What's nice?                                                                                                                     |
+| 0x0EAA2153    | https://i.imgur.com/lj299MJ.gif | Have things ever made sense?                                                                                                     |
+| 0x0FD7E9FB    | https://i.imgur.com/9gBpSm1.gif | I'm already working for a Mafia family. They are scum.                                                                           |
+| 0x001DC00E    | https://i.imgur.com/54VkUVM.gif | We'd like to arrange an interview for you at the earliest convenience.                                                           |
+| 0x1A84D593    | https://i.imgur.com/7DAiOsl.gif | You don't get no real music, punk.                                                                                               |
+| 0x1A25202D    | https://i.imgur.com/PzATG4J.gif | I heard that Vlad went missing soon after I left Hove Beach.                                                                     |
+| 0x1BAA3C54    | https://i.imgur.com/B8qJH6i.gif | It's a funny thing that you should mention that to me, brother. Badman is right impressed with what you doing for I an' I.       |
+| 0x1BDE767E    | https://i.imgur.com/bH8SztX.gif | What's up Jacob?                                                                                                                 |
+| 0x1C45C438    | https://i.imgur.com/Ku6ErHr.gif | You remember my man, Dwayne?                                                                                                     |
+| 0x1C625EA0    | https://i.imgur.com/ITyWmsm.gif | Let's hope this thing isn't too heavy for me to carry by myself. Sick.                                                           |
+| 0x1C352588    | https://i.imgur.com/lUPEDDC.gif | I need more drivers for the cab company. I'll pay you properly.                                                                  |
+| 0x1DA595A9    | https://i.imgur.com/XBmFO1X.gif | No, he can take care of that all by himself. Brucie is a major motor head.                                                       |
+| 0x1DB062D1    | https://i.imgur.com/jVYTZ4M.gif | The one who hooked us up with the sweet ride.                                                                                    |
+| 0x1F415AF2    | https://i.imgur.com/HBoNqvG.gif | So, I hear you've found the big bad monster you were after? Bernie Crane, the muscle Mary. Come on.                              |
+| 0x1F2126D2    | https://i.imgur.com/Zng3G8I.gif | Has he got work?                                                                                                                 |
+| 0x1F360766    | https://i.imgur.com/4oebFnR.gif | Not on my watch he don't. Something ain't right.                                                                                 |
+| 0x1F408502    | https://i.imgur.com/aOUHFtJ.gif | Now that I hear you are friends with Bryce Dawkins and Bernie Crane, I know what it is.                                          |
+| 0x1FC13357    | https://i.imgur.com/5ylrtNW.gif | You'd be amazed by the things I've been doing since I cleaned up.                                                                |
+| 0x2A5A1E16    | https://i.imgur.com/tIbwUKf.gif | Come over to me Ma's on Savannah Avenue in Meadows Park.                                                                         |
+| 0x2A20FA1D    | https://i.imgur.com/fgXZB89.gif | Wait here while I make the deal, dude.                                                                                           |
+| 0x2A70ED76    | https://i.imgur.com/hjRE671.gif | What's that film where that guy is on a mountain and he gets chased by that huge boulder?                                        |
+| 0x2A529BCC    | https://i.imgur.com/1XcIAGD.gif | I just took some photos. But, yeah. How you doing now, anyway? You leave that bitch?                                             |
+| 0x2A170187    | https://i.imgur.com/Hu3XRQe.gif | Hello, you have reached United Liberty Paper Merchants. None of our operatives can come to the phone.                            |
+| 0x2AF0FE29    | https://i.imgur.com/Knp6hLR.gif | You know why I killed Faustin. It was not my choice.                                                                             |
+| 0x2B4FBC20    | https://i.imgur.com/6fvn3Km.gif | Pissing all over my couch? Slumlord kicked me out on the street.                                                                 |
+| 0x2B8D96D7    | https://i.imgur.com/Q7zTYev.gif | Damn those blackouts.                                                                                                            |
+| 0x2B33E162    | https://i.imgur.com/72Ql0Qt.gif | Me too.                                                                                                                          |
+| 0x2B62D906    | https://i.imgur.com/n232cRt.gif | He never tells me anything. I heard they took him to a warehouse off Lompoc in Bohan Industrial.                                 |
+| 0x2B75D7EE    | https://i.imgur.com/7pkn5c4.gif | Be smart, friend.                                                                                                                |
+| 0x2CC37A2A    | https://i.imgur.com/4ZVps0f.gif | Niko, Gerald McReary here. Calling from the Alderney State Correctional Facility.                                                |
+| 0x2D6C4ACA    | https://i.imgur.com/NS0gEQs.gif | These guys are fucking scientists.                                                                                               |
+| 0x2D62D62C    | https://i.imgur.com/cCF9awE.gif | So, Nicky, you and the Peg is getting close I see?                                                                               |
+| 0x2D75A3E5    | https://i.imgur.com/H9xYn9O.gif | He likes to party. He stays out late the whole time. You know what he's like.                                                    |
+| 0x2D8255DE    | https://i.imgur.com/d8PyXUe.gif | Next stop - floating on the BAWSAQ. I'll give you shares, NB. Later on.                                                          |
+| 0x2DD76481    | https://i.imgur.com/syek48g.gif | Take your own advice, Jeff. Be calm.                                                                                             |
+| 0x2EF0A739    | https://i.imgur.com/b0paOSS.gif | More out there for ya, eh? Right? More for me and you buddy!                                                                     |
+| 0x2F1BD5D4    | https://i.imgur.com/4Ze5tUl.gif | If you're in need of another file we can discuss it -                                                                            |
+| 0x2FEED01E    | https://i.imgur.com/GBFl8Dv.gif | I'll check it out.                                                                                                               |
+| 0x03EB512B    | https://i.imgur.com/MY5wXv2.gif | He's not going anywhere. Him and Mallorie are only getting married.                                                              |
+| 0x3A0A7B99    | https://i.imgur.com/WGxMZFI.gif | How you doing?                                                                                                                   |
+| 0x3B13D900    | https://i.imgur.com/7eIQg4F.gif | Congratulations on the engagement.                                                                                               |
+| 0x3B78A9F2    | https://i.imgur.com/B0lYYDo.gif | I'm starting to think he's more interested in cards than chasing pussy.                                                          |
+| 0x3B6085B6    | https://i.imgur.com/e5GP6vD.gif | Maybe we do something together?                                                                                                  |
+| 0x3BC713FD    | https://i.imgur.com/qMubEdE.gif | You think I wouldn't have fingered him in a second if he was your guy?                                                           |
+| 0x3BD02159    | https://i.imgur.com/f3hXFe9.gif | I have a client with a problem.                                                                                                  |
+| 0x3C872C4A    | https://i.imgur.com/sNnFy6N.gif | You pretty dumb for a banker. You forgot about interest, bitch.                                                                  |
+| 0x3C874266    | https://i.imgur.com/jnfQkjB.gif | We all have to settle down sometime.                                                                                             |
+| 0x3CD7A707    | https://i.imgur.com/LmhcRVV.gif | I wanna talk about Roman. He's got a problem.                                                                                    |
+| 0x3E04C56B    | https://i.imgur.com/GEp33AA.gif | Well, if I'd a known it was such a big deal to you, I woulda asked you to let them kill me.                                      |
+| 0x3EB9B0F9    | https://i.imgur.com/9VhCQSA.gif | Everything is taken care of, brother.                                                                                            |
+| 0x3EC97E30    | https://i.imgur.com/eU5k33h.gif | Phil's good at that. I only talk business on a hard line.                                                                        |
+| 0x3EEAEC05    | https://i.imgur.com/KDCczJr.gif | Hi Niko.                                                                                                                         |
+| 0x3F3D3F8B    | https://i.imgur.com/pv6FgFp.gif | Wicked, man. Give I a call when you ready for this first run.                                                                    |
+| 0x3F6AA790    | https://i.imgur.com/ETuHpDJ.gif | Niko Bellic, we did not find your body with the others in the warehouse.                                                         |
+| 0x3F61EEB5    | https://i.imgur.com/lbYVPjP.gif | Thing's meant to be bigger than my fist.                                                                                         |
+| 0x3F319ACE    | https://i.imgur.com/lgJSUgG.gif | I'm helping you find the man you're after, I'm not some reunite old boyfriends service. Look, I was in the army.                 |
+| 0x3FAFFA3C    | https://i.imgur.com/4yal2uU.gif | A good use of your assets and shit.                                                                                              |
+| 0x04FBD982    | https://i.imgur.com/m5JUyu1.gif | The target you require is on top of the Booth Tunnel.                                                                            |
+| 0x4A0197B7    | https://i.imgur.com/MLmfCCi.gif | That was fun - but this is goodnight.                                                                                            |
+| 0x4C99F9FB    | https://i.imgur.com/A3J7DwA.gif | Cool. Goodnight, Kate.                                                                                                           |
+| 0x4C4261E6    | https://i.imgur.com/dCw24Ly.gif | You mean I saved your ass?                                                                                                       |
+| 0x4CE9EA27    | https://i.imgur.com/LAakUq1.gif | How did the big real estate deal go?                                                                                             |
+| 0x4DDBC859    | https://i.imgur.com/qxdSQK1.gif | Why youth, him a' doing ting right now, ya no see? Catch up wit 'im girl and ting.                                               |
+| 0x4E0EC793    | https://i.imgur.com/UxaxOgF.gif | Hey man, did you just call me?                                                                                                   |
+| 0x4E59CA13    | https://i.imgur.com/XW17P3X.gif | He's gambling like an animal. Online, in clubs, everywhere. You need to control your cousin bro.                                 |
+| 0x4E078C00    | https://i.imgur.com/9jZsq9y.gif | Bigger than a melon, fucking genius!                                                                                             |
+| 0x4F46BA2F    | https://i.imgur.com/iLLjM99.gif | You see, Niko. You should have gone with your instinct not to trust him.                                                         |
+| 0x4FCB98C4    | https://i.imgur.com/h7UOK5J.gif | You have a sharp tongue, Niko. It is only a matter of time before it is cut out of your mouth.                                   |
+| 0x5A90A066    | https://i.imgur.com/nztGKBp.gif | I love the food in those places but the people are terrible.                                                                     |
+| 0x5A334C46    | https://i.imgur.com/zrNjK27.gif | Sure, just got out of the pen, old friends aren't paying him no mind.                                                            |
+| 0x5A411C46    | https://i.imgur.com/Fs45jLe.gif | Don't worry, he's always being hauled in but the charges don't stick.                                                            |
+| 0x5AAC2571    | https://i.imgur.com/RsRfoNi.gif | The boy over pon Carrollton Street my youth. Come mek a' forward.                                                                |
+| 0x5ADF5229    | https://i.imgur.com/YCpUVAz.gif | I'm sure you do, but you said you'd help me.                                                                                     |
+| 0x5B75B5BB    | https://i.imgur.com/iAsmOwA.gif | Yo, rudeboy, this a' de place.                                                                                                   |
+| 0x5BB9A097    | https://i.imgur.com/MxUTKQy.gif | Niko, how you doing? This is so much fun.                                                                                        |
+| 0x5C2D6BE0    | https://i.imgur.com/dhneUQI.gif | Tell the client that they don't need to worry.                                                                                   |
+| 0x5C07AC70    | https://i.imgur.com/6zvay3Q.gif | Date? This isn't a date, Niko. We're just getting to know each other. We might be friends and that's all.                        |
+| 0x5C29DC1C    | https://i.imgur.com/Ubh9PeN.gif | Alright, Niko. Maybe we do something when you have some free time.                                                               |
+| 0x5CAFE05E    | https://i.imgur.com/2jr7VfA.gif | Drinking their lives away, it's not for me.                                                                                      |
+| 0x5D5E0867    | https://i.imgur.com/70VR5pV.gif | You know the truth when you see it.                                                                                              |
+| 0x5D8AD2DF    | https://i.imgur.com/mZSDeOy.gif | Yeah?                                                                                                                            |
+| 0x5D5603FF    | https://i.imgur.com/B8DV6j9.gif | Nicky, what the fuck is this? Roman's getting hitched?                                                                           |
+| 0x5DE21E23    | https://i.imgur.com/6pdFIYn.gif | Shut the fuck up, Jacob. Niko, I hear you can understand this rasta shit.                                                        |
+| 0x5DFD0339    | https://i.imgur.com/UW4Aket.gif | You seem like you got my back, Niko. Help me out on this one, dog.                                                               |
+| 0x5E957066    | https://i.imgur.com/m722mYH.gif | Trust the higher power... trust the HP.                                                                                          |
+| 0x5EE31466    | https://i.imgur.com/H1h1NHT.gif | I proposed to Mallorie, Niko. She said she would marry me.                                                                       |
+| 0x06A84F68    | https://i.imgur.com/wMsBGUi.gif | You'll be okay. Just chill out.                                                                                                  |
+| 0x6A1B5830    | https://i.imgur.com/nt99ecl.gif | On the down low, I think Playboy wants me dead.                                                                                  |
+| 0x6A11B9A7    | https://i.imgur.com/JpxMNFU.gif | Hey man, we're here to pay back the money my friend here owed you.                                                               |
+| 0x6ABDD165    | https://i.imgur.com/fgrWsgG.gif | Do not mention it.                                                                                                               |
+| 0x6B15577C    | https://i.imgur.com/Q2Uk2o1.gif | Niko, how're you finding things? Have you got enough to do here in Liberty City?                                                 |
+| 0x6C1CAED7    | https://i.imgur.com/3zz4Jke.gif | Cousin, I have bought us a present.                                                                                              |
+| 0x6D0C71F8    | https://i.imgur.com/iCW1Ard.gif | Yeah, that's what he think. He got friends all over the shop but he living in the past.                                          |
+| 0x6D5A4AF8    | https://i.imgur.com/TdqxZnX.gif | A friend of mine saw him at that card club on Hunt Point.                                                                        |
+| 0x6D7C2C80    | https://i.imgur.com/Srp3Kf4.gif | Sure, I'll see you there, Kate. Goodbye.                                                                                         |
+| 0x6D9B40BA    | https://i.imgur.com/TTJsLIF.gif | You think money's gonna do it? Do ya, Mel?                                                                                       |
+| 0x6D76BD4C    | https://i.imgur.com/DS5uxXf.gif | Get over here before I run out of patience and start shooting.                                                                   |
+| 0x6E117B70    | https://i.imgur.com/5w72Ypo.gif | Cousin, how about we play some pool? Remember how we used to hustle those American soldiers back home when the war started?      |
+| 0x6E555FAB    | https://i.imgur.com/kiN2GnB.gif | Okay.                                                                                                                            |
+| 0x6E670A25    | https://i.imgur.com/PsXICix.gif | Nicky, we got to talk serious.                                                                                                   |
+| 0x6F21328A    | https://i.imgur.com/kDS5SIJ.gif | And you still ain't made it yet. But you're the one saving my life.                                                              |
+| 0x7A57F107    | https://i.imgur.com/MwCTes4.gif | She kisses our kid with that mouth. I love her so much.                                                                          |
+| 0x7B3E3D0C    | https://i.imgur.com/qaqXqwi.gif | I always thought that there was something not quite right about you, Niko.                                                       |
+| 0x7BBC3EB7    | https://i.imgur.com/T06iQlD.gif | I'll stick by you 'til the end. Take him out for me.                                                                             |
+| 0x7BC7FE95    | https://i.imgur.com/jKH0TlH.gif | I'd like some work, brother.                                                                                                     |
+| 0x7BD22319    | https://i.imgur.com/ctm66KG.gif | Yeah, yeah, must have been.                                                                                                      |
+| 0x7CA850EE    | https://i.imgur.com/A6SApPn.gif | He's going to send you emails about all the cars he wants and you're going to get them for him.                                  |
+| 0x7CBF9D0E    | https://i.imgur.com/YH14i8K.gif | That's exactly right, he's an old school romantic. See you soon, Mal.                                                            |
+| 0x7EFFC525    | https://i.imgur.com/6WuGE2E.gif | Meet me at the garage off Silicon Street at the north east corner of Middle Park.                                                |
+| 0x7F51E427    | https://i.imgur.com/RTSUeBB.gif | He doesn't want no trouble.                                                                                                      |
+| 0x7FA18013    | https://i.imgur.com/74pyO94.gif | Yeah, let's go.                                                                                                                  |
+| 0x008C01B6    | https://i.imgur.com/kjUy6bV.gif | When you've taken care of something for me, call me on my cellular, but no specifics.                                            |
+| 0x8AF9EC89    | https://i.imgur.com/Tx37dP0.gif | That was a cold streak. Now I'm hot, cousin.                                                                                     |
+| 0x8BB5EBB3    | https://i.imgur.com/9Q0eyvq.gif | Thanks, I'll try to hang in there... I guess. Enjoy the dream.                                                                   |
+| 0x8BCE9AC6    | https://i.imgur.com/ULjSJbl.gif | They liked your shit, man.                                                                                                       |
+| 0x8C91E049    | https://i.imgur.com/eQ21Slw.gif | I need your help.                                                                                                                |
+| 0x8C2434B2    | https://i.imgur.com/hFl7Jt6.gif | I know it gets lonely. I know what it feels like to get close to a man.                                                          |
+| 0x8D50465C    | https://i.imgur.com/Leq63S3.gif | Niko, it's your cousin.                                                                                                          |
+| 0x8DD13743    | https://i.imgur.com/S8XLKdg.gif | Are you coming to Roman's wedding?                                                                                               |
+| 0x8E4D8040    | https://i.imgur.com/A9Ntq62.gif | I guess it's nice be honest for a change.                                                                                        |
+| 0x8E5F4504    | https://i.imgur.com/DoVh4PZ.gif | Mr. Bulgarin and I were very disappointed.                                                                                       |
+| 0x8E290579    | https://i.imgur.com/Ouncv4H.gif | The fucking stupid bastards.                                                                                                     |
+| 0x8FB346D1    | https://i.imgur.com/bKoruMo.gif | Sure, I have an ability to find stuff if the price is right. Give him my number.                                                 |
+| 0x8FD0E631    | https://i.imgur.com/KAC9Lzp.gif | Stop blackmailing my friends, Dimitri. You do not want to anger me more.                                                         |
+| 0x09A49A50    | https://i.imgur.com/ec69S1Y.gif | Hey, is there anything you need done?                                                                                            |
+| 0x09FE6842    | https://i.imgur.com/A9p3iCg.gif | In-fucking-sane. You saved my ass again.                                                                                         |
+| 0x9A2CD9B3    | https://i.imgur.com/u9UUIgJ.gif | I cannot, Michelle. Maybe some other time.                                                                                       |
+| 0x9A10B74A    | https://i.imgur.com/sQ2iCMS.gif | Cool, I guess.                                                                                                                   |
+| 0x9A22FD9C    | https://i.imgur.com/TDusvRi.gif | Sure you are, I'm happy too. Fucking happy. Brucie's ecstatic, homie.                                                            |
+| 0x9A62CD6C    | https://i.imgur.com/9JfOpAT.gif | The client will be pleased to hear that.                                                                                         |
+| 0x9B9CB88A    | https://i.imgur.com/mWckjN6.gif | It is much better than the shit we got back in the Old Country.                                                                  |
+| 0x9BAEA751    | https://i.imgur.com/jiDs7gH.gif | So, what are you showing me?                                                                                                     |
+| 0x9C81A4E4    | https://i.imgur.com/JhdRTdv.gif | Yeah, he wasn't around for much longer. A few people moved away.                                                                 |
+| 0x9C88E157    | https://i.imgur.com/rIP70X8.gif | I was loyal to you, Dimitri. Why did you turn on me?                                                                             |
+| 0x9CF63AE6    | https://i.imgur.com/nA9DAhX.gif | Please leave a message.                                                                                                          |
+| 0x9E0FE019    | https://i.imgur.com/KDzrFRY.gif | I will smoke you out of any other hiding place you have in this city. See you soon, Niko.                                        |
+| 0x9F5EB290    | https://i.imgur.com/i4jc39h.gif | Dry now though, dry as a bone.                                                                                                   |
+| 0x11E61EA9    | https://i.imgur.com/1e1gGc4.gif | This a real sound investment you making.                                                                                         |
+| 0x12F84694    | https://i.imgur.com/Grh2XI9.gif | Hey Gerry. I heard you'd been locked up, I'm sorry to hear that.                                                                 |
+| 0x015EEA7F    | https://i.imgur.com/dp3ttnb.gif | There isn't any good way to go though, is there?                                                                                 |
+| 0x16C91FDF    | https://i.imgur.com/aQCyB0e.gif | Where?                                                                                                                           |
+| 0x16EAB016    | https://i.imgur.com/VMw0FI2.gif | Niko, I think Roman has been kidnapped. I heard he owes some Russians money.                                                     |
+| 0x17ADB662    | https://i.imgur.com/NLB1I03.gif | I'm looking to earn some money, friend.                                                                                          |
+| 0x17BFDCDC    | https://i.imgur.com/H6A6S4M.gif | And I am one dangerous motherfucker, okay? Put him in Gamblers Anonymous or something.                                           |
+| 0x17C3481B    | https://i.imgur.com/1VNUk0I.gif | Yeah, but this ain't no rock - it's a fucking boulder. This shit's gonna blast me to the moon.                                   |
+| 0x17C46451    | https://i.imgur.com/B5qQoKX.gif | She don't get out much and she sure as hell don't go on dates. We're starting to worry.                                          |
+| 0x18CFF0EC    | https://i.imgur.com/8LHasdf.gif | You remember my brother Derrick, came along on the bank job?                                                                     |
+| 0x019EA2F1    | https://i.imgur.com/nrocwwU.gif | You been a useful set of hands. Look after yourself.                                                                             |
+| 0x23A347AC    | https://i.imgur.com/6oUPlK7.gif | Niko Bellic, I know who you are, brother. You're after some money.                                                               |
+| 0x23B90744    | https://i.imgur.com/OyIAl1t.gif | I can free that period up in my schedule.                                                                                        |
+| 0x24DE490F    | https://i.imgur.com/2uWwCOQ.gif | Remember to wear a suit, Niko. We can't have you dressed like a bum in the church.                                               |
+| 0x24F21470    | https://i.imgur.com/m5LfBH0.gif | This is a voice from your past Niko. Can you guess who it is?                                                                    |
+| 0x25D7D70F    | https://i.imgur.com/EHcKgG7.gif | Nicky, this is Ray Boccino. The man keeping your Irish friends in liquor.                                                        |
+| 0x18F42DD3    | https://i.imgur.com/fg9KtHl.gif | This is step number nine in the program. I'm making amends to all those I harmed. Expensive process.                             |
+| 0x7F0E0C01    | https://i.imgur.com/ybAd6y5.gif | Good. Got a little business opportunity I need your help with.                                                                   |
+| 0x6CFDB09B    | https://i.imgur.com/BZJ0yGU.gif | Now all we need to do is find you a wife and we can all settle down happily ever after.                                          |
+| 0x24572E4B    | https://i.imgur.com/YiJLLBX.gif | Can't you remember coming over to my place and throwing the TV out the window?                                                   |
+| 0x27AABC7B    | https://i.imgur.com/UgdDlxm.gif | Good thing you haven't been hanging around with them too much. That shit is fucked up. I'm sorry for getting you involved.       |
+| 0x28D4E4A3    | https://i.imgur.com/9Nr55RE.gif | Brucie don't need to settle down just yet.                                                                                       |
+| 0x31B7E3D5    | https://i.imgur.com/TXbed0h.gif | I come to people like you when I need someone handled. Do you get me, brother?                                                   |
+| 0x31C5D1BB    | https://i.imgur.com/0L38R5V.gif | Hey Kate, I am sorry to hear about your brother.                                                                                 |
+| 0x34ACAFDA    | https://i.imgur.com/Tg9CuXR.gif | I will cut you in Niko. Let's be friends.                                                                                        |
+| 0x34F8099F    | https://i.imgur.com/sBAFRdB.gif | We're back on top, Niko. The Pegorinos is still somebody.                                                                        |
+| 0x35E842F9    | https://i.imgur.com/BPIoDld.gif | It's super fancy, but I'm too hungry to care.                                                                                    |
+| 0x37A5B672    | https://i.imgur.com/Hr7CFZv.gif | You could say I cut some ties.                                                                                                   |
+| 0x38BD0CB8    | https://i.imgur.com/thOwoND.gif | Might just let him do it, put a cap in my dome. End it all.                                                                      |
+| 0x38EAB3EC    | https://i.imgur.com/DQyXnUU.gif | How am I gonna cope out here? Who knows what I did when I was on the sauce?                                                      |
+| 0x41EE4A5D    | https://i.imgur.com/NCa7JsV.gif | Persuade them to give up the contracts. We can work together.                                                                    |
+| 0x41EE44ED    | https://i.imgur.com/GJurfK3.gif | There be a lot of work so call whenever, you know. One love, bredren.                                                            |
+| 0x43DB74DC    | https://i.imgur.com/6bX0jN4.gif | Niko. The shit went down with those guys in Bohan. Elizabeta's doing a bid. I think she might have killed Manny.                 |
+| 0x44E890D3    | https://i.imgur.com/eIoTf83.gif | I'd like some work, my friend. You got anything?                                                                                 |
+| 0x46B32602    | https://i.imgur.com/QUOubln.gif | Anyway, that's how I gonna feel when this shit's chasing me round my head.                                                       |
+| 0x46C4D254    | https://i.imgur.com/kyF1f1e.gif | Be cool, brother. Keep your senses alert and you might make retirement.                                                          |
+| 0x47F3AB25    | https://i.imgur.com/0UW3egp.gif | That what you want? Seriously?                                                                                                   |
+| 0x48F420D9    | https://i.imgur.com/BLnehTx.gif | Pick me up in the next hour.                                                                                                     |
+| 0x49A133E5    | https://i.imgur.com/Jryi5wI.gif | We gotta discuss something. I've put you on the visitors list here. Come down...                                                 |
+| 0x49B587CC    | https://i.imgur.com/Hzz2SIU.gif | You don't normally take the guys you date back to meet the family?                                                               |
+| 0x51B14207    | https://i.imgur.com/5JUPAqo.gif | Peace, man.                                                                                                                      |
+| 0x51FFD157    | https://i.imgur.com/8XWDIx8.gif | Alright man.                                                                                                                     |
+| 0x56C94E1B    | https://i.imgur.com/hn52Qli.gif | I'm more gangster than you ever gonna know, punk.                                                                                |
+| 0x57BA9899    | https://i.imgur.com/0ufO3lv.gif | You know Roman, I haven't been having that much fun since I got here. Has been a lot like hard work.                             |
+| 0x058D37C1    | https://i.imgur.com/DU8fz42.gif | Where is Jacob?                                                                                                                  |
+| 0x60CFB190    | https://i.imgur.com/k7kuRV6.gif | Gonna last me weeks.                                                                                                             |
+| 0x061B6C9D    | https://i.imgur.com/aRWWXri.gif | Mr. Bellic. This is Karen from Goldberg, Ligner and Shyster.                                                                     |
+| 0x63AF17B1    | https://i.imgur.com/LJ1LomW.gif | Niko, shit is getting fucked up. I need to see you at my crib.                                                                   |
+| 0x67E8FD29    | https://i.imgur.com/G1RiOcm.gif | If you want my advice, the only way you're going to get your balls back to normal is if you stop juicing or you get implants.    |
+| 0x69E37C81    | https://i.imgur.com/TlZCtJO.gif | You robbed Bulgarin, you killed Mikhail. You know no more of loyalty than I do.                                                  |
+| 0x71CFB3F2    | https://i.imgur.com/MRcijg3.gif | Make it a memorial to Union workers who've died in accidents.                                                                    |
+| 0x72B4810A    | https://i.imgur.com/BSOOPIs.gif | Well, we do what we can to survive, Kate.                                                                                        |
+| 0x76AFC3F5    | https://i.imgur.com/AHh3Gtq.gif | It wasn't so long ago that your debts got you kidnapped by the Russian mob.                                                      |
+| 0x79D94A50    | https://i.imgur.com/X5sz4Lp.gif | You bought it, or I did?                                                                                                         |
+| 0x80FAB1AE    | https://i.imgur.com/OarR34w.gif | He is a good friend of mine, he'll be a good friend of yours too if you let him.                                                 |
+| 0x81C89ECE    | https://i.imgur.com/yUFIxAt.gif | They made sense inside. Three meals a day, time in the yard, lockdown at eight.                                                  |
+| 0x84C6AF7A    | https://i.imgur.com/Ig7Gnem.gif | Shit, you want that back? I thought it was a gift, B. You and us being so tight and all.                                         |
+| 0x84DF1569    | https://i.imgur.com/FkDZP2V.gif | I need you to go over to the Governor Greg Johnson projects over in Northwood,                                                   |
+| 0x86D11662    | https://i.imgur.com/ibfBqHW.gif | Thank you, Bryce Dawkins. I hope the cash for this didn't come out of city funds.                                                |
+| 0x87C5EFB6    | https://i.imgur.com/NjyyiZt.gif | You bout feel me teeth now!                                                                                                      |
+| 0x88DBC0B6    | https://i.imgur.com/jHkjm5M.gif | Niko, it's Roman.                                                                                                                |
+| 0x88FDD88B    | https://i.imgur.com/C6yu41v.gif | What do you want, Dimitri?                                                                                                       |
+| 0x89D78CDB    | https://i.imgur.com/m5GMq1E.gif | I have no debts to Bulgarin, Dimitri.                                                                                            |
+| 0x91A76B27    | https://i.imgur.com/tC1QYcH.gif | That's them. Do you mind waiting here?                                                                                           |
+| 0x93FABFD4    | https://i.imgur.com/FsoG9Qn.gif | I owe that fool - ain't payback a bitch? Peace out, money.                                                                       |
+| 0x98BB70C5    | https://i.imgur.com/Vv0C7F0.gif | Well, you've been spending time with the rest of my family, I figured you may as well complete the set.                          |
+| 0x98CFF2BF    | https://i.imgur.com/yi6VqU3.gif | He want know if you want deliver some package around town to some various people and ting inna the city.                         |
+| 0x98DC9F1D    | https://i.imgur.com/WvWdv6C.gif | I thought all I'd been doing since I got here was helping you out.                                                               |
+| 0x99CBB819    | https://i.imgur.com/kChqEWN.gif | That sounds good.                                                                                                                |
+| 0x119B3B13    | https://i.imgur.com/gnrnlCe.gif | he holding up there and needs help with some shit. You assist his broke ass, I'll send some paper your way.                      |
+| 0x134AA16F    | https://i.imgur.com/zNTyZf8.gif | This is great news, Niko. I got the insurance money for the cab depot burning down.                                              |
+| 0x136DFD79    | https://i.imgur.com/tX95knf.gif | Apart from those other ones you screw, right?                                                                                    |
+| 0x140EE8B3    | https://i.imgur.com/JGlvXAd.gif | Niko, it's Dimitri.                                                                                                              |
+| 0x168BE019    | https://i.imgur.com/6zccdkB.gif | Sure, Brucie. Thanks for the heads up.                                                                                           |
+| 0x169A402E    | https://i.imgur.com/Ri97ahL.gif | Sure, sure. Enjoy all that extra pussy then, Brucie. See you around.                                                             |
+| 0x171C552C    | https://i.imgur.com/IXPtpYv.gif | What made you want to get clean?                                                                                                 |
+| 0x201D490D    | https://i.imgur.com/IIpBT57.gif | This don't necessarily mean she's cheating on you.                                                                               |
+| 0x203F9712    | https://i.imgur.com/bh5Yo7W.gif | Niko, I'm offended. I've got us an apartment in Algonquin. What did I say when you got here?                                     |
+| 0x221A70DB    | https://i.imgur.com/rHeggQK.gif | My youth, listen, you a righteous youth, my youth. Jacob tell me about you long time.                                            |
+| 0x249A8E00    | https://i.imgur.com/ggnzIzp.gif | I understand. This is not the type of thing you want to develop a taste for.                                                     |
+| 0x260BA05C    | https://i.imgur.com/VCeYv25.gif | You animal. Awooo!                                                                                                               |
+| 0x343C0901    | https://i.imgur.com/E8N7n60.gif | Shit, I know what it like to not be appreciated in my own time.                                                                  |
+| 0x357A184C    | https://i.imgur.com/hdLXz3d.gif | How many times I have to tell you homie, my balls are golden. Okay?                                                              |
+| 0x368E6BA2    | https://i.imgur.com/3RsoJxo.gif | Can I come in?                                                                                                                   |
+| 0x376F6AC9    | https://i.imgur.com/AoxfMER.gif | Thanks for helping me, dude.                                                                                                     |
+| 0x389CBA9B    | https://i.imgur.com/jr1naqg.gif | Anyway, if you're in need of extra funds I'm in need of a good man.                                                              |
+| 0x426E5921    | https://i.imgur.com/NqbjStR.gif | No man, this means something.                                                                                                    |
+| 0x428C5F76    | https://i.imgur.com/E2MvSJg.gif | Niko, my friend Brucie has a business proposition for us.                                                                        |
+| 0x471F0EA3    | https://i.imgur.com/Q0j9fod.gif | People come to me when they need something handled.                                                                              |
+| 0x509C247A    | https://i.imgur.com/AII7W36.gif | I got rid of that body for you. You should be clean.                                                                             |
+| 0x533BFABC    | https://i.imgur.com/0x9fAiQ.gif | I'm the big shot money lender who screws his hot apple pie American fiancée three times a week.                                  |
+| 0x552D2A12    | https://i.imgur.com/LQ5rxwk.gif | The target's over in the Acter Industrial Park.                                                                                  |
+| 0x559C1F0C    | https://i.imgur.com/2MmW94Q.gif | whoa, like the fucking sprinkler had gone off.                                                                                   |
+| 0x606E2D60    | https://i.imgur.com/fUNvQz0.gif | The target's on a boat trip in the canal between Tudor and Acter.                                                                |
+| 0x622B1AEC    | https://i.imgur.com/vX4ubUf.gif | Penthouse, model on each arm.                                                                                                    |
+| 0x625A1E25    | https://i.imgur.com/4h7uPq1.gif | That's a pretty heavy request, Dwayne -                                                                                          |
+| 0x640BF7D1    | https://i.imgur.com/7fbTRlT.gif | I was talking to Brucie...                                                                                                       |
+| 0x681A04EB    | https://i.imgur.com/5muYzHK.gif | What're you talking about, man?                                                                                                  |
+| 0x686E2772    | https://i.imgur.com/PzSeGq5.gif | And you have paid for this place?                                                                                                |
+| 0x0700CDBE    | https://i.imgur.com/F6MKZsQ.gif | Why didn't I fucking control myself?                                                                                             |
+| 0x716BCB66    | https://i.imgur.com/hJaZXDN.gif | Yeah, he's got stuff that needs doing. Head over to his house off of Beaverhead in Westdyke.                                     |
+| 0x722BFFF9    | https://i.imgur.com/vUBUqcJ.gif | Hey, Kate. I decided to work with that guy.                                                                                      |
+| 0x762F51E6    | https://i.imgur.com/QEEOWFD.gif | You got a lot of debt to pay, Mel.                                                                                               |
+| 0x773EB5B8    | https://i.imgur.com/GybeWl9.gif | That's something I won't be able to forget.                                                                                      |
+| 0x787F7163    | https://i.imgur.com/ojNkeoH.gif | Uhhh... hello? I'm a friend of Phil's.                                                                                           |
+| 0x818EE2C5    | https://i.imgur.com/Jpqy5qo.gif | This is where they should be. Can you clear things up with him?                                                                  |
+| 0x825BD262    | https://i.imgur.com/UkkOzDm.gif | Thanks, man. I'll catch you around.                                                                                              |
+| 0x835CD010    | https://i.imgur.com/9Olr5pF.gif | I have to admit, that was not my first thought when I heard. I'm happy for him.                                                  |
+| 0x861F55AB    | https://i.imgur.com/lMHZnUJ.gif | Niko, it's Patrick McReary. You and me did some work for Elizabeta Torres together.                                              |
+| 0x869D25D1    | https://i.imgur.com/78XxtT7.gif | Did you get it?                                                                                                                  |
+| 0x889F90F1    | https://i.imgur.com/AR5dDNe.gif | You a righteous youth my youth.                                                                                                  |
+| 0x910B3D53    | https://i.imgur.com/3yy24LV.gif | Things out here is mad crazy.                                                                                                    |
+| 0x946C50DA    | https://i.imgur.com/CwhT6Gr.gif | Niko, tell me it weren't you that shot up the strip club in Bohan.                                                               |
+| 0x966AE18C    | https://i.imgur.com/9AGZuQl.gif | Look, I ain't a pimp or nothing.                                                                                                 |
+| 0x1273A585    | https://i.imgur.com/LXsRT0Q.gif | I get you.                                                                                                                       |
+| 0x1801AC4C    | https://i.imgur.com/bhADnd8.gif | I cannot believe that you would steal from my friend Ray Bulgarin twice.                                                         |
+| 0x2146BA1A    | https://i.imgur.com/NhYkIUc.gif | Press the buzzer and we'll let you in. Have a nice day.                                                                          |
+| 0x2289CA13    | https://i.imgur.com/NTM6Swm.gif | Okay, you and Badman got any more work you need help with?                                                                       |
+| 0x2370A465    | https://i.imgur.com/J6iHAmf.gif | Sorry, cousin. I have no time to play pool right now.                                                                            |
+| 0x2384C03B    | https://i.imgur.com/E1ZZFkl.gif | Why don't you just pay him what you owe and we can all get along?                                                                |
+| 0x2834DF5F    | https://i.imgur.com/TPZw1vj.gif | I don't normally socialize with Packie's gangster friends, but sure.                                                             |
+| 0x2903E0FD    | https://i.imgur.com/0xQRJ2w.gif | I was wondering if you wanted to come out with me sometime?                                                                      |
+| 0x3036E56D    | https://i.imgur.com/zVOfjeJ.gif | Alright me man, Niko. How's it going?                                                                                            |
+| 0x3093A1BC    | https://i.imgur.com/akPD4SR.gif | I nearly ran into your cousin the other day. My friends were hanging out with him.                                               |
+| 0x3747EDE2    | https://i.imgur.com/NysvtDQ.gif | I'll stop by, man. I'll see you there.                                                                                           |
+| 0x4061E472    | https://i.imgur.com/EJz7eaA.gif | This is nice, isn't it?                                                                                                          |
+| 0x4326FAAF    | https://i.imgur.com/0LS610D.gif | That's it. But it's nice. I'm enjoying myself.                                                                                   |
+| 0x4748CF31    | https://i.imgur.com/Nq7N9cb.gif | The target is in a car, they're moving around Alderney.                                                                          |
+| 0x5116E2CD    | https://i.imgur.com/bwzT8ND.gif | Take them out.                                                                                                                   |
+| 0x5817D8EA    | https://i.imgur.com/v6GOOjA.gif | You, who has so many enemies?                                                                                                    |
+| 0x5970FE15    | https://i.imgur.com/AZnKig1.gif | Putanesca. There was always something funky about her. I'm real sorry.                                                           |
+| 0x6402AEEF    | https://i.imgur.com/GUhSGQr.gif | Just call me whenever you want to take a fare. You can do as many as you like, Niko.                                             |
+| 0x6427C328    | https://i.imgur.com/cv6yBXL.gif | The stupid bastards thought it was an electrical fire, not arson.                                                                |
+| 0x6436CF63    | https://i.imgur.com/0MZecRj.gif | They're over on Onion, just off Asparagus Avenue.                                                                                |
+| 0x6841D3AD    | https://i.imgur.com/Y4STfwE.gif | Any time you want to race, give me a call and I'll hit you up with a location.                                                   |
+| 0x7429EE2A    | https://i.imgur.com/r5mCH0o.gif | Teach him for sticking his nose in other peoples' business and get the files.                                                    |
+| 0x7947F3E1    | https://i.imgur.com/bC0d27N.gif | Yeah, I think I've got enough on my plate at the moment, Roman.                                                                  |
+| 0x8010C4EB    | https://i.imgur.com/twx6R8f.gif | Can't use you no more though.                                                                                                    |
+| 0x8347D414    | https://i.imgur.com/9iWjtCm.gif | So what, I took on a little debt?                                                                                                |
+| 0x8413FBFB    | https://i.imgur.com/7aEhTyu.gif | And you shoulda seen the can after I was done with it,                                                                           |
+| 0x9237AA49    | https://i.imgur.com/u0sH92w.gif | Perfect, the smug bastard ain't gonna know what's coming at him.                                                                 |
+| 0x09308E4C    | https://i.imgur.com/ySz0CgG.gif | I asked my sponsor to come along but he says this is something I got to do without him.                                          |
+| 0x9327E513    | https://i.imgur.com/57ZOzmj.gif | The world can mess you up, y know?                                                                                               |
+| 0x9638DC2A    | https://i.imgur.com/kRbzPJx.gif | That 'roid monkey?                                                                                                               |
+| 0x9800ABE6    | https://i.imgur.com/8FDqyio.gif | my problem hurt a lot of people.                                                                                                 |
+| 0x11516D2B    | https://i.imgur.com/CM3hNKy.gif | I need you to come around to my place Niko. Please, come soon.                                                                   |
+| 0x13074D0E    | https://i.imgur.com/dG8M81q.gif | I don't wanna spend them staring into the bottom of a glass.                                                                     |
+| 0x13764E5D    | https://i.imgur.com/iyoTUzm.gif | Yo Nicky, what's up homie? Our boy, Stevie, hit me up.                                                                           |
+| 0x16713BD8    | https://i.imgur.com/0P3Zwcd.gif | Okay, that could be interesting.                                                                                                 |
+| 0x17585B57    | https://i.imgur.com/LUGDpZj.gif | Sure Badman, some Russians been up in my face as well.                                                                           |
+| 0x19708C53    | https://i.imgur.com/JtW2T74.gif | I can't do it myself. He was my boy back in the day.                                                                             |
+| 0x22908C5D    | https://i.imgur.com/FObrb6q.gif | Nah, fuck that shit. I ain't ready to go out yet. I need you to get him for me.                                                  |
+| 0x29E97AC6    | https://i.imgur.com/Bfu0ha2.gif | Positive thinking is what it's all about.                                                                                        |
+| 0x077BF0C6    | https://i.imgur.com/7cMP6G3.gif | the courage to change the things you can, and the wisdom to know the difference. Right, dude?                                    |
+| 0x82B52D6C    | https://i.imgur.com/PsVliCF.gif | You asked me to help out Dwayne, that's what I was doing.                                                                        |
+| 0x215DF7CB    | https://i.imgur.com/6GhOwP5.gif | I don't want a full stomach for the stuff I have to do. Another time...                                                          |
+| 0x1456EAC5    | https://i.imgur.com/zjBGuud.gif | Yeah, you're right. Just chill out.                                                                                              |
+| 0x0220CE89    | https://i.imgur.com/LY0PLVY.gif | Gravelli is the only man who can get what you need done. He's in Schottler Medical center.                                       |
+| 0x510C9E71    | https://i.imgur.com/EpN2cV6.gif | The bitch, the cum-guzzling bitch.                                                                                               |
+| 0x603CBC5F    | https://i.imgur.com/WeUBgzk.gif | That said, it's a lot harder to ask people to write off the emotional debts than the financial ones...                           |
+| 0x8619DC86    | https://i.imgur.com/j89uHnh.gif | That cat ain't got no vision, wants to shut down the site and shit.                                                              |
+| 0xC33411C5    | https://i.imgur.com/CzhQYrc.gif | I hear you need work. I wanna throw you a bone, Nicky.                                                                           |
+| 0x29279BA7    | https://i.imgur.com/Spfkax6.gif | The big man's hanging up his hunting rifle?                                                                                      |
+| 0x37434F51    | https://i.imgur.com/9BelYaH.gif | It's three men, they've been lured to an old building in Alderney City.                                                          |
+| 0x41881EB2    | https://i.imgur.com/C3UiUvm.gif | I don't know if it was the right decision but I did it. He screwed me over again.                                                |
+| 0x45192AB3    | https://i.imgur.com/5sUSMnK.gif | Yo don't nobody treat the Pathos like that.                                                                                      |
+| 0x53496FEA    | https://i.imgur.com/KgzGuRb.gif | You think I'm getting old? I've got the abs of a seventeen year old gymnast and the forehead of a toddler, baby.                 |
+| 0x58212E71    | https://i.imgur.com/o4M2PHT.gif | Thanks, man. Can you take me back to where we were before?                                                                       |
+| 0x60216CE4    | https://i.imgur.com/HD5VMoY.gif | You know that youth. He love 'im girl and ting, ya no know?                                                                      |
+| 0x65243FA1    | https://i.imgur.com/6PtJ7Dq.gif | Take me back to my place on Wappinger.                                                                                           |
+| 0x68387A29    | https://i.imgur.com/4ZzWPal.gif | You'll get your normal rate to assist them with it.                                                                              |
+| 0x71077E79    | https://i.imgur.com/TH0k4sJ.gif | You could have told me he was here.                                                                                              |
+| 0x71780E65    | https://i.imgur.com/D4OYrGc.gif | I was in the shower and I heard the phone ringing so I thought you mighta called or something. My bad. Later.                    |
+| 0x72140A15    | https://i.imgur.com/yeNIhK9.gif | Hey, home boys. Hit me up with that paper you borrowed.                                                                          |
+| 0x73304D4A    | https://i.imgur.com/WcQ4BV6.gif | There are always more customers.                                                                                                 |
+| 0x73908F23    | https://i.imgur.com/B4G5bJq.gif | Don't help him out when it fucks up my business interests. Damn, son. That ain't cool.                                           |
+| 0x75994B5D    | https://i.imgur.com/4rvCqzC.gif | I and I am a bred' that goin' mash the ting ya know. crossed the wrong rasta, rudeboy.                                           |
+| 0x82944E21    | https://i.imgur.com/xWdxdi4.gif | Niko. I'm getting worried. Roman didn't get back at all last night.                                                              |
+| 0x84750EC4    | https://i.imgur.com/2NzAlga.gif | I have an interview with Goldberg tomorrow.                                                                                      |
+| 0x092368DE    | https://i.imgur.com/XMR23YM.gif | Hotter than the models we'll be bedding. I can't lose.                                                                           |
+| 0x93860DF1    | https://i.imgur.com/kEzg6pR.gif | Niko, now that you've settled into life in Liberty City,                                                                         |
+| 0x93928EE8    | https://i.imgur.com/0O4gduM.gif | I just hope he was smacked out of his brain when it happened because it wouldn't have suited him to be jonesing when he died.    |
+| 0x95197A32    | https://i.imgur.com/VXigA2y.gif | Hey, this Mallorie. Leave me a message and I'll hit you back.                                                                    |
+| 0x149878BF    | https://i.imgur.com/798Dl4n.gif | Go to Alderney City.                                                                                                             |
+| 0x212719E1    | https://i.imgur.com/5Xorq4V.gif | He going to pay me to pump him full of steroids and tell him how great his abs are?                                              |
+| 0x327129AD    | https://i.imgur.com/EuYfAYq.gif | A man loses taste for this kind of work after a time. I can't run that risk with a partner.                                      |
+| 0x538392E9    | https://i.imgur.com/8JzzctV.gif | I love it, man.                                                                                                                  |
+| 0x545298E9    | https://i.imgur.com/CMUauZ9.gif | He owed them money?                                                                                                              |
+| 0x545510B6    | https://i.imgur.com/hMQuqpR.gif | I only get you the prices I do because I am known for reliability.                                                               |
+| 0x656445A4    | https://i.imgur.com/QxcYoEc.gif | Mos def.                                                                                                                         |
+| 0x0659356E    | https://i.imgur.com/B6EX0ay.gif | with a bottom feeder like you?                                                                                                   |
+| 0x738746B6    | https://i.imgur.com/7MibCh0.gif | Don't worry. I'll make sure everything's cool.                                                                                   |
+| 0x853876F4    | https://i.imgur.com/scRkLBQ.gif | Make sure they don't come back.                                                                                                  |
+| 0x911701B6    | https://i.imgur.com/A8mpDFc.gif | Roman hasn't spoken to you about anything, has he? Nothing about maybe asking me to marry him?                                   |
+| 0x01919302    | https://i.imgur.com/pQoQaD3.gif | Can you get us a car?                                                                                                            |
+| 0x02491388    | https://i.imgur.com/yA25KD5.gif | Kate, it is Niko. We met with your brother, Packie.                                                                              |
+| 0x4245451F    | https://i.imgur.com/jCPao8H.gif | I have nothing to say to you.                                                                                                    |
+| 0x4307336E    | https://i.imgur.com/TejSo2r.gif | He's getting involved with some serious cats, homie. Even people I might think twice about dealing with.                         |
+| 0x4377463E    | https://i.imgur.com/Q7Bfg5m.gif | Alright man, I'll go find him.                                                                                                   |
+| 0x04410091    | https://i.imgur.com/xL4c0bK.gif | Really?                                                                                                                          |
+| 0x7973568C    | https://i.imgur.com/HLzrdW0.gif | No comment.                                                                                                                      |
+| 0x9372748F    | https://i.imgur.com/abBaL7i.gif | Man, I'm going to immortalize you. Keep it real, from your man Pathos.                                                           |
+| 0x09394574    | https://i.imgur.com/faZw7Zu.gif | And that ain't cool. You dig?                                                                                                    |
+| 0x9841176B    | https://i.imgur.com/r0C8LIA.gif | I was wondering if you could start to help your cousin with the family business?                                                 |
+| 0x9952324E    | https://i.imgur.com/vXJnoMe.gif | Yo, rudeboy, I catch you around an ting man, one love, rasta.                                                                    |
+| 0x15558148    | https://i.imgur.com/3auXtu0.gif | You don't even know her, Roman so please try not to embarrass me.                                                                |
+| 0x18893215    | https://i.imgur.com/H5AVKLF.gif | Positive, that's me.                                                                                                             |
+| 0x26005307    | https://i.imgur.com/2QU9eQ0.gif | Alright, man. You got any work for me?                                                                                           |
+| 0x29351481    | https://i.imgur.com/NiW8XvZ.gif | Oh boy, that shook me up, man. The stress was too much.                                                                          |
+| 0x34856553    | https://i.imgur.com/ji7Mog9.gif | You are in debt to him, Niko.                                                                                                    |
+| 0x35199793    | https://i.imgur.com/Nncrg4D.gif | Roman's a grown up. He can look after himself, Brucie.                                                                           |
+| 0x44743054    | https://i.imgur.com/YOVLWva.gif | Fuck man, you are the boy. I'll call Stevie.                                                                                     |
+| 0x45413828    | https://i.imgur.com/H5GKjA0.gif | Take me over to Masterson Street.                                                                                                |
+| 0x46266377    | https://i.imgur.com/BuFrBh5.gif | Me check the man here.                                                                                                           |
+| 0x58628968    | https://i.imgur.com/Nfseqw5.gif | Yo, me need a drop to Meadow Hills.                                                                                              |
+| 0x65483672    | https://i.imgur.com/BBZqqEV.gif | I hear the real America is all strip malls and clinical obesity?                                                                 |
+| 0x76566785    | https://i.imgur.com/uHRmsRK.gif | Maybe it was an accident.                                                                                                        |
+| 0x79592637    | https://i.imgur.com/349ezGD.gif | It is now time to collect from the client.                                                                                       |
+| 0x79623188    | https://i.imgur.com/QZEtNgo.gif | I hope so, man, I do.                                                                                                            |
+| 0x82993756    | https://i.imgur.com/yhMaKiU.gif | Don't worry about it.                                                                                                            |
+| 0x87929076    | https://i.imgur.com/aplcoXn.gif | Well, if you need some down time go hang out at the apartment and watch some American TV.                                        |
+| 0x89480663    | https://i.imgur.com/KtywVt8.gif | Obviously, the DTs hit me pretty hard when I first got sober.                                                                    |
+| 0x97576051    | https://i.imgur.com/APYKJnt.gif | He's in a bad way. Last I heard he was spending his hours in some park in Acter.                                                 |
+| 0x98722562    | https://i.imgur.com/mL52tun.gif | This your place?                                                                                                                 |
+| 0xA1FCC54A    | https://i.imgur.com/Wd52VJL.gif | Most of the shit on TV in the Old Country was from America, don't you remember, Roman?                                           |
+| 0xA4AA5048    | https://i.imgur.com/xgCh3bo.gif | You free? Want to hang out or something?                                                                                         |
+| 0xA4BAAD1A    | https://i.imgur.com/L4nLazw.gif | Rather than me keeping secrets about my family from you, you're probably keeping secrets about my family from me?                |
+| 0xA4EA0897    | https://i.imgur.com/O6lmsEn.gif | Make you tink that tings matter, when all that matter is that the sun come up and we have good time and laughter and ting, seen? |
+| 0xA4FE136C    | https://i.imgur.com/1EYCbdE.gif | I'm always in need of money. See you there.                                                                                      |
+| 0xA6D82D38    | https://i.imgur.com/iQPGaZk.gif | What's up, Mallorie?                                                                                                             |
+| 0xA6EB3C00    | https://i.imgur.com/GK2OzN9.gif | It's hard for my ma. I'm trying to be there for her.                                                                             |
+| 0xA7FFF950    | https://i.imgur.com/PmxJIoO.gif | You uphill you know, Niko? Even for a shotta.                                                                                    |
+| 0xA9FA7B5F    | https://i.imgur.com/5x9uKAq.gif | He's going to be in touch with you about some cars he needs found. If you catch my meaning?                                      |
+| 0xA25C40FF    | https://i.imgur.com/sc9g0yP.gif | You love to disappoint me, Niko Bellic. You really do.                                                                           |
+| 0xA31FA7C4    | https://i.imgur.com/m8VIL5D.gif | They're just over on Berners Road.                                                                                               |
+| 0xA46FE186    | https://i.imgur.com/NysFH6d.gif | If you want more files, you can reach me on the outside line.                                                                    |
+| 0xA49F3261    | https://i.imgur.com/kBsFCfj.gif | Ha ha. I'm sitting here with Brucie.                                                                                             |
+| 0xA52F65FF    | https://i.imgur.com/sSlgIVo.gif | I can't believe you could care about money that much.                                                                            |
+| 0xA67E3A60    | https://i.imgur.com/FwOr9nA.gif | You have, you have, but I mean officially.                                                                                       |
+| 0xA85EED27    | https://i.imgur.com/qp4ghRN.gif | I've already helped you but I'll help you again. Wait for me to be in touch.                                                     |
+| 0xA399D518    | https://i.imgur.com/GPYxVkx.gif | Niko, my boy, this is Packie's brother Gerald McReary.                                                                           |
+| 0xA0822A2B    | https://i.imgur.com/UrbHYlP.gif | Well, we're sitting here and calling the cops and watching them show up and look around.                                         |
+| 0xA860A754    | https://i.imgur.com/14iliDQ.gif | Niko, it's finally official.                                                                                                     |
+| 0xA3570DEC    | https://i.imgur.com/teDI7nr.gif | I'll have to think about it.                                                                                                     |
+| 0xA9043F30    | https://i.imgur.com/hB0leTD.gif | Don't worry about it. You've got enough on your plate looking after Roman. See you soon.                                         |
+| 0xA144991C    | https://i.imgur.com/oVYMO0J.gif | No, certainly not. They were just distractions from my one true love.                                                            |
+| 0xA5417180    | https://i.imgur.com/hljBEN1.gif | No, sir. No way.                                                                                                                 |
+| 0xAA5B5897    | https://i.imgur.com/jXVr2DT.gif | Since I got out things just don't make no sense.                                                                                 |
+| 0xAA9E965C    | https://i.imgur.com/df1Z8UP.gif | Plenty o' corn in that for you, you know.                                                                                        |
+| 0xAA665FD0    | https://i.imgur.com/gzRm6bU.gif | The youth a grind my youth, the man a hustlin youth, big respect fe him to that.                                                 |
+| 0xAA902BBF    | https://i.imgur.com/xY2xQVY.gif | I'm working on it, cousin. There's this girl I like - she's called Kate McReary.                                                 |
+| 0xAABA979E    | https://i.imgur.com/UcrUMdq.gif | Sure... sure. Yeah. Serenity...                                                                                                  |
+| 0xAADB58F7    | https://i.imgur.com/hOaplcn.gif | The whore, she brought this on herself!                                                                                          |
+| 0xAC3FD1AB    | https://i.imgur.com/VnN5Xy4.gif | And the only thing I owe you is a bullet through the temple.                                                                     |
+| 0xAC67C8C3    | https://i.imgur.com/FuZsw4A.gif | Dude, this is meant to be the biggest rock in the world.                                                                         |
+| 0xACF492A0    | https://i.imgur.com/cQ58e2b.gif | Oh... you don't want to hang out? Well, thanks. Thanks a lot.                                                                    |
+| 0xAD0BCE7B    | https://i.imgur.com/7Oo3SD4.gif | I couldn't date you... someone like my brothers. I couldn't do that to myself.                                                   |
+| 0xAD3E0D7C    | https://i.imgur.com/IcYlurk.gif | Niko, can you pick me up a' me house man, me need a lift?                                                                        |
+| 0xAE37A095    | https://i.imgur.com/RJ96aBV.gif | The target is in Alderney City. You're being relied on to eliminate it.                                                          |
+| 0xAE225FBB    | https://i.imgur.com/QdHEDb4.gif | It is very important that you be there. Goodbye.                                                                                 |
+| 0xAEF20556    | https://i.imgur.com/YNmxmVl.gif | He don't want you to give it back to him, does he?                                                                               |
+| 0xAF7AA93A    | https://i.imgur.com/JJCSHET.gif | The Pegorinos? They're not a family.                                                                                             |
+| 0xAF7BB58C    | https://i.imgur.com/R3opHfO.gif | Roman, we have spoken about your gambling.                                                                                       |
+| 0xAF24BA4B    | https://i.imgur.com/tENCrki.gif | Thanks, dude. I'm glad you were here for me.                                                                                     |
+| 0xAF165A77    | https://i.imgur.com/IlldXhE.gif | I went to the sewage works on Charge Island.                                                                                     |
+| 0xB1CE024B    | https://i.imgur.com/dWN4bR6.gif | Nicky, you animal. The guys we raced the other day want a rematch.                                                               |
+| 0xB1FE71E1    | https://i.imgur.com/t9vMhlL.gif | Come and see me at my ma's house. Use the back entrance.                                                                         |
+| 0xB4DD30DF    | https://i.imgur.com/F3PAsHM.gif | Hey, this is Jeff. Yeah, you remember, that happy go lucky guy?                                                                  |
+| 0xB6BAF160    | https://i.imgur.com/h0suqzi.gif | Thank you, cousin.                                                                                                               |
+| 0xB7D2DB86    | https://i.imgur.com/cYs8iP4.gif | That's a ridiculous generalization. They're good people. Good people.                                                            |
+| 0xB08AC4BA    | https://i.imgur.com/USykqSV.gif | You poor bastard, you have. I don't normally socialize with people that know my family.                                          |
+| 0xB9CA5318    | https://i.imgur.com/NbukNve.gif | Yeah, thanks for helping him get rid of the body. He has such fire in his heart.                                                 |
+| 0xB14B8F3B    | https://i.imgur.com/KAQMims.gif | Dem come pon me corner and ting. Come upon me city. An all a' dis a fucker, rudeboy.                                             |
+| 0xB27C60DD    | https://i.imgur.com/Pl8F5dw.gif | Could be.                                                                                                                        |
+| 0xB28F3F7E    | https://i.imgur.com/n21aNm0.gif | What're you going to do?                                                                                                         |
+| 0xB32EDDFC    | https://i.imgur.com/yVBWsHK.gif | on the hard line.                                                                                                                |
+| 0xB38EA462    | https://i.imgur.com/yIq126y.gif | He's in an alley off of Montauk Avenue.                                                                                          |
+| 0xB80E6C63    | https://i.imgur.com/dXHN3ZQ.gif | Are you disappointed that I have not found and killed you yet, Dimitri Rascalov?                                                 |
+| 0xB82AF756    | https://i.imgur.com/NVNDpxN.gif | Alright brother, I'm in need of a job.                                                                                           |
+| 0xB93C9ABE    | https://i.imgur.com/YTjgrBp.gif | I will find you, Niko. I have burnt you and your cousin out of Hove Beach.                                                       |
+| 0xB0105FCA    | https://i.imgur.com/YkFqGjm.gif | Don't worry about it man.                                                                                                        |
+| 0xB403C147    | https://i.imgur.com/LFAL4F2.gif | Playboy was your best friend, and he's always been straight with me, more or less.                                               |
+| 0xB535D895    | https://i.imgur.com/q82hGwM.gif | Yeah, it still has to be hard for you.                                                                                           |
+| 0xB759D7D6    | https://i.imgur.com/r0pbzsV.gif | Maybe that is the problem.                                                                                                       |
+| 0xB778E2C4    | https://i.imgur.com/xyPdG09.gif | I'm waking up before noon, for Christ's sake.                                                                                    |
+| 0xB04361D7    | https://i.imgur.com/oEVeYqS.gif | Then watch the TV here and get nostalgic, I don't know. Later on.                                                                |
+| 0xB62742E1    | https://i.imgur.com/EPGDLuV.gif | Since the moment I met Mallorie, I knew that she was the only woman for me.                                                      |
+| 0xB84162A2    | https://i.imgur.com/g8oyPPa.gif | Right on, brother. I'll collect the funds.                                                                                       |
+| 0xBA0C8F59    | https://i.imgur.com/CkguUZ7.gif | Niko, man, I'm going crazy.                                                                                                      |
+| 0xBB40A671    | https://i.imgur.com/c77oxix.gif | If Mallorie calls you, we are bowling together. See you later.                                                                   |
+| 0xBB396AD6    | https://i.imgur.com/Yhc11MV.gif | Alright then, this isn't a date. We're just two people, hanging out.                                                             |
+| 0xBBD31EA3    | https://i.imgur.com/zBNDzST.gif | Shaking off all the negative energy and concentrating on the productive.                                                         |
+| 0xBBDA47C0    | https://i.imgur.com/qE55HJf.gif | The target is at the police station in Leftwood.                                                                                 |
+| 0xBC09A4B7    | https://i.imgur.com/Q57Uz7n.gif | I want my operation to run right. I don't want no Russian boy come tell me what fe do, ye see it?                                |
+| 0xBC582D7A    | https://i.imgur.com/Z1zkoUv.gif | I'll give her a call man, but I don't think she'll wanna see me.                                                                 |
+| 0xBD5D73E6    | https://i.imgur.com/ziHY6FL.gif | You will be paid in full, fear not.                                                                                              |
+| 0xBD5F89B2    | https://i.imgur.com/zIz0Cp5.gif | He gave me your number.                                                                                                          |
+| 0xBDE5FB75    | https://i.imgur.com/gSnkcoB.gif | Dem Russian boy, cause me no more boderation rudeboy, respect due.                                                               |
+| 0xBDFF27E3    | https://i.imgur.com/GkOPhz1.gif | Okay then.                                                                                                                       |
+| 0xBE09230F    | https://i.imgur.com/hrWk1JT.gif | Not hanging around with losers like Sergei.                                                                                      |
+| 0xBE506045    | https://i.imgur.com/d8agdRt.gif | Try to keep those two sides of my life separate.                                                                                 |
+| 0xBF4CCEF6    | https://i.imgur.com/D0kGiSL.gif | Salve. This is Jimmy Pegorino's phone. Leave a message.                                                                          |
+| 0xBF45C9C1    | https://i.imgur.com/2HNXlSt.gif | Niko, I heard that Michelle was a cop or a fed or something, is it true?                                                         |
+| 0xC3B1D45F    | https://i.imgur.com/hjhnVeQ.gif | We should eat together.                                                                                                          |
+| 0xC3F1C647    | https://i.imgur.com/39TOmjB.gif | Yo, thanks for the lift, fire.                                                                                                   |
+| 0xC4A78201    | https://i.imgur.com/uY3sVUU.gif | It's just that he gets so angry and jealous. I don't know what to do.                                                            |
+| 0xC4BA4718    | https://i.imgur.com/GoV8OWV.gif | Nick, babe. You got to start treating me right, man. Take me to a show.                                                          |
+| 0xC4E3A25D    | https://i.imgur.com/T49u6Jk.gif | Shit dude, I should remember this.                                                                                               |
+| 0xC4F3DE2E    | https://i.imgur.com/NdQdzdB.gif | Hang in there man, this should help. And it is a gift. Believe it, baby.                                                         |
+| 0xC6EA19E6    | https://i.imgur.com/QBNr1p2.gif | Sure Jacob - I'm on my way - be there in an hour.                                                                                |
+| 0xC8EF79A1    | https://i.imgur.com/jewh8gC.gif | Come to Derrick's funeral. It'd mean a lot to the family. It's today at the Church in Suffolk.                                   |
+| 0xC28BED22    | https://i.imgur.com/50sKlaG.gif | I've got work for you, but it needs to be done.                                                                                  |
+| 0xC40E293B    | https://i.imgur.com/hgTWfxx.gif | Thanks for everything, here's a token of my gratitude. Stay safe.                                                                |
+| 0xC81FDD85    | https://i.imgur.com/KHodZO8.gif | Yo thanks, son. You, you a child of the street.                                                                                  |
+| 0xC91BFB5A    | https://i.imgur.com/hqbdwXj.gif | Well, you should hang out with your cousin more often.                                                                           |
+| 0xC92A571D    | https://i.imgur.com/kJRfERr.gif | Not many in this game cross that line. So long.                                                                                  |
+| 0xC6464D23    | https://i.imgur.com/bV2MAxC.gif | I wish you had been there. We could have had some fun.                                                                           |
+| 0xC8394FC0    | https://i.imgur.com/g5LdX3t.gif | Niko, I got a favor to ask ya.                                                                                                   |
+| 0xB490C8A9    | https://i.imgur.com/Z73BqUt.gif | Thanks and hey, Roman and I decided to be honest with each other last night. He told me about Vlad.                              |
+| R13_CUT1_40   | https://i.imgur.com/pS7etW2.gif | We have to find him.                                                                                                             |
+| 0xC93339D8    | https://i.imgur.com/eqL9zVf.gif | Shit, no, that's cool. I was just telling him how you know, you can make things happen.                                          |
+| 0xC194658E    | https://i.imgur.com/niISP7F.gif | I don't think I've ever played peacemaker, but I'll be there in a bit.                                                           |
+| 0xCA0A52D7    | https://i.imgur.com/BBari2b.gif | Not all work, work, work, y'know? We got to ease up from time to time, to see how the world turns, you know what I'm saying?     |
+| 0xCADB992D    | https://i.imgur.com/Amuv9cU.gif | Yeah, who are you? Can you remind me?                                                                                            |
+| 0xCB1B8856    | https://i.imgur.com/tuX53pL.gif | If you want more work, contact me on the hard line.                                                                              |
+| 0xCB7A9FC9    | https://i.imgur.com/8e2DwvK.gif | Oh, calm Jeff, calm, be calm, calm down.                                                                                         |
+| 0xCBBB13C0    | https://i.imgur.com/enls2eX.gif | I am sorry. Or maybe the thugs who failed to kill me should be blamed though.                                                    |
+| 0xCC2CF7E1    | https://i.imgur.com/2TUFQdw.gif | I haven't heard anything, but I'm sure it would be a really good thing for both of you.                                          |
+| 0xCC10BEDE    | https://i.imgur.com/QYwHC2b.gif | I was just getting jacked up thinking about hanging with you. Shit! Another time, bro.                                           |
+| 0xCD296A5E    | https://i.imgur.com/0c00oM6.gif | There's some heat on this one.                                                                                                   |
+| 0xCD5147C9    | https://i.imgur.com/2i8VbDH.gif | I'll see what I can do about this.                                                                                               |
+| 0xCDED2ACD    | https://i.imgur.com/py0nOtO.gif | Hi Niko. What's up?                                                                                                              |
+| 0xCE1E5E65    | https://i.imgur.com/kFCdpnG.gif | That's not what I meant, friend.                                                                                                 |
+| 0xCE1947AA    | https://i.imgur.com/K4jBBJ0.gif | No, man. Must have been someone else.                                                                                            |
+| 0xCEBF8963    | https://i.imgur.com/fMJnZ9e.gif | Of everywhere here, Alderney is the most like the Real America.                                                                  |
+| 0xCED1A4AB    | https://i.imgur.com/bqfKT4G.gif | Hey brother, is there anything that needs to be handled?                                                                         |
+| 0xCF633FB0    | https://i.imgur.com/mfRq5ry.gif | I don't feel like sitting around laughing, Brucie. Maybe another time.                                                           |
+| 0xCF897E96    | https://i.imgur.com/d1tTl0T.gif | He did?                                                                                                                          |
+| 0xCF18860F    | https://i.imgur.com/9zNGiK2.gif | No shit.                                                                                                                         |
+| 0xCFFB608D    | https://i.imgur.com/NruUpAW.gif | The party got busted up though before I got there.                                                                               |
+| 0xD1BC91A2    | https://i.imgur.com/TX15EvS.gif | Are you going to be at the funeral?                                                                                              |
+| 0xD2D99989    | https://i.imgur.com/WF5uy9x.gif | I bet they did.                                                                                                                  |
+| 0xD3F36F0B    | https://i.imgur.com/dCGnUWz.gif | The one you told about his two-faced, cheating slut of a wife.                                                                   |
+| 0xD04F773D    | https://i.imgur.com/tJvh4qZ.gif | I'll invite her to the wedding.                                                                                                  |
+| 0xD11E0746    | https://i.imgur.com/1oKlzOV.gif | Hey Niko.                                                                                                                        |
+| 0xD28DCAFF    | https://i.imgur.com/eQhoQX7.gif | If you and your boy don't get out of here, we're gonna start taking this personal.                                               |
+| 0xD50CAB1D    | https://i.imgur.com/fChrzCJ.gif | Who knows what I'll need. So long. Be serene...                                                                                  |
+| 0xD60C55F1    | https://i.imgur.com/pAyl7q5.gif | What about you?                                                                                                                  |
+| 0xD189A673    | https://i.imgur.com/MpXTtZp.gif | Now all you need to worry about is your conscience.                                                                              |
+| 0xD505B568    | https://i.imgur.com/6dlBR63.gif | Come over to Drusilla's in Little Italy. We'll have a little sit down.                                                           |
+| 0xD973F1AA    | https://i.imgur.com/rFFPgKs.gif | I think so.                                                                                                                      |
+| 0xD6733ACE    | https://i.imgur.com/g7RbmgC.gif | Gerry, how's it going?                                                                                                           |
+| 0xD6758DC3    | https://i.imgur.com/RiHfgro.gif | I don't know.                                                                                                                    |
+| 0xD31779F8    | https://i.imgur.com/nKKYRqJ.gif | Dude, take me over to Wappinger and Hardin.                                                                                      |
+| 0xD62079C8    | https://i.imgur.com/ypEwjkm.gif | Wait until you see the new place, NB. You will change your song.                                                                 |
+| 0xDAB2B0CD    | https://i.imgur.com/p2sRVsS.gif | If you wanted to pass something up to me... pay me some tribute.                                                                 |
+| 0xDB5A2948    | https://i.imgur.com/2nQnR39.gif | Come into our offices at noon tomorrow. Is that alright?                                                                         |
+| 0xDC0E1BC8    | https://i.imgur.com/cYTgizW.gif | Is nice to get to know you too, seems like I've gotten pretty close to everyone else in your family.                             |
+| 0xDC2F3339    | https://i.imgur.com/UBUCmfw.gif | Bellic Enterprises is up and running again.                                                                                      |
+| 0xDC5FECF2    | https://i.imgur.com/3HaKPMB.gif | I don't think those guys are going to be calling that debt in.                                                                   |
+| 0xDC7F54A6    | https://i.imgur.com/iBWX9ZL.gif | I don't think so, Niko. I don't want to be around you right now.                                                                 |
+| 0xDC68FAFA    | https://i.imgur.com/LOmyqZK.gif | That stuff is what got you here in the first place.                                                                              |
+| 0xDC353BE0    | https://i.imgur.com/QxNJtqQ.gif | That doesn't matter. You need to meet me outside the United Liberty Paper building in Algonquin.                                 |
+| 0xDC8320C8    | https://i.imgur.com/al7dWua.gif | They took Gerry down?                                                                                                            |
+| 0xDD17D9DC    | https://i.imgur.com/BD5R9oP.gif | Phil's bringing me my taste of the cash and Dimitri's still got hold of the horse. This is perfect.                              |
+| 0xDD58E095    | https://i.imgur.com/cEWOOfT.gif | My friend lent you some money and he wants it back.                                                                              |
+| 0xDDA0D665    | https://i.imgur.com/iE9GM1j.gif | Tell me about it.                                                                                                                |
+| 0xDDB61AEF    | https://i.imgur.com/IQasjdl.gif | His love for me took over and he just had to kill him.                                                                           |
+| 0xDE0870DA    | https://i.imgur.com/pF2FAn1.gif | She likes you, just as friends, I'm gonna send you her number.                                                                   |
+| 0xDECD9F72    | https://i.imgur.com/WxLdGFp.gif | You have to have the serenity to accept the things you cannot change,                                                            |
+| 0xDED439F2    | https://i.imgur.com/uTjnX3j.gif | Do not worry, your time will soon come.                                                                                          |
+| 0xDF8F6F0E    | https://i.imgur.com/RzcRvBN.gif | Anyway, he's got some work and we are in need of money.                                                                          |
+| 0xDF64ABE2    | https://i.imgur.com/ldnbmoy.gif | You need to eliminate three targets at the refinery in the Acter Industrial Park.                                                |
+| 0xE1DAAB93    | https://i.imgur.com/JC1BUkn.gif | Niko, I don't know if you've heard it but my brother, Derrick's dead.                                                            |
+| 0xE5DA4CB8    | https://i.imgur.com/rSLjkUW.gif | Maybe I'll keep a ten spot for myself though.                                                                                    |
+| 0xE006AE36    | https://i.imgur.com/Edtyrha.gif | I remember looking up to him as a kid. He had a dream back then, he was inspired.                                                |
+| 0xE6A441C5    | https://i.imgur.com/RGD8gSI.gif | Yeah sorta... no. It doesn't matter. Here's some dolla. Appreciate the ride.                                                     |
+| 0xE07C3BD6    | https://i.imgur.com/XzTCfpi.gif | Yo, Mr. Banker-man.                                                                                                              |
+| 0xE8D62A91    | https://i.imgur.com/4Uix5tL.gif | I'll inform the accountant of your success.                                                                                      |
+| 0xE9F89E17    | https://i.imgur.com/yodU0IJ.gif | I want to be someone, help people... seriously!                                                                                  |
+| 0xE20F8637    | https://i.imgur.com/3L6xqGZ.gif | Maybe just one drink would calm my nerves?                                                                                       |
+| 0xE42C3C80    | https://i.imgur.com/0PstKDv.gif | You here to make friends too?                                                                                                    |
+| 0xE57A76F3    | https://i.imgur.com/KnNsVlh.gif | Mel ain't nearly hit rock bottom yet.                                                                                            |
+| 0xE458B8A8    | https://i.imgur.com/FOb2WxF.gif | Sure it will.                                                                                                                    |
+| 0xE637C8B9    | https://i.imgur.com/haSekgy.gif | First in Europe and then these diamonds in Liberty City.                                                                         |
+| 0xE0846DAC    | https://i.imgur.com/qB1Gisj.gif | These bull buka Russians boy make I an' I vex, rasta!                                                                            |
+| 0xE884B1E5    | https://i.imgur.com/ATBys8N.gif | Finish them there.                                                                                                               |
+| 0xE1980D7C    | https://i.imgur.com/XF7F0D8.gif | Bellic, I want to introduce you to John Gravelli, head of the Gambetti family. He needs help.                                    |
+| 0xE2478F18    | https://i.imgur.com/WZD5B5p.gif | Florian?                                                                                                                         |
+| 0xE4623C9A    | https://i.imgur.com/dcRGQIH.gif | Shit, I couldn't hold a glass of water without spilling it all over myself.                                                      |
+| 0xE5933BB6    | https://i.imgur.com/8Jc1QbI.gif | The target you're after is on a boat at the northern mouth of the West River.                                                    |
+| 0xE361060F    | https://i.imgur.com/x4ihZzE.gif | Go down and check on him? Me and Gerald will cover any expenses incurred.                                                        |
+| 0xE479445A    | https://i.imgur.com/ZvVKA8l.gif | Sorry, Ray. I'm freelance. I don't buy into that tribute stuff.                                                                  |
+| 0xE9619016    | https://i.imgur.com/tErhgwf.gif | Wha'gwan, me breda? It's me, Jacob.                                                                                              |
+| 0xEA6A40B8    | https://i.imgur.com/pG46fDU.gif | I bet he went back to Russia.                                                                                                    |
+| 0xEBFFA2EF    | https://i.imgur.com/1uqBu7b.gif | Cool.                                                                                                                            |
+| 0xEC1FAFD3    | https://i.imgur.com/piCAfv3.gif | Come on, I made the introduction. I'm the manager, man.                                                                          |
+| 0xEC213A11    | https://i.imgur.com/pH6MYUd.gif | That is a healthy attitude.                                                                                                      |
+| 0xEC475CBC    | https://i.imgur.com/pckvj9R.gif | Cab or walk? What do you think?                                                                                                  |
+| 0xED133BFD    | https://i.imgur.com/JI9db1M.gif | Step nine's a tough one. Not everyone wants you to get better. I'll talk about it in group.                                      |
+| 0xED391FAA    | https://i.imgur.com/WsgyQRV.gif | You've done good, brother. Cleared a lot of files from my desk.                                                                  |
+| 0xEE2B1B18    | https://i.imgur.com/rKkeYQb.gif | Boy, it's good fe spend some quality time wit de I, seen?                                                                        |
+| 0xEE3D4AA3    | https://i.imgur.com/fvM1vJD.gif | Yeah. I didn't really know Derrick that well.                                                                                    |
+| 0xEEAA8455    | https://i.imgur.com/QPJILXC.gif | You seemed to like it when I last met you?                                                                                       |
+| 0xF0BEA13A    | https://i.imgur.com/maptdSs.gif | Oh - oh, I'm getting the shakes again!                                                                                           |
+| 0xF2D2924C    | https://i.imgur.com/KdGyMX1.gif | You a righteous youth, my youth, you sound like a rastaman.                                                                      |
+| 0xF4A29201    | https://i.imgur.com/rlgAHMg.gif | You think I could survive in a cesspit of a city like this by aligning myself                                                    |
+| 0xF6F1EEE7    | https://i.imgur.com/qdTB9vS.gif | Here's the roll I was gonna give that loanshark.                                                                                 |
+| 0xF8B737F0    | https://i.imgur.com/oQdImb0.gif | I made the mistake of working with you before. It's not one I'll repeat. Goodbye.                                                |
+| 0xF9A75C70    | https://i.imgur.com/0P01SWc.gif | Fuck, I think they see us. Have to go, Niko.                                                                                     |
+| 0xF9E06E9B    | https://i.imgur.com/CPmwGBE.gif | Ha, ha. Yeah right. I've put the money into another cab depot.                                                                   |
+| 0xF010C7E3    | https://i.imgur.com/thV81hz.gif | I guess not, Gerald got arrested too. They got him in the Alderney State Correctional Facility.                                  |
+| 0xF61C5C2F    | https://i.imgur.com/Fv8jM1f.gif | Bidding war was fierce dude. Like being on the trading floor... yeah! Hah!                                                       |
+| 0xF62CB5AE    | https://i.imgur.com/oqyUQVE.gif | Just, you know, kind of gonna, gonna miss him is all.                                                                            |
+| 0xF091E499    | https://i.imgur.com/zfgnqkS.gif | Hey, Niko, it's me.                                                                                                              |
+| 0xF658A034    | https://i.imgur.com/OWq0tVI.gif | The kids are in bed and the dishes are done.                                                                                     |
+| 0xF740DF11    | https://i.imgur.com/dvAF4ar.gif | Take it out.                                                                                                                     |
+| 0xF0862B95    | https://i.imgur.com/xXJ9dfy.gif | That's not my name.                                                                                                              |
+| 0xF4901DD5    | https://i.imgur.com/OmkW4x8.gif | Trust me, she will. Call her, man.                                                                                               |
+| 0xF12841D3    | https://i.imgur.com/xk0pUlo.gif | I guess when he found out about me and Vlad he couldn't help himself.                                                            |
+| 0xF274049C    | https://i.imgur.com/rggkkMk.gif | I hope your partnership is a fruitful one. Good luck and goodbye.                                                                |
+| 0xF1549298    | https://i.imgur.com/seEIfjF.gif | Meet him at Brucie's Executive Autos on Mohanet in East Hook.                                                                    |
+| 0xF7214727    | https://i.imgur.com/JrVN2ux.gif | This is a regular account.                                                                                                       |
+| 0xFA495669    | https://i.imgur.com/APlnvcd.gif | Are you upset that you couldn't make amends?                                                                                     |
+| 0xFAD39C60    | https://i.imgur.com/uvQYa5b.gif | What?                                                                                                                            |
+| 0xFAE35795    | https://i.imgur.com/EpT5z4k.gif | I mean that makes sense, I just can't always live it...                                                                          |
+| 0xFB0E233E    | https://i.imgur.com/R6mhSZy.gif | Reach me on the hard line if you want another pass at a job, brother.                                                            |
+| 0xFC0F42A7    | https://i.imgur.com/GBSZgDr.gif | Bernie, what can I do for you?                                                                                                   |
+| 0xFC6D61FC    | https://i.imgur.com/y5hSlGi.gif | You shouldn't cry wolf, Roman. Who knows when you will really need help.                                                         |
+| 0xFC18E415    | https://i.imgur.com/SpIhm44.gif | Typical of everyone in Hove Beach. Come to Liberty City but only speak to Russians.                                              |
+| 0xFC68E17C    | https://i.imgur.com/GO70B0T.gif | Drop these chumps before they start getting on my nerves.                                                                        |
+| 0xFC806729    | https://i.imgur.com/eqEW51T.gif | He probably wanted to die.                                                                                                       |
+| 0xFCA739E4    | https://i.imgur.com/NNnYyfj.gif | Not as much fun as I would have had with Roman, believe me.                                                                      |
+| 0xFD8DF765    | https://i.imgur.com/MAbFSY5.gif | I picked through the bodies and yours was not amongst them. Very disappointing.                                                  |
+| 0xFDA96D5B    | https://i.imgur.com/GYKfhzI.gif | See you then.                                                                                                                    |
+| 0xFDB2FB1F    | https://i.imgur.com/bT2D7HU.gif | Make this quiet.                                                                                                                 |
+| 0xFF868A6D    | https://i.imgur.com/1eDeXgx.gif | I thought I was doing that.                                                                                                      |
+| 0xFF2179AA    | https://i.imgur.com/lXY3yot.gif | This work has many disadvantages, but, hey, at least it is tax free.                                                             |
+| 0xFFF18FCD    | https://i.imgur.com/0HLk531.gif | Sorry, brother. The milk went sour. You're going to have to drink your coffee black.                                             |
+| B1_CUT1_23    | https://i.imgur.com/5TG9k6I.gif | Yeah.                                                                                                                            |
+| B2_CUT1_7     | https://i.imgur.com/Fbid2BP.gif | Sure.                                                                                                                            |
+| BC1_CUT1_5    | https://i.imgur.com/hpFtdU6.gif | What's going on?                                                                                                                 |
+| BC3_CUT1_17   | https://i.imgur.com/jCUBdhP.gif | Yes.                                                                                                                             |
+| BR3_CUT1_4    | https://i.imgur.com/e0XpTcA.gif | Hey!                                                                                                                             |
+| BR3_CUT1_14   | https://i.imgur.com/2XqKtr4.gif | Fuck you.                                                                                                                        |
+| BR3_CUT1_36   | https://i.imgur.com/0f6or5v.gif | You're a dick.                                                                                                                   |
+| C1_CUT1_14    | https://i.imgur.com/ACflgdH.gif | No doubt.                                                                                                                        |
+| C3_CUT1_3     | https://i.imgur.com/1pcT6pS.gif | Excuse me?                                                                                                                       |
+| DM1_CUT1_38   | https://i.imgur.com/F6f2Bot.gif | Sure...                                                                                                                          |
+| E1_CUT1_30    | https://i.imgur.com/lgM4BdV.gif | Goodbye.                                                                                                                         |
+| F3_CUT1_B_11  | https://i.imgur.com/Rj6eBoU.gif | Get out of here.                                                                                                                 |
+| F3_CUT1_B_14  | https://i.imgur.com/LQ86Jq7.gif | What is it?                                                                                                                      |
+| F4_CUT2_11    | https://i.imgur.com/yw16azc.gif | Niko Bellic.                                                                                                                     |
+| F4_CUT2_31    | https://i.imgur.com/mFsn4Xg.gif | Good.                                                                                                                            |
+| G1_CUT1_2     | https://i.imgur.com/x0jlyUM.gif | C'mon.                                                                                                                           |
+| PIB_CUT1_2    | https://i.imgur.com/HRsXamt.gif | Good. Thank you very much.                                                                                                       |
+| PIB_CUT1_3    | https://i.imgur.com/GTNnUZP.gif | Good! Yes comrade, I am doing good. There is no "I", there is only "we" - it is a glorious system, comrade.                      |
+| PIB_CUT1_5    | https://i.imgur.com/hokTok6.gif | You're excused, comrade. You're excused, now go and mine salt for fifty years...                                                 |
+| PIB_CUT1_7    | https://i.imgur.com/0pBJggM.gif | I'm a rich dick, friend. I'm young, and rich and loaded.                                                                         |
+| PIB_CUT1_8    | https://i.imgur.com/JwOYF2G.gif | Tell you what, have a hundred bucks.                                                                                             |
+| PIB_CUT1_9    | https://i.imgur.com/MiCml6J.gif | On Uncle Sam. Benjamin motherfucking Franklin. Freedom.                                                                          |
+| PIB_CUT1_10   | https://i.imgur.com/AAkpiRM.gif | This coke is okay.                                                                                                               |
+| PIB_CUT2_3    | https://i.imgur.com/MfcpJOf.gif | That's nice. That's real nice.                                                                                                   |
+| PIB_CUT2_4    | https://i.imgur.com/aMGgIXO.gif | Hey, I remember you. You're the comrade guy. The guy with all the jokes?                                                         |
+| PIB_CUT2_5    | https://i.imgur.com/G8Gr1TT.gif | Oh, yeah... how time flies... when you're having fun...                                                                          |
+| PIB_CUT2_6    | https://i.imgur.com/SCgTeYi.gif | Right. And you're definitely having a lot of fun.                                                                                |
+| PIB_CUT2_8    | https://i.imgur.com/CG5MzWl.gif | Listen, dude, you wanna make a quick buck?                                                                                       |
+| PIB_CUT2_9    | https://i.imgur.com/s32ABBB.gif | Come with me, I got something to show you.                                                                                       |
+| PIB_CUT3_1    | https://i.imgur.com/7om1Wk3.gif | Hey, man! Remember me?                                                                                                           |
+| PIB_CUT3_2    | https://i.imgur.com/GM3S4AL.gif | Sure - the crack smoking American dream.                                                                                         |
+| PIB_CUT3_3    | https://i.imgur.com/c7HfOOc.gif | I'm clean, man... what a ride.                                                                                                   |
+| PIB_CUT3_4    | https://i.imgur.com/Ep0XsDN.gif | Yeah. You look good.                                                                                                             |
+| PIB_CUT3_5    | https://i.imgur.com/jfuwG9e.gif | I feel good.                                                                                                                     |
+| PIB_CUT3_7    | https://i.imgur.com/heBSHLj.gif | I sank as far as a man can sink...                                                                                               |
+| PIB_CUT3_8    | https://i.imgur.com/eFnb3IK.gif | when you're giving blowjobs at ten bucks a pop, so you can score your next rock.                                                 |
+| PIB_CUT3_9    | https://i.imgur.com/gnTnKaY.gif | And I have an Ivy League education...                                                                                            |
+| PIB_CUT3_10   | https://i.imgur.com/nG6DJfF.gif | Jesus. What a disgrace.                                                                                                          |
+| PIB_CUT3_11   | https://i.imgur.com/fyj5wzX.gif | But I'm over that now. I'm engaged!                                                                                              |
+| PIB_CUT3_12   | https://i.imgur.com/BP5ECRp.gif | Hey. Congratulations.                                                                                                            |
+| PIB_CUT3_13   | https://i.imgur.com/ZZEN4L1.gif | Hey, I owe you, man!                                                                                                             |
+| PIB_CUT3_14   | https://i.imgur.com/vwBkiVa.gif | I mean, I was a dick. But I'm making up for it.                                                                                  |
+| PIB_CUT3_15   | https://i.imgur.com/aWZYUvm.gif | I was a loud mouthed dick and I apologize.                                                                                       |
+| PIB_CUT3_16   | https://i.imgur.com/24l1SZY.gif | Hey, apology accepted. Don't worry about it.                                                                                     |
+| PIB_CUT3_17   | https://i.imgur.com/E4NKVa9.gif | Listen... I gotta go pay off one of my dealers. Make things right.                                                               |
+| PIB_CUT3_18   | https://i.imgur.com/Nq9ZT21.gif | Would you come with me? I hate to ask, but I'm afraid the temptation might get to me.                                            |
+| PIB_CUT3_19   | https://i.imgur.com/WEw8ITX.gif | Please?                                                                                                                          |
+| PIB_CUT3_21   | https://i.imgur.com/yigD3ZH.gif | Awesome.                                                                                                                         |
+| PIJ_CUT1_1    | https://i.imgur.com/0p6DxWD.gif | Hey, how you doin'?                                                                                                              |
+| PIJ_CUT1_2    | https://i.imgur.com/gCXfrMa.gif | Uh, good. How are you?                                                                                                           |
+| PIJ_CUT1_3    | https://i.imgur.com/w0YclwQ.gif | Well, I'm shit, to be perfectly frank, buddy.                                                                                    |
+| PIJ_CUT1_4    | https://i.imgur.com/ywooa4D.gif | Fuckin' shit.                                                                                                                    |
+| PIJ_CUT1_6    | https://i.imgur.com/n8wCprD.gif | Terrible.                                                                                                                        |
+| PIJ_CUT1_7    | https://i.imgur.com/Vve6EPu.gif | Oh. What's wrong with you?                                                                                                       |
+| PIJ_CUT1_8    | https://i.imgur.com/2T5voUv.gif | Me? My life's a fucking train wreck.                                                                                             |
+| PIJ_CUT1_9    | https://i.imgur.com/NKc1KJM.gif | I cannot believe this is happening to me.                                                                                        |
+| PIJ_CUT1_10   | https://i.imgur.com/Nq2kgFs.gif | bitch! bitch! bitch!                                                                                                             |
+| PIJ_CUT1_11   | https://i.imgur.com/zxTipFH.gif | Hey, come on, calm down.                                                                                                         |
+| PIJ_CUT1_12   | https://i.imgur.com/d4ZINQI.gif | Fucking bitch.                                                                                                                   |
+| PIJ_CUT1_13   | https://i.imgur.com/nbzdS4A.gif | Who are you talking about? Who's this bitch?                                                                                     |
+| PIJ_CUT1_14   | https://i.imgur.com/aMkUyGp.gif | My fucking whore of a fucking wife, that's who!                                                                                  |
+| PIJ_CUT1_15   | https://i.imgur.com/2s6PjDR.gif | Okay. What did she do?                                                                                                           |
+| PIJ_CUT1_16   | https://i.imgur.com/g4Qw6mY.gif | My lovely bride, the mother of my son is up there, right now,                                                                    |
+| PIJ_CUT1_17   | https://i.imgur.com/d2PMo4z.gif | fucking some prick behind my back.                                                                                               |
+| PIJ_CUT1_18   | https://i.imgur.com/dFhU42s.gif | After all I've done for that tramp, whore. Ah!                                                                                   |
+| PIJ_CUT1_19   | https://i.imgur.com/xtdHSlC.gif | Hey, you okay? Hey come on, calm down.                                                                                           |
+| PIJ_CUT1_20   | https://i.imgur.com/FSt1qvj.gif | You're going to do yourself some serious damage if you keep going on like that.                                                  |
+| PIJ_CUT1_21   | https://i.imgur.com/80kjseO.gif | It's only angina.                                                                                                                |
+| PIJ_CUT1_22   | https://i.imgur.com/PJ05Yq8.gif | Come on, Jeff, be calm. Jeff, be cool. Come on, champ. You can do this. Be a winner.                                             |
+| PIJ_CUT1_23   | https://i.imgur.com/dClJTJT.gif | Hey, mister - are you okay?                                                                                                      |
+| PIJ_CUT1_24   | https://i.imgur.com/apDip0V.gif | I'm a winner. I can do anything.                                                                                                 |
+| PIJ_CUT1_25   | https://i.imgur.com/u1bC7ZD.gif | Great. See you later.                                                                                                            |
+| PIJ_CUT1_26   | https://i.imgur.com/xXoVt4q.gif | Hey you know, you could do me a favor here. You know.                                                                            |
+| PIJ_CUT1_28   | https://i.imgur.com/KxbIqY9.gif | Take some photos. Text 'em to me.                                                                                                |
+| PIJ_CUT1_29   | https://i.imgur.com/KOHyyvI.gif | You want me to text you photos of your own wife?                                                                                 |
+| PIJ_CUT1_30   | https://i.imgur.com/ol7GZYn.gif | I'll pay buddy. I've got a black card!                                                                                           |
+| PIJ_CUT1_31   | https://i.imgur.com/wqIYNi8.gif | I'm afraid I only take cash.                                                                                                     |
+| PIJ_CUT1_32   | https://i.imgur.com/4xi1LK6.gif | I'll give you cash. Alright? Five hundred.                                                                                       |
+| PIJ_CUT1_33   | https://i.imgur.com/nqYCibU.gif | Just follow 'em. Take some photos. Text 'em to me.                                                                               |
+| PIJ_CUT1_34   | https://i.imgur.com/P2dqQxb.gif | Come on! Here they come. Here's my card.                                                                                         |
+| PIJ_CUT2_3    | https://i.imgur.com/h5NWmVX.gif | Yeah... I got a bit of a problem. Bit of a big fucking problem.                                                                  |
+| PIJ_CUT2_5    | https://i.imgur.com/YzTjYII.gif | Yeah, Jeff really did it this time. Jeff went too far. Jeff's been a bad boy. A really bad boy.                                  |
+| PIJ_CUT2_6    | https://i.imgur.com/ZR6swm1.gif | What are you saying lunatic?                                                                                                     |
+| PIJ_CUT2_7    | https://i.imgur.com/0f2d7WK.gif | Remember my wife Shirley? She had an accident... in the kitchen.                                                                 |
+| PIJ_CUT2_8    | https://i.imgur.com/p2qhCHv.gif | What kind of an accident?                                                                                                        |
+| PIJ_CUT2_9    | https://i.imgur.com/a0BO2JG.gif | The kind of accident where you stab yourself fifty fucking times with a kitchen knife, you fucking whore.                        |
+| PIJ_CUT2_10   | https://i.imgur.com/XcpzbIV.gif | Fuck my friend will you? Huh? Well, who's laughing now? bitch!                                                                   |
+| PIJ_CUT2_11   | https://i.imgur.com/iXu86Zt.gif | Huh? Not you. You're fucking dead whore!                                                                                         |
+| PIJ_CUT2_12   | https://i.imgur.com/2xBJV1F.gif | Hey, buddy! Whoa! Calm down!                                                                                                     |
+| PIJ_CUT2_13   | https://i.imgur.com/sN1C1AE.gif | Hey! Fuck you!                                                                                                                   |
+| PIJ_CUT2_14   | https://i.imgur.com/n0vGMPJ.gif | Don't be an idiot. Now, what do you want me to do?                                                                               |
+| PIJ_CUT2_15   | https://i.imgur.com/DNUEifp.gif | Get rid of her and get rid of the car. Hey?                                                                                      |
+| PIJ_CUT2_16   | https://i.imgur.com/LDljPHy.gif | Okay, but its going to cost you. Five grand.                                                                                     |
+| PIJ_CUT2_17   | https://i.imgur.com/k961zIL.gif | Sure. Whatever.                                                                                                                  |
+| PIJ_CUT2_18   | https://i.imgur.com/Fz8sFtl.gif | Give me the keys. Put the gun away.                                                                                              |
+| PIJ_CUT2_19   | https://i.imgur.com/qtSRecC.gif | Yeah. Okay thanks. Oh, Jeff really messed up this time, didn't he? Oh.                                                           |
+| PIJ_CUT2_21   | https://i.imgur.com/G81JZEc.gif | Yeah... yeah...                                                                                                                  |
+| PIP_CUT1_1    | https://i.imgur.com/lil1zpA.gif | I sense a little apprehension in your voice.                                                                                     |
+| PIP_CUT1_2    | https://i.imgur.com/RuZvCxb.gif | I like it a bit but, uh, I'm not a crazy fan.                                                                                    |
+| PIP_CUT1_3    | https://i.imgur.com/vkpBkIu.gif | Cause the shit went all commercial? Cause people sold out? I hear you.                                                           |
+| PIP_CUT1_4    | https://i.imgur.com/HwGuHeB.gif | -No, not really.~n~-Cause the shit ain't real no more?                                                                           |
+| PIP_CUT1_5    | https://i.imgur.com/M5spJCS.gif | Ain't got no intelligence? For real.                                                                                             |
+| PIP_CUT1_6    | https://i.imgur.com/aSHzW2v.gif | Well, you gonna love my shit.                                                                                                    |
+| PIP_CUT1_7    | https://i.imgur.com/FURaKvz.gif | Your shit?                                                                                                                       |
+| PIP_CUT1_8    | https://i.imgur.com/aefGtqb.gif | Yes - it's the real urban consciousness and man it is real.                                                                      |
+| PIP_CUT1_9    | https://i.imgur.com/08O1Cww.gif | Pathos. Believe that.                                                                                                            |
+| PIP_CUT1_10   | https://i.imgur.com/f5xcq2x.gif | Why are you selling it on the street?                                                                                            |
+| PIP_CUT1_11   | https://i.imgur.com/AVcO6zk.gif | The majors are just pimps, and I ain't no bitch.                                                                                 |
+| PIP_CUT1_12   | https://i.imgur.com/6cLEufy.gif | No. I can see that.                                                                                                              |
+| PIP_CUT1_13   | https://i.imgur.com/pyau0Zx.gif | Man, if I have to spend the rest of my life preaching on a street corner, so fucking be it.                                      |
+| PIP_CUT1_14   | https://i.imgur.com/GR3TmpL.gif | Give it up for Pathos!                                                                                                           |
+| PIP_CUT1_15   | https://i.imgur.com/qnHQnZJ.gif | Yo, Pathos! You a bitch and you suck dick!                                                                                       |
+| PIP_CUT1_16   | https://i.imgur.com/aw5Zzxo.gif | Man, you hear that punk.                                                                                                         |
+| PIP_CUT1_17   | https://i.imgur.com/cIkrUUx.gif | Yeah, he heard me, bitch. What you gonna do about it?                                                                            |
+| PIP_CUT1_18   | https://i.imgur.com/6oZLbCY.gif | Hey, fuck you... I've had enough of your crap.                                                                                   |
+| PIR_CUT1_1    | https://i.imgur.com/tA4uFpA.gif | Hey, my youth! Wha' gwan?                                                                                                        |
+| PIR_CUT1_2    | https://i.imgur.com/bTaUjhu.gif | Uh... hey.                                                                                                                       |
+| PIR_CUT1_3    | https://i.imgur.com/PMVhCPM.gif | Hey! How ya gwa'an like ya dunno who me is rudeboy? Cho!                                                                         |
+| PIR_CUT1_4    | https://i.imgur.com/BLBUr1E.gif | Ya dunno who me is?                                                                                                              |
+| PIR_CUT1_5    | https://i.imgur.com/gsRPrvz.gif | Badman... what's up?                                                                                                             |
+| PIR_CUT1_6    | https://i.imgur.com/MZEDTL7.gif | Woy, me dare a rude boy! No one can test me nuh, rudeboy!                                                                        |
+| PIR_CUT1_7    | https://i.imgur.com/fd1cqzn.gif | No one can test me, seen?                                                                                                        |
+| PIR_CUT1_8    | https://i.imgur.com/bPt5qTA.gif | Who's testing you?                                                                                                               |
+| PIR_CUT1_9    | https://i.imgur.com/kdHmslG.gif | Them slibba slabba Russian type, my youth.                                                                                       |
+| PIR_CUT1_11   | https://i.imgur.com/RjR6T09.gif | Debts, everyt'ing, disrespect...                                                                                                 |
+| PIR_CUT1_12   | https://i.imgur.com/lVJe0oh.gif | yo rudeboy lemme tell ya somethin' right now.                                                                                    |
+| PIR_CUT1_13   | https://i.imgur.com/r49nfdj.gif | Me come y'here say fe drink milk, rudeboy... me no come yah fi count nah cow!                                                    |
+| PIR_CUT1_14   | https://i.imgur.com/w44B8wE.gif | Right, whatever you say.                                                                                                         |
+| PIR_CUT1_15   | https://i.imgur.com/yyeabn7.gif | Yo rudeboy, lemme tell ya somethin'... y'see, fish could keep dem mouth closed...                                                |
+| PIR_CUT1_16   | https://i.imgur.com/bTix3h6.gif | dem wouldn't get caught, rudeboy.                                                                                                |
+| PIR_CUT1_17   | https://i.imgur.com/f68uNWq.gif | Exactly... tell you what, let's go hit those Russian fuckers right now.                                                          |
+| PIR_CUT1_18   | https://i.imgur.com/yvtMHCe.gif | Y'know what, rudeboy...                                                                                                          |
+| PIR_CUT1_19   | https://i.imgur.com/P4lDZH2.gif | come mek a go deal wit' dem boy dere right now.                                                                                  |
+| PIV_CUT1_1    | https://i.imgur.com/GXyJ4EN.gif | Niko, isn't it?                                                                                                                  |
+| PIV_CUT1_2    | https://i.imgur.com/WYHAwr7.gif | Yes... who are you?                                                                                                              |
+| PIV_CUT1_3    | https://i.imgur.com/0YVAmqk.gif | Ivan... you don't remember me?                                                                                                   |
+| PIV_CUT1_4    | https://i.imgur.com/vq7RHYt.gif | You nearly killed me, motherfucker... good to see you.                                                                           |
+| PIV_CUT1_5    | https://i.imgur.com/VdssLIA.gif | -Yes...~n~-Shit,                                                                                                                 |
+| PIV_CUT1_6    | https://i.imgur.com/JBteqSk.gif | -I owe you my fucking life... fantastic!~n~-Hey...                                                                               |
+| PIV_CUT1_7    | https://i.imgur.com/Rg0eAUr.gif | I'm doin' great, man, life has been good.                                                                                        |
+| PIV_CUT1_8    | https://i.imgur.com/I9fZWqD.gif | I'm living here now, doing very well.                                                                                            |
+| PIV_CUT1_9    | https://i.imgur.com/QNlELtr.gif | Engaged, happy, business is good.                                                                                                |
+| PIV_CUT1_10   | https://i.imgur.com/zU7RgGX.gif | I love this fucking country, man!                                                                                                |
+| PIV_CUT1_12   | https://i.imgur.com/R2r9m6J.gif | I'm not engaged, a lot of people want me dead.                                                                                   |
+| PIV_CUT1_13   | https://i.imgur.com/cdXoIT9.gif | Apart from that, the same as you. What business?                                                                                 |
+| PIV_CUT1_14   | https://i.imgur.com/9v3i2Ut.gif | I lend people money.                                                                                                             |
+| PIV_CUT1_15   | https://i.imgur.com/DaTkHj3.gif | But all very friendly! Listen, do you want to come along?                                                                        |
+| PIV_CUT1_16   | https://i.imgur.com/BE0BaIM.gif | I've got to see someone just around the corner. Come with me.                                                                    |
+| PML_CUT1_1    | https://i.imgur.com/BZnPhOX.gif | Comrades!                                                                                                                        |
+| PML_CUT1_3    | https://i.imgur.com/8H1KdMQ.gif | Didn't I see you at Comrades, pal?                                                                                               |
+| PML_CUT1_5    | https://i.imgur.com/31P2KoH.gif | That bar... Mickey's place.                                                                                                      |
+| PML_CUT1_6    | https://i.imgur.com/w5j1MXk.gif | I'm sure you was one of those commie bastards used to come in there. I remember you.                                             |
+| PML_CUT1_7    | https://i.imgur.com/7DjtPpZ.gif | Yes... you were the drunk guy who fell over.                                                                                     |
+| PML_CUT1_8    | https://i.imgur.com/uSFLl3E.gif | Ha ha! That's about right. I was a mess, a mess!                                                                                 |
+| PML_CUT1_9    | https://i.imgur.com/vnjSdCJ.gif | But I'm all sorted out now.                                                                                                      |
+| PML_CUT1_10   | https://i.imgur.com/mPGkaEB.gif | I'm over that shit!                                                                                                              |
+| PML_CUT1_11   | https://i.imgur.com/xc2CNT6.gif | Good for you!                                                                                                                    |
+| PML_CUT1_12   | https://i.imgur.com/cJPizmv.gif | Yeah... yes, siree. I'm a new man. Not dependent on anything.                                                                    |
+| PML_CUT1_13   | https://i.imgur.com/nvVHqDE.gif | No more drink. No drugs... even gave up hookers. Everything.                                                                     |
+| PML_CUT1_14   | https://i.imgur.com/joivJPb.gif | Good! Why are you telling me this?                                                                                               |
+| PML_CUT1_15   | https://i.imgur.com/iql6TGn.gif | It's good to share.                                                                                                              |
+| PML_CUT1_17   | https://i.imgur.com/fprhni1.gif | I'm positive person now. Positive.                                                                                               |
+| PML_CUT1_18   | https://i.imgur.com/QcXuvya.gif | I'm through with problems. Now they are just opportunities.                                                                      |
+| PML_CUT1_19   | https://i.imgur.com/ePbUzeJ.gif | Well, good luck with your opportunities. I've got to go.                                                                         |
+| PML_CUT1_20   | https://i.imgur.com/q7cfLBO.gif | Oh, no! Wait, wait, wait!                                                                                                        |
+| PML_CUT1_21   | https://i.imgur.com/YKam3WI.gif | I know... this is a lot to ask, but I was wondering...                                                                           |
+| PML_CUT1_22   | https://i.imgur.com/WPy3bhe.gif | I owe a guy some money, from my drinking days...                                                                                 |
+| PML_CUT1_23   | https://i.imgur.com/bV5tQae.gif | and... he's kind of angry.                                                                                                       |
+| PML_CUT1_24   | https://i.imgur.com/9FSLuc7.gif | I don't suppose you could come along and keep him cool?                                                                          |
+| PML_CUT1_25   | https://i.imgur.com/4WLcWvb.gif | I'm going to pay him back.                                                                                                       |
+| 0xF15232F9    | https://i.imgur.com/beCMBFd.gif | Man, fuck Yusuf Amir. I got bigger problems. Come see me now.                                                                    |
+| 0x0DE8633C    | https://i.imgur.com/MOUKqXX.gif | ~x~Perhaps you shouldn't go around busting caps in people regardless of your responsibilities.                                   |
+| 0x01BD2F99    | https://i.imgur.com/MwrASUD.gif | ~x~When I'm driving real fares, that is, not just Roman's stupid cousin.                                                         |
+| 0x1C07110D    | https://i.imgur.com/MsljV6z.gif | ~x~I going to be hitting that shit up in her hotel room soon as we get there.                                                    |
+| 0x1CD34E67    | https://i.imgur.com/mblHfyY.gif | ~x~And I tell you something, the women are actually paying for their rides.                                                      |
+| 0x1D97CEAE    | https://i.imgur.com/by8StBX.gif | ~x~Not only do you not pay for the ride but you make the car smell of pig shit.                                                  |
+| 0x1EBA41E5    | https://i.imgur.com/56NevIz.gif | ~x~Me too.                                                                                                                       |
+| 0x1F605907    | https://i.imgur.com/QIizAhP.gif | ~x~Don't think I'm not streetwise, homes, because I seen shit you couldn't imagine.                                              |
+| 0x2A969E02    | https://i.imgur.com/rzZNp7m.gif | ~x~Get in quickly, you head dick.                                                                                                |
+| 0x2B04EACA    | https://i.imgur.com/OGJbhKr.gif | ~x~It is good for me, real good. I love that shit almost as much as the bitches do.                                              |
+| 0x2C396BD5    | https://i.imgur.com/uRPRluJ.gif | ~x~Good riddance, dog lover.                                                                                                     |
+| 0x2CD26D23    | https://i.imgur.com/RmDGgSM.gif | ~x~I must get one of those tree-shaped air fresheners if I am going to be ferrying around dirt bags like you.                    |
+| 0x03D6930A    | https://i.imgur.com/hTXZ9mw.gif | How much does a kidney go for nowadays? I'm kidding, NB, kidding.                                                                |
+| 0x3EBD10F8    | https://i.imgur.com/F3maOab.gif | ~x~I hope you enjoy the trouble you are going to be getting into here.                                                           |
+| 0x5BEC2644    | https://i.imgur.com/qNiEVkV.gif | ~x~Another free ride for the ugliest bastard in Liberty City. Perfect.                                                           |
+| 0x6B6882EE    | https://i.imgur.com/mZY5qpY.gif | ~x~You know how much a driver can get paid in this city?                                                                         |
+| 0x6DA5AC97    | https://i.imgur.com/ujbPBR1.gif | ~x~You're cold, man. Ice cold. You really want to get me fired?                                                                  |
+| 0x6E8F5DFD    | https://i.imgur.com/PdoHWNF.gif | ~x~Course I love her, my friend. She cooks for me and does my laundry.                                                           |
+| 0x6FE3A89F    | https://i.imgur.com/zVkxOUj.gif | ~x~Hey craphead, get in the car, my friend.                                                                                      |
+| 0x7AFC1039    | https://i.imgur.com/2UCKqwP.gif | ~x~I might not work either if I was getting all the money and free rides I wanted from my cousin.                                |
+| 0x7D524BF0    | https://i.imgur.com/3IrNsRR.gif | ~x~Get a hard working father of six fired because he didn't treat you like God's gift to the earth?                              |
+| 0x7D5826CD    | https://i.imgur.com/NTGbc2a.gif | ~x~You're going to have a heart attack getting so angry the whole time.                                                          |
+| 0x8E5D75B8    | https://i.imgur.com/j0d2Qqp.gif | ~x~Is not the car, my friend. It's the player driving this shit. I pick a girl up from the airport,                              |
+| 0x9E5C95B6    | https://i.imgur.com/7BVq0JB.gif | ~x~Yeah, whatever. I don't do this crap for the money anyway. I'm just here for the pussy, man.                                  |
+| 0x12BC76C2    | https://i.imgur.com/EG5ay70.gif | ~x~Shit, I didn't realise you had six kids.                                                                                      |
+| 0x15B32C46    | https://i.imgur.com/dChUM7A.gif | ~x~What it matter that I got a wife?                                                                                             |
+| 0x19D97B0E    | https://i.imgur.com/IZcrEFU.gif | ~x~So, am I taking you to a big drug deal or some shit, my friend?                                                               |
+| 0x20D812F9    | https://i.imgur.com/74BNZfq.gif | ~x~No, of course I don't want to get you fired. You got a job to do.                                                             |
+| 0x23F9C8D3    | https://i.imgur.com/7xxv1pS.gif | ~x~My friend, you are a bitch. I thought you were ever since I first see your ugly-ass face.                                     |
+| 0x33FE68DC    | https://i.imgur.com/RDx7s3W.gif | ~x~Don't you love her?                                                                                                           |
+| 0x039D4EA6    | https://i.imgur.com/SHkJ6ky.gif | ~x~You can't go around busting caps in people when you got responsibilities.                                                     |
+| 0x41C30760    | https://i.imgur.com/LO4a1rg.gif | Sorry cousin, but I don't have no cabs right now. You must call again later.                                                     |
+| 0x54FE7167    | https://i.imgur.com/mmkJV4D.gif | ~x~Ha ha. That's fucking funny.                                                                                                  |
+| 0x58AE0A5A    | https://i.imgur.com/dULV75A.gif | ~x~Hey man, don't talk shit about Roman. If he don't pay fairly, go work for someone else.                                       |
+| 0x63DADC79    | https://i.imgur.com/8BYaipn.gif | ~x~You want to know about my customer service, you ask one of my female passengers.                                              |
+| 0x77DEC2D6    | https://i.imgur.com/YU9KoTq.gif | Wait right there, NB. I'm dispatching one now.                                                                                   |
+| 0x087CA478    | https://i.imgur.com/FQ1L88V.gif | ~x~I hope you enjoyed your free ride, I certainly did not enjoy the driving of you.                                              |
+| 0x94FFFD18    | https://i.imgur.com/90nyfaq.gif | You are my cousin, Niko. How can I refuse? There is a cab on its way.                                                            |
+| 0x98C9DDB0    | https://i.imgur.com/ss4R34K.gif | ~x~Because I'm hating every second I have to drive you around for free.                                                          |
+| 0x101A78B5    | https://i.imgur.com/eCRYNRM.gif | Roman, is your cousin. Any chance of getting a cab?                                                                              |
+| 0x206A4B56    | https://i.imgur.com/rcsIjH9.gif | Other than the community leader and drug dealer that Mallorie introduced me to...                                                |
+| 0x252C5EB7    | https://i.imgur.com/Q7xvjHh.gif | ~x~Please, have as much fun in this place as I had driving you here.                                                             |
+| 0x424C8578    | https://i.imgur.com/phPAM8s.gif | ~x~If you'd been married for three years you'd realise getting pussy is a very different thing.                                  |
+| 0x449ADA7E    | https://i.imgur.com/6NLto0N.gif | ~x~Well, I probably got about six kids.                                                                                          |
+| 0x555B588D    | https://i.imgur.com/bMiJznJ.gif | ~x~You got to do that shit to survive, my friend.                                                                                |
+| 0x619E0C14    | https://i.imgur.com/vegmOxm.gif | ~x~Get in my friend. You want me to suck your balls for free because you are Roman's cousin, too?                                |
+| 0x632D1973    | https://i.imgur.com/ntncGMw.gif | You need walk no longer. There's a cab coming to you.                                                                            |
+| 0x3898FC8E    | https://i.imgur.com/HmVnxpg.gif | If you're losing money at the tables you might be able to sell some body parts to him for a quick buck.                          |
+| 0x4041AE5A    | https://i.imgur.com/PlDAZ7c.gif | ~x~Next thing you are going to tell me I shouldn't be having extra-marital affairs.                                              |
+| 0x5214B7A7    | https://i.imgur.com/4RTzojl.gif | ~x~I am really hoping that Roman realises you are a free loading shit hole so I don't have to drive you again.                   |
+| 0x7230BD5F    | https://i.imgur.com/rvBkHkj.gif | ~x~For real, man. I had my hands on more tourists than airport security.                                                         |
+| 0x53202A1A    | https://i.imgur.com/ADBxUXZ.gif | Niko, I am sorry but nothing is available. You must call back another time.                                                      |
+| 0x344039C9    | https://i.imgur.com/YX2P33n.gif | ~x~My wife hasn't had any yet, but the amount of pussy I get, man, there has to be some out there.                               |
+| 0x546754E8    | https://i.imgur.com/T7frYld.gif | ~x~You better be enjoying yourself back there.                                                                                   |
+| 0x721078E4    | https://i.imgur.com/jllTNc7.gif | ~x~Your customer service is impeccable.                                                                                          |
+| 0x805659AA    | https://i.imgur.com/pucP4dh.gif | ~x~If a woman turns up at Francis International, then this guy is going to know about her concealed weaponry. You get me?        |
+| 0x951634EC    | https://i.imgur.com/ZwOwBqm.gif | You're a wild man, NB.                                                                                                           |
+| 0x8569162D    | https://i.imgur.com/koiS6TR.gif | an Irish hood called Packie, an African American drug dealer who calls himself Playboy X,                                        |
+| 0x64967703    | https://i.imgur.com/F6qkbd7.gif | ~x~Of course, and to help your survival you should just stick to driving this car, man.                                          |
+| 0x67455947    | https://i.imgur.com/N0NYtWw.gif | No, I was referring to a Deputy Police Commissioner called Francis McReary,                                                      |
+| 0xA1D71C30    | https://i.imgur.com/hxCoZBI.gif | Roman, it's Niko. I need a cab.                                                                                                  |
+| 0xA4C01664    | https://i.imgur.com/WSK0tin.gif | ~x~This is a waste of my life.                                                                                                   |
+| 0xA99AA651    | https://i.imgur.com/FPzbF0c.gif | Anything for you, NB. It should be there soon.                                                                                   |
+| 0xA288CFD1    | https://i.imgur.com/v2fV07U.gif | neither of whom are doing too good no more, yeah, I guess I have met some interesting people.                                    |
+| 0xA04007ED    | https://i.imgur.com/RvkEnx1.gif | ~x~You didn't think I knew what you were about? I done all kinds of crazy shit.                                                  |
+| 0xA591149A    | https://i.imgur.com/tnOPqai.gif | ~x~Piss balls.                                                                                                                   |
+| 0xAC1F313B    | https://i.imgur.com/ZuYLFZM.gif | ~x~Yeah? Girls dig this car, do they? Useful to know.                                                                            |
+| 0xACEE325E    | https://i.imgur.com/QuPEKdQ.gif | Roman, my cousin, I'd really like a cab if you could send one to me.                                                             |
+| 0xAE9A9EA4    | https://i.imgur.com/NA9NFyP.gif | ~x~Okay, Roman tell me I have to pick you up because you his cousin or something.                                                |
+| 0xB3CCB109    | https://i.imgur.com/lm7B39R.gif | ~x~We better get this over with.                                                                                                 |
+| 0xB8EDBAAE    | https://i.imgur.com/v8ALLsh.gif | ~x~I see you have taken a time out from romancing every animal in the zoo to abuse the generosity of your cousin. Great!         |
+| 0xB28AB1F9    | https://i.imgur.com/ete9HoP.gif | ~x~I'm going to hate this drive.                                                                                                 |
+| 0xB44F82E7    | https://i.imgur.com/91JUFZQ.gif | ~x~For real, my friend. For real.                                                                                                |
+| 0xB77B1B16    | https://i.imgur.com/4nom8HJ.gif | ~x~You don't like driving me, talk to Roman. He can send one of his other drivers.                                               |
+| 0xB0366B2C    | https://i.imgur.com/qqvXRSm.gif | Please tell me you are talking about twins and bleached blond hair and D-cup titties.                                            |
+| 0xB436B1E5    | https://i.imgur.com/xm5krB5.gif | ~x~I thought you would say you want go to a brothel full of men.                                                                 |
+| 0xB8523811    | https://i.imgur.com/HehwgMQ.gif | ~x~I only started driving this cab to make my wife shut up.                                                                      |
+| 0xBB7F01BD    | https://i.imgur.com/A6P5gNB.gif | Yes it is, Roman. You're right.                                                                                                  |
+| 0xBC5D3A29    | https://i.imgur.com/lsVeP65.gif | ~x~I'm not getting paid to lug your ugly ass around and I'm not happy about it, okay, my friend? Get in!                         |
+| 0xBDB29027    | https://i.imgur.com/30L8jQ7.gif | ~x~They'll tell you I service them good.                                                                                         |
+| 0xBE54D52B    | https://i.imgur.com/ay8ZTW3.gif | Hey Roman, you couldn't send a cab for a cousin in need could you?                                                               |
+| 0xBFAA142A    | https://i.imgur.com/DDUCFkl.gif | ~x~If you didn't have your cousin, you wouldn't have anything. How come you too lazy to start a business like Roman did?         |
+| 0xC6ABB977    | https://i.imgur.com/oHJxa7T.gif | ~x~Yeah, well maybe you should chill out.                                                                                        |
+| 0xC9E4DD41    | https://i.imgur.com/W2Yae2E.gif | ~x~I was thinking you would say sick bondage club.                                                                               |
+| 0xC74FD776    | https://i.imgur.com/iTHaqNW.gif | ~x~Alright Mr. "I'm Roman's cousin so I'm too good to pay for a car". Get in.                                                    |
+| 0xC728D724    | https://i.imgur.com/1Dtmro6.gif | ~x~Bring your ugly free riding face into my car very fast, my friend.                                                            |
+| 0xCA16DD9D    | https://i.imgur.com/h399ktk.gif | ~x~Sure... fine.                                                                                                                 |
+| 0xCAE96ECF    | https://i.imgur.com/ZBZVzf2.gif | ~x~Ever since I got to this city, my friend. Roman's been screwing me ever since I got here - yes.                               |
+| 0xCC1DDFA8    | https://i.imgur.com/hUUKTzc.gif | ~x~I don't know what you're talking about.                                                                                       |
+| 0xCC399954    | https://i.imgur.com/Q1ON0JU.gif | ~x~Screw you, shit face. You remind me of my wife, man.                                                                          |
+| 0xCCF4A547    | https://i.imgur.com/UG8X29i.gif | Sounds like you are having a crazy time. Talk to you soon.                                                                       |
+| 0xCDD8B087    | https://i.imgur.com/dUzLTka.gif | ~x~Not free loading like a certain ugly Eastern European immigrant scumbag I know.                                               |
+| 0xD0B22C23    | https://i.imgur.com/jo7tKnw.gif | So, what's happening in your world at the moment? Met anybody interesting recently?                                              |
+| 0xD4DEF12A    | https://i.imgur.com/2l1cvDY.gif | ~x~What, you didn't think I was down with that game?                                                                             |
+| 0xD07F2570    | https://i.imgur.com/BJAXCqY.gif | ~x~My friend, I got so much pussy around this town, I'm surprised there's any left for the rest of you chumps.                   |
+| 0xD7A778BE    | https://i.imgur.com/mDnK1Jl.gif | ~x~Crap.                                                                                                                         |
+| 0xD7D1791A    | https://i.imgur.com/GYXJXC1.gif | ~x~Just my luck.                                                                                                                 |
+| 0xD8CA4BDC    | https://i.imgur.com/8qTdDvX.gif | ~x~Sure you do. You help him get into trouble. I know your type, homeboy.                                                        |
+| 0xD9F3B4C8    | https://i.imgur.com/KFjUx0c.gif | ~x~You're a charming guy, you know that?                                                                                         |
+| 0xD306D22D    | https://i.imgur.com/jZd0LJM.gif | ~x~Shit, a yellow cab is just a license to steal, man. This don't pay too bad.                                                   |
+| 0xD57373B9    | https://i.imgur.com/hBschq0.gif | ~x~Hey angry man. You better be going somewhere close, I need to pick up some real fares so I can make real money.               |
+| 0xDDDFC291    | https://i.imgur.com/2hMZXLw.gif | ~x~I love that woman, yeah, but I love pussy too.                                                                                |
+| 0xE2D55069    | https://i.imgur.com/YUjOtbw.gif | I'm afraid I haven't met these women of your dreams, Roman.                                                                      |
+| 0xE9F754CF    | https://i.imgur.com/JhKeL41.gif | ~x~You got a wife? How about all that women you pick up in the car?                                                              |
+| 0xE26A70F4    | https://i.imgur.com/at8B4xV.gif | ~x~You'd love that, wouldn't you?                                                                                                |
+| 0xE048CBEF    | https://i.imgur.com/QaLIOac.gif | some outlaw biker guy named Johnny, and a doctor who buys dead bodies so he can sell the organs.                                 |
+| 0xE55CA3AD    | https://i.imgur.com/W4gTvhV.gif | ~x~So, you... you been working for Roman long?                                                                                   |
+| 0xEA5B262C    | https://i.imgur.com/1PVgAsy.gif | ~x~Sure, whatever you say lover man.                                                                                             |
+| 0xEADBEFFF    | https://i.imgur.com/Y1w5PXb.gif | ~x~I look after Roman, I help him out.                                                                                           |
+| 0xED3CE538    | https://i.imgur.com/XFP87xX.gif | That's my cousin, Niko.                                                                                                          |
+| 0xED8D61EC    | https://i.imgur.com/4FI6ucm.gif | ~x~There ain't no tying this warrior down. I'm an animal. I need that pussy.                                                     |
+| 0xF7A8F032    | https://i.imgur.com/Kz5jtbq.gif | ~x~Take advantage of my generosity and insult me at the same time.                                                               |
+| 0xF636FFED    | https://i.imgur.com/K6TltUr.gif | ~x~Now get out of here and don't trouble me again!                                                                               |
+| 0xF0407542    | https://i.imgur.com/Z771Hdk.gif | ~x~Great, I'm sure that must be good for you.                                                                                    |
+| 0xFA24C5BF    | https://i.imgur.com/RLt5XXc.gif | ~x~Doesn't there? You know?                                                                                                      |
+| 0xFA65793C    | https://i.imgur.com/tO4G7Th.gif | ~x~Sure. You bang tourists. I get the point.                                                                                     |
+| 0xFAFA903C    | https://i.imgur.com/p5L2vaQ.gif | ~x~Okay then. For real.                                                                                                          |
+| 0xFB780BB1    | https://i.imgur.com/rO7HwBP.gif | ~x~Roman is real lucky to have you working for him.                                                                              |
+| 0xFE934482    | https://i.imgur.com/Nwfr2EY.gif | ~x~You got a package of snow strapped to your chest?                                                                             |
+| SHOW2_PT1_1   | https://i.imgur.com/jlpMY4X.gif | ~x~And now's the time for American cowboy!                                                                                       |
+| SHOW2_PT1_2   | https://i.imgur.com/to2Pd9m.gif | ~x~Welcome, Dusty Cowpoke!                                                                                                       |
+| SHOW2_PT1_3   | https://i.imgur.com/iMbEEbT.gif | ~x~What is problem? He's just like real Texas cowboy!                                                                            |
+| SHOW2_PT1_4   | https://i.imgur.com/XOAoLJf.gif | ~x~Maybe you'll like next show better.                                                                                           |
+| SHOW2_PT1_5   | https://i.imgur.com/QKbBD7o.gif | ~x~Here it is, great juggler named Catch!                                                                                        |
+| SHOW2_PT2_1   | https://i.imgur.com/x5ybowG.gif | ~x~Thank you very much. We have more shows soon!                                                                                 |
+| WILL2_LC_1    | https://i.imgur.com/qpi1yoC.gif | ~x~Let's hear it, Liberty City, for Mr. Katt Williams!                                                                           |
+| WILL2_LC_3    | https://i.imgur.com/ZOlQeq3.gif | ~x~Thank you very much, I appreciate it.                                                                                         |
+| WILL2_LC_6    | https://i.imgur.com/Vuy3QNE.gif | ~x~What a pleasure to be here at this motherfucking club.                                                                        |
+| WILL2_LC_7    | https://i.imgur.com/W15aVAR.gif | ~x~You are kickin' the shit out of the club on the other side of town, Club Bullshit.                                            |
+| WILL2_LC_8    | https://i.imgur.com/IfFLJuT.gif | ~x~I'll never play there again.                                                                                                  |
+| WILL2_LC_9    | https://i.imgur.com/zLR93Ei.gif | ~x~It's like livin' in a studio apartment again, you ever been in a studio apartment?                                            |
+| WILL2_LC_10   | https://i.imgur.com/vag1zAR.gif | ~x~It's ridiculous... because it's got everything, but nothing.                                                                  |
+| WILL2_LC_11   | https://i.imgur.com/zqJVoL5.gif | ~x~Like you see the livingroom, it's right there.                                                                                |
+| WILL2_LC_12   | https://i.imgur.com/Hxu8VUW.gif | ~x~There's the kitchen corner, right there, set up.                                                                              |
+| WILL2_LC_13   | https://i.imgur.com/IMXz19k.gif | ~x~It's just so small you can do everything from the center it's...                                                              |
+| WILL2_LC_14   | https://i.imgur.com/3RRuD0B.gif | ~x~You become a spider. You just...                                                                                              |
+| WILL2_LC_15   | https://i.imgur.com/2OGnEhM.gif | ~x~Oh wait, a minute, hold on, that's my fax machine. Got it.                                                                    |
+| WILL2_LC_16   | https://i.imgur.com/UwOhgaE.gif | ~x~All right then, let me open up the refrigerator.                                                                              |
+| WILL2_LC_17   | https://i.imgur.com/BDBiRBv.gif | ~x~Who, who... who left my shower curtain open like that, that is ridiculous.                                                    |
+| WILL2_LC_18   | https://i.imgur.com/zHZa8th.gif | ~x~Somebody's at the door, hello?                                                                                                |
+| WILL2_LC_19   | https://i.imgur.com/MsQg5Zl.gif | ~x~Hey, c'mon in, let's sit on the couch.                                                                                        |
+| WILL2_LC_20   | https://i.imgur.com/1fCGgBr.gif | ~x~Well it's a love seat but you could sit...                                                                                    |
+| WILL2_LC_21   | https://i.imgur.com/ATUhudV.gif | ~x~That's how the other club was, just that small.                                                                               |
+| WILL2_LC_22   | https://i.imgur.com/QvvqpVz.gif | ~x~I'm enjoying being here in Liberty City, it's crazy.                                                                          |
+| WILL2_LC_23   | https://i.imgur.com/pDrSmZZ.gif | ~x~Gotta have a car here, it would seem 'cuz, you motherfuckers walk too fast for me.                                            |
+| WILL2_LC_24   | https://i.imgur.com/PtpbBfK.gif | ~x~Liberty Ci... where the fuck?                                                                                                 |
+| WILL2_LC_25   | https://i.imgur.com/Qv80GZn.gif | ~x~Are y'all goin' somewhere?                                                                                                    |
+| WILL2_LC_26   | https://i.imgur.com/murnoT2.gif | ~x~Is there a rave or some shit that I don't know about that everybody's rushin' to get to?                                      |
+| WILL2_LC_27   | https://i.imgur.com/2tGCOft.gif | ~x~Three o'clock in the morning, five o'clock in the morning, nine, noon, three... motherfuckers just...                         |
+| WILL2_LC_28   | https://i.imgur.com/9oNjKjs.gif | ~x~If you're not careful, you accidentally be walkin' with 'em...                                                                |
+| WILL2_LC_29   | https://i.imgur.com/XkImCnc.gif | ~x~you don't even have anywhere to go, you was just tryin' to ask if there was a Bean Machine somewhere in the local vicinity    |
+| WILL2_LC_30   | https://i.imgur.com/7pxuXxd.gif | ~x~so you can get you a Bean-a-frap-a-capuccino or something.                                                                    |
+| WILL2_LC_31   | https://i.imgur.com/lm9Kdhz.gif | ~x~So you just walkin like this, like...                                                                                         |
+| WILL2_LC_32   | https://i.imgur.com/9P4sNMz.gif | ~x~"Excuse me is there a coffee shop around here?"                                                                               |
+| WILL2_LC_33   | https://i.imgur.com/Ldl1NiA.gif | ~x~I've already passed it by the time I got done walking.                                                                        |
+| WILL2_LC_34   | https://i.imgur.com/ipeSjCc.gif | ~x~You can't talk to the girls, the girls move too fast.                                                                         |
+| WILL2_LC_35   | https://i.imgur.com/HoxgCkD.gif | ~x~They sure are pretty in Liberty City, though.                                                                                 |
+| WILL2_LC_36   | https://i.imgur.com/uCbcTHp.gif | ~x~Pretty girls in Liberty City... but they're moving, fuckin'... you gotta... you're like an auctioneer.                        |
+| WILL2_LC_38   | https://i.imgur.com/HFM3ma0.gif | ~x~Hitherehowareyou....                                                                                                          |
+| WILL2_LC_39   | https://i.imgur.com/GdvWiIN.gif | ~x~Excusemedoyouhaveahusband...                                                                                                  |
+| WILL2_LC_40   | https://i.imgur.com/y1zyLHZ.gif | ~x~HiI'mnewtoLiberty...                                                                                                          |
+| WILL2_LC_41   | https://i.imgur.com/byl5Zkf.gif | ~x~They're gone, gone, just moving so fuckin' fast, it's ridiculous.                                                             |
+| WILL2_LC_42   | https://i.imgur.com/oaPd0a2.gif | ~x~So I decided I was gonna get a car but you gotta be careful...                                                                |
+| WILL2_LC_43   | https://i.imgur.com/g7a0hi8.gif | ~x~gotta be careful 'cuz shopping for a car is dangerous.                                                                        |
+| WILL2_LC_44   | https://i.imgur.com/C7YycWY.gif | ~x~You got a raggedy car you go to the lot...                                                                                    |
+| WILL2_LC_45   | https://i.imgur.com/YGwrkKm.gif | ~x~These motherfuckers keep tryin' to trick you.                                                                                 |
+| WILL2_LC_46   | https://i.imgur.com/XBfYmOi.gif | ~x~Don't take the test drive, that's all I'm gonna say, don't take the fuckin' test drive. Test drive is the trick,              |
+| WILL2_LC_47   | https://i.imgur.com/GSG21BJ.gif | ~x~it's to show you how much better this shit is, than your shit, so you can't even go back to your car again.                   |
+| WILL2_LC_48   | https://i.imgur.com/hiNGsVP.gif | ~x~Here I been sittin' on vinyl with creases on in my back and become accustomed to the raggedyness of the seat.                 |
+| WILL2_LC_49   | https://i.imgur.com/Qekzcm8.gif | ~x~And these motherfuckers put me in a chair, I didn't even wanna drive the car.                                                 |
+| WILL2_LC_50   | https://i.imgur.com/yJGrA1H.gif | ~x~I wanted to watch television, I was just laying there comfortable.                                                            |
+| WILL2_LC_51   | https://i.imgur.com/l7sDaC9.gif | ~x~"Test drive it! Test drive it!"                                                                                               |
+| WILL2_LC_52   | https://i.imgur.com/2tXUhHw.gif | ~x~Don't do it.                                                                                                                  |
+| WILL2_LC_53   | https://i.imgur.com/FDi5SJz.gif | ~x~Don't do it, especially if you ain't got good credit,                                                                         |
+| WILL2_LC_54   | https://i.imgur.com/36ZoveR.gif | ~x~because they become two different sales persons.                                                                              |
+| WILL2_LC_55   | https://i.imgur.com/NKE8UAn.gif | ~x~Right, when you first walk in they the friendliest motherfuckers in the world,                                                |
+| WILL2_LC_57   | https://i.imgur.com/8ztS5bX.gif | ~x~"How are you, Sir? Might I offer you some popcorn...                                                                          |
+| WILL2_LC_58   | https://i.imgur.com/N20ybmF.gif | ~x~some ch... some uh, some uh... cheese, uh, bits and, uh, some coffee?"                                                        |
+| WILL2_LC_59   | https://i.imgur.com/pUxZsgd.gif | ~x~Well that's an odd combination but I haven't had popcorn in a while, don't mind if I do, thank you!                           |
+| WILL2_LC_60   | https://i.imgur.com/Gp7ATjT.gif | ~x~Coffee, yes! Yes I'll have.. and you said cheese bits?                                                                        |
+| WILL2_LC_61   | https://i.imgur.com/ZhUQT4l.gif | ~x~I don't think I'm even familiar with cheese bits, of course I'll have some of them...                                         |
+| WILL2_LC_62   | https://i.imgur.com/rjDFWY9.gif | ~x~Wine ya and dine ya, make you feel good about it,                                                                             |
+| WILL2_LC_63   | https://i.imgur.com/5GHFegD.gif | ~x~and then they go in the back room and check your fuckin' credit,                                                              |
+| WILL2_LC_64   | https://i.imgur.com/erV71cX.gif | ~x~and come out like you're an alien from another land, just...                                                                  |
+| WILL2_LC_65   | https://i.imgur.com/9ruLAE8.gif | ~x~"Sir...                                                                                                                       |
+| WILL2_LC_66   | https://i.imgur.com/QKbNMaa.gif | ~x~I just ran your credit score.                                                                                                 |
+| WILL2_LC_67   | https://i.imgur.com/rZBYNGi.gif | ~x~You think this is a motherfuckin' game? Huh?                                                                                  |
+| WILL2_LC_68   | https://i.imgur.com/GyQ0Wyz.gif | ~x~Sir, let me just say, if you had thirty-five thousand dollars cash,                                                           |
+| WILL2_LC_69   | https://i.imgur.com/n8Iia34.gif | ~x~I couldn't let you put ten percent down on a car that cost nine dollars,                                                      |
+| WILL2_LC_70   | https://i.imgur.com/OqmeGYI.gif | ~x~Do you understand what the fu.. ? Get the fu...                                                                               |
+| WILL2_LC_71   | https://i.imgur.com/bttD87T.gif | ~x~What we can do is, we can recommend you...                                                                                    |
+| WILL2_LC_72   | https://i.imgur.com/DgDMT5c.gif | ~x~to a Liberty City transit official, who can give your motherfuckin' ass a bus pass...                                         |
+| WILL2_LC_73   | https://i.imgur.com/q82R6dZ.gif | ~x~til you learn how to properly use credit!"                                                                                    |
+| WILL2_LC_74   | https://i.imgur.com/HoEro2r.gif | ~x~Y'all been great, I been Katt Williams.                                                                                       |
+| WILL2_LC_75   | https://i.imgur.com/hxOmlg5.gif | ~x~Thank you so much, Liberty City.                                                                                              |
+| WILL3_WEED_1  | https://i.imgur.com/vg8OBq8.gif | ~x~Welcome the pimp himself, Mr. Katt Williams!                                                                                  |
+| WILL3_WEED_6  | https://i.imgur.com/IReDMaI.gif | ~x~It's a pleasure. A pleasure to be here in Liberty City owww!                                                                  |
+| WILL3_WEED_7  | https://i.imgur.com/YHyFqzD.gif | ~x~Liberty City: all party, all the time.                                                                                        |
+| WILL3_WEED_8  | https://i.imgur.com/tbJKtrc.gif | ~x~Crazy Liberty City, anything goes.                                                                                            |
+| WILL3_WEED_10 | https://i.imgur.com/ZRzpDFv.gif | ~x~Weed is illegal. Ain't that a motherfuck...?                                                                                  |
+| WILL3_WEED_11 | https://i.imgur.com/2S3N0eu.gif | ~x~They should have put that in the motherfucking brochure.                                                                      |
+| WILL3_WEED_12 | https://i.imgur.com/nNGw4QX.gif | ~x~Feel free to come to Liberty City but weed is illegal.                                                                        |
+| WILL3_WEED_13 | https://i.imgur.com/KLwBpKF.gif | ~x~Kind of cockamamie shit is this? Weed is illegal.                                                                             |
+| WILL3_WEED_14 | https://i.imgur.com/EjzGtHN.gif | ~x~How the fuck can you make a plant illegal? Weed is just a plant.                                                              |
+| WILL3_WEED_16 | https://i.imgur.com/TbrmA3r.gif | ~x~It just grows like that and, if you should happen to set it on fire, there are some effects.                                  |
+| WILL3_WEED_19 | https://i.imgur.com/49hWVfa.gif | ~x~You gotta add baking soda, water, stir it up.                                                                                 |
+| WILL3_WEED_20 | https://i.imgur.com/4JiK2Sm.gif | ~x~I don't know know the recipe, I'm just saying there's some shit you gotta do to it.                                           |
+| WILL3_WEED_21 | https://i.imgur.com/704IfM0.gif | ~x~It's ridiculous. Weed ain't never hurt nobody.                                                                                |
+| WILL3_WEED_22 | https://i.imgur.com/HAfPht6.gif | ~x~Aspirin is perfectly legal, but if you take thirteen of them motherfuckers it'll be your last headache.                       |
+| WILL3_WEED_23 | https://i.imgur.com/7yJ6XFv.gif | ~x~Long as you have been living you ain't never heard of a motherfucker overdose on marijuana.                                   |
+| WILL3_WEED_24 | https://i.imgur.com/WCxYbtO.gif | ~x~You might have thought that nigga was dead, he aint dead, he gonna wake up in 30 minutes,                                     |
+| WILL3_WEED_28 | https://i.imgur.com/bablw4u.gif | ~x~Meanwhile, legal pill's got side effects to it.                                                                               |
+| WILL3_WEED_29 | https://i.imgur.com/d4YCuXU.gif | ~x~Yeah, side effects. And the side effects is worse than the shit that it's curing.                                             |
+| WILL3_WEED_30 | https://i.imgur.com/cD3h26x.gif | ~x~And I'm thinking nobody's noticing this but me.                                                                               |
+| WILL3_WEED_31 | https://i.imgur.com/yzpX4Jd.gif | ~x~I'm just saying that I'm taking some shit for asthma; I don't need the side effect to be shortness of breath.                 |
+| WILL3_WEED_32 | https://i.imgur.com/PLhsiTA.gif | ~x~That's what the fuck I came to you for.                                                                                       |
+| WILL3_WEED_33 | https://i.imgur.com/egXtL42.gif | ~x~Lot of crazy shit in Liberty City.                                                                                            |
+| WILL3_WEED_34 | https://i.imgur.com/3syXbli.gif | ~x~I been all around this motherfucker, I ain't seen a dog, or a cat yet.                                                        |
+| WILL3_WEED_35 | https://i.imgur.com/0x997Rq.gif | ~x~Hmm, just thought about it didn't you?                                                                                        |
+| WILL3_WEED_36 | https://i.imgur.com/cocUCbq.gif | ~x~Go ahead, think back.                                                                                                         |
+| WILL3_WEED_37 | https://i.imgur.com/RsWB96L.gif | ~x~No, that wasn't a dog.                                                                                                        |
+| WILL3_WEED_38 | https://i.imgur.com/66biFwL.gif | ~x~That were probably a short person like myself, bending over to pick up something.                                             |
+| WILL3_WEED_39 | https://i.imgur.com/QriQwW1.gif | ~x~You might have thought it was a dog, that's not a rottweiler motherfucker, that's me.                                         |
+| WILL3_WEED_40 | https://i.imgur.com/fsqPxZ4.gif | ~x~Dropped some money.                                                                                                           |
+| WILL3_WEED_41 | https://i.imgur.com/ysXVm77.gif | ~x~No dogs, no fuckin' cats, and I know you thinking, well how's that important?                                                 |
+| WILL3_WEED_42 | https://i.imgur.com/y3PsKiO.gif | ~x~Cause what's next, short people?                                                                                              |
+| WILL3_WEED_43 | https://i.imgur.com/ULUCEej.gif | ~x~Where they gonna cut the line, five' five"? five' six"?                                                                       |
+| WILL3_WEED_44 | https://i.imgur.com/BffcGfJ.gif | ~x~Who the fuck? You don't know! You don't know!                                                                                 |
+| WILL3_WEED_45 | https://i.imgur.com/3PGMAn5.gif | ~x~Just one day, whoosh, all the short people gone.                                                                              |
+| WILL3_WEED_46 | https://i.imgur.com/vSGN9AH.gif | ~x~It's just be you tall-ass freaks left here to fend for yourselves.                                                            |
+| WILL3_WEED_47 | https://i.imgur.com/QJ4EM8d.gif | ~x~Don't ask me to pick up shit from down there, I can't do it cus I ain't fuckin here!                                          |
+| WILL3_WEED_48 | https://i.imgur.com/0BJmzGh.gif | ~x~Me or the dogs, or the cats.                                                                                                  |
+| WILL3_WEED_49 | https://i.imgur.com/48sbfkQ.gif | ~x~It's a crazy place, everything's crazy about here.                                                                            |
+| WILL3_WEED_50 | https://i.imgur.com/tydINXN.gif | ~x~The fans in Liberty City are crazy.                                                                                           |
+| WILL3_WEED_51 | https://i.imgur.com/rah1i0j.gif | ~x~Let me just say something. If you six foot ninety-nine,                                                                       |
+| WILL3_WEED_52 | https://i.imgur.com/nkpq4AS.gif | ~x~don't walk up on me all aggressive trying to tell me how much you love me.                                                    |
+| WILL3_WEED_53 | https://i.imgur.com/Gh5z60k.gif | ~x~You scaring the shit out of me.                                                                                               |
+| WILL3_WEED_54 | https://i.imgur.com/QJ4lg2H.gif | ~x~"Hey, son... hey, son, welcome to Liberty City son, you... you funny as fuck, son."                                           |
+| WILL3_WEED_56 | https://i.imgur.com/OkP8xAb.gif | ~x~Lady, I don't let motherfuckers jus' spit on me while they talking, that's just ridiculous.                                   |
+| WILL3_WEED_57 | https://i.imgur.com/67Fvoef.gif | ~x~They got a guy selling CDs.                                                                                                   |
+| WILL3_WEED_58 | https://i.imgur.com/uhSJxoI.gif | ~x~Motherfucker won't even tell you what's on the CD.                                                                            |
+| WILL3_WEED_59 | https://i.imgur.com/sVZtCCT.gif | ~x~He done wrote his name in crayon on the CD, just passing it to you.                                                           |
+| WILL3_WEED_60 | https://i.imgur.com/E4VnonH.gif | ~x~Passing it... passed it to me so fast I had already bought it before I knew what was going on.                                |
+| WILL3_WEED_61 | https://i.imgur.com/5ZFcPcq.gif | ~x~I just walked up to him, hey, how you doing? What the fuck, a CD? Here's five. What the fuck just happened?                   |
+| WILL3_WEED_62 | https://i.imgur.com/8Pwy5G1.gif | ~x~Why everything gotta move so fast around here anyway?                                                                         |
+| WILL3_WEED_63 | https://i.imgur.com/4UWQuIF.gif | ~x~I want to slow down and relax but you can't do that no way cause weed is illegal.                                             |
+| WILL3_WEED_64 | https://i.imgur.com/uFJVIk1.gif | ~x~Anyway, that's been all my motherfucking time.                                                                                |
+| WILL3_WEED_65 | https://i.imgur.com/nEhGMzO.gif | ~x~Thank you so much. Liberty City I appreciate it.                                                                              |
+| WILL3_WEED_66 | https://i.imgur.com/lhzO3a3.gif | ~x~Thanks for the love, Katt Williams, have a good night.                                                                        |

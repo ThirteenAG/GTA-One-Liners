@@ -28,7 +28,7 @@ uint8_t* bDisplayHud;
 uint8_t* bDisplayRadar;
 
 bool isPCSX2 = false;
-bool isManhunt = true;
+bool isManhunt = false;
 bool isBully = false;
 
 DWORD GetRegistryData(std::wstring& str, HKEY key, std::wstring_view subKey, std::wstring_view valueName)
@@ -568,14 +568,14 @@ int main()
     //if (ParseText(text, L"\\text\\TBOGT.text"))
     //    RenameFiles(text, L"\\Grand Theft Auto 4");
     //
-    //if (ParseText(text, L"\\text\\GTAIV.text"))
-    //    RenameFiles(text, L"\\Grand Theft Auto 4");
+    if (ParseText(text, L"\\text\\GTAIV.text"))
+        RenameFiles(text, L"\\Grand Theft Auto 4");
 
     //if (ParseText(text, L"\\text\\GTAV.text"))
     //    RenameFiles(text, L"\\Grand Theft Auto V");
 
-    if (isManhunt && ParseText(text, L"\\text\\MANHUNT.text"))
-        RenameFiles(text, L"");
+    //if (isManhunt && ParseText(text, L"\\text\\MANHUNT.text"))
+    //    RenameFiles(text, L"");
 
     //GTAV
     /*
