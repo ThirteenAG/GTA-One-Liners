@@ -86,12 +86,12 @@ void SaveRecording2()
     keybd_event(VK_SCROLL, 0x45, KEYEVENTF_EXTENDEDKEY | 0, 0);
     keybd_event(VK_SCROLL, 0x45, KEYEVENTF_EXTENDEDKEY | KEYEVENTF_KEYUP, 0);
 
-    for each (auto var in Keys)
+    for (auto var : Keys)
     {
         keybd_event(var, 0x45, KEYEVENTF_EXTENDEDKEY | 0, 0);
     }
 
-    for each (auto var in Keys)
+    for (auto var : Keys)
     {
         keybd_event(var, 0x45, KEYEVENTF_EXTENDEDKEY | KEYEVENTF_KEYUP, 0);
     }

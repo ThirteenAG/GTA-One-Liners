@@ -241,7 +241,7 @@ void InitV()
     Trampoline& trampoline = trampolines.MakeTrampoline(GetModuleHandle(NULL));
 
     pattern = hook::pattern("41 B8 ? ? ? ? E8 ? ? ? ? 48 8B CB E8 ? ? ? ? 48 83 C4 20 5B C3 ");
-    hbsub_140153448.fun = injector::MakeCALL(pattern.get_first(6), trampoline.Jump(sub_140153448)).get();
+    hbsub_140153448.fun = injector::MakeCALL(pattern.get_first(6), trampoline.Jump(sub_140153448)).get(); //sub_140153448 = sub_10053B0 in max payne 3
 
     pattern = hook::pattern("C6 05 ? ? ? ? ? E8 ? ? ? ? 4C 8D 9C 24 ? ? ? ? 49 8B 5B 10 49 8B 73 18 49 8B 7B 20 49 8B E3 41 5E C3");
     hbsub_140175EE8.fun = injector::MakeCALL(pattern.get_first(7), trampoline.Jump(sub_140175EE8)).get();
