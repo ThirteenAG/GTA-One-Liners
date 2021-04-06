@@ -1,5 +1,0 @@
-;60fps
-patch=1,EE,20370314,extended,00000000
-
-;sub pos
-patch=1,EE,20321ADC,short,433E
