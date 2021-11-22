@@ -33,7 +33,7 @@ uint8_t* bDisplayRadar;
 bool isPCSX2 = false;
 bool isManhunt = false;
 bool isBully = false;
-bool isMaxPayne3 = true;
+bool isMaxPayne3 = false;
 
 DWORD GetRegistryData(std::wstring& str, HKEY key, std::wstring_view subKey, std::wstring_view valueName)
 {
@@ -376,8 +376,8 @@ void Init()
                                 //bDisplayHud = (uint8_t*)injector::aslr_ptr(0x10FC0FC).get();
                                 //bDisplayRadar = (uint8_t*)injector::aslr_ptr(0x10FC10C).get();
 
-                                void InitMaxPayne3();
-                                InitMaxPayne3();
+                                //void InitMaxPayne3();
+                                //InitMaxPayne3();
                             }
                         }
                     }
@@ -507,6 +507,13 @@ uint32_t ParseText(std::map<std::string, std::string>& m, std::wstring fileName)
 
             auto name = line.substr(0, min(min(delimiterPos, line.find("\t")), line.find(" ")));
             auto value = line.substr(delimiterPos + delimiter.length());
+
+            /*value.erase(std::remove_if(value.begin(), value.end(), [](unsigned char x) { return std::isspace(x); }), value.end());
+            value.erase(std::remove_if(value.begin(), value.end(), [](unsigned char x) { return x == '!' || x == '?' || x == '\''; }), value.end());
+            while (!value.empty() && value.back() == '.')
+                value.pop_back();
+            std::transform(value.begin(), value.end(), value.begin(), ::tolower);
+            */
             m.emplace(value/*.substr(0, 50)*/, name);
             //std::cout << name << " " << value << '\n';
         }
@@ -724,6 +731,131 @@ int main()
 
     }
     */
+
+    //GTAVC DE
+      
+if (ParseText(text, L"\\text\\GTAVCDE.text"))
+{
+    namespace fs = std::filesystem;
+    fs::path someDir(DefaultPathW + L"\\Grand Theft Auto Vice City  Definitive Edition");
+    fs::directory_iterator end_iter;
+
+    typedef std::multimap<fs::file_time_type, fs::path> result_set_t;
+    result_set_t result_set;
+    std::vector<fs::path> files;
+
+    if (fs::exists(someDir) && fs::is_directory(someDir))
+    {
+        for (fs::directory_iterator dir_iter(someDir); dir_iter != end_iter; ++dir_iter)
+        {
+            if (fs::is_regular_file(dir_iter->status()))
+            {
+                if (dir_iter->path().extension() == ".mp4")
+                    result_set.insert(result_set_t::value_type(fs::last_write_time(dir_iter->path()), *dir_iter));
+            }
+        }
+        for (auto& var : result_set)
+            files.push_back(var.second);
+    }
+
+
+    CreateDirectory(std::wstring(DefaultPathW + L"\\Grand Theft Auto Vice City  Definitive Edition\\out").c_str(), NULL);
+    std::ifstream logFile(DefaultPathW + L"\\Grand Theft Auto Vice City  Definitive Edition" + L"\\log.txt");
+    if (logFile.is_open())
+    {
+        std::string line;
+        size_t count = 0;
+        while (getline(logFile, line))
+        {
+            auto delimiter = std::string("// ");
+            auto delimiterPos = line.find(delimiter);
+
+            if (line[0] == '#' || line.empty() || delimiterPos == std::string::npos)
+                continue;
+
+            auto start = std::stoi(line.substr(0, min(delimiterPos, line.find("\t")))) + 0/*50*/;
+            auto duration = std::stoi(line.substr(0, min(delimiterPos, line.find("\t")))) - 0/*350*/; // removing 350ms to remove overlap
+            auto value = line.substr(delimiterPos + delimiter.length());
+            /*value.erase(std::remove_if(value.begin(), value.end(), [](unsigned char x) { return std::isspace(x); }), value.end());
+            value.erase(std::remove_if(value.begin(), value.end(), [](unsigned char x) { return x == '!' || x == '?' || x == '\''; }), value.end());
+            while (!value.empty() && value.back() == '.')
+                value.pop_back();
+            std::transform(value.begin(), value.end(), value.begin(), ::tolower);
+
+            if (text.find(value) == text.end())
+            {
+                _asm nop
+                continue;
+            }*/
+
+            auto gxt = text.at(value);
+            //auto gxt = std::string();
+            //for each (auto var in text)
+            //{
+            //    if (var.first.substr(0, value.size()) == value)
+            //    {
+            //        gxt = text.at(var.first);
+            //        break;
+            //    }
+            //}
+
+            if (gxt.empty() || count >= files.size())
+            {
+                count++;
+                continue;
+            }
+
+            auto ffmpeg = std::wstring(L"D:\\Program Files\\FFmpeg\\ffmpeg.exe");
+            auto source = files[count];
+            auto dest = (source.parent_path() / "out" / gxt).replace_extension("mp4");
+            auto size = std::filesystem::file_size(source);
+
+            if (size > 30000000)
+            {
+                start += 50;
+                duration -= 350; // removing 350ms to remove overlap
+            }
+
+            auto format_duration = [](std::chrono::milliseconds ms) -> std::wstring
+            {
+                using namespace std::chrono;
+                auto secs = duration_cast<seconds>(ms);
+                ms -= duration_cast<milliseconds>(secs);
+                auto mins = duration_cast<minutes>(secs);
+                secs -= duration_cast<seconds>(mins);
+                auto hour = duration_cast<hours>(mins);
+                mins -= duration_cast<minutes>(hour);
+
+                std::wstringstream ss;
+                ss << hour.count() << ":" << mins.count() << ":" << secs.count() << "." << ms.count();
+                return ss.str();
+            };
+
+            auto shield = [](std::wstring s) ->std::wstring
+            {
+                return L"\"" + s + L"\"";
+            };
+
+            std::wstring cmd = std::wstring(L"\"" + shield(ffmpeg) + L" -y -sseof -" + format_duration(std::chrono::milliseconds(start)) + L" -t " + format_duration(std::chrono::milliseconds(duration)) + +L" -i " + shield(source.wstring()) + L" -c copy " + shield(dest.wstring()));
+
+            AllocConsole();
+            if (_wsystem(cmd.c_str()) == 0)
+            {
+                //MessageBox(0,0,0,0);
+            }
+
+            count++;
+        }
+    }
+    else
+    {
+        std::cerr << "Couldn't open log.txt file for reading.\n";
+    }
+
+
+
+}
+      
 
     if (isMaxPayne3)
     {

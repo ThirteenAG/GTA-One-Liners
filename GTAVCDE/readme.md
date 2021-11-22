@@ -1,0 +1,1605 @@
+# GTA VC DE One Liners
+
+| GXT NAME | GIF LINK                        | SUBTITLE                                                                                                                                   |
+| -------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| LAW1_I   | https://i.imgur.com/eXAmpTu.gif | - OH! There's this retired Colonel, Colonel Juan Garcia Cortez.                                                                            |
+| LAW1_J   | https://i.imgur.com/rAeZHBu.gif | He's the one that helped me set up this deal                                                                                               |
+| LAW1_K   | https://i.imgur.com/zJrvro9.gif | well away from Vice City's established thugs. Ok?                                                                                          |
+| LAW1_L   | https://i.imgur.com/eups6h2.gif | Now, listen. He's holding his party out in the bay on his expensive yacht                                                                  |
+| LAW1_M   | https://i.imgur.com/HJyCNRZ.gif | and all of Vice City's big players are gonna be there. OK?                                                                                 |
+| LAW1_N   | https://i.imgur.com/m7Swx6M.gif | I have an invite, of course I have an invite,                                                                                              |
+| LAW1_O   | https://i.imgur.com/TMl7g89.gif | but there's no way that I'm going out there, sticking my head out the door - no way! Not gonna happen.                                     |
+| LAW1_P   | https://i.imgur.com/cP3al9J.gif | I told you, shut up! I'll go myself...                                                                                                     |
+| LAW1_Q   | https://i.imgur.com/P6TPnmA.gif | Ho - whoa, whoa! Hey, I like 1978 too, but, y'know, this isn't gonna be a beer and strippers do.                                           |
+| LAW1_R   | https://i.imgur.com/GVe9aBN.gif | I mean, no offense, but I think that you might turn heads on the runway for the wrong reasons.                                             |
+| LAW1_S   | https://i.imgur.com/i7PZQMI.gif | What's wrong with the way I'm dressed?                                                                                                     |
+| LAW1_T   | https://i.imgur.com/fSIBzUZ.gif | Ok, look, here. Stop by Rafael's, tell him I sent 'ya. He'll make you look respectable.                                                    |
+| LAW1_U   | https://i.imgur.com/QvkPky8.gif | OK, go, c'mon...                                                                                                                           |
+| LAW2_1   | https://i.imgur.com/FgKlhDP.gif | Hey, whatchoo lookin' at?                                                                                                                  |
+| LAW2_2   | https://i.imgur.com/iS8YCAt.gif | You better start talking...                                                                                                                |
+| LAW2_3   | https://i.imgur.com/JdiaU2m.gif | Hey, make me, you prick!                                                                                                                   |
+| LAW2_4   | https://i.imgur.com/Ius40j7.gif | This way!                                                                                                                                  |
+| LAW2_5   | https://i.imgur.com/WBs2Gfe.gif | I'm going to go see what I can dig up. I'll be watching you, Tommy.                                                                        |
+| LAW2_16  | https://i.imgur.com/7XMfBFi.gif | One thing you gotta realize about this town. You gotta pack some heat.                                                                     |
+| LAW2_17  | https://i.imgur.com/KqxjNzE.gif | C'mon, the local gun shop's a couple of blocks away.                                                                                       |
+| LAW2_A   | https://i.imgur.com/UTIsVH6.gif | Ah! Well, I hope you're having a good time. Because I'm going out of my mind with worry here. What did you find out?                       |
+| LAW2_B   | https://i.imgur.com/F0DRy64.gif | That there are more criminals in this town than in prison. We need a lead from the streets...                                              |
+| LAW2_C   | https://i.imgur.com/YXu8qoW.gif | Ok, let me think, let me think, let me think -                                                                                             |
+| LAW2_D   | https://i.imgur.com/aYlhb7X.gif | - AH! I've got it!                                                                                                                         |
+| LAW2_E   | https://i.imgur.com/dv56NYF.gif | Ok, There's this limey, some music industry slimeball,                                                                                     |
+| LAW2_F   | https://i.imgur.com/flZ72Lr.gif | goes by the name of Kent Paul.                                                                                                             |
+| LAW2_G   | https://i.imgur.com/3U59toG.gif | Anyway, he's got his nose so far up most of Vice City's ass                                                                                |
+| LAW2_H   | https://i.imgur.com/WjUBVKb.gif | that if anybody knows the whereabouts of 20 keys of coke,                                                                                  |
+| LAW2_I   | https://i.imgur.com/aMujgqF.gif | it's this guy, all right? He's always at The Malibu.                                                                                       |
+| LAW2_J   | https://i.imgur.com/W5tioGr.gif | I'll go pay him a visit.                                                                                                                   |
+| LAW2_K   | https://i.imgur.com/Gs5KydY.gif | Take it easy now.                                                                                                                          |
+| LAW2B_A  | https://i.imgur.com/fvkJ9r4.gif | Where'd you pop up from?                                                                                                                   |
+| LAW2B_B  | https://i.imgur.com/TW1zi30.gif | I've been looking for a bird like you for ages, mate...                                                                                    |
+| LAW2B_C  | https://i.imgur.com/EIhihsd.gif | Kent Paul, mate. Yeah, I'm the guvnor 'round here.                                                                                         |
+| LAW2B_D  | https://i.imgur.com/l7214GN.gif | I'm looking for some English guy...                                                                                                        |
+| LAW2B_E  | https://i.imgur.com/kjrahT4.gif | I sort things out, you know what I mean?                                                                                                   |
+| LAW2B_F  | https://i.imgur.com/p3OJAfr.gif | I'll treat you. Whatever you want, I'll get you, girl.                                                                                     |
+| LAW2B_G  | https://i.imgur.com/4SP9K2z.gif | Don't you worry about a thing, mate.                                                                                                       |
+| LAW2B_H  | https://i.imgur.com/r3tr5z4.gif | Get lost, honey.                                                                                                                           |
+| LAW2B_I  | https://i.imgur.com/S2r0hv0.gif | Oi oi oi oi oi!                                                                                                                            |
+| LAW2B_J  | https://i.imgur.com/ZmrYmcZ.gif | You Kent Paul? I'm a friend of Rosenberg's...                                                                                              |
+| LAW2B_K  | https://i.imgur.com/NSrZ8Zt.gif | Rosenberg... Rosenberg... Oh, that bonkers ambulance chaser!                                                                               |
+| LAW2B_L  | https://i.imgur.com/4EopALi.gif | That guy could defend an innocent man all the way to death row!                                                                            |
+| LAW2B_M  | https://i.imgur.com/fz2Ncco.gif | Give us another drink, bruv.                                                                                                               |
+| LAW2B_N  | https://i.imgur.com/jsjA56J.gif | Everybody's a comedian.                                                                                                                    |
+| LAW2B_O  | https://i.imgur.com/og6FRlQ.gif | Listen to me, I'm missing twenty keys and a lot of cash...                                                                                 |
+| LAW2B_P  | https://i.imgur.com/VTsE6jo.gif | Drugs, mate? It's a mug's game.                                                                                                            |
+| LAW2B_Q  | https://i.imgur.com/Bs7KsoQ.gif | What do you know about it?                                                                                                                 |
+| LAW2B_R  | https://i.imgur.com/lLi5tjm.gif | Oi oi! What I was coming to was,                                                                                                           |
+| LAW2B_S  | https://i.imgur.com/E1f0kh9.gif | there's some chef-cum-trumpetshifter who deals out kitchen of a hotel on Ocean Drive.                                                      |
+| LAW2B_T  | https://i.imgur.com/41cGfUV.gif | He's been looking real pleased with himself lately. You could go and check him out...?!                                                    |
+| LAW2B_U  | https://i.imgur.com/Ewe3OYq.gif | I will - and I'll be seeing you around.                                                                                                    |
+| LAW2B_V  | https://i.imgur.com/fhNTCbY.gif | Yeah, that's right. Go on - walk away, you mug. I'll knock you spark out!                                                                  |
+| LAW2B_W  | https://i.imgur.com/8gNbTSI.gif | Give me a drink - and where's that slut!                                                                                                   |
+| LAW2C_A  | https://i.imgur.com/aCI3ooB.gif | Oh, way to go, tough guy. Beat him to a pulp. That should make him real chatty.                                                            |
+| LAW2C_B  | https://i.imgur.com/b6F86nz.gif | You want some, too?                                                                                                                        |
+| LAW2C_C  | https://i.imgur.com/n1ExbFL.gif | Hey, chill. I want what you want, brother.                                                                                                 |
+| LAW2C_D  | https://i.imgur.com/1Phw5Mw.gif | Oh, yeah? And what's that?                                                                                                                 |
+| LAW2C_E  | https://i.imgur.com/VT7RBow.gif | Your green - and my dead brother's white lady. Unfortunately, you just silenced our lead.                                                  |
+| LAW2C_F  | https://i.imgur.com/4fYjGsw.gif | Accidents happen. Get lost.                                                                                                                |
+| LAW2C_G  | https://i.imgur.com/5qCFaGx.gif | Hey, hey, whoa. No need to go all 'Lone Ranger' on my ass.                                                                                 |
+| LAW2C_H  | https://i.imgur.com/AcZMye2.gif | The way I see it - we two hombres in a strange town. We need to watch each other's back.                                                   |
+| LAW2C_I  | https://i.imgur.com/Fowbt1R.gif | My back's just fine, brother...                                                                                                            |
+| LAW2C_J  | https://i.imgur.com/UoODdF5.gif | You sure about that? Here, take this.                                                                                                      |
+| LAW2C_K  | https://i.imgur.com/uRSTqRd.gif | Follow me!                                                                                                                                 |
+| LAW3_2   | https://i.imgur.com/sJhRCmz.gif | Remember, guilty is a dirty word.                                                                                                          |
+| LAW3_21  | https://i.imgur.com/vfNTnYB.gif | I can't believe this is happening!                                                                                                         |
+| LAW3_A   | https://i.imgur.com/mAJj5EM.gif | Aaah! Oh, for god's sake, it's you! Oh, Jeez - I'm gonna need new pants!                                                                   |
+| LAW3_B   | https://i.imgur.com/GahhfoE.gif | Hey, those psychos from up north - they've been on the horn, and they're coming down here soon.                                            |
+| LAW3_C   | https://i.imgur.com/WF2oo1u.gif | Now where is the goddamn money?!                                                                                                           |
+| LAW3_D   | https://i.imgur.com/GOGyuCO.gif | Relax, relax. We're not at that part yet.                                                                                                  |
+| LAW3_E   | https://i.imgur.com/VpgtK1J.gif | Ohhh... I thought that you were taking care of this, I really did!                                                                         |
+| LAW3_F   | https://i.imgur.com/IlRZX0n.gif | And now those guidos say we gotta do them a favor.                                                                                         |
+| LAW3_G   | https://i.imgur.com/vIZiRTW.gif | You mean I gotta do 'em a favor.                                                                                                           |
+| LAW3_H   | https://i.imgur.com/5o3Mq4e.gif | Oh, of course that's what I mean. Do I look like I can intimidate a jury?                                                                  |
+| LAW3_I   | https://i.imgur.com/VYDzZ2A.gif | I couldn't intimidate a child - and believe me, I've tried.                                                                                |
+| LAW3_J   | https://i.imgur.com/SiIrK8I.gif | Now, look. It's either that, or Forelli's cousin, Giorgio, gets five years for fraud.                                                      |
+| LAW3_K   | https://i.imgur.com/vb96tgI.gif | You gotta take these guys OUT!                                                                                                             |
+| LAW3_L   | https://i.imgur.com/fZoyQBb.gif | I understand. Help the jury change their minds. Don't worry about it.                                                                      |
+| LAW3_M   | https://i.imgur.com/octEwnQ.gif | No no no no no - NO! I tried that. The jury case didn't go so well,                                                                        |
+| LAW3_N   | https://i.imgur.com/BhhPGNp.gif | so MAKE them change their minds.                                                                                                           |
+| LAW4_1   | https://i.imgur.com/H6ALQCP.gif | Please disperse. The management will discuss any grievances in the appropriate manner!                                                     |
+| LAW4_2   | https://i.imgur.com/a3zlcw4.gif | Please disperse. Go back to your homes!                                                                                                    |
+| LAW4_5   | https://i.imgur.com/XYoUCfs.gif | Sticks out, boys! Let's crack some commie skulls!                                                                                          |
+| LAW4_A   | https://i.imgur.com/oPsKEKf.gif | Avery, it goes without saying... Tommy! Tommy! Any progress? No, no, no - tell me later, tell me later.                                    |
+| LAW4_B   | https://i.imgur.com/fzQxfzf.gif | Tommy, this is Avery Carrington - I believe you met at the party?                                                                          |
+| LAW4_C   | https://i.imgur.com/CPM7wTl.gif | Not in person.                                                                                                                             |
+| LAW4_D   | https://i.imgur.com/khMtfSA.gif | Howdy.                                                                                                                                     |
+| LAW4_E   | https://i.imgur.com/xWBrXHP.gif | Avery here has a proposition.                                                                                                              |
+| LAW4_F   | https://i.imgur.com/SNhj0qJ.gif | Haven't we got other things on our mind?                                                                                                   |
+| LAW4_G   | https://i.imgur.com/eNvwUa3.gif | I'm trying to keep the wolves from the door, so could you please cut me some slack?                                                        |
+| LAW4_H   | https://i.imgur.com/X88AUmO.gif | I'm stretched like a wire and even if I'm dead by the end of the week, I'd like to think that I didn't die poor.                           |
+| LAW4_I   | https://i.imgur.com/WJps2tv.gif | Now just calm down, both of you.                                                                                                           |
+| LAW4_J   | https://i.imgur.com/EjKNWMO.gif | Son, you help me and any greaseballs giving you a hard time, I'll see to it they take a long dirt nap.                                     |
+| LAW4_K   | https://i.imgur.com/pbqEk0A.gif | Ok. What could I do for ya'?                                                                                                               |
+| LAW4_L   | https://i.imgur.com/K7VOcTz.gif | This delivery company's got its depot on some prime land. They won't sell.                                                                 |
+| LAW4_M   | https://i.imgur.com/aCMmW5I.gif | They're hanging on like a big old prairie rat, so we gotta go in there and smoke that vermin out.                                          |
+| LAW4_N   | https://i.imgur.com/kvQfSOE.gif | Head on down there and stir up a hornet's nest                                                                                             |
+| LAW4_O   | https://i.imgur.com/e4ZGs4W.gif | - the security will have their hands full and then you can sneak in and put 'em out of business.                                           |
+| LAW4_P   | https://i.imgur.com/LA2WOQF.gif | And you could drop by Rafael's for a change of clothes. You might be there a while, but yeah, go for it.                                   |
+| LAW4_Q   | https://i.imgur.com/t9hF1hd.gif | Should be a riot.                                                                                                                          |
+| LAW4_R   | https://i.imgur.com/Zhd16DX.gif | If the balls drop like they should, stop by my office sometime...                                                                          |
+| LAWP_1   | https://i.imgur.com/y5vndc8.gif | Buenas noches.                                                                                                                             |
+| LAWP_2   | https://i.imgur.com/8WeJ2qT.gif | I understand you are here on the behalf of Mr. Rosenberg,                                                                                  |
+| LAWP_3   | https://i.imgur.com/ap070NI.gif | I hope any recent problems have not affected his health, or uh,                                                                            |
+| LAWP_4   | https://i.imgur.com/x18uqNn.gif | mental well being, Mr... uh?                                                                                                               |
+| LAWP_5   | https://i.imgur.com/VMsOVEb.gif | Vercetti. He's just got a touch of... agoraphobia.                                                                                         |
+| LAWP_6   | https://i.imgur.com/bR8D3qJ.gif | Excellent, excellent. And you?                                                                                                             |
+| LAWP_7   | https://i.imgur.com/1JSWzEa.gif | I just want my merchandise.                                                                                                                |
+| LAWP_8   | https://i.imgur.com/NDqVUa3.gif | Ah. It's an unfortunate set of circumstances for all involved.                                                                             |
+| LAWP_9   | https://i.imgur.com/SxjI2ZY.gif | Of course I have initiated my own lines of inquiry,                                                                                        |
+| LAWP_10  | https://i.imgur.com/d4wiSUp.gif | but such a delicate matter will take time.                                                                                                 |
+| LAWP_11  | https://i.imgur.com/e5sIBs1.gif | Perhaps we will talk later.                                                                                                                |
+| LAWP_12  | https://i.imgur.com/aRatPot.gif | Meanwhile, let me introduce you to my daughter,                                                                                            |
+| LAWP_13  | https://i.imgur.com/mEhcpep.gif | Mercedes!                                                                                                                                  |
+| LAWP_14  | https://i.imgur.com/GznsIxt.gif | Caramia, could you look after our guest while I attend to my necessary obligations?                                                        |
+| LAWP_15  | https://i.imgur.com/ivXLLjs.gif | Of course, daddy.                                                                                                                          |
+| LAWP_16  | https://i.imgur.com/rHOdEkU.gif | Please excuse me.                                                                                                                          |
+| LAWP_17  | https://i.imgur.com/hZn7bD9.gif | Mercedes!?                                                                                                                                 |
+| LAWP_18  | https://i.imgur.com/cBEpjbJ.gif | You try living with it.                                                                                                                    |
+| LAWP_19  | https://i.imgur.com/Jo82n0d.gif | Anyway, let me point out some of our more distinguished guests...                                                                          |
+| LAWP_20  | https://i.imgur.com/d63ahl3.gif | That's our congressman Alex Shrub with rising silicone star Candy Suxxx...                                                                 |
+| LAWP_21  | https://i.imgur.com/eRMHpBm.gif | And have you met my lovely wife Laura? No?                                                                                                 |
+| LAWP_22  | https://i.imgur.com/ALORlgu.gif | Well, unfortunately she's in Alabama. This is Candy.                                                                                       |
+| LAWP_23  | https://i.imgur.com/f100nGm.gif | And over there we have the Vice City Mambas' star tight end, BJ -                                                                          |
+| LAWP_24  | https://i.imgur.com/vFpe5Ve.gif | always the charmer.                                                                                                                        |
+| LAWP_25  | https://i.imgur.com/QDpJ6bt.gif | I blocked down on him and then I put him in a wheelchair!                                                                                  |
+| LAWP_26  | https://i.imgur.com/kc1tlpC.gif | Haha, that is good!                                                                                                                        |
+| LAWP_27  | https://i.imgur.com/nrJwnYH.gif | Well now, I'm looking at some prime real estate property.                                                                                  |
+| LAWP_28  | https://i.imgur.com/WX1loIV.gif | And that poolside amphibian is Jezz Torrent,                                                                                               |
+| LAWP_29  | https://i.imgur.com/1wAQXdW.gif | lead singer with Love Fist.                                                                                                                |
+| LAWP_30  | https://i.imgur.com/HOyFe7t.gif | Can I tell yous - do you know how they play ping-pong in Thailand?                                                                         |
+| LAWP_31  | https://i.imgur.com/mIuKAhX.gif | Let me tell you's,                                                                                                                         |
+| LAWP_32  | https://i.imgur.com/hwX87iy.gif | it does not involve a paddle, if you know what I mean!                                                                                     |
+| LAWP_33  | https://i.imgur.com/q2Z9Dlt.gif | Impotent.                                                                                                                                  |
+| LAWP_34  | https://i.imgur.com/BsDjwhn.gif | And the chatty trio.                                                                                                                       |
+| LAWP_35  | https://i.imgur.com/KRz9lk2.gif | That sleeping sweat gland is Papa's right hand gimp, Gonzalez                                                                              |
+| LAWP_36  | https://i.imgur.com/cQ4ExKE.gif | and the other two are Pastor Richards                                                                                                      |
+| LAWP_37  | https://i.imgur.com/73Ti0ak.gif | and pseudo intellectual film director, Steve Scott.                                                                                        |
+| LAWP_38  | https://i.imgur.com/xvFozyp.gif | ...passion with the nympho invaders,                                                                                                       |
+| LAWP_39  | https://i.imgur.com/0kBiWTx.gif | when the giant shark comes in and                                                                                                          |
+| LAWP_40  | https://i.imgur.com/lJV6teN.gif | just bites their dicks off!                                                                                                                |
+| LAWP_41  | https://i.imgur.com/fx5y4s7.gif | Ha now, you never saw anything like that before, have you?                                                                                 |
+| LAWP_42  | https://i.imgur.com/WWL4blO.gif | Colonel!                                                                                                                                   |
+| LAWP_43  | https://i.imgur.com/OhYxFls.gif | your parties as ever are a triumph, hahahaha!                                                                                              |
+| LAWP_44  | https://i.imgur.com/LqVUrX0.gif | I can only apologize for my late arrival.                                                                                                  |
+| LAWP_45  | https://i.imgur.com/JAfGZEK.gif | Ah, de nada amigo. How do we find you?                                                                                                     |
+| LAWP_46  | https://i.imgur.com/dmWUgRu.gif | Our business is very trying - barbarians at the gates.                                                                                     |
+| LAWP_47  | https://i.imgur.com/1n36qcq.gif | A time for rewarding one's friends and liquidating one's enemies, amigo.                                                                   |
+| LAWP_48  | https://i.imgur.com/x6uy2Uo.gif | Who's the loudmouth?                                                                                                                       |
+| LAWP_49  | https://i.imgur.com/f9ismHl.gif | Ricardo Diaz. He's Mr. Coke.                                                                                                               |
+| LAWP_51  | https://i.imgur.com/ukuUiNU.gif | Oh, I was just taking my friend back into town.                                                                                            |
+| LAWP_52  | https://i.imgur.com/UqXNzXc.gif | Another time, Ricardo!                                                                                                                     |
+| LAWP_53  | https://i.imgur.com/jRSB1Yn.gif | Let's get out of here.                                                                                                                     |
+| LAWP_54  | https://i.imgur.com/PXtt5RN.gif | Actually, take me to the Pole Position club.                                                                                               |
+| MERC_39  | https://i.imgur.com/khh4a3c.gif | I'll see you later, big boy.                                                                                                               |
+| MOB_01a  | https://i.imgur.com/gpzHVqg.gif |                                                                                                                                            |
+| MOB_01b  | https://i.imgur.com/5wxwCqK.gif |                                                                                                                                            |
+| MOB_01c  | https://i.imgur.com/XM8nDjE.gif |                                                                                                                                            |
+| MOB_02A  | https://i.imgur.com/IONtqoE.gif | Ssssnniiiiffffff Hey! Hello, Tommy? Tommy!                                                                                                 |
+| MOB_02B  | https://i.imgur.com/LSjNqY1.gif | We got a situation over at the Print Works. You better go and check it out.                                                                |
+| MOB_02C  | https://i.imgur.com/5W3QfG4.gif | Some kind of mess or other. Things are messed up. I gotta go.                                                                              |
+| MOB_04a  | https://i.imgur.com/aDCzmqq.gif |                                                                                                                                            |
+| MOB_04b  | https://i.imgur.com/ePbXyM3.gif |                                                                                                                                            |
+| MOB_04c  | https://i.imgur.com/XkAwZeN.gif |                                                                                                                                            |
+| MOB_04d  | https://i.imgur.com/LaIU6eB.gif |                                                                                                                                            |
+| MOB_05a  | https://i.imgur.com/PYnYtFY.gif |                                                                                                                                            |
+| MOB_05b  | https://i.imgur.com/i53sdew.gif |                                                                                                                                            |
+| MOB_05c  | https://i.imgur.com/OdBbX88.gif |                                                                                                                                            |
+| MOB_05d  | https://i.imgur.com/srWdf7w.gif |                                                                                                                                            |
+| MOB_06a  | https://i.imgur.com/Mlyir5L.gif |                                                                                                                                            |
+| MOB_06b  | https://i.imgur.com/JZzVP0D.gif |                                                                                                                                            |
+| MOB_06c  | https://i.imgur.com/sRRgqut.gif |                                                                                                                                            |
+| MOB_07A  | https://i.imgur.com/gz2933a.gif | Hey mate, the guys could do with some company, if you know what I mean...                                                                  |
+| MOB_07B  | https://i.imgur.com/XNZ00cl.gif | I know just the girl.                                                                                                                      |
+| MOB_09a  | https://i.imgur.com/Y0CGljp.gif |                                                                                                                                            |
+| MOB_09b  | https://i.imgur.com/fWnEuhB.gif |                                                                                                                                            |
+| MOB_09c  | https://i.imgur.com/vVIe6dc.gif |                                                                                                                                            |
+| MOB_09D  | https://i.imgur.com/H6yPooc.gif | Maybe Leo's already dead. Maybe I killed Leo and took his phone - you think of that prick?                                                 |
+| MOB_09e  | https://i.imgur.com/OP3TEuE.gif |                                                                                                                                            |
+| MOB_09f  | https://i.imgur.com/Qrdbe68.gif |                                                                                                                                            |
+| MOB_11a  | https://i.imgur.com/uKuC8Bx.gif |                                                                                                                                            |
+| MOB_11b  | https://i.imgur.com/fmx79pE.gif |                                                                                                                                            |
+| MOB_11c  | https://i.imgur.com/Lp07Qu7.gif |                                                                                                                                            |
+| MOB_11d  | https://i.imgur.com/BgvTQ9g.gif |                                                                                                                                            |
+| MOB_11e  | https://i.imgur.com/4zdR3VO.gif |                                                                                                                                            |
+| MOB_11f  | https://i.imgur.com/yRyMNEg.gif |                                                                                                                                            |
+| MOB_16B  | https://i.imgur.com/Nv2gE9P.gif | What do you want Paul? I don't want any fake label clothes.                                                                                |
+| MOB_16C  | https://i.imgur.com/8JU1xjY.gif | Very funny, mate, but you know I don't touch bent gear. Nah, I was just calling to see if I get a part in one your movies.                 |
+| MOB_16D  | https://i.imgur.com/hH04hfV.gif | Back in England I did a lot of blue stuff, mate. I'm packing more heat than you, my son.                                                   |
+| MOB_17A  | https://i.imgur.com/G1FLKP5.gif | Tommy Vercetti, how's it going, Mr. big shot? I hear all these things about you, some kind of player in town, now eh...                    |
+| MOB_17B  | https://i.imgur.com/GBm8zR8.gif | Paul, you're drunk.                                                                                                                        |
+| MOB_17C  | https://i.imgur.com/2EDx1hw.gif | Nah, you stupid prat, I ain't drunk. I only had a couple and some treats, ain't been to bed for a couple of days, you know.                |
+| MOB_17D  | https://i.imgur.com/iMqFLSx.gif | Anyway, don't give me that. I ain't a mug. Who set you up in this town? Who? Me. That's who.                                               |
+| MOB_17G  | https://i.imgur.com/fx33QC7.gif | Don't give me that. Don't! I introduced you to people. I showed you the ropes, did a lot of stuff for you, and this is how you repay me.   |
+| MOB_17H  | https://i.imgur.com/tcLg3Qz.gif | You ignore me. You won't give me a way in, after all I did for you! What do you think I am? A div or something?                            |
+| MOB_17I  | https://i.imgur.com/8snot8M.gif | Paul, take it easy. I've been busy, don't be an idiot.                                                                                     |
+| MOB_17J  | https://i.imgur.com/jp9Goc7.gif | I ain't no idiot, mush. That's what they said in borstal. Are you asking for trouble son, because you're going to get it!                  |
+| MOB_17K  | https://i.imgur.com/3N4QCJE.gif | Tommy, mate. Please. You was my big hope! Please, don't laugh at me!                                                                       |
+| MOB_17L  | https://i.imgur.com/XKS1gGg.gif | Paul, get some sleep, seriously.                                                                                                           |
+| MOB_18A  | https://i.imgur.com/OgEorZ6.gif | Tommy, it's Paulo, how are you? Right mate, anyway, thought I had to drop you a line.                                                      |
+| MOB_18B  | https://i.imgur.com/LWRoYwy.gif | Oh my good lord, my son, you will not believe the quality of the brass I just encountered.                                                 |
+| MOB_18C  | https://i.imgur.com/UsEhqKn.gif | Street walker or something, just down in Little Havana, mate.                                                                              |
+| MOB_18D  | https://i.imgur.com/ojj01gR.gif | Said her name was Mercedes or something.                                                                                                   |
+| MOB_18E  | https://i.imgur.com/QUQKlSb.gif | Oh my god, mate. You gotta check this bird out.                                                                                            |
+| MOB_18F  | https://i.imgur.com/cdVCAxJ.gif | Could strip the lead out of a pencil. Said I was the best she ever had and all.                                                            |
+| MOB_18G  | https://i.imgur.com/XtVy3s7.gif | Keep you potatoes skinned for her. Be seeing you.                                                                                          |
+| MOB_20a  | https://i.imgur.com/U6hTOjM.gif |                                                                                                                                            |
+| MOB_20b  | https://i.imgur.com/9i7MUUq.gif |                                                                                                                                            |
+| MOB_20c  | https://i.imgur.com/JFVlCgP.gif |                                                                                                                                            |
+| MOB_20d  | https://i.imgur.com/YbgkUXg.gif |                                                                                                                                            |
+| MOB_20e  | https://i.imgur.com/uK4UH0W.gif |                                                                                                                                            |
+| MOB_24a  | https://i.imgur.com/MGSZ1Jz.gif |                                                                                                                                            |
+| MOB_24c  | https://i.imgur.com/50jzu1l.gif |                                                                                                                                            |
+| MOB_24d  | https://i.imgur.com/xv2Neg8.gif |                                                                                                                                            |
+| MOB_24e  | https://i.imgur.com/JqoMvpw.gif |                                                                                                                                            |
+| MOB_24f  | https://i.imgur.com/GYwU2pe.gif |                                                                                                                                            |
+| MOB_24g  | https://i.imgur.com/41LB65V.gif |                                                                                                                                            |
+| MOB_24h  | https://i.imgur.com/xNCFAw7.gif |                                                                                                                                            |
+| MOB_25a  | https://i.imgur.com/zv1ilBj.gif |                                                                                                                                            |
+| MOB_25b  | https://i.imgur.com/FVM6gIO.gif |                                                                                                                                            |
+| MOB_25c  | https://i.imgur.com/Qs1ITxI.gif |                                                                                                                                            |
+| MOB_25d  | https://i.imgur.com/ASHrcG4.gif |                                                                                                                                            |
+| MOB_26a  | https://i.imgur.com/YPsqwJv.gif |                                                                                                                                            |
+| MOB_26b  | https://i.imgur.com/iURZSZH.gif |                                                                                                                                            |
+| MOB_26c  | https://i.imgur.com/7fmOZTn.gif |                                                                                                                                            |
+| MOB_26d  | https://i.imgur.com/t64iFtJ.gif |                                                                                                                                            |
+| MOB_26e  | https://i.imgur.com/Dk8099k.gif |                                                                                                                                            |
+| MOB_29d  | https://i.imgur.com/5EOR0l2.gif |                                                                                                                                            |
+| MOB_30a  | https://i.imgur.com/MVT5zKA.gif |                                                                                                                                            |
+| MOB_30b  | https://i.imgur.com/5oWVRPZ.gif |                                                                                                                                            |
+| MOB_30c  | https://i.imgur.com/G61PWhb.gif |                                                                                                                                            |
+| MOB_30d  | https://i.imgur.com/DfMPlmt.gif |                                                                                                                                            |
+| MOB_30e  | https://i.imgur.com/vMFzEyc.gif |                                                                                                                                            |
+| MOB_30f  | https://i.imgur.com/wIkTv6Q.gif |                                                                                                                                            |
+| MOB_33A  | https://i.imgur.com/XidJnmw.gif | Tommy, it's Phil, now cut out all the reminiscing crap and listen to me, you hear?                                                         |
+| MOB_33B  | https://i.imgur.com/wptiRuK.gif | Good. I got me some extra strength boomshine nearing fermentation time and I was wondering if you'd fancy having a shot.                   |
+| MOB_33C  | https://i.imgur.com/xd5kFRO.gif | Seriously, Tommy, if you like a drink, or if you need to strip paint, this stuff'll make a man out of you.                                 |
+| MOB_33D  | https://i.imgur.com/w63Kxh7.gif | Sure did out of me, even though I can't see out of one eye. I'll be waiting for you, y'hear.                                               |
+| MOB_34A  | https://i.imgur.com/3329XuP.gif | Tommy, I really enjoyed working with you. Ain't had so much fun since the ridge in Nam, pal.                                               |
+| MOB_34B  | https://i.imgur.com/vnLSPcw.gif | Anyhows, you need anything, you call on me, you hear?                                                                                      |
+| MOB_34C  | https://i.imgur.com/HVX7989.gif | I always remember those I served with,                                                                                                     |
+| MOB_34D  | https://i.imgur.com/musscGL.gif | and I am sure I can help you out, you hear?                                                                                                |
+| MOB_36A  | https://i.imgur.com/AKLN1ti.gif | Tommy, it's Phil, I want to thank you for helping me out back there son,                                                                   |
+| MOB_36B  | https://i.imgur.com/VPgwIXG.gif | Damn Charlie, he'll always ambush you somewhere or other,                                                                                  |
+| MOB_36C  | https://i.imgur.com/SlswRxN.gif | Anyway the wound is healing well, and it means I'll no longer be defrauding the government on my disability check.                         |
+| MOB_40a  | https://i.imgur.com/R9IdIkS.gif |                                                                                                                                            |
+| MOB_40b  | https://i.imgur.com/E2BUMWr.gif |                                                                                                                                            |
+| MOB_40c  | https://i.imgur.com/flL0MD5.gif |                                                                                                                                            |
+| MOB_40d  | https://i.imgur.com/pjctr6I.gif |                                                                                                                                            |
+| MOB_40e  | https://i.imgur.com/chv5l6p.gif |                                                                                                                                            |
+| MOB_40f  | https://i.imgur.com/tb8lNqd.gif |                                                                                                                                            |
+| MOB_40g  | https://i.imgur.com/4xIVtT2.gif |                                                                                                                                            |
+| MOB_40h  | https://i.imgur.com/aDLfPEy.gif |                                                                                                                                            |
+| MOB_40i  | https://i.imgur.com/H0sJeLo.gif |                                                                                                                                            |
+| MOB_41a  | https://i.imgur.com/1xkuQHi.gif |                                                                                                                                            |
+| MOB_41c  | https://i.imgur.com/uKg9nvG.gif |                                                                                                                                            |
+| MOB_41d  | https://i.imgur.com/I1e1kCC.gif |                                                                                                                                            |
+| MOB_41e  | https://i.imgur.com/1a4cdN6.gif |                                                                                                                                            |
+| MOB_41f  | https://i.imgur.com/cTYT20p.gif |                                                                                                                                            |
+| MOB_41g  | https://i.imgur.com/I849zLt.gif |                                                                                                                                            |
+| MOB_41h  | https://i.imgur.com/utEJn1N.gif |                                                                                                                                            |
+| MOB_42a  | https://i.imgur.com/Pl1UFuP.gif |                                                                                                                                            |
+| MOB_42b  | https://i.imgur.com/N2CwsmR.gif |                                                                                                                                            |
+| MOB_42c  | https://i.imgur.com/RYBiDFp.gif |                                                                                                                                            |
+| MOB_42d  | https://i.imgur.com/byMEZZF.gif |                                                                                                                                            |
+| MOB_42e  | https://i.imgur.com/4r6wdvI.gif |                                                                                                                                            |
+| MOB_43A  | https://i.imgur.com/j5drLVi.gif | Tommy, Tommy, Tommy, I had Sonny on the phone, ok, are you with me?.                                                                       |
+| MOB_43B  | https://i.imgur.com/P3Y3pCR.gif | I don't know about you, but there's something about a man threatening to murder my family                                                  |
+| MOB_43C  | https://i.imgur.com/r3lELGf.gif | which really scares the crap out of me. What are you going to do?                                                                          |
+| MOB_43D  | https://i.imgur.com/ZYpm14Z.gif | Ken, take it easy.                                                                                                                         |
+| MOB_43E  | https://i.imgur.com/hLXPesa.gif | I AM calm, calm as a man can be when he's fearing for his life!                                                                            |
+| MOB_43F  | https://i.imgur.com/wMlvfbJ.gif | Stay off the idiot fuel and look after yourself.                                                                                           |
+| MOB_43G  | https://i.imgur.com/V5Iglip.gif | No one's gonna take us out. I'll see you later.                                                                                            |
+| MOB_43H  | https://i.imgur.com/5k9Vjly.gif | I am calm. Don't I sound calm? Must be impending death that is doing this to my voice.                                                     |
+| MOB_47A  | https://i.imgur.com/LkbvWZV.gif | Tommy, it's Lance, we got big problems. Come down here right away.                                                                         |
+| MOB_62a  | https://i.imgur.com/mGoA3C2.gif |                                                                                                                                            |
+| MOB_62b  | https://i.imgur.com/I6uuFmx.gif |                                                                                                                                            |
+| MOB_62c  | https://i.imgur.com/MwBt8ZJ.gif |                                                                                                                                            |
+| MOB_62d  | https://i.imgur.com/IZP5Bk6.gif |                                                                                                                                            |
+| MOB_66a  | https://i.imgur.com/H9TzN0B.gif |                                                                                                                                            |
+| MOB_66b  | https://i.imgur.com/rdpqJAj.gif |                                                                                                                                            |
+| MOB_68a  | https://i.imgur.com/k0C2nYt.gif |                                                                                                                                            |
+| MOB_68b  | https://i.imgur.com/jNK2bwa.gif |                                                                                                                                            |
+| MOB_68c  | https://i.imgur.com/mt0zHoI.gif |                                                                                                                                            |
+| MOB_68d  | https://i.imgur.com/xDn1oiu.gif |                                                                                                                                            |
+| MOB_70a  | https://i.imgur.com/NY0FBNs.gif |                                                                                                                                            |
+| MOB_70b  | https://i.imgur.com/icL5pBC.gif |                                                                                                                                            |
+| MOB_72a  | https://i.imgur.com/11xUgam.gif |                                                                                                                                            |
+| MOB_72b  | https://i.imgur.com/5KhYQnT.gif |                                                                                                                                            |
+| MOB_72c  | https://i.imgur.com/QhOdkrV.gif |                                                                                                                                            |
+| MOB_72d  | https://i.imgur.com/swJoiuh.gif |                                                                                                                                            |
+| MOB_72e  | https://i.imgur.com/3206DBj.gif |                                                                                                                                            |
+| MOB_72f  | https://i.imgur.com/AuXOIg4.gif |                                                                                                                                            |
+| MOB_72g  | https://i.imgur.com/SoZ8GUn.gif |                                                                                                                                            |
+| MOB_95A  | https://i.imgur.com/RGvFeKo.gif | Get to the payphone in Little Havana.                                                                                                      |
+| MOB_96a  | https://i.imgur.com/3CuRKNH.gif |                                                                                                                                            |
+| MOB_98a  | https://i.imgur.com/RVpeyJe.gif |                                                                                                                                            |
+| MOB_99a  | https://i.imgur.com/LMfkZXf.gif |                                                                                                                                            |
+| MOB15_C  | https://i.imgur.com/QCU7AM9.gif | What are you talking about?                                                                                                                |
+| MOB16_A  | https://i.imgur.com/aSyqZYb.gif | Tommy, Paulo here, que pasa amigo?                                                                                                         |
+| MOB16_G  | https://i.imgur.com/JQKOFEe.gif | Paul, thanks for the offer, I'll bear it in mind.                                                                                          |
+| MOB16_H  | https://i.imgur.com/p3aBGhR.gif | Seriously, don't forget about me, after all I done for you.                                                                                |
+| MOB16_I  | https://i.imgur.com/PCnXamO.gif | That's what I'm trying to forget about.                                                                                                    |
+| MOB21_A  | https://i.imgur.com/FDB5f01.gif | Tommy, Thomas, it's Cortez. Que pasa?                                                                                                      |
+| MOB21_B  | https://i.imgur.com/fhgAKZu.gif | Things are interesting. How are you, my friend?                                                                                            |
+| MOB21_G  | https://i.imgur.com/XWWYNXF.gif | I wanted to ask you about Mercedes.                                                                                                        |
+| MOB21_H  | https://i.imgur.com/tS8TPaG.gif | Ok, what about her?                                                                                                                        |
+| MOB21_I  | https://i.imgur.com/CG32KwV.gif | Oh Tommy, Tommy. I, I hear these stories, all these stories - I don't know what to think.                                                  |
+| MOB21_K  | https://i.imgur.com/RFYlSux.gif | Maybe she thinks she can do what she likes, but Tommy, tell me, is it true?                                                                |
+| MOB21_M  | https://i.imgur.com/M36XhqW.gif | Is what true?                                                                                                                              |
+| MOB21_N  | https://i.imgur.com/tKo3J48.gif | These stories I hear. Is she really going to be a lawyer?                                                                                  |
+| MOB21_O  | https://i.imgur.com/kadliy1.gif | Oh Tommy, the shame, the shame! You know, we Cortez's are a proud family.                                                                  |
+| MOB21_P  | https://i.imgur.com/Z7qsFY8.gif | We would never allow a daughter of ours to become a lawyer. Please tell me it isn't so. I don't think I could take it.                     |
+| MOB21_Q  | https://i.imgur.com/AcZcrkr.gif | Oh Colonel, I can assure you Mercedes is never going to become a lawyer. Don't worry about it.                                             |
+| MOB21_R  | https://i.imgur.com/vWBRiWg.gif | Oh thank you, Tommy. Tommy, thank you. The shame would be unbearable.                                                                      |
+| MOB21_T  | https://i.imgur.com/OgGx3XI.gif | Anyway, Tommy, you must excuse me, the new minister of the interior has arrived.                                                           |
+| MOB21_U  | https://i.imgur.com/Qz7XfpU.gif | Many years ago, I killed his father in a failed coup so I must be polite. Good day, amigo.                                                 |
+| MOB45_A  | https://i.imgur.com/WG0Dsy2.gif | Tommy we gotta talk about stuff.                                                                                                           |
+| MOB45_B  | https://i.imgur.com/zxoLpIL.gif | What's the problem Lance?                                                                                                                  |
+| MOB45_C  | https://i.imgur.com/nLR8The.gif | It's you, my friend, I feel you're not giving me a fair slice.                                                                             |
+| MOB45_D  | https://i.imgur.com/jTWxAIK.gif | And more than that, you been embarrassing me in front of the boys. I can't have that.                                                      |
+| MOB45_E  | https://i.imgur.com/LW1WZo0.gif | Lance, it ain't like that. You've been making mistakes.                                                                                    |
+| MOB45_F  | https://i.imgur.com/f9X0wNg.gif | Tommy, I'm not your message boy. I'm not your running boy.                                                                                 |
+| MOB45_G  | https://i.imgur.com/A6Ttnzq.gif | Lance, don't screw up, and we won't have any problems. I screw up, you can lay into me any time.                                           |
+| MOB45_H  | https://i.imgur.com/voEf0MY.gif | Tommy, I've done everything for you, you treat me like a fool. Don't do that.                                                              |
+| MOB45_I  | https://i.imgur.com/r21AIFj.gif | Lance, I won't rip you off or stab you in the back, okay? Just take it easy.                                                               |
+| MOB45_J  | https://i.imgur.com/EppKLUq.gif | This is tough enough without you getting all emotional on me.                                                                              |
+| MOB45_K  | https://i.imgur.com/Qg81FaC.gif | Trust me. Do you hear me, do you hear me?                                                                                                  |
+| MOB45_L  | https://i.imgur.com/PnicUtc.gif | I hear you, Tommy, but I can't take this much more.                                                                                        |
+| MOB45_M  | https://i.imgur.com/UfGyQLF.gif | Lance, don't be like this. Now I'm warning you. Do you hear me?                                                                            |
+| MOB45_N  | https://i.imgur.com/tyLakit.gif | Just relax, take a few days off. Okay? I'll talk to you.                                                                                   |
+| MOB46_A  | https://i.imgur.com/mmI1CYm.gif | Yo, Tommy! It's Lance.                                                                                                                     |
+| MOB46_C  | https://i.imgur.com/MCR6HB3.gif | Oh, nice to hear from you, Lance. Come on, man, be cool, be cool.                                                                          |
+| MOB46_D  | https://i.imgur.com/fzEaW9V.gif | I'm in the middle of something. What do you want?                                                                                          |
+| MOB46_E  | https://i.imgur.com/e15t165.gif | Nothing. Just to say, you know. Look Tommy, we can do this thing.                                                                          |
+| MOB46_F  | https://i.imgur.com/RZqwavx.gif | You and me, no problem. You know what I mean?                                                                                              |
+| MOB46_G  | https://i.imgur.com/0XrLv9B.gif | We're going to have to do it, 'cause otherwise, we're going to be dead, Lance.                                                             |
+| MOB46_H  | https://i.imgur.com/gYhOokN.gif | We're in too far now. But thanks for the call. I'll speak to you later.                                                                    |
+| MOB52_A  | https://i.imgur.com/5TO3khm.gif | Hey Leo, I think we got a buyer for Diaz's merchandise.                                                                                    |
+| MOB52_B  | https://i.imgur.com/baHoU3Q.gif | You gotta give him a ring, man, set up the deal, you know?                                                                                 |
+| MOB52_C  | https://i.imgur.com/Mf8XH0n.gif | Where are you now?                                                                                                                         |
+| MOB52_D  | https://i.imgur.com/z6wcS6U.gif | You ok Leo? You sound kinda different.                                                                                                     |
+| MOB52_E  | https://i.imgur.com/PvS380N.gif | Just tell me where you are.                                                                                                                |
+| MOB52_F  | https://i.imgur.com/Mzh5nyR.gif | Who the hell is this? Put Leo on, man!                                                                                                     |
+| MOB52_G  | https://i.imgur.com/402YgqC.gif | Leo's gone away for a while, he left me in charge.                                                                                         |
+| MOB52_H  | https://i.imgur.com/qGFeogO.gif | Screw you, man!                                                                                                                            |
+| MOB58_B  | https://i.imgur.com/ENx6nLE.gif | Hey Mercedes.                                                                                                                              |
+| PHI2_05  | https://i.imgur.com/QvXNE24.gif | Not the hospital, man! Too many cops and Viet Cong!                                                                                        |
+| PHI2_06  | https://i.imgur.com/ekWPO2u.gif | There's an ex-army surgeon owes me a few favors and a lawnmower.                                                                           |
+| PHI2_07  | https://i.imgur.com/f1cWjqn.gif | He's got a place down Little Havana - ooo look, a giant fish.                                                                              |
+| PHI2_08  | https://i.imgur.com/FBbALEJ.gif | Watch out! Charlie in the tree line!                                                                                                       |
+| PHI2_09  | https://i.imgur.com/69tuWAS.gif | Is it me or are the roads made of jelly?                                                                                                   |
+| PHI2_10  | https://i.imgur.com/u9TpHD5.gif | Broken Spoon to Mother Hen, you copy?                                                                                                      |
+| PHI2_15  | https://i.imgur.com/HPnopfj.gif | 10-4 we've got a drunk driver.                                                                                                             |
+| PHIL1_A  | https://i.imgur.com/D5lhtlt.gif | Phil?                                                                                                                                      |
+| PHIL1_D  | https://i.imgur.com/yV2XGOb.gif | Never get a naked flame too close to one of Phil Cassidy's Boomshine stills!                                                               |
+| PHIL1_E  | https://i.imgur.com/dNhB5Qz.gif | Shit Phil, you drink that stuff?                                                                                                           |
+| PHIL1_F  | https://i.imgur.com/cMjNUWD.gif | Hell, you don't have to drink it                                                                                                           |
+| PHIL1_G  | https://i.imgur.com/WsCWqk5.gif | - just a good whiff will set you off. Hoowwee!                                                                                             |
+| PHIL1_H  | https://i.imgur.com/otuOeWO.gif | Listen Phil, you said you could fix me up with some firepower...                                                                           |
+| PHIL1_I  | https://i.imgur.com/huIl9Im.gif | Sure thing.                                                                                                                                |
+| PHIL1_J  | https://i.imgur.com/UbV1XEx.gif | There's some Mexican gun-runner been doing me for business of late.                                                                        |
+| PHIL1_K  | https://i.imgur.com/AwEYjQL.gif | He does his weekly run about now.                                                                                                          |
+| PHIL1_L  | https://i.imgur.com/lcDbyIG.gif | Ram his hardware off the back of his trucks before he goes to ground.                                                                      |
+| PHIL1_M  | https://i.imgur.com/psJTpdH.gif | And you'd be doing me a favor while you're at it.                                                                                          |
+| PHIL1_N  | https://i.imgur.com/xCjTFBl.gif | Then finish him off.                                                                                                                       |
+| PHIL1_O  | https://i.imgur.com/PG7IYLb.gif | Hoooooweeeeee!                                                                                                                             |
+| PHIL2_A  | https://i.imgur.com/NAgLfpo.gif | Hey Phil, how's it goin?                                                                                                                   |
+| PHIL2_B  | https://i.imgur.com/Kdrgvlc.gif | Heeyyyy, Tommy. Howyadoin'? Ish been too long...                                                                                           |
+| PHIL2_C  | https://i.imgur.com/LO0qzmo.gif | I swear you should lay off that boomshine, man -                                                                                           |
+| PHIL2_D  | https://i.imgur.com/GXtgp8g.gif | smells like paint stripper. Making my eyes burn...                                                                                         |
+| PHIL2_E  | https://i.imgur.com/vR7Y46D.gif | Shshs shhh youshelf Tommy,                                                                                                                 |
+| PHIL2_F  | https://i.imgur.com/um3WX9r.gif | and come over here because there's someshin' I wanna show you... someshin.                                                                 |
+| PHIL2_G  | https://i.imgur.com/IMnbOrL.gif | Woof! God! Should I be able to smell that from way over here? I'm feeling woozy.                                                           |
+| PHIL2_H  | https://i.imgur.com/6bT0xj8.gif | Don'tchaworry about the shmell Tommy, you jush wash thish.                                                                                 |
+| PHIL2_I  | https://i.imgur.com/LNOgWn5.gif | Shittycheapbatteriesh or shumin'. There'sh shum more on the bench.                                                                         |
+| PHIL2_J  | https://i.imgur.com/kTDJlXV.gif | TA-DAAA!                                                                                                                                   |
+| PHIL2_K  | https://i.imgur.com/x34z5VR.gif | Aww Damn!                                                                                                                                  |
+| POR1_04  | https://i.imgur.com/oUvMtTc.gif | Yo, Candy. I'm looking for movie talent - you interested?                                                                                  |
+| POR1_05  | https://i.imgur.com/dsChCIV.gif | Sure! But, you'd have to talk to my agent...                                                                                               |
+| POR1_06  | https://i.imgur.com/9sJ8ohc.gif | The HELL are you doin'?                                                                                                                    |
+| POR1_07  | https://i.imgur.com/YbFiwm1.gif | You should have stayed at home today!                                                                                                      |
+| POR1_7b  | https://i.imgur.com/oPjtWLY.gif |                                                                                                                                            |
+| POR1_09  | https://i.imgur.com/52LAw2k.gif | Hey Tommy! You wanna party?                                                                                                                |
+| POR1_10  | https://i.imgur.com/jceRLyq.gif | Not now sweets. You interested in doing some movies?                                                                                       |
+| POR1_11  | https://i.imgur.com/EgnVB6H.gif | Of course. As long as it's cheap and sleazy.                                                                                               |
+| POR1_14  | https://i.imgur.com/hk6tzt6.gif | Heh heh - you're hired!                                                                                                                    |
+| POR1_15  | https://i.imgur.com/NmAyiaA.gif | Tommy, you coming in for a warm-up?                                                                                                        |
+| POR1_16  | https://i.imgur.com/0buKUhZ.gif | Maybe later, babe...                                                                                                                       |
+| POR1_17  | https://i.imgur.com/KBJfR2n.gif | Whoa, cool shark!                                                                                                                          |
+| POR1_19  | https://i.imgur.com/Ed9e3RG.gif | Hey!                                                                                                                                       |
+| POR1_27  | https://i.imgur.com/FyYsBlW.gif | Come on, let's go.                                                                                                                         |
+| POR1_A   | https://i.imgur.com/Ugd1sRi.gif | Action.                                                                                                                                    |
+| POR1_B   | https://i.imgur.com/3cirxZv.gif | Whoa! Now that's big.                                                                                                                      |
+| POR1_C   | https://i.imgur.com/S8nXf5G.gif | 12 inches. That is regulation baby.                                                                                                        |
+| POR1_D   | https://i.imgur.com/nHB6ZwP.gif | CUT! Who IS this idiot? You! YOU! Why are you in my space? WHY?                                                                            |
+| POR1_E   | https://i.imgur.com/QEc4lfs.gif | What is all this crap?                                                                                                                     |
+| POR1_F   | https://i.imgur.com/NmNjPCD.gif | Aliens? Fishing poles?                                                                                                                     |
+| POR1_G   | https://i.imgur.com/RC8D21l.gif | Who's ever seen a shark that big?                                                                                                          |
+| POR1_H   | https://i.imgur.com/PAfOukD.gif | All this stuff's gotta go.                                                                                                                 |
+| POR1_I   | https://i.imgur.com/CGGIkmX.gif | Why'd you get in this business, ya prick?                                                                                                  |
+| POR1_J   | https://i.imgur.com/AKtaDHy.gif | Huh?                                                                                                                                       |
+| POR1_K   | https://i.imgur.com/2CjEtfR.gif | For the pussy, that's why! What is this??                                                                                                  |
+| POR1_L   | https://i.imgur.com/9xV7CBx.gif | This is my art - SECURITY!                                                                                                                 |
+| POR1_M   | https://i.imgur.com/sv6KOHb.gif | Look, you pompous asshole, I own you now. I own all of this.                                                                               |
+| POR1_N   | https://i.imgur.com/tnIKA3n.gif | We're gonna turn this place around...                                                                                                      |
+| POR1_O   | https://i.imgur.com/vFZ0EBI.gif | I'm gonna make you rich.                                                                                                                   |
+| POR1_P   | https://i.imgur.com/2zDke48.gif | Uh. You're - You - you're Tommy Vercetti? But I thought that you were...                                                                   |
+| POR1_Q   | https://i.imgur.com/UR6kOih.gif | That's right.                                                                                                                              |
+| POR1_R   | https://i.imgur.com/hUJ1vVy.gif | We're gonna be making some changes around here and start making some real money.                                                           |
+| POR1_S   | https://i.imgur.com/lFPyjxK.gif | Actually, have you ever thought about, umm...                                                                                              |
+| POR1_T   | https://i.imgur.com/5dyNzas.gif | But first we're going to need some good-looking broads.                                                                                    |
+| POR1_U   | https://i.imgur.com/I7vnXcK.gif | Yeh, girls are fine but you... Whew!                                                                                                       |
+| POR2_A   | https://i.imgur.com/e3wJuZX.gif | How's filming going, Steve?                                                                                                                |
+| POR2_B   | https://i.imgur.com/1HfIVgg.gif | Well, Candy is a natural and that new girl - she's insatiable!                                                                             |
+| POR2_C   | https://i.imgur.com/DTcodkS.gif | She went through half the cast and crew before I even took a light reading.                                                                |
+| POR2_D   | https://i.imgur.com/NOER2X8.gif | Anyway, hey, tomorrow we're going on location to shoot the boat scenes -                                                                   |
+| POR2_E   | https://i.imgur.com/WwARPlm.gif | Boat scenes?! What boat scenes?                                                                                                            |
+| POR2_F   | https://i.imgur.com/sfPCoES.gif | The fishermen are in the throes of passion when this giant shark comes in -                                                                |
+| POR2_G   | https://i.imgur.com/tu9M2X9.gif | What'd I say about the giant shark?                                                                                                        |
+| POR2_H   | https://i.imgur.com/HZS0ZlR.gif | I said, 'NO GIANT SHARK', alright?                                                                                                         |
+| POR2_I   | https://i.imgur.com/O9EpMpJ.gif | Just keep the cameras pointed at the poontang!                                                                                             |
+| POR2_J   | https://i.imgur.com/0XfN3go.gif | Ok ok, hey Tommy, a guy's gotta try, right?                                                                                                |
+| POR2_K   | https://i.imgur.com/kFE4qnQ.gif | Get those flyers printed up?                                                                                                               |
+| POR2_L   | https://i.imgur.com/jzZwVDW.gif | Yeah, but nobody's gonna let us distribute those things, I mean                                                                            |
+| POR2_M   | https://i.imgur.com/iDx7nd6.gif | They're just too, uh, they're unimaginative.                                                                                               |
+| POR2_N   | https://i.imgur.com/9lUlHIZ.gif | You don't worry about that.                                                                                                                |
+| POR2_O   | https://i.imgur.com/ILbrZcg.gif | I've got my own ideas for distribution.                                                                                                    |
+| POR2_P   | https://i.imgur.com/EnvRqhv.gif | O.K. Hey, Candy, uh - in my trailer.                                                                                                       |
+| POR2_Q   | https://i.imgur.com/zC6oxJG.gif | Oh, boy.                                                                                                                                   |
+| POR3_04  | https://i.imgur.com/cTl1bN9.gif | Uh, Candy, could you call me Martha?                                                                                                       |
+| POR3_05  | https://i.imgur.com/tyxQLdg.gif | Oh Alex - I mean Martha. Whatever you say...                                                                                               |
+| POR3_06  | https://i.imgur.com/Gd8htEp.gif | Martha, someone's watching... how kinky.                                                                                                   |
+| POR3_07  | https://i.imgur.com/t6pUyvr.gif | You! Give me that camera!                                                                                                                  |
+| POR3_A   | https://i.imgur.com/7I7mPlF.gif | Ok, what's the problem now?                                                                                                                |
+| POR3_B   | https://i.imgur.com/f36QWwy.gif | SSShhhh!                                                                                                                                   |
+| POR3_C   | https://i.imgur.com/zeJWTH4.gif | Well, after his close encounter with the nympho-invaders,                                                                                  |
+| POR3_D   | https://i.imgur.com/prIIIPJ.gif | our hero finds himself unable to think of anything but this huge phallic mountain -                                                        |
+| POR3_E   | https://i.imgur.com/8595pHb.gif | and that's when I want to do the scene with the vat of mashed potatoes, but then we, uh -                                                  |
+| POR3_F   | https://i.imgur.com/RJkTcwl.gif | I don't give a crap about that!                                                                                                            |
+| POR3_G   | https://i.imgur.com/e0AthBd.gif | J - Just keep going, keep going!                                                                                                           |
+| POR3_I   | https://i.imgur.com/HvcZpNf.gif | You mentioned something about some legal problem on the phone?                                                                             |
+| POR3_J   | https://i.imgur.com/m6uDFdG.gif | Congressman Alex Shrub has jumped on the pre-election bandwagon, he's going after the puritan vote.                                        |
+| POR3_K   | https://i.imgur.com/v2fpVfm.gif | Rumors are he's gonna support measures to restrict, shall we say,                                                                          |
+| POR3_L   | https://i.imgur.com/Qw0bOAc.gif | the more fleshy aspects of this nation's great entertainment industry.                                                                     |
+| POR3_M   | https://i.imgur.com/Ask2YyP.gif | Great.                                                                                                                                     |
+| POR3_N   | https://i.imgur.com/ePSM1NW.gif | Candy! You know Shrub,                                                                                                                     |
+| POR3_O   | https://i.imgur.com/VwJS9y0.gif | you guys get up to anything kinky?                                                                                                         |
+| POR3_P   | https://i.imgur.com/geN3cNg.gif | Oh yeah, oh yeah, oh yeah! Yes yes yes YES OOOoooh!                                                                                        |
+| POR3_Q   | https://i.imgur.com/K3mp8rM.gif | Please - tell me you got that.                                                                                                             |
+| POR3_R   | https://i.imgur.com/d5crEVx.gif | Was that part of the, uh... or was she talking to..?                                                                                       |
+| POR3_S   | https://i.imgur.com/hkxJMFV.gif | Hey, I can never tell. Anyway...                                                                                                           |
+| POR3_T   | https://i.imgur.com/2riYuTr.gif | You're probably best following her after the shoot,                                                                                        |
+| POR3_U   | https://i.imgur.com/4NB43Hq.gif | see if she'll lead you to their new love nest.                                                                                             |
+| POR3_V   | https://i.imgur.com/07rwM0E.gif | You got a camera?                                                                                                                          |
+| POR3_X   | https://i.imgur.com/Ei8Bm8o.gif | Yeah. Get him a camera.                                                                                                                    |
+| POR4_A   | https://i.imgur.com/qITnuhM.gif | I'm sorry, but I just can't swallow this right now.                                                                                        |
+| POR4_B   | https://i.imgur.com/A8aHkWz.gif | Oh COME ON darling!                                                                                                                        |
+| POR4_C   | https://i.imgur.com/yc325af.gif | He's hung like a sperm whale for pity's sake,                                                                                              |
+| POR4_D   | https://i.imgur.com/wg5A81i.gif | how can you not feel the part?!                                                                                                            |
+| POR4_E   | https://i.imgur.com/IWl14XP.gif | But Stevie...                                                                                                                              |
+| POR4_F   | https://i.imgur.com/aaqvH2q.gif | How's my star director?                                                                                                                    |
+| POR4_G   | https://i.imgur.com/t6QLD8J.gif | Oh, man. The struggle between the artistic integrity and                                                                                   |
+| POR4_H   | https://i.imgur.com/HV66HBU.gif | the humping, pumping action continues unabated.                                                                                            |
+| POR4_I   | https://i.imgur.com/cvGnY0a.gif | And before you ask, yes, all four videos will be released by their...                                                                      |
+| POR4_J   | https://i.imgur.com/kRKxXQp.gif | Honey, can you PLEASE keep the anaconda in the shot,                                                                                       |
+| POR4_K   | https://i.imgur.com/8SSGj73.gif | he costs more per hour than you do!                                                                                                        |
+| POR4_L   | https://i.imgur.com/AAVftG4.gif | Oh, sorry Steve.                                                                                                                           |
+| POR4_M   | https://i.imgur.com/JBumIt8.gif | I was thinking, we need some kind of big stunt to really promote the launch.                                                               |
+| POR4_N   | https://i.imgur.com/Md8wlMJ.gif | Something that will make a real impact on the City - you got any ideas?                                                                    |
+| POR4_O   | https://i.imgur.com/fzvMspk.gif | Well, in the old days they used to have gala events,                                                                                       |
+| POR4_P   | https://i.imgur.com/hj1MVWD.gif | stars, limos, the night sky crisscrossed with searchlights...                                                                              |
+| POR4_Q   | https://i.imgur.com/g2HetyZ.gif | Searchlights! I've got an idea...                                                                                                          |
+| POR4_R   | https://i.imgur.com/fNbr7a1.gif | ...yeah, yeah, yeah. The little sequined numbers, and the limos, oh, premieres                                                             |
+| POR4_S   | https://i.imgur.com/wBWTOya.gif | Oh, yes ma'am, of course ma'am,                                                                                                            |
+| POR4_T   | https://i.imgur.com/5thpHrV.gif | and the press, and the barrage of lights...                                                                                                |
+| PRO1_04  | https://i.imgur.com/Jw4hYqs.gif | My livelihood, destroyed!                                                                                                                  |
+| PRO1_09  | https://i.imgur.com/wcEok3p.gif | Vercetti. Remember the name.                                                                                                               |
+| PRO1_A   | https://i.imgur.com/FpBVeUO.gif | Oh, we gotta redecorate this place. We gotta make it look older.                                                                           |
+| PRO1_B   | https://i.imgur.com/pwOK3lo.gif | I can't stand this look. Tommy, whadaya say? Whadaya say we put a bar in...                                                                |
+| PRO1_C   | https://i.imgur.com/kd8z2qo.gif | You're my lawyer, Rosenberg, not my interior decorator. Got it?                                                                            |
+| PRO1_D   | https://i.imgur.com/Bizr51N.gif | Listen to me.                                                                                                                              |
+| PRO1_E   | https://i.imgur.com/yGLNYTJ.gif | The time to take over this town is now. It's all out there waiting for us.                                                                 |
+| PRO1_F   | https://i.imgur.com/fhoqUzQ.gif | We need to start seizing territory,                                                                                                        |
+| PRO1_G   | https://i.imgur.com/4ZEupbS.gif | let Vice City know we're the new players in town, get what I'm saying?                                                                     |
+| PRO1_I   | https://i.imgur.com/ze30xq6.gif | What you need is a legitimate front Tommy, real estate. It's never done me no harm.                                                        |
+| PRO1_J   | https://i.imgur.com/MXklY16.gif | We need to start using some muscle or we can kiss all that hard work goodbye.                                                              |
+| PRO1_K   | https://i.imgur.com/J38oelr.gif | Local businesses know Diaz is dead, and they're refusing to pay protection!                                                                |
+| PRO1_L   | https://i.imgur.com/ViNn6Wq.gif | Ooh! We could try bribery...                                                                                                               |
+| PRO1_M   | https://i.imgur.com/ucodOF9.gif | Bribery? Screw bribery! I'll show you how to make 'em scared!                                                                              |
+| PRO1_N   | https://i.imgur.com/68Wdp9k.gif | I'll be back here in five minutes...                                                                                                       |
+| PRO2_02  | https://i.imgur.com/OSbVQly.gif | Your protection needs a little more protection.                                                                                            |
+| PRO2_03  | https://i.imgur.com/AUs0rDA.gif | Aw hell, not again! I don't need this crap!                                                                                                |
+| PRO2_04  | https://i.imgur.com/5h7L6As.gif | These idiots operate out of DBP Security around the block.                                                                                 |
+| PRO2_05  | https://i.imgur.com/kc4CxQD.gif | You guys just sort it out amongst yourselves.                                                                                              |
+| PRO2_06  | https://i.imgur.com/Cql3oVw.gif | I'll be seeing you later.                                                                                                                  |
+| PRO2_07  | https://i.imgur.com/pTKNwqy.gif | Yeah, yeah, whatever.                                                                                                                      |
+| PRO2_A   | https://i.imgur.com/bMINnwB.gif | What's the problem?                                                                                                                        |
+| PRO2_B   | https://i.imgur.com/1QDzitu.gif | Some bar is refusing to pay.                                                                                                               |
+| PRO2_C   | https://i.imgur.com/INgMygO.gif | They reckon they're protected by a local gang of thugs.                                                                                    |
+| PRO2_D   | https://i.imgur.com/XxLtHtx.gif | But don't worry Tommy, I can handle it.                                                                                                    |
+| PRO2_E   | https://i.imgur.com/siVlY0w.gif | You call this handling it?                                                                                                                 |
+| PRO2_F   | https://i.imgur.com/698Orx9.gif | You two, off your asses...                                                                                                                 |
+| PRO2_G   | https://i.imgur.com/LrZfH1X.gif | Let's go.                                                                                                                                  |
+| PRO3_01  | https://i.imgur.com/yAw7afB.gif | Ok Lance, let's get the cops' attention!                                                                                                   |
+| PRO3_09  | https://i.imgur.com/P1BQkiO.gif | Tie 'em up and gag 'em!                                                                                                                    |
+| PRO3_10  | https://i.imgur.com/nw5Nz73.gif | Ooo. Fits perfectly!                                                                                                                       |
+| PRO3_11  | https://i.imgur.com/zdgZikk.gif | Bit tight around the crotch though...                                                                                                      |
+| PRO3_12  | https://i.imgur.com/a1GH2yc.gif | Oh yeah yeah, mine too. Mine too.                                                                                                          |
+| PRO3_13  | https://i.imgur.com/cajuN4D.gif | Easy brother! No cop drives this bad!                                                                                                      |
+| PRO3_14  | https://i.imgur.com/IiR0KRn.gif | Remember - smile at the other cops                                                                                                         |
+| PRO3_15  | https://i.imgur.com/DpwyG5h.gif | Hey there officer. Nice badge, nice badge.                                                                                                 |
+| PRO3_16  | https://i.imgur.com/InaMsw8.gif | Real smooth, Lance.                                                                                                                        |
+| PRO3_17  | https://i.imgur.com/Uet1aNQ.gif | Ok, timers are set, 5 seconds and ticking.                                                                                                 |
+| PRO3_18  | https://i.imgur.com/Cqk5ULX.gif | 5 seconds?! We got to get the hell out of here!                                                                                            |
+| PRO3_19  | https://i.imgur.com/WLWAV8i.gif | Now that got them really irritated.                                                                                                        |
+| PRO3_A   | https://i.imgur.com/3oCLZZ0.gif | You moron! What were you thinking?!                                                                                                        |
+| PRO3_A1  | https://i.imgur.com/Y3jf0lq.gif | Alright.                                                                                                                                   |
+| PRO3_B   | https://i.imgur.com/wjn2N9N.gif | Do you realize what this means?!                                                                                                           |
+| PRO3_C   | https://i.imgur.com/0SLVpoL.gif | We could all be sunk!                                                                                                                      |
+| PRO3_D   | https://i.imgur.com/sJRJGoa.gif | The timer must have got screwed.                                                                                                           |
+| PRO3_E   | https://i.imgur.com/nTFUiiY.gif | That place was wired to go up like a firework factory.                                                                                     |
+| PRO3_F   | https://i.imgur.com/7nl5TEx.gif | Then somebody tipped off the cops...                                                                                                       |
+| PRO3_G   | https://i.imgur.com/sDP32jv.gif | What's the problem, fellas?                                                                                                                |
+| PRO3_H   | https://i.imgur.com/qv5aR78.gif | Mike was supposed to torch some place in the mall,                                                                                         |
+| PRO3_I   | https://i.imgur.com/7986BVE.gif | but he screwed the fuses and now the cops are crawling all over it.                                                                        |
+| PRO3_J   | https://i.imgur.com/tpXrlYL.gif | We gotta get our stuff and get out of here!                                                                                                |
+| PRO3_K   | https://i.imgur.com/UNGqNKJ.gif | Relax, both of you, let me think for a second!                                                                                             |
+| PRO3_L   | https://i.imgur.com/WiFkCSO.gif | Tommy Vercetti just doesn't cut and run.                                                                                                   |
+| PRO3_M   | https://i.imgur.com/P64Zxyq.gif | The cops are gonna be going over that building with a fine toothed comb, right?                                                            |
+| PRO3_N   | https://i.imgur.com/5IoGlCg.gif | But that takes time.                                                                                                                       |
+| PRO3_O   | https://i.imgur.com/sHKJYub.gif | We gotta go in and torch that place ourselves.                                                                                             |
+| PRO3_P   | https://i.imgur.com/KpJ1rb7.gif | Yeah, but...                                                                                                                               |
+| PRO3_Q   | https://i.imgur.com/gZddidq.gif | No one but a cop could get within a mile of that place!                                                                                    |
+| PRO3_R   | https://i.imgur.com/Q09jJcB.gif | So we go as cops.                                                                                                                          |
+| PRO3_S   | https://i.imgur.com/Y1IOZcK.gif | We gotta get uniforms - and we're gonna need a squad car.                                                                                  |
+| PRO3_T   | https://i.imgur.com/sKCuDTg.gif | All thanks to you Mike.                                                                                                                    |
+| PRO3_U   | https://i.imgur.com/eUw14Ol.gif | I'm sorry.                                                                                                                                 |
+| PRO3_V   | https://i.imgur.com/Yu2cUKk.gif | I got it.                                                                                                                                  |
+| PRO3_W   | https://i.imgur.com/g00J8tM.gif | What we got to do is lure the cops in with the finger,                                                                                     |
+| PRO3_X   | https://i.imgur.com/dJtiOzA.gif | put them in a lock-up                                                                                                                      |
+| PRO3_Y   | https://i.imgur.com/jK6viqL.gif | and jump 'em.                                                                                                                              |
+| PRO3_Z   | https://i.imgur.com/URMbTl7.gif | Good plan. Let's go!                                                                                                                       |
+| PSYCH_1  | https://i.imgur.com/fraOgcO.gif | I'll see Love Fist burn!                                                                                                                   |
+| PSYCH_2  | https://i.imgur.com/6GobX2i.gif | Love Fist ruined my life!                                                                                                                  |
+| RBM1_A   | https://i.imgur.com/fPBKjkA.gif | AllllllllRrrighttt!                                                                                                                        |
+| RBM1_B   | https://i.imgur.com/ba5N6eJ.gif | Yessss! Brilliant, bloody brilliant!                                                                                                       |
+| RBM1_C   | https://i.imgur.com/3FB5Cz6.gif | Hey, Tommy! Glad you could make it.                                                                                                        |
+| RBM1_D   | https://i.imgur.com/5ldrSad.gif | Hey, you ever met Love Fist before?                                                                                                        |
+| RBM1_E   | https://i.imgur.com/NFsflLQ.gif | No, I haven't but I've always loved your music.                                                                                            |
+| RBM1_F   | https://i.imgur.com/asbAjjV.gif | Let me introduce you to the band.                                                                                                          |
+| RBM1_G   | https://i.imgur.com/fOaPYQs.gif | This is Percy, Dick, and Willy's in the kaze, and that was Jezz in the booth earlier,                                                      |
+| RBM1_H   | https://i.imgur.com/rsj47HV.gif | and guys, I want you to meet a good friend of mine.                                                                                        |
+| RBM1_I   | https://i.imgur.com/pwKBtft.gif | This is Tommy. We go way back.                                                                                                             |
+| RBM1_J   | https://i.imgur.com/Q778fxe.gif | All right, pal.                                                                                                                            |
+| RBM1_K   | https://i.imgur.com/mQzWDww.gif | And eh, what was your name again?                                                                                                          |
+| RBM1_L   | https://i.imgur.com/uekl4lP.gif | Leave it out, Jezz you, remember -                                                                                                         |
+| RBM1_M   | https://i.imgur.com/gD50IuH.gif | don't be playing them games with me, mate,                                                                                                 |
+| RBM1_N   | https://i.imgur.com/hRIeLVF.gif | I'm too crafty for that, sunshine!                                                                                                         |
+| RBM1_O   | https://i.imgur.com/a3pbFcU.gif | You see, the thing is, Tom, the boys need some help.                                                                                       |
+| RBM1_P   | https://i.imgur.com/XuLP2oD.gif | They ain't too connected here, they don't have the old 'how's your father?'                                                                |
+| RBM1_Q   | https://i.imgur.com/rbFAm3y.gif | We need some drugs, pal!                                                                                                                   |
+| RBM1_R   | https://i.imgur.com/KXmuLhb.gif | Gonna get on the old Love Fist fury, you know?!                                                                                            |
+| RBM1_S   | https://i.imgur.com/DkHOcXv.gif | Well, this is Vice City, man. What's the problem?                                                                                          |
+| RBM1_T   | https://i.imgur.com/yCp7pWT.gif | We need Love Juice, man, yeah?                                                                                                             |
+| RBM1_U   | https://i.imgur.com/gfol89C.gif | Love Juice, man!                                                                                                                           |
+| RBM1_W   | https://i.imgur.com/v0nHvzL.gif | Aye, two parts boomshine, one part trumpet, five fizz bombs and a liter of petrol.                                                         |
+| RBM1_X   | https://i.imgur.com/5opddrb.gif | Can you help us out, pal?                                                                                                                  |
+| RBM1_Y   | https://i.imgur.com/n3NFZvt.gif | Aw, it would really mean a lot to the boys.                                                                                                |
+| RBM1_Z   | https://i.imgur.com/htL12ye.gif | You can do that for the boys, right?                                                                                                       |
+| RBM2_A   | https://i.imgur.com/dzPzXWV.gif | Tommy, man. Am I glad to see you!                                                                                                          |
+| RBM2_B   | https://i.imgur.com/L5aPdsG.gif | What's going on?                                                                                                                           |
+| RBM2_C   | https://i.imgur.com/kqobf1x.gif | Bad vibes, Tommy...                                                                                                                        |
+| RBM2_D   | https://i.imgur.com/ar0y65V.gif | Aye, I'm not joking, it's heavy stuff man, heavy you know?                                                                                 |
+| RBM2_E   | https://i.imgur.com/g4LECFA.gif | There's this cat, we hardly know him, but he knows us.                                                                                     |
+| RBM2_F   | https://i.imgur.com/oBCmpiS.gif | Like this cat. Knows all about us.                                                                                                         |
+| RBM2_G   | https://i.imgur.com/xSzC0sP.gif | Knows that Willy likes his ladies' underwear, eh!                                                                                          |
+| RBM2_H   | https://i.imgur.com/gurW5xD.gif | Or that Percy likes Duran Duran!                                                                                                           |
+| RBM2_I   | https://i.imgur.com/9DGfVlA.gif | Shut up ye fool. Just 'cause Jezz bangs sheep.                                                                                             |
+| RBM2_J   | https://i.imgur.com/tdRP7EP.gif | It's a love rocket thing, you know?                                                                                                        |
+| RBM2_K   | https://i.imgur.com/wYlUySj.gif | Yeah, the love rocket thing, right. But listen, this cat...                                                                                |
+| RBM2_L   | https://i.imgur.com/HwTeJno.gif | Yeh, yeh, the guy, he wants Love Fist dead.                                                                                                |
+| RBM2_M   | https://i.imgur.com/6858gaC.gif | Dead Tommy.                                                                                                                                |
+| RBM2_N   | https://i.imgur.com/0T14j1u.gif | Love Fist gone. You know what they say, the good die young.                                                                                |
+| RBM2_O   | https://i.imgur.com/lSXg7kE.gif | but Tommy, you gotta save Love Fist!                                                                                                       |
+| RBM2_P   | https://i.imgur.com/ajd6H4T.gif | We got a signing in two hours and I think...                                                                                               |
+| RBM2_Q   | https://i.imgur.com/6PoWLFd.gif | And the boys think the stalker's gonna try some monkey business there.                                                                     |
+| RBM2_R   | https://i.imgur.com/PAq3aNf.gif | Oi shut it!                                                                                                                                |
+| RBM3_A   | https://i.imgur.com/hZsTsHw.gif | Tommy! Tommy, man, that psycho's back!                                                                                                     |
+| RBM3_C   | https://i.imgur.com/1i7NeDZ.gif | That psycho won't leave Love Fist alone!                                                                                                   |
+| RBM3_D   | https://i.imgur.com/Dta6nBO.gif | You didnae kill him man. And now he's back.                                                                                                |
+| RBM3_E   | https://i.imgur.com/vefSqwj.gif | Yeah, yeah, yeah, and the thing is...                                                                                                      |
+| RBM3_F   | https://i.imgur.com/3B7qdAF.gif | The thing is, we need someone to drive the limo we can trust,                                                                              |
+| RBM3_G   | https://i.imgur.com/j9t8N8K.gif | cause that nutter keeps making threats!                                                                                                    |
+| RBM3_H   | https://i.imgur.com/wqpeyKM.gif | I'm shitin' masel' man. I need ma ma!                                                                                                      |
+| RBM3_I   | https://i.imgur.com/Gqz0VsE.gif | We're all bricking ourselves, man.                                                                                                         |
+| RBM3_J   | https://i.imgur.com/a2XNg0V.gif | Okay guys, calm down, I'll handle this.                                                                                                    |
+| RBM3_K   | https://i.imgur.com/cgEsGNL.gif | Normally I wouldn't busy myself with driving around a bunch of drunken Scottish bisexuals,                                                 |
+| RBM3_L   | https://i.imgur.com/6eljlwd.gif | but, in your case I'll make an exception.                                                                                                  |
+| RESC_1   | https://i.imgur.com/R6IHBYO.gif | You ok to use a gun?                                                                                                                       |
+| RESC_2   | https://i.imgur.com/cCZ9Lfx.gif | Sure... I guess... nice to see you, too.                                                                                                   |
+| RESC_4   | https://i.imgur.com/l6631QE.gif | There goes my careful planning blown to shit, thanks to you. You screwed up real good, Lance!                                              |
+| RESC_5   | https://i.imgur.com/TUFz3Wh.gif | He killed my brother. What do you expect me to do, mow his lawns?                                                                          |
+| RESC_6   | https://i.imgur.com/yw3QZew.gif | We're gonna have to take out that prick Diaz before he takes us out.                                                                       |
+| RESC_7   | https://i.imgur.com/fchrXjO.gif | Get patched up and meet me on the bridge to Star Island, ok?                                                                               |
+| RESC_8   | https://i.imgur.com/LHoIbdT.gif | Ok, I got you.                                                                                                                             |
+| ROCK_1   | https://i.imgur.com/e9mrSBS.gif | Love Juice                                                                                                                                 |
+| ROK1_1A  | https://i.imgur.com/Z3HeSOs.gif | Looking for something special? I got what you need!                                                                                        |
+| ROK1_5   | https://i.imgur.com/3O3GwmP.gif | Hey, Mercedes!                                                                                                                             |
+| ROK1_6   | https://i.imgur.com/hFKTboG.gif | Hiya, Tommy. And how are you?                                                                                                              |
+| ROK1_7   | https://i.imgur.com/W8jjHOR.gif | Just fine. Listen, you fancy having Love Fist?                                                                                             |
+| ROK1_8   | https://i.imgur.com/GnLP9xk.gif | Ok, but just as a favor I expect returned...                                                                                               |
+| ROK1_9   | https://i.imgur.com/4KKacWE.gif | Thanks for the money, sucker!                                                                                                              |
+| ROK3_1   | https://i.imgur.com/nNGBJJB.gif | At last man, time for a well earned drink. The venue's just a hundred yards down the road.                                                 |
+| ROK3_2   | https://i.imgur.com/u7WV9Nc.gif | Better make it a large one then. Hey Tommy, change the tunes, man.                                                                         |
+| ROK3_3   | https://i.imgur.com/ik7N6bz.gif | I get confused if my head ain't banging. Ah look, what's this? Hey Tommy, stick this tape on.                                              |
+| ROK3_4   | https://i.imgur.com/e7Wv2lX.gif | Love Fist. Your time polluting the airwaves is over. I gave you the chance to be friends.                                                  |
+| ROK3_5   | https://i.imgur.com/zRShyXA.gif | Now, I'm giving you the chance to die. Try to slow down and your limousine will explode, along with your BIG, HAIRY ARSES!                 |
+| ROK3_6   | https://i.imgur.com/UWqIuc4.gif | Tommy pal, you gotta save the band! I'm getting bored of this. Just keep the pedal to the metal!                                           |
+| ROK3_7   | https://i.imgur.com/Vkr08Vs.gif | We gotta find the bomb! Can't we just drive around all day? Aye, we've got plenty to drink...                                              |
+| ROK3_8   | https://i.imgur.com/t2hSoj9.gif | Won't the bomb not be in the engine? We'll have to stop to get it. We're all going to die! I'm gonna get pissed!                           |
+| ROK3_9   | https://i.imgur.com/JftM0fu.gif | Hey, there's a queue here pal! The answer ain't in the drinks cabinet! Get out of my way!                                                  |
+| ROK3_10  | https://i.imgur.com/kL8GvSM.gif | Hey, the vodka bottle's got wires coming out of it! That's not vodka, that's BOOMSHINE!                                                    |
+| ROK3_11  | https://i.imgur.com/PtJEJQR.gif | WAAAAAAGGGHHHH!!! And it's wired to blow! WAAAAAAAAAAAAGGGHHHHHHHH!!!                                                                      |
+| ROK3_12  | https://i.imgur.com/qGX9T6f.gif | They always said the drink would kill me. I've seen this on the telly. You gotta pull out one of the wires. Which wire? I don't know, man. |
+| ROK3_13  | https://i.imgur.com/9e4CNbb.gif | I don't have a clue. Willy, say something. I'm gonna play bass in hell.                                                                    |
+| ROK3_14  | https://i.imgur.com/pmeC7FA.gif | Tommy man, keep driving fast, pal. Somebody do something. Aye, clever!                                                                     |
+| ROK3_15  | https://i.imgur.com/SZDY33A.gif | 'Somebody do something', what kind of crap is that, I've seen braver girls. Okay tough guy, you do something.                              |
+| ROK3_16  | https://i.imgur.com/5cs0KqO.gif | Look, man, I play a musical instrument I don't have a clue about bomb disposal. Willy could just suck the boomshine out with a straw.      |
+| ROK3_17  | https://i.imgur.com/588gvJz.gif | Aye, I've heard that your good at that kind of thing. Hey, I was off my tits that night, as well you know!                                 |
+| ROK3_18  | https://i.imgur.com/k7Xy9A7.gif | Just pass Willy a straw! A straw?!?! This is the Love Fist Tour Bus!                                                                       |
+| ROK3_19  | https://i.imgur.com/W2BJGiZ.gif | Where am I gonna get a straw from, know wot I mean? Which wire, Tommy? The green one. There isn't a green one.                             |
+| ROK3_20  | https://i.imgur.com/tnKSo1R.gif | Or is this one green? Any of these wires look green to you?                                                                                |
+| ROK3_21  | https://i.imgur.com/f6xw5tU.gif | Oh no! Death's on the cards! Everything looks green! I should have dumped you lot when I had the chance man.                               |
+| ROK3_22  | https://i.imgur.com/UD3FIyd.gif | Glory seeker. Capitalist. I've been carrying you for years. Shut up. You're a muppit.                                                      |
+| ROK3_23  | https://i.imgur.com/Vog4Vcq.gif | A big screaming girl. Yeah. Shut up and pull a wire. Which wire? This one...                                                               |
+| ROK3_24  | https://i.imgur.com/gvHEYrX.gif | NO! Man, we're okay. We ain't been blown up, pal.                                                                                          |
+| ROK3_25  | https://i.imgur.com/saxbTi1.gif | Tommy, man, nice one. Rock and roll, man. Ain't we got a gig to go to?                                                                     |
+| ROK3_26  | https://i.imgur.com/TiuUZAq.gif | A racket to make? Groupies to abuse? LOVE FIST!                                                                                            |
+| ROK3_27  | https://i.imgur.com/DMYxaQr.gif | Have you finished with that bottle?                                                                                                        |
+| ROK3_62  | https://i.imgur.com/nmrcK76.gif | so we thought we'd show you our Temple of Rock -                                                                                           |
+| ROK3_63  | https://i.imgur.com/JmKfySY.gif | Get a feel for that Love Fist fury!                                                                                                        |
+| ROK3_64  | https://i.imgur.com/QzAkil0.gif | Listen to yourself, man. It's papier-mache and gaffa tape.                                                                                 |
+| ROK3_65  | https://i.imgur.com/ivhe3sJ.gif | Hey, to the kids, it's a temple and we are the priests!                                                                                    |
+| ROK3_66  | https://i.imgur.com/0HppmTN.gif | Aye, well, if the kids like their priests half cut and tone deaf,                                                                          |
+| ROK3_67  | https://i.imgur.com/4UfBnNI.gif | who am I to argue?                                                                                                                         |
+| ROK3_68  | https://i.imgur.com/PYTNLPU.gif | Oh geez, the tape's getting chewed again.                                                                                                  |
+| ROK3_69  | https://i.imgur.com/nccIw0Y.gif | At this rate, we'll never get to play live.                                                                                                |
+| ROK3_70  | https://i.imgur.com/p4vYF7w.gif | Oohh shite! My bowels...                                                                                                                   |
+| ROK3_71  | https://i.imgur.com/EAiU5Dh.gif | We gotta get on with it - thanks again Tommy, get what I am saying, nice one, bye!                                                         |
+| ROK3_73  | https://i.imgur.com/ceEMS4x.gif | Jezz is running the tape,                                                                                                                  |
+| TAX1_1   | https://i.imgur.com/FabY8x7.gif | Ok, we got a high class fare needs picking up from Starfish island - any takers?                                                           |
+| TAX1_2   | https://i.imgur.com/yeecvsz.gif | Tommy here, I'll take it!                                                                                                                  |
+| TAX1_3   | https://i.imgur.com/jOyhyPO.gif | This is my fare, back off asshole!                                                                                                         |
+| TAX1_4   | https://i.imgur.com/x1yNmLk.gif | Come on come on, Get in, quick!                                                                                                            |
+| TAX1_5   | https://i.imgur.com/v543T5J.gif | Ok, ok! Just don't hurt me!                                                                                                                |
+| TAX2_1   | https://i.imgur.com/LhHIlCz.gif | Calling all cars, we're losing fares all over town. What's with you guys?                                                                  |
+| TAX2_2   | https://i.imgur.com/Ux00Ucf.gif | VC Cabs keep beating us to it. They've just got too many cars - we can't compete!                                                          |
+| TAX2_3   | https://i.imgur.com/ODaCdop.gif | Mr. Vercetti, if you're out there listening in, you gotta put some VC Cabs out of action before we go bust!                                |
+| TAX3_1   | https://i.imgur.com/0g8Uyva.gif | Car 13, We got a Miss Cortez, asked for you especially.                                                                                    |
+| TAX3_2   | https://i.imgur.com/SDbLrst.gif | Ok, I got it. Car 13 out!                                                                                                                  |
+| TAX3_3   | https://i.imgur.com/JaGMBnw.gif | Hmmmm, no sign of Mercedes...                                                                                                              |
+| TAX3_4   | https://i.imgur.com/qjx8toO.gif | It's time for Kaufman Cab's guardian angel to eat some fender!                                                                             |
+| TAXC_A   | https://i.imgur.com/lwZMqAr.gif | Guess you're the new owner.                                                                                                                |
+| TAXC_A1  | https://i.imgur.com/8LSGTnA.gif | Just grab a taxi from the garage if you feel like jumping in.                                                                              |
+| TAXC_B   | https://i.imgur.com/EL1WNI6.gif | What are you, mob? Cartel? You don't look Mexican...                                                                                       |
+| TAXC_C   | https://i.imgur.com/wR1K2sB.gif | Anyhoo, I guess you better get on with the 'things are gonna change around here' crap,                                                     |
+| TAXC_D   | https://i.imgur.com/Kfk3VZ0.gif | maybe threaten one of the drivers -                                                                                                        |
+| TAXC_E   | https://i.imgur.com/GsbOlvv.gif | go steady on Ted over there, he's just had his hernia fixed.                                                                               |
+| TAXC_F   | https://i.imgur.com/8f5JMqx.gif | Well, yeah. Things are going to change around here, lady.                                                                                  |
+| TAXC_G   | https://i.imgur.com/CIzDeCB.gif | Oh crap, sonny. Might as well leave this to me -                                                                                           |
+| TAXC_H   | https://i.imgur.com/pcvItQF.gif | I've been doing this for years.                                                                                                            |
+| TAXC_I   | https://i.imgur.com/ieiGnPs.gif | Now hear this.                                                                                                                             |
+| TAXC_J   | https://i.imgur.com/IHvJZw2.gif | We are now under new management and things are going to change around here again.                                                          |
+| TAXC_K   | https://i.imgur.com/teRXuuE.gif | Our new management, the                                                                                                                    |
+| TAXC_L   | https://i.imgur.com/0hfcWJm.gif | - Which gang are you?                                                                                                                      |
+| TAXC_M   | https://i.imgur.com/CS94NXs.gif | Well, I'm not part of any gang actually.                                                                                                   |
+| TAXC_N   | https://i.imgur.com/ADwTaDF.gif | What's your goddamned name, kid?                                                                                                           |
+| TAXC_O   | https://i.imgur.com/C0MOE2r.gif | Vercetti, Tommy Vercetti.                                                                                                                  |
+| TAXC_P   | https://i.imgur.com/Y5zc2Ou.gif | Our new management, the Vercetti Gang,                                                                                                     |
+| TAXC_Q   | https://i.imgur.com/wl4Luc9.gif | is gonna make sure we get no trouble.                                                                                                      |
+| TAXC_R   | https://i.imgur.com/sqkN4Ig.gif | Capiche? Out!                                                                                                                              |
+| TAXC_S   | https://i.imgur.com/aW8PW3R.gif | Did you like the 'capiche'? I liked the 'capiche'.                                                                                         |
+| TAXC_T   | https://i.imgur.com/QyH8J5S.gif | So this is how it's worked in the past,                                                                                                    |
+| TAXC_U   | https://i.imgur.com/V1hRyCn.gif | We run the firm as usual.                                                                                                                  |
+| TAXC_V   | https://i.imgur.com/V9z78hd.gif | If we get any trouble from rival firms, you beat the crap out of them.                                                                     |
+| TAXC_W   | https://i.imgur.com/FKni5lU.gif | Then they beat the crap out of us,                                                                                                         |
+| TAXC_X   | https://i.imgur.com/4JAjbXh.gif | then you beat the crap out of them,                                                                                                        |
+| TAXC_Y   | https://i.imgur.com/tnboTQ2.gif | etcetera, etcetera. You got it?                                                                                                            |
+| TAXC_Z   | https://i.imgur.com/H3RXaK5.gif | Uh, yeah, I guess...                                                                                                                       |
+| TEX1_3   | https://i.imgur.com/anKw6sN.gif | Who is this guy? Boys, deal with him.                                                                                                      |
+| TEX1_6   | https://i.imgur.com/OCwmr0M.gif | Nice ass baby!                                                                                                                             |
+| TEX1_7   | https://i.imgur.com/2lqFnNH.gif | Is this me?                                                                                                                                |
+| TEX1_9   | https://i.imgur.com/irvatmx.gif | Get him!                                                                                                                                   |
+| TEX1_10  | https://i.imgur.com/j0dRTIu.gif | Kill that Psycho!                                                                                                                          |
+| TEX1_A   | https://i.imgur.com/mFqSMd2.gif | Come in and park yourself on the hide, son.                                                                                                |
+| TEX1_B   | https://i.imgur.com/lo2WWu4.gif | Hell, my daddy used to say, never look a gift horse in the mouth, and by golly, he never did.                                              |
+| TEX1_C   | https://i.imgur.com/oFa6vIV.gif | Would you like a drop of the old Kentucky?                                                                                                 |
+| TEX1_D   | https://i.imgur.com/mNESbeh.gif | No thanks.                                                                                                                                 |
+| TEX1_E   | https://i.imgur.com/AMm19uT.gif | A clean thinker! I like that.                                                                                                              |
+| TEX1_F   | https://i.imgur.com/yl08rek.gif | Now, the property business isn't all about high-falootin' paper pushing.                                                                   |
+| TEX1_G   | https://i.imgur.com/tbClVRC.gif | It's about dirt! And the will to claim that dirt! You with me, son?                                                                        |
+| TEX1_H   | https://i.imgur.com/Vkjn5yE.gif | Oh yeah.                                                                                                                                   |
+| TEX1_I   | https://i.imgur.com/W0nwQI8.gif | Well, I need some tenacious bastard to let go of some dirt,                                                                                |
+| TEX1_J   | https://i.imgur.com/tF6rcYH.gif | and you look to me like the kind of guy to persuade him.                                                                                   |
+| TEX1_K   | https://i.imgur.com/r7eoACY.gif | Persuasion's my forte.                                                                                                                     |
+| TEX1_L   | https://i.imgur.com/N6UzKtY.gif | Yeh, he'll be down at the country club, down on the golf course.                                                                           |
+| TEX1_M   | https://i.imgur.com/y2fgAoG.gif | They don't allow guns, so his bodyguards won't be packing lawgivers.                                                                       |
+| TEX1_N   | https://i.imgur.com/sY02kh7.gif | Go beat eight tons of crap out of him.                                                                                                     |
+| TEX1_O   | https://i.imgur.com/lTZyOLH.gif | Here now - I got you a membership, and boy you're going to need more appropriate clothing.                                                 |
+| TEX2_A   | https://i.imgur.com/9nt8wtQ.gif | Tommy, this is Donald Love. Donald, this here is Tommy Vercetti,                                                                           |
+| TEX2_B   | https://i.imgur.com/E5lxE8w.gif | the latest gunslinger to come to these parts.                                                                                              |
+| TEX2_C   | https://i.imgur.com/ICL9lBm.gif | Yeh... uh...                                                                                                                               |
+| TEX2_D   | https://i.imgur.com/PYiVKWP.gif | Donald, you just shut up and listen, and you might learn something.                                                                        |
+| TEX2_E   | https://i.imgur.com/6P6lytG.gif | Now, nothing brings down real estate prices quicker than a good old-fashioned gang war                                                     |
+| TEX2_F   | https://i.imgur.com/Ocdnc63.gif | 'cept maybe a disaster, like a biblical plague or something,                                                                               |
+| TEX2_G   | https://i.imgur.com/qKBufsF.gif | but, that may be going too far in this case.                                                                                               |
+| TEX2_H   | https://i.imgur.com/GP22Uqv.gif | You getting this down, you four-eyed prick?                                                                                                |
+| TEX2_IJ  | https://i.imgur.com/WMw7Afl.gif | Now recently a gang lord died. You disguise yourself,                                                                                      |
+| TEX2_K   | https://i.imgur.com/CoyguoN.gif | and head on down to crash the funeral. Mix it up, and then high tail it.                                                                   |
+| TEX2_L   | https://i.imgur.com/GZvKhAA.gif | You getting this down, Donald?                                                                                                             |
+| TEX2_M   | https://i.imgur.com/v4xyZgH.gif | Well, that ought to put the coyote in the chicken coop, huh?                                                                               |
+| TEX2_N   | https://i.imgur.com/ZTjQ7Cd.gif | And then we'll just sit back, and watch the prices tumble.                                                                                 |
+| TEX3_A   | https://i.imgur.com/Z32jBIs.gif | Now look here, son. I got a problem and I reckon you could help me with it.                                                                |
+| TEX3_B   | https://i.imgur.com/c1Gv2Kk.gif | I'm no builder.                                                                                                                            |
+| TEX3_C   | https://i.imgur.com/2XpJEgD.gif | No, I was thinking more of your demolition skills.                                                                                         |
+| TEX3_D   | https://i.imgur.com/MzePDUh.gif | Now this here, this is the development as planned and this,                                                                                |
+| TEX3_E   | https://i.imgur.com/Q6vq1lG.gif | this is the property that we're looking at.                                                                                                |
+| TEX3_F   | https://i.imgur.com/SZnXitA.gif | You're trying to say this new office block is kind of in the way.                                                                          |
+| TEX3_G   | https://i.imgur.com/2aX9ZJT.gif | You catch on quick.                                                                                                                        |
+| TEX3_H   | https://i.imgur.com/S5kRob7.gif | Now I'm going to head out of town for a while                                                                                              |
+| TEX3_I   | https://i.imgur.com/NMsMC7h.gif | and if that office development were to face sudden and insurmountable structural problems, then I...                                       |
+| TEX3_J   | https://i.imgur.com/0mYk1I1.gif | As a civil minded individual you'd feel obliged to step in and                                                                             |
+| TEX3_K   | https://i.imgur.com/1oghEWi.gif | save the rejuvenation of an important area of the city?                                                                                    |
+| TEX3_L   | https://i.imgur.com/VUSWaUW.gif | Where can I get more guys like you?                                                                                                        |
+| ASM1_B   | https://i.imgur.com/PRyyUJZ.gif | Your next job is taped under the phone.                                                                                                    |
+| ASM1_C   | https://i.imgur.com/kQgBdir.gif | I have more work for you with a more 'hands-on' approach.                                                                                  |
+| ASM1_D   | https://i.imgur.com/asvqpFs.gif | Mr. Teal, your help in eradicating those out-of-towners was invaluable to business.                                                        |
+| ASM2_11  | https://i.imgur.com/5778QOH.gif | Help me!                                                                                                                                   |
+| ASM2_12  | https://i.imgur.com/zKh2J7a.gif | Somebody help me!                                                                                                                          |
+| ASM2_13  | https://i.imgur.com/HD2USmM.gif | Oh my god!                                                                                                                                 |
+| ASM2_A   | https://i.imgur.com/Vbarl5X.gif | My compliments on a job well done Mr. Teal. My client was very pleased.                                                                    |
+| ASM3_C   | https://i.imgur.com/icdqASP.gif | A European gang plans to hit a bank in Vice City. My employers would rather this didn't happen.                                            |
+| ASM3_D   | https://i.imgur.com/PQBSNMs.gif | Each member of the gang has a cover while they are here in Vice City. Some have menial jobs, others are on vacation.                       |
+| ASM3_E   | https://i.imgur.com/HVFtlev.gif | Each target and their likely whereabouts are taped under the phone.                                                                        |
+| ASM4_A   | https://i.imgur.com/qjvXgR6.gif | Time to fry bigger fish, Mr. Teal. There's a rifle in the foliage to your right.                                                           |
+| ASM4_B   | https://i.imgur.com/aRmvJCW.gif | Watch the woman standing on the balcony above the check-in desks. She will walk through the crowd and ask someone the time.                |
+| ASM4_C   | https://i.imgur.com/qeSD2uf.gif | You must kill that person, retrieve the case and take it to the location taped under the phone.                                            |
+| ASM5_A   | https://i.imgur.com/kUkFbXJ.gif | There is a valuable exchange taking place on the roof of the Cherry Popper Ice Cream Company.                                              |
+| ASM5_B   | https://i.imgur.com/X0x8fLp.gif | Kill everyone involved, steal the merchandise and take it to the helipad at the airport.                                                   |
+| ASM5_C   | https://i.imgur.com/yRGCQza.gif | There is a gate to your left that leads to the back of the factory.                                                                        |
+| ASS1_1   | https://i.imgur.com/7eDT9PP.gif | This place is going to be crawling with assholes... be careful...                                                                          |
+| ASS1_2   | https://i.imgur.com/qFsEfkR.gif | Don't worry Tommy, I'll cover you.                                                                                                         |
+| ASS1_4   | https://i.imgur.com/RKjLJEj.gif | Diaz must be inside!                                                                                                                       |
+| ASS1_7   | https://i.imgur.com/L7QcwRQ.gif | Eat this, you murdering bastards!                                                                                                          |
+| ASS1_11  | https://i.imgur.com/YgBWi5p.gif | Hey Tommy, can my room have a view of the bay?                                                                                             |
+| ASS1_13  | https://i.imgur.com/S6G3bOn.gif | DIAZ?! I've come to take over your business!                                                                                               |
+| ASS1_14  | https://i.imgur.com/oKeJmNC.gif | TOMMY! You betrayed me, you idiot! I'm gonna kill you real soon...                                                                         |
+| ASS1_A   | https://i.imgur.com/hNZs5WC.gif | I got us some cannons in the trunk.                                                                                                        |
+| ASS1_B   | https://i.imgur.com/drhjJYz.gif | Holy shit! Where'd you get all this stuff?                                                                                                 |
+| ASS1_C   | https://i.imgur.com/CywSyw8.gif | Been saving it for a rainy day.                                                                                                            |
+| ASS1_D   | https://i.imgur.com/5kzFQEx.gif | You like?                                                                                                                                  |
+| ASS1_E   | https://i.imgur.com/Ss9Y0jk.gif | Yeah, I like.                                                                                                                              |
+| ASS1_F   | https://i.imgur.com/GFQg1Iz.gif | You stupid pricks...                                                                                                                       |
+| ASS1_G   | https://i.imgur.com/f4b0EYB.gif | my beautiful house                                                                                                                         |
+| ASS1_H   | https://i.imgur.com/4Ye97TJ.gif | look what you've done to it!                                                                                                               |
+| ASS1_I   | https://i.imgur.com/iYVAEQz.gif | This is for my brother!                                                                                                                    |
+| ASS1_J   | https://i.imgur.com/FP6rNDE.gif | I trusted you, Tommy.                                                                                                                      |
+| ASS1_K   | https://i.imgur.com/RFE3jjw.gif | I woulda had you made...                                                                                                                   |
+| ASS1_L   | https://i.imgur.com/3nU6G0O.gif | Say goodnight, Mr. Diaz.                                                                                                                   |
+| BJM1_A   | https://i.imgur.com/CreeKdI.gif | Tommy! Hey, Tommy, look at this, this is great! I've got us this minibar installed!                                                        |
+| BJM1_B   | https://i.imgur.com/i0FnwHt.gif | We got a whole bar downstairs, Ken.                                                                                                        |
+| BJM1_C   | https://i.imgur.com/gnDcpFT.gif | Yeah, yeah, whatever. Well, I got the chalkboard you asked for.                                                                            |
+| BJM1_D   | https://i.imgur.com/spUDo07.gif | Ah, that's the benefit of a law school education: the ability to follow instructions.                                                      |
+| BJM1_E   | https://i.imgur.com/Go4kkbH.gif | Now, I need a safe man.                                                                                                                    |
+| BJM1_F   | https://i.imgur.com/nWkdVnn.gif | Oh, all right, well, let me think... safe, safe, safe, safe - I got it! This guy will blow you away!                                       |
+| BJM1_G   | https://i.imgur.com/jH4amgi.gif | Ahh, nah, that schmuck. He's on the inside.                                                                                                |
+| BJM1_H   | https://i.imgur.com/QSOhFVH.gif | Where inside?                                                                                                                              |
+| BJM1_I   | https://i.imgur.com/wK6LiTN.gif | In a police headquarter cell awaiting transfer.                                                                                            |
+| BJM1_J   | https://i.imgur.com/0QNCSKC.gif | I think he's about to get paroled...                                                                                                       |
+| BJM2_2A  | https://i.imgur.com/kZc6EZh.gif | You Phil Cassidy?                                                                                                                          |
+| BJM2_2B  | https://i.imgur.com/Gwtdhwh.gif | Why?                                                                                                                                       |
+| BJM2_2C  | https://i.imgur.com/J4rpK66.gif | I'm looking for a man who can handle a gun. From this setup, I'm not too convinced.                                                        |
+| BJM2_2D  | https://i.imgur.com/EBURaW4.gif | Son, I could shoot a fly off your head at 80 feet.                                                                                         |
+| BJM2_2E  | https://i.imgur.com/RalR2hX.gif | Oh really?                                                                                                                                 |
+| BJM2_2F  | https://i.imgur.com/ZiWEPGj.gif | Yeah. I learnt in the army.                                                                                                                |
+| BJM2_2G  | https://i.imgur.com/QpHIHDR.gif | Fly shooting real popular in the army? Glad I don't pay tax.                                                                               |
+| BJM2_2H  | https://i.imgur.com/9BWzadX.gif | You tryin' to be funny kid?                                                                                                                |
+| BJM2_2I  | https://i.imgur.com/I9V32eV.gif | Ha ha ha ha ha!                                                                                                                            |
+| BJM2_2J  | https://i.imgur.com/yYLwnnu.gif | Let's shoot.                                                                                                                               |
+| BJM2_A   | https://i.imgur.com/kqKuVEu.gif | We need a stick up man. You know one?                                                                                                      |
+| BJM2_B   | https://i.imgur.com/h6RLwbh.gif | Hey, Tommy, Tommy, Tommy, this stuff keeps you sharp, man.                                                                                 |
+| BJM2_C   | https://i.imgur.com/PsHT796.gif | WoooOOOooo!                                                                                                                                |
+| BJM2_D   | https://i.imgur.com/1S7NBee.gif | I could be your stick up man! Stick 'em up! Stick 'em up!                                                                                  |
+| BJM2_E   | https://i.imgur.com/5j81klW.gif | You ain't a stick up man, you're an idiot.                                                                                                 |
+| BJM2_F   | https://i.imgur.com/tDFfmR2.gif | Now get yourself a drink and shut up.                                                                                                      |
+| BJM2_G   | https://i.imgur.com/fXTMo2h.gif | Hey, get outta my way! Yeh yeh yeh - ow ow ow!                                                                                             |
+| BJM2_H   | https://i.imgur.com/00x60N1.gif | Cam, what do you think?                                                                                                                    |
+| BJM2_I   | https://i.imgur.com/0UEYyxL.gif | Well, the best shooter in this town is a guy named Cassidy.                                                                                |
+| BJM2_J   | https://i.imgur.com/ELhFFx3.gif | Is that so?                                                                                                                                |
+| BJM2_K   | https://i.imgur.com/LsF7qa7.gif | Yeah. A military guy, or he thinks he is.                                                                                                  |
+| BJM2_L   | https://i.imgur.com/ZRAeS0P.gif | I doubt he was ever in the army, but he certainly knows how to get a hold of guns.                                                         |
+| BJM2_M   | https://i.imgur.com/VMc8bPk.gif | He'll be down at the shooting range.                                                                                                       |
+| BJM2_N   | https://i.imgur.com/JRx9iar.gif | Relax                                                                                                                                      |
+| BJM3_2A  | https://i.imgur.com/Yi4MoqU.gif | You Tommy? Of course you're Tommy, I mean...                                                                                               |
+| BJM3_2B  | https://i.imgur.com/p2akaaD.gif | Why else would anyone want to speak to me?                                                                                                 |
+| BJM3_2C  | https://i.imgur.com/M8RaK2Z.gif | OK. Consider it this way -                                                                                                                 |
+| BJM3_2D  | https://i.imgur.com/vu5IUs3.gif | I'll drive for you IF, and only IF, you can drive properly.                                                                                |
+| BJM3_2E  | https://i.imgur.com/afnsuRG.gif | Leave me alone - and I'll never forgive you.                                                                                               |
+| BJM3_A   | https://i.imgur.com/8y8iYan.gif | Things are starting to come together nicely here.                                                                                          |
+| BJM3_B   | https://i.imgur.com/Iq8rad0.gif | What's the plan, Tommy? Que pasa, amigo?                                                                                                   |
+| BJM3_C   | https://i.imgur.com/T47WtVn.gif | The plan is you keep doing that like a moron. Anyhow, we need a driver.                                                                    |
+| BJM3_D   | https://i.imgur.com/hKWZF2o.gif | Tommy, I'll do it. I can drive.                                                                                                            |
+| BJM3_E   | https://i.imgur.com/AvodUQq.gif | You want Hilary, mister. Not some smart-talking law school chump.                                                                          |
+| BJM3_F   | https://i.imgur.com/qPz1Z5H.gif | Hilary's the real deal. You ain't never seen anyone drive so fast. I'll give him a call here.                                              |
+| BJM3_G   | https://i.imgur.com/DRQMoAg.gif | Hey Hil, it's Phil. How's it going? No. Don't talk. We'll reminisce later. You want to do me a favor?                                      |
+| BJM3_H   | https://i.imgur.com/Ro0F3n9.gif | I got me a guy from up north. No, no, I don't think he was in the service, but he wants a driver.                                          |
+| BJM3_I   | https://i.imgur.com/DPreXj6.gif | For a bit of action. Okay, I understand.                                                                                                   |
+| BJM3_J   | https://i.imgur.com/6N7jT8p.gif | What'd he say?                                                                                                                             |
+| BJM3_K   | https://i.imgur.com/cGXViWd.gif | Well, he'll do it, no problem. Well, there might be a little problem - see, he has abandonment issues.                                     |
+| BJM3_L   | https://i.imgur.com/xRaRdfe.gif | Seems he won't work for anyone who can't beat him. Something to do with his momma.                                                         |
+| BJM3_M   | https://i.imgur.com/tFGD0V1.gif | Anyway, he wants to race you first, said he'd meet you outside...                                                                          |
+| BK4_12A  | https://i.imgur.com/SmWz8h9.gif | Damn! It's a Flange 9000!                                                                                                                  |
+| BK4_12B  | https://i.imgur.com/uRe5unS.gif | This could take hours to crack,                                                                                                            |
+| BK4_12C  | https://i.imgur.com/fLrawaZ.gif | Or five minutes if you could find the manager.                                                                                             |
+| BK4_14A  | https://i.imgur.com/CswIk1q.gif | Phil, things still sweet?                                                                                                                  |
+| BK4_19A  | https://i.imgur.com/tRvX7Uc.gif | It's on a time lock,                                                                                                                       |
+| BK4_19B  | https://i.imgur.com/XPqfbc3.gif | You might as well give up now!                                                                                                             |
+| BK4_20A  | https://i.imgur.com/RlCtypD.gif | Hell, I can bypass the time lock,                                                                                                          |
+| BK4_20B  | https://i.imgur.com/el1xpqi.gif | Then we just need your key code and we're good!                                                                                            |
+| BK4_24A  | https://i.imgur.com/5BqDWFC.gif | I'm gonna check on Phil, I'll be right back.                                                                                               |
+| BK4_24B  | https://i.imgur.com/uHaycn4.gif | I told you not to touch that alarm!                                                                                                        |
+| BK4_31A  | https://i.imgur.com/g5YhF6G.gif | Tommy! The vault's open!                                                                                                                   |
+| BK4_34A  | https://i.imgur.com/r09d1H4.gif | Ok, we got the SWAT retirement fund. Let's get out of here!                                                                                |
+| BK4_34B  | https://i.imgur.com/tjGpsHm.gif | Ok, you asked for it! You've had your last chance!                                                                                         |
+| BK4_35A  | https://i.imgur.com/bVoSKBz.gif | They're storming the place!                                                                                                                |
+| BK4_35B  | https://i.imgur.com/JOxMUpV.gif | Take cover!                                                                                                                                |
+| BK4_40A  | https://i.imgur.com/S8YmhjV.gif | I'll give him abandonment issues!                                                                                                          |
+| BM1_A    | https://i.imgur.com/NDMikXb.gif | Where's Baker?                                                                                                                             |
+| BM1_B    | https://i.imgur.com/8IB9U3M.gif | I'm looking for Big Mitch Baker...                                                                                                         |
+| BM1_C    | https://i.imgur.com/h9xAdFO.gif | Who's lookin'?                                                                                                                             |
+| BM1_D    | https://i.imgur.com/w8gfybB.gif | Tommy Vercetti.                                                                                                                            |
+| BM1_E    | https://i.imgur.com/jhLmPs3.gif | Vercetti.                                                                                                                                  |
+| BM1_F    | https://i.imgur.com/nJ9bDDb.gif | You don't look like the law, so that's bought you a minute.                                                                                |
+| BM1_G    | https://i.imgur.com/vzaKhbb.gif | You better talk fast.                                                                                                                      |
+| BM1_H    | https://i.imgur.com/8JAluEe.gif | Kent Paul said you might be interested in pulling security for a gig he's got set up.                                                      |
+| BM1_I    | https://i.imgur.com/RyjcVni.gif | Kent Paul? Sheesh! No wonder he sent ya.                                                                                                   |
+| BM1_J    | https://i.imgur.com/ogzPgcc.gif | The last time he was here he left through the window in nothing but his limey birthday suit.                                               |
+| BM1_K    | https://i.imgur.com/U966Ljw.gif | Are you interested or not?                                                                                                                 |
+| BM1_L    | https://i.imgur.com/dBRug6S.gif | We only do favors for our own.                                                                                                             |
+| BM1_M    | https://i.imgur.com/Bq3eTOG.gif | How do I join?                                                                                                                             |
+| BM1_N    | https://i.imgur.com/8AoZM3e.gif | This ain't no country club, boy. Can you handle a bike?                                                                                    |
+| BM1_O    | https://i.imgur.com/DEXzGuY.gif | Can you sit on a stool and drink?                                                                                                          |
+| BM1_P    | https://i.imgur.com/P7CJKxm.gif | Cougar, Zeppelin, go see how this girl handles a bike...                                                                                   |
+| BM2_A    | https://i.imgur.com/ehtFiH0.gif | Ah, got ya again.                                                                                                                          |
+| BM2_B    | https://i.imgur.com/thTWJtp.gif | Hey Vercetti.                                                                                                                              |
+| BM2_C    | https://i.imgur.com/oiow1qO.gif | Cougar says you can handle a bike pretty good.                                                                                             |
+| BM2_D    | https://i.imgur.com/wrusC2N.gif | Yeah, how many more errands am I gonna to have to run?                                                                                     |
+| BM2_E    | https://i.imgur.com/qgHDGJZ.gif | I'm a very busy man.                                                                                                                       |
+| BM2_F    | https://i.imgur.com/ac3BmKE.gif | If it's a fight that's gonna settle this then bring it on.                                                                                 |
+| BM2_G    | https://i.imgur.com/G8aZ8nt.gif | Being one of us ain't just about brawlin'. It's about being part of a family.                                                              |
+| BM2_H    | https://i.imgur.com/Rv6B4Cr.gif | Yeah, I've been part of a family before alright. It didn't work out.                                                                       |
+| BM2_I    | https://i.imgur.com/qbTJHMg.gif | Yeah, right, but this family takes care of its own.                                                                                        |
+| BM2_J    | https://i.imgur.com/qQmElQB.gif | We don't ask a man to do the dirty work and then let him do fifteen years hard time.                                                       |
+| BM2_K    | https://i.imgur.com/u5vUQN0.gif | Yeah, that's right. I've done my homework.                                                                                                 |
+| BM2_L    | https://i.imgur.com/B5sVTsn.gif | This here's the biggest family of misfits, outcasts and badasses.                                                                          |
+| BM2_M    | https://i.imgur.com/XXTOdFi.gif | Hell, some of us has even been betrayed by our own country.                                                                                |
+| BM2_N    | https://i.imgur.com/c0vepIG.gif | I was locked up during 'Nam. Ugly business.                                                                                                |
+| BM2_O    | https://i.imgur.com/55g4iDe.gif | Which is why I'm gonna ask you to go mess with the man.                                                                                    |
+| BM2_P    | https://i.imgur.com/npUGXEf.gif | This whole damn country needs a kick in the ass, and we're the ones to deliver it.                                                         |
+| BM2_Q    | https://i.imgur.com/EWZjoe4.gif | So get out there, grab a bike and show this city how pissed you are!                                                                       |
+| BM2_R    | https://i.imgur.com/t7RExDI.gif | Alright, alright.                                                                                                                          |
+| BM3_A    | https://i.imgur.com/W8hSZBY.gif | Hey there, Mitch.                                                                                                                          |
+| BM3_B    | https://i.imgur.com/qwJH0K1.gif | Well, if it ain't 'bad ass' Vercetti.                                                                                                      |
+| BM3_C    | https://i.imgur.com/ai4DK2O.gif | Now I wanna see how good you can fight for your patch.                                                                                     |
+| BM3_D    | https://i.imgur.com/zXFefEL.gif | A local street gang made the mistake of stealing my hog...                                                                                 |
+| BM3_E    | https://i.imgur.com/4MYizI1.gif | probably because of some machismo thing or somethin'.                                                                                      |
+| BM3_F    | https://i.imgur.com/ETWjfnH.gif | Me and the boys would go over there and teach them a lesson in respect an'all.                                                             |
+| BM3_G    | https://i.imgur.com/hSkeHpO.gif | Anyways.                                                                                                                                   |
+| BM3_H    | https://i.imgur.com/h4yNzsp.gif | Then I got to thinking - this would make a good initiation for you.                                                                        |
+| BM3_I    | https://i.imgur.com/H2sxIXM.gif | You get my bike back, you can tell Paul he's got his security.                                                                             |
+| BNK_39   | https://i.imgur.com/RfpqBOL.gif | Shit! Where's Hilary?                                                                                                                      |
+| BNK1_7   | https://i.imgur.com/sO4MQNo.gif | Cam Jones?                                                                                                                                 |
+| BNK1_8   | https://i.imgur.com/EksBVt3.gif | I'm busting you out!                                                                                                                       |
+| BNK1_10  | https://i.imgur.com/JX34qv8.gif | Yeah, that's me...                                                                                                                         |
+| BNK1_11  | https://i.imgur.com/XQhYYkX.gif | Whatever you say!                                                                                                                          |
+| BNK1_12  | https://i.imgur.com/H4LO3Xi.gif | Lose the heat and get me back to my place!                                                                                                 |
+| BNK1_13  | https://i.imgur.com/9Nc2tGP.gif | I'm gonna be doing a job and you're my safe cracker.                                                                                       |
+| BNK1_14  | https://i.imgur.com/KoiY23I.gif | Beats losing my ass in a cell!                                                                                                             |
+| BNK2_1   | https://i.imgur.com/VyhvrsN.gif | LIVE AMMUNITION                                                                                                                            |
+| BNK2_2   | https://i.imgur.com/0TPjKTw.gif | AIM 3-2-1 FIRE!                                                                                                                            |
+| BNK2_3   | https://i.imgur.com/o7H7uTY.gif | AREA CLEAR!                                                                                                                                |
+| BNK2_4   | https://i.imgur.com/lUbvhrp.gif | Hoooeee!                                                                                                                                   |
+| BNK2_5   | https://i.imgur.com/HfJUN1R.gif | Couldn't hit a barn door!                                                                                                                  |
+| BNK2_7   | https://i.imgur.com/sJPkqiI.gif | So you wanna do me a favor, and help me put together a job?                                                                                |
+| BNK2_8   | https://i.imgur.com/sGHkYh4.gif | Son, after shooting like that, if you asked me to be your wife, I'd say yes.                                                               |
+| BNK2_9A  | https://i.imgur.com/uAxO8JR.gif | Son, you better get your fancy talking and big ideas and shove 'em where there ain't no sun. You can't shoot nothin'!                      |
+| BNK3_1   | https://i.imgur.com/Yzo9lLs.gif | Ok. I'll drive for you, but please, treat me bad.                                                                                          |
+| BNK3_3A  | https://i.imgur.com/FtH0PrT.gif | Illegal street race in progress at Vice Point.                                                                                             |
+| BNK3_3B  | https://i.imgur.com/HbK9ZNs.gif | Calling all officers.                                                                                                                      |
+| BNK3_3C  | https://i.imgur.com/04azsNt.gif | Street racers, this is illegal and forbidden!                                                                                              |
+| BNK4_1   | https://i.imgur.com/9uvGc2R.gif | I'll drive.                                                                                                                                |
+| BNK4_2   | https://i.imgur.com/5RjAIPj.gif | Great. A passenger. Wait 'til I tell the group about this.                                                                                 |
+| BNK4_3B  | https://i.imgur.com/HPIgReE.gif | Tommy, Hilary's taking up too much room!                                                                                                   |
+| BNK4_3C  | https://i.imgur.com/QY0C369.gif | I am not!                                                                                                                                  |
+| BNK4_3D  | https://i.imgur.com/FNY86qo.gif | Are too!                                                                                                                                   |
+| BNK4_3E  | https://i.imgur.com/X4a1Tin.gif | Hey, shut up you two, or you can get out and walk.                                                                                         |
+| BNK4_3F  | https://i.imgur.com/QSAght0.gif | Yeah - HILARY.                                                                                                                             |
+| BNK4_3I  | https://i.imgur.com/jC8Np3L.gif | For god's sake, Phil, stop waving that thing around!                                                                                       |
+| BNK4_4A  | https://i.imgur.com/Cs4jWpU.gif | Keep driving around the block, OK?                                                                                                         |
+| BNK4_5   | https://i.imgur.com/pkV9pFI.gif | Okay, Tommy, Okay.                                                                                                                         |
+| BNK4_6   | https://i.imgur.com/CPdOMbl.gif | THIS IS A RAID!                                                                                                                            |
+| BNK4_7   | https://i.imgur.com/BsJLyIB.gif | NOBODY MOVE!                                                                                                                               |
+| BNK4_8   | https://i.imgur.com/EshReGy.gif | EVERYBODY UP AGAINST THAT WALL!                                                                                                            |
+| BNK4_9   | https://i.imgur.com/GA8KL2x.gif | Phil, hold down the fort!                                                                                                                  |
+| BNK4_10  | https://i.imgur.com/pmU93oO.gif | Wilco roger that!                                                                                                                          |
+| BNK4_11  | https://i.imgur.com/VWmTuoi.gif | Come on Cam, the vault's upstairs...                                                                                                       |
+| BNK4_13  | https://i.imgur.com/KVL02j0.gif | I'll go find where he's holed up.                                                                                                          |
+| BNK4_15  | https://i.imgur.com/100Bvlx.gif | Sure. Everything's real quiet.                                                                                                             |
+| BNK4_16  | https://i.imgur.com/d124fEo.gif | You - you're coming with me!                                                                                                               |
+| BNK4_17  | https://i.imgur.com/GkXVCag.gif | Ok! Ok! Just don't shoot!                                                                                                                  |
+| BNK4_18  | https://i.imgur.com/ZMQymI3.gif | I SAID NOBODY MOVE!                                                                                                                        |
+| BNK4_21  | https://i.imgur.com/aWkKlzh.gif | Stay here. You try anything and you're dead.                                                                                               |
+| BNK4_25  | https://i.imgur.com/T3GjGtw.gif | The SWAT team will be here any minute!                                                                                                     |
+| BNK4_27  | https://i.imgur.com/YR7NG5n.gif | I could do with some help here, Tommy!                                                                                                     |
+| BNK4_28  | https://i.imgur.com/8R5TM6w.gif | Vice City S.W.A.T! You are completely surrounded!                                                                                          |
+| BNK4_29  | https://i.imgur.com/WqifNfh.gif | Surrounded? HA HA HA HAAAAAaaa!                                                                                                            |
+| BNK4_30  | https://i.imgur.com/NxpsKqE.gif | They're crapping themselves, corrupt bastards!                                                                                             |
+| BNK4_38  | https://i.imgur.com/vX3nb1q.gif | That's the last of them. GO! GO! GO!                                                                                                       |
+| BNK4_42  | https://i.imgur.com/mBJ89iU.gif | Hey guys! Get in! I got you covered!                                                                                                       |
+| BNK4_44  | https://i.imgur.com/zgwhxwm.gif | We made it! We're rich! RICH!                                                                                                              |
+| BNK4_48  | https://i.imgur.com/7tyNzwF.gif | Tommy, would you like a massage?                                                                                                           |
+| BNK4_49  | https://i.imgur.com/RnW7pfJ.gif | Well, Hi there, Mercedes! Yeah, I'm a little tense...                                                                                      |
+| BNK4_A   | https://i.imgur.com/rEvoUha.gif | As you can see, gentlemen, this is going to be the easiest buck we ever made.                                                              |
+| BNK4_B   | https://i.imgur.com/21SEFoR.gif | Tommy, seriously, you gotta consider going into law.                                                                                       |
+| BNK4_C   | https://i.imgur.com/euV95u2.gif | What the hell are you smoking, man? This ain't no simple plan!                                                                             |
+| BNK4_D   | https://i.imgur.com/9Dwa8Cj.gif | Well, who needs a simple plan anyway?                                                                                                      |
+| BNK4_E   | https://i.imgur.com/W4qy7h8.gif | Take communism, now that was a simple plan. Didn't do Russia any favors, huh?                                                              |
+| BNK4_F   | https://i.imgur.com/ZTr9ldF.gif | Calm down, all right? With a team like this it's going to be no problem.                                                                   |
+| BNK4_G   | https://i.imgur.com/JRq2BF4.gif | We got Cam on safe. Phil? You and me will handle security, and Hilary'll drive the getaway car.                                            |
+| BNK4_H   | https://i.imgur.com/OjICClb.gif | Uh, heh heh, aren't you forgetting somebody? Somebody who helped you to no end in this town? Somebody who...                               |
+| BNK4_I   | https://i.imgur.com/NZXFzmV.gif | Ken... Ken, that's right. Ken here, he washes the money for us and he keeps the drinks on ice.                                             |
+| BNK4_J   | https://i.imgur.com/tSbOYKV.gif | I don't understand what I am supposed to be doing here.                                                                                    |
+| BNK4_K   | https://i.imgur.com/4bKEITa.gif | Look, it's easy. Haven't you ever seen a movie?                                                                                            |
+| BNK4_L   | https://i.imgur.com/nKkdMbH.gif | We walk into the bank, we wave the gun around, and leave very rich men.                                                                    |
+| BNK450A  | https://i.imgur.com/c5tZtXI.gif | What'd I tell you Tommy? What'd I tell you? Bent SWAT better watch out when Kent Paul is in town.                                          |
+| BNK450B  | https://i.imgur.com/MrbBj5d.gif | Come on, gimme a bigger slice, mate, c'mon. I gotta get some new threads.                                                                  |
+| BUYP1    | https://i.imgur.com/hFIDItK.gif | You can now buy property in certain areas of the map.                                                                                      |
+| BUYP2    | https://i.imgur.com/NWZqpq2.gif | If you see a green house pickup, you can buy that property.                                                                                |
+| BUYP3    | https://i.imgur.com/COtFyaw.gif | Stand inside the marker, then press ::BUY:: to purchase that property.                                                                     |
+| CAP_01   | https://i.imgur.com/g3ZhTmW.gif | Ok, what's the emergency?                                                                                                                  |
+| CAP_02   | https://i.imgur.com/AJSZp21.gif | WHO?                                                                                                                                       |
+| CAP_03   | https://i.imgur.com/kWUcAGH.gif | Tommy... some mob thugs... said they'd come to take their cut...                                                                           |
+| CAP_04   | https://i.imgur.com/KR7Bmn4.gif | ...said it was a Mr. Forello's money... I feel like crap.                                                                                  |
+| CAP_05   | https://i.imgur.com/h9Gh3St.gif | Forelli? SONNY Forelli?                                                                                                                    |
+| CAP_06   | https://i.imgur.com/JJgT0xm.gif | Yeah, that's the guy... I think... they were very insistent...                                                                             |
+| CAP_07   | https://i.imgur.com/ALsAX8Z.gif | Don't you worry, pop, I'm not angry with you.                                                                                              |
+| CAP_08   | https://i.imgur.com/JSSYjwH.gif | Get him to the hospital.                                                                                                                   |
+| CAP_09   | https://i.imgur.com/23Zgy27.gif | Tommy... rip that guy a new asshole for me...                                                                                              |
+| CAP_10   | https://i.imgur.com/ZG5JKT9.gif | I'm gonna rip him two!                                                                                                                     |
+| CAP1B10  | https://i.imgur.com/xB6Pz04.gif | You've capped the collectors. More are on their way.                                                                                       |
+| CAR1_1   | https://i.imgur.com/pneoOkn.gif | B.J. Smith. And you must be Mr. Vercetti.                                                                                                  |
+| CAR1_2   | https://i.imgur.com/oP14266.gif | Would you like the tour?                                                                                                                   |
+| CAR1_3   | https://i.imgur.com/wREvF5N.gif | Might as well.                                                                                                                             |
+| CAR1_4   | https://i.imgur.com/dtX1Bme.gif | Well, I'm very sad to be selling the dealership to y'all.                                                                                  |
+| CAR1_5   | https://i.imgur.com/P2y7s95.gif | This was my first investment after I turned pro.                                                                                           |
+| CAR1_6   | https://i.imgur.com/56w3tqz.gif | But now it's time for me to move on.                                                                                                       |
+| CAR1_7   | https://i.imgur.com/1Ne9UgX.gif | You're leaving town?                                                                                                                       |
+| CAR1_8   | https://i.imgur.com/pMef90L.gif | Not in too much of a hurry, I hope?                                                                                                        |
+| CAR1_9   | https://i.imgur.com/tT5lHt1.gif | No. I'm just coming out of retirement, and preparing for my future comeback.                                                               |
+| CAR1_10  | https://i.imgur.com/3W4IFmy.gif | The business wasn't too strong,                                                                                                            |
+| CAR1_11  | https://i.imgur.com/N99eh2D.gif | and my staff took it upon themselves to get a bit more                                                                                     |
+| CAR1_12  | https://i.imgur.com/5au6AUc.gif | creative with the generation of wealth.                                                                                                    |
+| CAR1_13  | https://i.imgur.com/zRN6B0L.gif | Obviously, I could wind down the business before I hand it over.                                                                           |
+| CAR1_14  | https://i.imgur.com/91f5Dud.gif | Hell, I could burn the place down if I wanted to.                                                                                          |
+| CAR1_15  | https://i.imgur.com/cpraFrq.gif | This is prime development land.                                                                                                            |
+| CAR1_16  | https://i.imgur.com/XvoXMBP.gif | Oh, I wouldn't worry about any of that.                                                                                                    |
+| CAR1_17  | https://i.imgur.com/Zunszef.gif | This place seems perfect.                                                                                                                  |
+| CAR1_18  | https://i.imgur.com/TTjoKE3.gif | Yeh it does, So I take it we have a deal?                                                                                                  |
+| CM1_2A   | https://i.imgur.com/jbKa0pd.gif | Look at the arse on that!                                                                                                                  |
+| CM1_2B   | https://i.imgur.com/UFeXbdy.gif | Awright girl, it's your loss mate init!                                                                                                    |
+| CM1_2C   | https://i.imgur.com/KeQ5Wp2.gif | Awright me ol'china, how's it hangin'?                                                                                                     |
+| CM1_2D   | https://i.imgur.com/FpKW4wp.gif | What do you know about counterfeiting?                                                                                                     |
+| CM1_2E   | https://i.imgur.com/egX0XgF.gif | Oh I'm fine Paul, how 'bout you?                                                                                                           |
+| CM1_2F   | https://i.imgur.com/y2ZRHrK.gif | Come 'ere!                                                                                                                                 |
+| CM1_2G   | https://i.imgur.com/2UK7Lg6.gif | Awright! Awright! Awright! You're obviously a busy man.                                                                                    |
+| CM1_2H   | https://i.imgur.com/LM2Xjzo.gif | All I know about dodgy readys is the Triads supply the plates.                                                                             |
+| CM1_2I   | https://i.imgur.com/7TS632I.gif | They've got a shipping company down the docks,                                                                                             |
+| CM1_2J   | https://i.imgur.com/Dm3l4M5.gif | the boss man would know when the plates are coming in next!                                                                                |
+| CM1_2K   | https://i.imgur.com/eL1qnaA.gif | Thanks Paul.                                                                                                                               |
+| CM1_2L   | https://i.imgur.com/Ucvngxp.gif | What's the matter with you, you maniac!                                                                                                    |
+| CM1_2M   | https://i.imgur.com/PVuyUAr.gif | Give me another drink, lively!                                                                                                             |
+| CM1_A    | https://i.imgur.com/mhHa60d.gif | Mr. Vercetti? Hey. You bought the old print works?                                                                                         |
+| CM1_B    | https://i.imgur.com/MUB1VYH.gif | Yeah, my old man used to work on these.                                                                                                    |
+| CM1_C    | https://i.imgur.com/76xTDJx.gif | I was going to follow him in his trade, but... I lived a different life.                                                                   |
+| CM1_D    | https://i.imgur.com/LKlmZvh.gif | You planning on selling the old machinery, breaking it down?                                                                               |
+| CM1_E    | https://i.imgur.com/WlPiqDo.gif | I'm thinking we might print something - a newspaper, a magazine...                                                                         |
+| CM1_F    | https://i.imgur.com/yxthtMQ.gif | Oh, crap, sonny, low grade crap. I've always fancied printing money. It ain't too hard.                                                    |
+| CM1_G    | https://i.imgur.com/XSJ1cn0.gif | You know, I've been doing it on a small scale for years.                                                                                   |
+| CM1_H    | https://i.imgur.com/Xgs89Rb.gif | Really?                                                                                                                                    |
+| CM1_I    | https://i.imgur.com/wT2GcyO.gif | Sure. But we'd need some good quality plates.                                                                                              |
+| CM1_J    | https://i.imgur.com/MQxpX4E.gif | Of course! There's a counterfeiting syndicate already operating in Florida.                                                                |
+| CM1_K    | https://i.imgur.com/tlVPlaH.gif | A syndicate?                                                                                                                               |
+| CM1_L    | https://i.imgur.com/ONbfydN.gif | Yeah. Just rumors is all I've heard.                                                                                                       |
+| CM1_M    | https://i.imgur.com/aBFXhBg.gif | I know a man who's good with rumors...                                                                                                     |
+| CM1_N    | https://i.imgur.com/P4QglXH.gif | I used to spend the evenings with him, cleaning the rollers...                                                                             |
+| CNT1_1   | https://i.imgur.com/q7Uin8y.gif | Who are you? Oooof! Aaiieee! Not the face! Not the face!                                                                                   |
+| CNT1_2   | https://i.imgur.com/PI5YMU5.gif | Ok, I talk! I talk!                                                                                                                        |
+| CNT2_B1  | https://i.imgur.com/cN7JRha.gif | Alright, the courier's moving the plates from the docks today.                                                                             |
+| CNT2_B2  | https://i.imgur.com/rtNJKeE.gif | I'm gonna go intercept them, grab the plates, lose any heat, and make my way back here.                                                    |
+| CNT2_B3  | https://i.imgur.com/P5HzFC4.gif | Now. Depending how well this goes,                                                                                                         |
+| CNT2_B4  | https://i.imgur.com/uolTF8V.gif | we may have five minutes to print the money before the counterfeit syndicate finds us, or we may have all year.                            |
+| CNT2_B5  | https://i.imgur.com/S4Hcban.gif | Either way, I want green rolling off the presses five minutes after I get back. Got it?                                                    |
+| CNT2_B6  | https://i.imgur.com/IL8dKuQ.gif | Don't you worry Tommy. We'll be ready.                                                                                                     |
+| CNT2_B7  | https://i.imgur.com/gnqiXzz.gif | Me an'the boys will be around in the neighborhood case you need any heat taken care of.                                                    |
+| CNT2_B8  | https://i.imgur.com/zisavkO.gif | All right, everybody cool? All right. I'll catch you later...                                                                              |
+| COK1_1   | https://i.imgur.com/elkD3cJ.gif | Ooh shit!                                                                                                                                  |
+| COK1_2   | https://i.imgur.com/Zs9PukI.gif | Too slow grandad!                                                                                                                          |
+| COK1_4   | https://i.imgur.com/g1k5lVk.gif | Loser.                                                                                                                                     |
+| COK1_5   | https://i.imgur.com/lTO6002.gif | You better keep on running, asshole!                                                                                                       |
+| COK1_A   | https://i.imgur.com/XhKt7iF.gif | Come on, baby, come on! Yeah! Yeah! Arrrrr!                                                                                                |
+| COK1_B   | https://i.imgur.com/C7rhUN1.gif | Stupid horse! I'll chop your head off! Grrrrr...                                                                                           |
+| COK1_C   | https://i.imgur.com/mXw1qzI.gif | Who is this dickhead?                                                                                                                      |
+| COK1_D   | https://i.imgur.com/eBltfnk.gif | Tommy Vercetti. You remember me.                                                                                                           |
+| COK1_E   | https://i.imgur.com/CRbuVQQ.gif | Excuse me. I'm a little anxious. Never trust a goddamn horse!                                                                              |
+| COK1_F   | https://i.imgur.com/HjF8FnQ.gif | You do a good job - you work for me now.                                                                                                   |
+| COK1_G   | https://i.imgur.com/XazIu0f.gif | I work for money.                                                                                                                          |
+| COK1_H   | https://i.imgur.com/XJgeyeL.gif | As I said, amigo, you work for me now. Shut up. Some Judas has betrayed me.                                                                |
+| COK1_I   | https://i.imgur.com/uWmXaHO.gif | He thinks I don't know how much money I should be making, but stealing 3% is as good as stealing 100%.                                     |
+| COK1_J   | https://i.imgur.com/krDELKz.gif | No one does this to me. NO ONE!                                                                                                            |
+| COK1_K   | https://i.imgur.com/VrKT0YG.gif | You follow him from his apartment and you see where he goes! Later, we will kill him.                                                      |
+| COK2_1   | https://i.imgur.com/DNmqz5G.gif | One thing puzzling me, What's with 'Quentin'!?                                                                                             |
+| COK2_2   | https://i.imgur.com/B7Npk2i.gif | I dunno, I always kinda liked it... Quentin Vance...                                                                                       |
+| COK2_3   | https://i.imgur.com/Pj0gme2.gif | Vance? Your name's Lance Vance?                                                                                                            |
+| COK2_4   | https://i.imgur.com/hJnMGFI.gif | Hey! I got enough of that at school!                                                                                                       |
+| COK2_5   | https://i.imgur.com/lpLRAl8.gif | You ever fired one of those from a whirly?                                                                                                 |
+| COK2_6   | https://i.imgur.com/3R4DTOd.gif | No. I'll get a bit of practice on the way though.                                                                                          |
+| COK2_8   | https://i.imgur.com/vYqltcX.gif | Where the hell are we headed anyway?                                                                                                       |
+| COK2_9   | https://i.imgur.com/mpfrC8U.gif | Prawn Island.                                                                                                                              |
+| COK2_13  | https://i.imgur.com/lkHN7Pu.gif | Lance Vance. Poor bastard.                                                                                                                 |
+| COK2_14  | https://i.imgur.com/2UbJOFQ.gif | Ok, we're almost there.                                                                                                                    |
+| COK2_15  | https://i.imgur.com/zrkhPYg.gif | We'll make a couple of passes.                                                                                                             |
+| COK2_16  | https://i.imgur.com/snLLY28.gif | So take out as many guns as you can.                                                                                                       |
+| COK2_17  | https://i.imgur.com/m69QqBV.gif | Then I'll set you down and you're on your way.                                                                                             |
+| COK2_20  | https://i.imgur.com/cLbe8p9.gif | Damn! This is a war zone! Take out some of those gunmen!                                                                                   |
+| COK2_21  | https://i.imgur.com/Vl0K0g2.gif | We're taking hits here, man!                                                                                                               |
+| COK2_22  | https://i.imgur.com/qBriPpi.gif | This thing ain't cheap to fix! Take them out!                                                                                              |
+| COK2_23  | https://i.imgur.com/4pO2IlA.gif | Ok, you're on your own from here! Good luck, brother!                                                                                      |
+| COK2_27  | https://i.imgur.com/ZV6rJua.gif | You're on MY turf asshole!                                                                                                                 |
+| COK2_28  | https://i.imgur.com/6GSh7tx.gif | You're going down!                                                                                                                         |
+| COK2_A   | https://i.imgur.com/KZl0zEt.gif | What kind of incompetent fool are you?                                                                                                     |
+| COK2_B   | https://i.imgur.com/aT8L3xZ.gif | FOOL! FOOL! FOOL! FOOL!                                                                                                                    |
+| COK2_C   | https://i.imgur.com/WnGs2Fs.gif | Tommy!                                                                                                                                     |
+| COK2_D   | https://i.imgur.com/DqNgPal.gif | What, Ricardo?                                                                                                                             |
+| COK2_E   | https://i.imgur.com/3JOfngp.gif | These idiots - they always trying to screw you.                                                                                            |
+| COK2_F   | https://i.imgur.com/Mu55QOI.gif | That's the problem with this business.                                                                                                     |
+| COK2_G   | https://i.imgur.com/BE0m3CI.gif | What do you think you're doing?                                                                                                            |
+| COK2_H   | https://i.imgur.com/Ozoqb2h.gif | These pricks have failed me miserably,                                                                                                     |
+| COK2_I   | https://i.imgur.com/eozWMpl.gif | Soon any mom and pop will think they can sell gallo in Vice City.                                                                          |
+| COK2_J   | https://i.imgur.com/LhzqoOZ.gif | What next, huh? The stinking Mafia?!                                                                                                       |
+| COK2_K   | https://i.imgur.com/t9cUbdr.gif | That gang place is a fortress at ground level,                                                                                             |
+| COK2_L   | https://i.imgur.com/laME60C.gif | so Quentin here - Quentin! QUENTIN!                                                                                                        |
+| COK2_M   | https://i.imgur.com/zucojLU.gif | He'll fly you over the area!                                                                                                               |
+| COK2_N   | https://i.imgur.com/cQBYcxI.gif | Eradicate them!                                                                                                                            |
+| COK2_P   | https://i.imgur.com/65KbILb.gif | What are you doing here?                                                                                                                   |
+| COK2_Q   | https://i.imgur.com/pClwGI7.gif | Hey, I've been asking around and it's obvious                                                                                              |
+| COK2_R   | https://i.imgur.com/pqcXdGi.gif | that Diaz jumped the deal and iced my brother.                                                                                             |
+| COK2_S   | https://i.imgur.com/1fI25Zn.gif | And he'll kill you, too!                                                                                                                   |
+| COK2_T   | https://i.imgur.com/zyeg1j0.gif | I can take Diaz!                                                                                                                           |
+| COK2_U   | https://i.imgur.com/7C3hmHL.gif | No - listen to me! I'll handle Diaz -                                                                                                      |
+| COK2_V   | https://i.imgur.com/ATFsIL2.gif | - he's beginning to trust me.                                                                                                              |
+| COK3_A   | https://i.imgur.com/sSMRbKD.gif | Not so pleased with your selves NOW, huh!                                                                                                  |
+| COK3_B   | https://i.imgur.com/Y7BlQtm.gif | Ahahahahaa, ahahahahaa.                                                                                                                    |
+| COK3_C   | https://i.imgur.com/OTvs61F.gif | Whoa! Watch where you're waving that thing!                                                                                                |
+| COK3_D   | https://i.imgur.com/c9OBKAy.gif | No more pigeon shit on MY car, eh Tommy!                                                                                                   |
+| COK3_E   | https://i.imgur.com/yStBWOH.gif | Guess not.                                                                                                                                 |
+| COK3_F   | https://i.imgur.com/60cCiok.gif | You're damn right. Now listen,                                                                                                             |
+| COK3_G   | https://i.imgur.com/Nwq1R3q.gif | you know who owns the fastest boat on the east coast?                                                                                      |
+| COK3_H   | https://i.imgur.com/JoOETcL.gif | Not off hand, no.                                                                                                                          |
+| COK3_I   | https://i.imgur.com/eegyeVk.gif | ME. And I want it to stay that way.                                                                                                        |
+| COK3_J   | https://i.imgur.com/E7E8Py8.gif | Every smuggler from here to Caracas has one dream, a faster boat.                                                                          |
+| COK3_K   | https://i.imgur.com/Xr6WBHT.gif | Rumor has it the boatyard has just completed such a vessel.                                                                                |
+| COK3_L   | https://i.imgur.com/wQavzyl.gif | for some Costa Rican dickhead.                                                                                                             |
+| COK3_M   | https://i.imgur.com/wjZa6D8.gif | And Tommy... I WANT THAT BOAT!                                                                                                             |
+| COK3_N   | https://i.imgur.com/zsGcjxK.gif | I think your pigeons are back.                                                                                                             |
+| COK3_O   | https://i.imgur.com/7qz1WyC.gif | Ah! I thought I got you. Where'd you come from?                                                                                            |
+| COK3_P   | https://i.imgur.com/PA5AkaB.gif | Pigeons! Boom! Aaaaah!                                                                                                                     |
+| COK4_1   | https://i.imgur.com/TOb9Dp1.gif | So Tommy, we know it was Diaz busted our deal..                                                                                            |
+| COK4_3   | https://i.imgur.com/LwwhC4M.gif | So why the hell are we running errands for him?                                                                                            |
+| COK4_4   | https://i.imgur.com/LvsEZwG.gif | The more we learn now, the less we have to learn when we take this town over!                                                              |
+| COK4_5   | https://i.imgur.com/mpratjd.gif | I like your style, man. Real fresh.                                                                                                        |
+| COK4_8   | https://i.imgur.com/Z5GmtN0.gif | We got some competition!                                                                                                                   |
+| COK4_9a  | https://i.imgur.com/Q0nwEie.gif |                                                                                                                                            |
+| COK4_12  | https://i.imgur.com/l9kvXtI.gif | Watch yourself, they're coming from all over!                                                                                              |
+| COK4_13  | https://i.imgur.com/v9d169u.gif | Got 'em. Head for Diaz's as fast as you can!                                                                                               |
+| COK4_14  | https://i.imgur.com/rtsIcO0.gif | You want some of this?!                                                                                                                    |
+| COK4_15  | https://i.imgur.com/foxZik7.gif | Sleep with the fish!                                                                                                                       |
+| COK4_16  | https://i.imgur.com/YGFeX2D.gif | Eat it! EAT IT!                                                                                                                            |
+| COK4_19  | https://i.imgur.com/GcX2J14.gif | More trouble up ahead!                                                                                                                     |
+| COK4_20  | https://i.imgur.com/UuDvOoA.gif | There are gunmen on that jetty!                                                                                                            |
+| COK4_24  | https://i.imgur.com/mYMTwk8.gif | Good shooting, my friend. You're a real, proper, grade A lunatic.                                                                          |
+| COK4_25  | https://i.imgur.com/MjsavDV.gif | Well, thank you.                                                                                                                           |
+| COK4_26  | https://i.imgur.com/7eFcmXl.gif | See you around, Tommy.                                                                                                                     |
+| COK4_27  | https://i.imgur.com/OIcBq3t.gif | Okay, Mr. Lance Vance Dance.                                                                                                               |
+| COK4_34  | https://i.imgur.com/bSQjhRX.gif | Take those boats out!                                                                                                                      |
+| COK4_A   | https://i.imgur.com/0C1ZVtQ.gif | Eject! PLASTIC CRAP!                                                                                                                       |
+| COK4_B   | https://i.imgur.com/nIqOjDQ.gif | You doing this to me?                                                                                                                      |
+| COK4_C   | https://i.imgur.com/iyjOCcS.gif | Who do you think you are, you piece of plastic SHIT? Aaarrgh!                                                                              |
+| COK4_D   | https://i.imgur.com/5fFxJbp.gif | SCREW YOU!                                                                                                                                 |
+| COK4_E   | https://i.imgur.com/tYZ31g9.gif | It eats my favorite El burro movie, it die!                                                                                                |
+| COK4_F   | https://i.imgur.com/MNVtVwe.gif | What else could I do?                                                                                                                      |
+| COK4_G   | https://i.imgur.com/M9t6xuV.gif | It's probably not plugged in.                                                                                                              |
+| COK4_H   | https://i.imgur.com/EuhHUiS.gif | What?                                                                                                                                      |
+| COK4_I   | https://i.imgur.com/bAC3Tzd.gif | Damn - no matter, I can buy a hundred more.                                                                                                |
+| COK4_J   | https://i.imgur.com/AX0CikY.gif | Now Tommy,                                                                                                                                 |
+| COK4_K   | https://i.imgur.com/5yakdm2.gif | each month a freelancer sails into Vice City and moors his yacht.                                                                          |
+| COK4_L   | https://i.imgur.com/gCQjVUx.gif | He sells his cargo to the first boat.                                                                                                      |
+| COK4_M   | https://i.imgur.com/O28p80A.gif | I want you to take the speedboat                                                                                                           |
+| COK4_N   | https://i.imgur.com/1Wmwjfp.gif | and beat all the other shitheads to it,                                                                                                    |
+| COK4_O   | https://i.imgur.com/uNPcfiV.gif | then you bring the cargo here, ok!?                                                                                                        |
+| COK4_P   | https://i.imgur.com/wfXINuf.gif | Let me guess, you thought I could use a guardian angel.                                                                                    |
+| COK4_Q   | https://i.imgur.com/vCXCkxJ.gif | I'm just saying you need to let me in there, my man.                                                                                       |
+| COK4_R   | https://i.imgur.com/QFtOyS2.gif | Now you can feed me all this 'lonely tough guy' crap,                                                                                      |
+| COK4_S   | https://i.imgur.com/2bPrnAI.gif | but I know one day I'm gonna save your ass,                                                                                                |
+| COK4_T   | https://i.imgur.com/6Irsipi.gif | and you're probably gonna wanna kiss me!                                                                                                   |
+| COK4_U   | https://i.imgur.com/TK47Ddb.gif | Wacko.                                                                                                                                     |
+| COK4_V   | https://i.imgur.com/FAShWI2.gif | Hahahahahaha!                                                                                                                              |
+| COL2_1   | https://i.imgur.com/WVTPA4K.gif | Ze rain, she is tres wet zis time of the year...                                                                                           |
+| COL2_3   | https://i.imgur.com/RVnHjSr.gif | Ah, comment?                                                                                                                               |
+| COL2_4   | https://i.imgur.com/AYtvs0y.gif | Look, Cortez sent me. Just give me the damn chips.                                                                                         |
+| COL2_5   | https://i.imgur.com/pNOnzOf.gif | Oh... d'accord.                                                                                                                            |
+| COL2_6A  | https://i.imgur.com/NteSfCf.gif | Freeze, imperialist American pig! Zat iz propertay of ze government Francais. 'And eet over!                                               |
+| COL2_9   | https://i.imgur.com/AG3Ua6s.gif | You American idiot! They followed you here!                                                                                                |
+| COL2_A   | https://i.imgur.com/xGcgA5H.gif | Tommy! Come, join me.                                                                                                                      |
+| COL2_B   | https://i.imgur.com/cAscdtX.gif | This looks delicious, huh? Tapir snout?                                                                                                    |
+| COL2_C   | https://i.imgur.com/D1D4agB.gif | Uhhh... no, no. No, thanks.                                                                                                                |
+| COL2_D   | https://i.imgur.com/S3EjhrD.gif | Tommy, you are like a pampas breeze that has freed me from the stench of corruption,                                                       |
+| COL2_E   | https://i.imgur.com/0B4gTnT.gif | although, I must appear to mourn his passing and carry on with business as usual.                                                          |
+| COL2_F   | https://i.imgur.com/lEPLIcM.gif | This isn't getting me any closer to my money...                                                                                            |
+| COL2_G   | https://i.imgur.com/khJtULW.gif | Tommy, my friend, you are not in Liberty now. Here we do things differently.                                                               |
+| COL2_H   | https://i.imgur.com/65faCkD.gif | I will continue with my enquiries but in the meantime I have a valuable deal to close.                                                     |
+| COL2_I   | https://i.imgur.com/gstvgMA.gif | A favor for a friend, Cortez?                                                                                                              |
+| COL2_J   | https://i.imgur.com/3bY2IX9.gif | You're a good friend, Tommy. I knew you would not let me down.                                                                             |
+| COL2_K   | https://i.imgur.com/gafNDiR.gif | I need you to meet a courier who has obtained some valuable technology for me...                                                           |
+| COL3_D   | https://i.imgur.com/pJNnacL.gif | Let's hope it goes better than last time.                                                                                                  |
+| COL4_01  | https://i.imgur.com/uAoDZHv.gif | Diaz was pleased, and would like to meet you again.                                                                                        |
+| COL4_02  | https://i.imgur.com/Rfc6DiS.gif | Is that a good thing?                                                                                                                      |
+| COL4_03  | https://i.imgur.com/jbXaMGx.gif | Of course! Although I'm starting to think that Diaz was responsible for our unfortunate loss...                                            |
+| COL4_04  | https://i.imgur.com/KBgxed5.gif | What makes you say that?                                                                                                                   |
+| COL4_05  | https://i.imgur.com/ATQbcIB.gif | One does not wave accusations at a man like Diaz - I'm merely thinking out loud...                                                         |
+| COL4_06  | https://i.imgur.com/cLBOieX.gif | No matter. I have a proposal that you could profit from...                                                                                 |
+| COL4_07  | https://i.imgur.com/gPeAEkg.gif | I don't have time to run more errands, Cortez.                                                                                             |
+| COL4_08  | https://i.imgur.com/PZnaHau.gif | I would have thought a man with such dangerous debts would be hungry for opportunities. Please, Tommy, at least hear me out.               |
+| COL4_09  | https://i.imgur.com/TP1MZ8j.gif | Go on...                                                                                                                                   |
+| COL4_9   | https://i.imgur.com/o8uMwT2.gif | DEFENSIVE POSITIONS!                                                                                                                       |
+| COL4_24  | https://i.imgur.com/n1B5Lwx.gif | Security protocol Delta India Echo triggered! Vehicle self destruct initiated!                                                             |
+| COL5_1   | https://i.imgur.com/UOf7Fhm.gif | Port side! Port side!                                                                                                                      |
+| COL5_3   | https://i.imgur.com/pP143bo.gif | The bridge up ahead!                                                                                                                       |
+| COL5_12  | https://i.imgur.com/T8QRjM9.gif | Thomas, kill them, my country will love you.                                                                                               |
+| COL5_13  | https://i.imgur.com/MF6g68L.gif | Tommy, we are being overrun by the French!                                                                                                 |
+| COL5_14  | https://i.imgur.com/UChqxDp.gif | Tommy, everywhere I look, there are French men, I hate it!                                                                                 |
+| COL5_18  | https://i.imgur.com/SxJeSsa.gif | Shoot the helicopter!                                                                                                                      |
+| COL5A_1  | https://i.imgur.com/TTUtDRQ.gif | Circumstances force a hasty departure, amigo.                                                                                              |
+| COL5A_3  | https://i.imgur.com/AURfRca.gif | Ehh, the French want their missile technology back and after that last incident,                                                           |
+| COL5A_4  | https://i.imgur.com/AeQuiX2.gif | I feel it is time to find safer harbors.                                                                                                   |
+| COL5A_5  | https://i.imgur.com/iWVVUeJ.gif | Wouldn't it be safer to fly?                                                                                                               |
+| COL5A_6  | https://i.imgur.com/mdoB8so.gif | I'd be dead before I reached check-in. Besides, I need to get my merchandise out of the country.                                           |
+| COL5A_7  | https://i.imgur.com/388CvGl.gif | Need another gun?                                                                                                                          |
+| COL5A_8  | https://i.imgur.com/BPynYCG.gif | You, my friend, are worth ten guns...                                                                                                      |
+| COL5B_1  | https://i.imgur.com/JXAo6mj.gif | Thomas, you have protected and served me well.                                                                                             |
+| COL5B_2  | https://i.imgur.com/Um8OV2F.gif | But now you must leave us before we reach the open seas.                                                                                   |
+| COL5B_3  | https://i.imgur.com/M94gMWM.gif | I will lower my personal launch. Keep it, my friend, a token of my gratitude.                                                              |
+| COL5B_4  | https://i.imgur.com/IfSnfaA.gif | Thank you, Colonel.                                                                                                                        |
+| COL5B_5  | https://i.imgur.com/1yQjxG9.gif | One more request. While I'm away, could you keep an eye on Mercedes for me?                                                                |
+| COL5B_6  | https://i.imgur.com/bU1g7D5.gif | I think she could look after herself, but sure, I'll keep an eye out.                                                                      |
+| COL5B_7  | https://i.imgur.com/wRlu2Hc.gif | Gracias, amigo. Hasta luego.                                                                                                               |
+| COL5B_8  | https://i.imgur.com/HLkcmJ3.gif | Adios, amigo.                                                                                                                              |
+| COL410   | https://i.imgur.com/PbZADAA.gif | I have a buyer for a piece of military hardware that is being taken through town. Pick it up for me...                                     |
+| COL411   | https://i.imgur.com/WvBza24.gif | and once you get it, I want you to call me immediately, then...                                                                            |
+| CUB1_01  | https://i.imgur.com/YtTgOMt.gif | Hey, I'm Rico. You the man with the big cojones?                                                                                           |
+| CUB1_02  | https://i.imgur.com/wz1xfNY.gif | Ok man, treat her like a woman.                                                                                                            |
+| CUB1_03  | https://i.imgur.com/StbCGV3.gif | Not bad, you're a real man.                                                                                                                |
+| CUB1_04  | https://i.imgur.com/wbRjyqo.gif | You got real big cojones, amigo.                                                                                                           |
+| CUB1_05  | https://i.imgur.com/4bkKRrH.gif | Amigo, you the man, man.                                                                                                                   |
+| CUB1_06  | https://i.imgur.com/rtPha1a.gif | Call yourself a man, man?                                                                                                                  |
+| CUB1_07  | https://i.imgur.com/wB8sxbu.gif | You a little scaredy kitten, baby boy, go cry to your mommy!                                                                               |
+| CUB1_09  | https://i.imgur.com/rcTdEN4.gif | Man, you the man, man. I like you, man. I like you a lot.                                                                                  |
+| CUB1_10  | https://i.imgur.com/oPCVKwt.gif | Any time, man. 'cause you got cojones. And all my friends have big cojones.                                                                |
+| CUB1_12  | https://i.imgur.com/xxjazLF.gif | Go through the first checkpoint to begin the test.                                                                                         |
+| CUB1_A   | https://i.imgur.com/TRtkG58.gif | Si, men?                                                                                                                                   |
+| CUB1_B   | https://i.imgur.com/eibWQ8r.gif | Hey, easy Papi, this man's for me. You, you the boy?                                                                                       |
+| CUB1_C   | https://i.imgur.com/vwiHtEz.gif | Oh yeh. You the boy. I think so, you know?                                                                                                 |
+| CUB1_D   | https://i.imgur.com/ot4uT0z.gif | No. I don't think I do.                                                                                                                    |
+| CUB1_E   | https://i.imgur.com/sib5Bmn.gif | Oh yeah? You come here, tough guy.                                                                                                         |
+| CUB1_F   | https://i.imgur.com/7o1WaJH.gif | You think you can take me on?                                                                                                              |
+| CUB1_G   | https://i.imgur.com/O5CyRMN.gif | You think you can play stupid with me?                                                                                                     |
+| CUB1_H   | https://i.imgur.com/UQ1OMT7.gif | No, I think you're playing plenty stupid enough for both of us.                                                                            |
+| CUB1_I   | https://i.imgur.com/J4ue01a.gif | Hey, he call you dumb, son.                                                                                                                |
+| CUB1_J   | https://i.imgur.com/Y8qkJRS.gif | And I call him a little girl, Papi.                                                                                                        |
+| CUB1_K   | https://i.imgur.com/eBvTklz.gif | Look at him, all dressed up like that.                                                                                                     |
+| CUB1_L   | https://i.imgur.com/y6RZ7Ct.gif | What is this, ladies night?                                                                                                                |
+| CUB1_M   | https://i.imgur.com/HGTsgoX.gif | You some kind of tough guy, you dress like a woman?                                                                                        |
+| CUB1_N   | https://i.imgur.com/20RjMLQ.gif | You got on panties like a woman too, huh?                                                                                                  |
+| CUB1_O   | https://i.imgur.com/wmnf6PO.gif | What you got against women? You prefer men, big boy?                                                                                       |
+| CUB1_P   | https://i.imgur.com/NVzBlxj.gif | I like women! I like all women! I love my mother, chico!                                                                                   |
+| CUB1_Q   | https://i.imgur.com/L4DhIaj.gif | Alright, alright, I'll take your word for it. Relax.                                                                                       |
+| CUB1_R   | https://i.imgur.com/Xq7HhD0.gif | Can you drive, amigo?                                                                                                                      |
+| CUB1_S   | https://i.imgur.com/ElnecJv.gif | Yeah... like a woman.                                                                                                                      |
+| CUB1_T   | https://i.imgur.com/j4hn9Bn.gif | Very funny. I like you, big boy. Maybe you can help.                                                                                       |
+| CUB1_U   | https://i.imgur.com/SsShW9E.gif | Maybe you can prove you a man. Huh?                                                                                                        |
+| CUB1_V   | https://i.imgur.com/lqQLEeq.gif | Take out the boat.                                                                                                                         |
+| CUB1_W   | https://i.imgur.com/cMKECLu.gif | Show me you got some big cojones,                                                                                                          |
+| CUB1_X   | https://i.imgur.com/AMSMrr7.gif | and not some little bitty chiquita ones.                                                                                                   |
+| CUB2_02  | https://i.imgur.com/u6nYzhd.gif | We need reinforcements from the cafe!                                                                                                      |
+| CUB2_05  | https://i.imgur.com/xyMogx6.gif | Take out that cowardly sniper!                                                                                                             |
+| CUB2_07  | https://i.imgur.com/aFqm555.gif | They fight like girls! Take cover!                                                                                                         |
+| CUB2_09  | https://i.imgur.com/wg79qfi.gif | Sniper on the roof!                                                                                                                        |
+| CUB2_12  | https://i.imgur.com/Shcd4FQ.gif | Hey amigo! Good to see you could make it!                                                                                                  |
+| CUB2_14  | https://i.imgur.com/nxwRcwk.gif | CHAAAAAARGE!                                                                                                                               |
+| CUB2_15  | https://i.imgur.com/cAMYy3Q.gif | Now, my brothers, CHAAARRRGGEE!                                                                                                            |
+| CUB2_16  | https://i.imgur.com/vtfWUq9.gif | Tommy, we have proved our manful bravery!                                                                                                  |
+| CUB2_17  | https://i.imgur.com/BajSzih.gif | Let us steal the van full of drugs and make good our escape!                                                                               |
+| CUB2_19  | https://i.imgur.com/qVS31wY.gif | We gonna fight like men!                                                                                                                   |
+| CUB2_21  | https://i.imgur.com/Vxy9QXd.gif | Fight like men with huge cojones!                                                                                                          |
+| CUB2_A   | https://i.imgur.com/lXmWunR.gif | Un cafecito, por favor, Alberto...                                                                                                         |
+| CUB2_B   | https://i.imgur.com/9TaComA.gif | Papi! Un gran problema!                                                                                                                    |
+| CUB2_D   | https://i.imgur.com/eS5TjUy.gif | They mess with me, they mess with me for the last time!                                                                                    |
+| CUB2_E   | https://i.imgur.com/nNK4TSv.gif | We take 'em out!                                                                                                                           |
+| CUB2_F   | https://i.imgur.com/NfjqXmn.gif | Only we need some backup.                                                                                                                  |
+| CUB2_G   | https://i.imgur.com/q2JwRs0.gif | I lost a few hermanos already out there.                                                                                                   |
+| CUB2_H   | https://i.imgur.com/8PgNiHy.gif | Amigo, you drive good!                                                                                                                     |
+| CUB2_I   | https://i.imgur.com/BYe9wOf.gif | For a woman. Right?                                                                                                                        |
+| CUB2_J   | https://i.imgur.com/iEr1m5x.gif | This is no time for joking!                                                                                                                |
+| CUB2_K   | https://i.imgur.com/I4JfZjT.gif | Come on, drive for me again!                                                                                                               |
+| CUB2_L   | https://i.imgur.com/uPQAjAg.gif | Amigo! Take my boys over there!                                                                                                            |
+| CUB2_M   | https://i.imgur.com/9dCyUyR.gif | They mess with me, they mess with the biggest boy in town!                                                                                 |
+| CUB2_N   | https://i.imgur.com/6G0mswa.gif | No problema, Tommy.                                                                                                                        |
+| CUB2_O   | https://i.imgur.com/P6hj4vC.gif | Umberto my son, what happened?                                                                                                             |
+| CUB2_X   | https://i.imgur.com/qDqzmsD.gif | What is your problem?                                                                                                                      |
+| CUB2_Z   | https://i.imgur.com/vJ3zj5x.gif | Un gran problema...                                                                                                                        |
+| CUB3_01  | https://i.imgur.com/lHGrbyr.gif | Hey Rico. Nice boat, you ready?                                                                                                            |
+| CUB3_05  | https://i.imgur.com/GML5dse.gif | Si Tommy. Now you be a good shot today.                                                                                                    |
+| CUB3_06  | https://i.imgur.com/Y71iUTj.gif | My boat, she no good full of holes, ok?                                                                                                    |
+| CUB3_08  | https://i.imgur.com/x737KXd.gif | Uh oh... We under attack!                                                                                                                  |
+| CUB3_A   | https://i.imgur.com/hUEbHcL.gif | Alberto. Una cafe, señor.                                                                                                                  |
+| CUB3_B   | https://i.imgur.com/v2a1VNH.gif | Poppa, don't serve this snake in the straw.                                                                                                |
+| CUB3_C   | https://i.imgur.com/6KRpSom.gif | You're two-faced, Tommy!                                                                                                                   |
+| CUB3_D   | https://i.imgur.com/a2mfgEf.gif | You're either two-faced, or you're a wimp, baby boy!                                                                                       |
+| CUB3_E   | https://i.imgur.com/QjXbcEk.gif | They're laughing at me!                                                                                                                    |
+| CUB3_F   | https://i.imgur.com/MPgeaAL.gif | Easy, easy. What's your problem?                                                                                                           |
+| CUB3_G   | https://i.imgur.com/lHBu7H4.gif | They're laughing at me, Tommy. At me!                                                                                                      |
+| CUB3_H   | https://i.imgur.com/R8URhRZ.gif | Umberto Robina! They're doing whatever they like!                                                                                          |
+| CUB3_I   | https://i.imgur.com/h1wq9uf.gif | Nobody does whatever they like, Umberto, they do what you let them do.                                                                     |
+| CUB3_K   | https://i.imgur.com/fWLF5u0.gif | You want somebody taken care of?                                                                                                           |
+| CUB3_L   | https://i.imgur.com/IKW4W3s.gif | I can handle it, but it's gonna cost you.                                                                                                  |
+| CUB3_M   | https://i.imgur.com/WUmd8YL.gif | I know we're brothers and all, but this is business.                                                                                       |
+| CUB3_N   | https://i.imgur.com/HLee4ky.gif | Tommy. You a real man. Businessman, a gentleman.                                                                                           |
+| CUB3_O   | https://i.imgur.com/w1lDziy.gif | They have a load of product coming in off shore, really good stuff.                                                                        |
+| CUB3_P   | https://i.imgur.com/iLZAysE.gif | We take it, and we finish them.                                                                                                            |
+| CUB3_Q   | https://i.imgur.com/6NyQncr.gif | You take it, and I look after you. Like my brother. Like my son.                                                                           |
+| CUB3_R   | https://i.imgur.com/jDrNAiw.gif | I think I prefer the cash to being bounced on your knee, amigo.                                                                            |
+| CUB4_07  | https://i.imgur.com/6Mz240u.gif | Oy - the solvent is round the back, amigo.                                                                                                 |
+| CUB4_08  | https://i.imgur.com/3utHQDk.gif | Hola, amigos.                                                                                                                              |
+| CUB4_09  | https://i.imgur.com/qoXTKQ3.gif | Bueno. Putas. Muerte.                                                                                                                      |
+| CUB4_10  | https://i.imgur.com/okLxw48.gif | Vamos.                                                                                                                                     |
+| CUB4_11  | https://i.imgur.com/LHanAPZ.gif | Vamos indeed.                                                                                                                              |
+| CUB4_13  | https://i.imgur.com/Igcqph2.gif | Oye, let's go find our muchachos!                                                                                                          |
+| CUB4_14  | https://i.imgur.com/UxG6VUt.gif | Follow my compadres.                                                                                                                       |
+| CUB4_15  | https://i.imgur.com/xFBpgBd.gif | Ok, in you go...                                                                                                                           |
+| CUB4_16  | https://i.imgur.com/uxvHvwA.gif | I'm going to plant the bombs, cover me!                                                                                                    |
+| CUB4_17  | https://i.imgur.com/77ObOeL.gif | RUN!                                                                                                                                       |
+| CUB4_18  | https://i.imgur.com/pqoEm4u.gif | Man, this a nice part of town...                                                                                                           |
+| CUB4_19  | https://i.imgur.com/QKOjz7u.gif | This place is a dump, man.                                                                                                                 |
+| CUB4_21  | https://i.imgur.com/27gZcwL.gif | You know, they do nice pizzas here.                                                                                                        |
+| CUB4_22  | https://i.imgur.com/zg2fDm9.gif | Whoah, man. You drive like a crazy bitch!                                                                                                  |
+| CUB4_23  | https://i.imgur.com/94d93Qn.gif | You lost, man?                                                                                                                             |
+| CUB4_A   | https://i.imgur.com/4ffW2Vr.gif | Hey, ladies. You know what I'm gonna do?                                                                                                   |
+| CUB4_C   | https://i.imgur.com/AILr7rc.gif | I'm going to make love like a man.                                                                                                         |
+| CUB4_D   | https://i.imgur.com/FhzYQNk.gif | You know that, chica? Something like this.                                                                                                 |
+| CUB4_E   | https://i.imgur.com/AV54G5J.gif | Loser!                                                                                                                                     |
+| CUB4_F   | https://i.imgur.com/pZfCIKj.gif | Prick.                                                                                                                                     |
+| CUB4_G   | https://i.imgur.com/R6utmE9.gif | Hey, baby, I wouldn't touch you with a ten foot pole!                                                                                      |
+| CUB4_H   | https://i.imgur.com/PJLe2FU.gif | Umberto Robina, he likes the ladies! Not some goat in a skirt!                                                                             |
+| CUB4_I   | https://i.imgur.com/r87auDP.gif | Tommy! Tommy, I love you, I love you! Let's go!                                                                                            |
+| CUB4_J   | https://i.imgur.com/TIIoFYM.gif | Go where? Can't I get a cup of coffee first?                                                                                               |
+| CUB4_K   | https://i.imgur.com/pwxyOUs.gif | No time for coffee! Besides, I just had one.                                                                                               |
+| CUB4_L   | https://i.imgur.com/FTKSklC.gif | Oh.                                                                                                                                        |
+| CUB4_M   | https://i.imgur.com/aJbplEJ.gif | Tommy, how do you take out a snake?                                                                                                        |
+| CUB4_N   | https://i.imgur.com/6VM3bm5.gif | You bite him in the ass! Hahaha!                                                                                                           |
+| CUB4_P   | https://i.imgur.com/CuPKzc8.gif | You go and get us a little car.                                                                                                            |
+| CUB4_Q   | https://i.imgur.com/bZW9Pnl.gif | When you get it, come back and pick up my boy, Pepe,                                                                                       |
+| CUB4_R   | https://i.imgur.com/qHdKTPn.gif | and take him out to such and such...                                                                                                       |
+| CUB4_S   | https://i.imgur.com/slIITVU.gif | Hey Tommy! Tommy! Use their solvent as an explosive.                                                                                       |
+| CUB4_T   | https://i.imgur.com/wLP6T75.gif | Boom! Bye bye!                                                                                                                             |
+| CUB4_U   | https://i.imgur.com/dmUnkzC.gif | Umberto, what about you?                                                                                                                   |
+| CUB4_V   | https://i.imgur.com/WrUomI2.gif | Uhh... I'm going to stay behind, and watch over the cafe with Poppa.                                                                       |
+| CUB4_W   | https://i.imgur.com/BzXf5qB.gif | He not feeling so good. You know?                                                                                                          |
+| CUB4_X   | https://i.imgur.com/dJ7uUAz.gif | Whatever you say Umberto-                                                                                                                  |
+| CUB4_Z   | https://i.imgur.com/nTv8d6Q.gif | their processing plant                                                                                                                     |
+| DRUG_1   | https://i.imgur.com/OrzP9md.gif | Hello? Hel-lo?! Hello?                                                                                                                     |
+| DRUG_2   | https://i.imgur.com/4RbvHrx.gif | Put it out. There's a dude here.                                                                                                           |
+| DRUG_3   | https://i.imgur.com/ijRFm2r.gif | Hey suit dude! I guess you're the new owner?                                                                                               |
+| DRUG_4   | https://i.imgur.com/exaiW1R.gif | Yeah. Which one of the boats is the fastest?                                                                                               |
+| DRUG_5   | https://i.imgur.com/5CQdgPz.gif | It's already in the water, dude,                                                                                                           |
+| DRUG_6   | https://i.imgur.com/P7hUddJ.gif | I though you might want to try her out.                                                                                                    |
+| DRUG_7   | https://i.imgur.com/Nyls4hB.gif | Dude, she's already running with a 300 horse power engine...                                                                               |
+| DRUG_8   | https://i.imgur.com/pE4tfGQ.gif | ... and the fiberglass hull, she just shoots through the waves.!                                                                           |
+| DRUG_9   | https://i.imgur.com/trxvqRN.gif | She can do like zero to sixty in four seconds flat dude...                                                                                 |
+| DRUG_10  | https://i.imgur.com/DMqnKoz.gif | and she can hold like twenty bales of the best Jamaican smoke right in the hull!                                                           |
+| DRUG_11  | https://i.imgur.com/eoHyYf4.gif | So go ahead dude, she's ready to fly!                                                                                                      |
+| DRUG_12  | https://i.imgur.com/Uaiie21.gif | Yo yo, uh, suit dude, you gotta light?                                                                                                     |
+| DRUG_13  | https://i.imgur.com/hsAzHO7.gif | Dude?                                                                                                                                      |
+| FEC_RUN  | https://i.imgur.com/ZDYY5Q4.gif | Run                                                                                                                                        |
+| FIN_1B   | https://i.imgur.com/VFq6n1i.gif | You're going down, you back stabbing prick!                                                                                                |
+| FIN_2B   | https://i.imgur.com/oxqiwNF.gif | Oh you think so!                                                                                                                           |
+| FIN_3    | https://i.imgur.com/xebZ0UL.gif | No one to cover your ass now, eh Tommy?                                                                                                    |
+| FIN_11A  | https://i.imgur.com/faFNef7.gif | You took fifteen years from me Sonny...                                                                                                    |
+| FIN_11B  | https://i.imgur.com/DDmRCQ2.gif | And now I'm gonna make you pay!                                                                                                            |
+| FIN_12A  | https://i.imgur.com/LgyILNE.gif | You still don't get it do you!                                                                                                             |
+| FIN_12B  | https://i.imgur.com/10pXqHj.gif | I OWN you, Tommy.                                                                                                                          |
+| FIN_12C  | https://i.imgur.com/9kFR9d2.gif | Those fifteen years were mine to spend!                                                                                                    |
+| FIN_13   | https://i.imgur.com/0mPhxY7.gif | Get him boys, he never understood a thing.                                                                                                 |
+| FIN1_01  | https://i.imgur.com/U48voRo.gif | What's going on?                                                                                                                           |
+| FIN1_02  | https://i.imgur.com/PoWRajR.gif | Tommy! Oh good, good. Listen, listen. Uh, listen,                                                                                          |
+| FIN1_03  | https://i.imgur.com/FfhTPcL.gif | I like fish. I love fish.                                                                                                                  |
+| FIN1_04  | https://i.imgur.com/5gpHuov.gif | I love them as pets in bowls, or as food on a plate,                                                                                       |
+| FIN1_05  | https://i.imgur.com/MAsUq3H.gif | but as much as I love em, I don't want to sleep with them.                                                                                 |
+| FIN1_06  | https://i.imgur.com/a3WPq3q.gif | Okay, but right now your Italian brothers are coming from up there to fit me with some cement shoes, and I...                              |
+| FIN1_07  | https://i.imgur.com/vNhkV5A.gif | Shut up Ken. Sit down.                                                                                                                     |
+| FIN1_08  | https://i.imgur.com/ee9NxSu.gif | Lance, what the hell's going on?                                                                                                           |
+| FIN1_09  | https://i.imgur.com/i6aZyRT.gif | It's your friends up north Tommy. They ain't too happy you capped their man.                                                               |
+| FIN1_10  | https://i.imgur.com/6Eqid6X.gif | They're coming down to see the business today.                                                                                             |
+| FIN1_11  | https://i.imgur.com/bcu6l1u.gif | They took longer than I thought...                                                                                                         |
+| FIN1_12  | https://i.imgur.com/uFwv9Qc.gif | Guys, we gotta make this final we gotta leave no doubt that this is my operation. Mine!                                                    |
+| FIN1_13  | https://i.imgur.com/aCBJBfe.gif | Ken, you get the first run of counterfeit cash and put twenty mil in briefcases.                                                           |
+| FIN1_14  | https://i.imgur.com/jJ9FRuV.gif | Lance, you get the guys together...                                                                                                        |
+| FIN2_02  | https://i.imgur.com/fTbdRAE.gif | What? No big hugs for your old buddy?                                                                                                      |
+| FIN2_03  | https://i.imgur.com/6LUi6B9.gif | I've had fifteen years out of the loop,                                                                                                    |
+| FIN2_04  | https://i.imgur.com/hI54uHy.gif | I'm a bit rusty on family etiquette.                                                                                                       |
+| FIN2_05  | https://i.imgur.com/w8MiXDq.gif | Always angry, eh Tommy.                                                                                                                    |
+| FIN2_06  | https://i.imgur.com/PKNgIyv.gif | Didn't I say your temper would get you into trouble, huh?                                                                                  |
+| FIN2_07  | https://i.imgur.com/nf4s1wr.gif | There's three mil in the cases...                                                                                                          |
+| FIN2_08  | https://i.imgur.com/8ANBUuh.gif | How many was it? Ten? No, eleven men.                                                                                                      |
+| FIN2_09  | https://i.imgur.com/Mlbasre.gif | That's how you get to be called the Harwood Butcher! Heh-heh-heh!                                                                          |
+| FIN2_10  | https://i.imgur.com/MQ9TcrU.gif | You sent me to kill one man, ONE MAN. They knew I was coming Sonny...                                                                      |
+| FIN2_11  | https://i.imgur.com/6DDX7tH.gif | Tommy, Tommy, watch your tone.                                                                                                             |
+| FIN2_12  | https://i.imgur.com/zH1ENSl.gif | Anyone would think you blame me for that unfortunate set of circumstances.                                                                 |
+| FIN2_13  | https://i.imgur.com/t7FIfC9.gif | Just take the money...                                                                                                                     |
+| FIN2_14  | https://i.imgur.com/LPFC9a8.gif | Get the damn cash.                                                                                                                         |
+| FIN2_15  | https://i.imgur.com/V14ZUaX.gif | You know, Tommy? I did what I could for you, I pulled strings, called in favors.                                                           |
+| FIN2_16  | https://i.imgur.com/Kbzburs.gif | I was your friend, Tommy. I hoped you'd see sense, see what's good for business.                                                           |
+| FIN2_17  | https://i.imgur.com/BjUbeji.gif | I trusted you, Tommy, and you disappointed me.                                                                                             |
+| FIN2_18  | https://i.imgur.com/CP2bJB2.gif | But at least someone in your chicken shit organization knows how to do business,                                                           |
+| FIN2_19  | https://i.imgur.com/3GKWj88.gif | Isn't that right, Lance?                                                                                                                   |
+| FIN2_20  | https://i.imgur.com/Y9o3mMY.gif | I'm sorry Tommy. This is Vice City. This is business.                                                                                      |
+| FIN2_21  | https://i.imgur.com/Ws6jgsM.gif | You sold us out...                                                                                                                         |
+| FIN2_22  | https://i.imgur.com/NjXAQml.gif | No. I sold YOU out, Tommy, I sold YOU out.                                                                                                 |
+| FIN2_23  | https://i.imgur.com/SMdWoXv.gif | The real cash is upstairs in the safe.                                                                                                     |
+| FIN2_24  | https://i.imgur.com/a6zRCc6.gif | Tommy, what was the big plan?                                                                                                              |
+| FIN2_25  | https://i.imgur.com/45yXq15.gif | You think I'd just take the fake cash?                                                                                                     |
+| FIN2_26  | https://i.imgur.com/y9LQ1z1.gif | Save face and run away with my tail between my legs?!                                                                                      |
+| FIN2_27  | https://i.imgur.com/8tr33vX.gif | No.                                                                                                                                        |
+| FIN2_28  | https://i.imgur.com/kjA470K.gif | I just wanted to piss you off before I kill you.                                                                                           |
+| FIN3_01  | https://i.imgur.com/yKLfQB7.gif | Tommy?                                                                                                                                     |
+| FIN3_02  | https://i.imgur.com/vir0GTw.gif | Oh my god, Tommy! What happened?                                                                                                           |
+| FIN3_03  | https://i.imgur.com/wFqZQ7B.gif | What does it look like?                                                                                                                    |
+| FIN3_04  | https://i.imgur.com/W7VVHvx.gif | It looks like you ruined your suit!                                                                                                        |
+| FIN3_05  | https://i.imgur.com/FBCfHpE.gif | and Tommy, that was a beautiful suit! Tommy, what on earth happened?                                                                       |
+| FIN3_06  | https://i.imgur.com/W2ter66.gif | I had a disagreement with a business associate, you know how it is.                                                                        |
+| FIN3_07  | https://i.imgur.com/HFQKGLs.gif | Tommy, I have a disagreement, I send them an angry letter.                                                                                 |
+| FIN3_08  | https://i.imgur.com/p1oEAUI.gif | Maybe I pee in their mailbox. I don't start World War III.                                                                                 |
+| FIN3_09  | https://i.imgur.com/7SydTXi.gif | You know, maybe you should speak to my shrink...                                                                                           |
+| FIN3_10  | https://i.imgur.com/lNiIn6m.gif | That stupid prick, Lance...                                                                                                                |
+| FIN3_11  | https://i.imgur.com/ufo26Ou.gif | Tommy. I never liked that guy, okay?                                                                                                       |
+| FIN3_12  | https://i.imgur.com/3CJB6DZ.gif | He's neurotic, he's insecure, he's self-centered - the guy's an asshole!                                                                   |
+| FIN3_13  | https://i.imgur.com/Th2HkO7.gif | I'm glad you took him out!                                                                                                                 |
+| FIN3_14  | https://i.imgur.com/55xp8fF.gif | I don't think we're gonna be getting any more heat from up north either...                                                                 |
+| FIN3_15  | https://i.imgur.com/7pKKKjP.gif | ...'cause there ain't no 'up north', anymore.                                                                                              |
+| FIN3_16  | https://i.imgur.com/bWEXk04.gif | It's all down south now.                                                                                                                   |
+| FIN3_17  | https://i.imgur.com/TbX9HnA.gif | Wait, does that mean what I think it means..? Tommy, baby!                                                                                 |
+| FIN3_18  | https://i.imgur.com/mNndWvQ.gif | What do you think it means?                                                                                                                |
+| FIN3_19  | https://i.imgur.com/dcCy42e.gif | That we're in charge... I mean, that you're in charge. Oh, Tommy!                                                                          |
+| FIN3_20  | https://i.imgur.com/3YwEmjg.gif | You know, Ken. I think this could be the beginning of a beautiful business relationship....                                                |
+| FIN3_21  | https://i.imgur.com/l1h4AZ9.gif | After all, you're a conniving, backstabbing, two-bit thief                                                                                 |
+| FIN3_22  | https://i.imgur.com/1hyWJDy.gif | and I'm a convicted psychotic killer and drug dealer.                                                                                      |
+| FIN3_23  | https://i.imgur.com/xuNhmra.gif | I know. Ain't it just beautiful?                                                                                                           |
+| GA_2     | https://i.imgur.com/nc5YYik.gif | New engine and paint job. The cops won't recognize you!                                                                                    |
+| GEN1_06  | https://i.imgur.com/4QoQEgf.gif | Eh! He's got a blade!                                                                                                                      |
+| GEN1_07  | https://i.imgur.com/PX60FoM.gif | Go away from me, you cheap bastard!                                                                                                        |
+| GEN1_08  | https://i.imgur.com/OFNnsO4.gif | Oh sweet Jesus, I've wasted my life and my looks!                                                                                          |
+| GEN1_10  | https://i.imgur.com/ZFyVTtE.gif | I'm going to shut that big mouth of yours!                                                                                                 |
+| GEN1_11  | https://i.imgur.com/jsCsRIZ.gif | Stop running you fat slimeball!                                                                                                            |
+| GEN1_12  | https://i.imgur.com/iY1uVoE.gif | Stand still and I'll make it quick!                                                                                                        |
+| GEN1_A   | https://i.imgur.com/kh7eWbg.gif | Mr. Vercetti!                                                                                                                              |
+| GEN1_B   | https://i.imgur.com/eDK4Eec.gif | Colonel.                                                                                                                                   |
+| GEN1_C   | https://i.imgur.com/Lb8mYbm.gif | Thank you for coming. Please sit. Lobster?                                                                                                 |
+| GEN1_D   | https://i.imgur.com/eYDtc4n.gif | No - thanks.                                                                                                                               |
+| GEN1_E   | https://i.imgur.com/HWlDytb.gif | I'm ashamed to admit that one of the causes of our mutual problem appears to have been the loose tongue of a man I used to trust.          |
+| GEN1_F   | https://i.imgur.com/srN8voy.gif | I've been carrying Gonzalez for years, but now his incompetence reaches new heights!                                                       |
+| GEN1_G   | https://i.imgur.com/SUyhejq.gif | It is only right that you kill Gonzalez...                                                                                                 |
+| GEN1_H   | https://i.imgur.com/b1ru3z7.gif | Did he do it? It's the money that's important to me.                                                                                       |
+| GEN1_I   | https://i.imgur.com/ms404Oz.gif | For this kindness I'll reward you, and then we will find your money together.                                                              |
+| GEN1_J   | https://i.imgur.com/uobe238.gif | He will be at his Penthouse, half drunk probably.                                                                                          |
+| GEN1_K   | https://i.imgur.com/LqTYv0S.gif | Use this...                                                                                                                                |
+| GEN3_1   | https://i.imgur.com/01DUmbT.gif | Hogging all the action, I see...                                                                                                           |
+| GEN3_2   | https://i.imgur.com/D83dAdz.gif | Look, you wanna do something other than just shadowing me everywhere? Why don't you come along and show me if you're any use.              |
+| GEN3_3   | https://i.imgur.com/fjfcBTb.gif | I might just do that. The name's Lance, by the way.                                                                                        |
+| GEN3_4   | https://i.imgur.com/OLNVjVy.gif | Tommy Vercetti. Let's go...                                                                                                                |
+| GEN3_5   | https://i.imgur.com/5Phi0U1.gif | You must be Cortez's new gun.                                                                                                              |
+| GEN3_6   | https://i.imgur.com/6JWqaXq.gif | Until more gainful opportunities arise.                                                                                                    |
+| GEN3_7   | https://i.imgur.com/XrMhX6U.gif | They'll be here any minute - we both better get a good vantage point...                                                                    |
+| GEN3_8   | https://i.imgur.com/SybVQNJ.gif | OK! I'll take the balcony, you get the roof across the yard.                                                                               |
+| GEN3_9   | https://i.imgur.com/vfXPWps.gif | I live! Dickheads! And it's all down to you! What is your name?                                                                            |
+| GEN3_11  | https://i.imgur.com/v8taQtg.gif | I see you soon, amigo, I think!                                                                                                            |
+| GEN3_12  | https://i.imgur.com/cgGJchn.gif | Shit. Where's that guy Lance?                                                                                                              |
+| GEN3_14  | https://i.imgur.com/CH843sA.gif | Tommy! I need some help here!                                                                                                              |
+| GEN3_15  | https://i.imgur.com/KIBee6r.gif | Don't worry, I got you covered!                                                                                                            |
+| GEN3_16  | https://i.imgur.com/bySQ5py.gif | Diaz's men are getting cut down!                                                                                                           |
+| GEN3_46  | https://i.imgur.com/or8QaJt.gif | Sheeit!                                                                                                                                    |
+| GEN3_52  | https://i.imgur.com/RkLrW3M.gif | They think they can take on RICARDO DIAZ!?!                                                                                                |
+| GEN3_53  | https://i.imgur.com/OGm1bs6.gif | MY MONEY!                                                                                                                                  |
+| GEN3_54  | https://i.imgur.com/CCsLm11.gif | Don't just stand there, you pricks, chase that dickhead down!                                                                              |
+| GEN3_A   | https://i.imgur.com/86wKYUQ.gif | Thomas, I appreciate your coming.                                                                                                          |
+| GEN3_B   | https://i.imgur.com/xedWPP3.gif | Forgive me for getting straight to business.                                                                                               |
+| GEN3_C   | https://i.imgur.com/KZ6SYUT.gif | Diaz has asked me to oversee a minor business transaction.                                                                                 |
+| GEN3_E   | https://i.imgur.com/IynEJ3j.gif | Which is why I thought of you, my friend.                                                                                                  |
+| GEN3_F   | https://i.imgur.com/M2cwUmx.gif | I've dropped some protection at the multistory carpark.                                                                                    |
+| GEN3_G   | https://i.imgur.com/nrsLSIx.gif | Pick it up - then go and watch over Diaz's men at the drop off.                                                                            |
+| GEN3_H   | https://i.imgur.com/OokuWNH.gif | Gracias, amigo.                                                                                                                            |
+| HAM1_A   | https://i.imgur.com/wbQLplW.gif | Hello? Hello?                                                                                                                              |
+| HAM1_B   | https://i.imgur.com/0HRQaag.gif | Come in, my dear, and rest your soles.                                                                                                     |
+| HAM1_C   | https://i.imgur.com/T43ovPg.gif | You must be the big bad man me grandaddy been chattin' 'bout.                                                                              |
+| HAM1_D   | https://i.imgur.com/p5ScQj6.gif | Tells me tings about you, you know, when he visits,                                                                                        |
+| HAM1_E   | https://i.imgur.com/g2qqSHh.gif | and about the others who wait for you.                                                                                                     |
+| HAM1_F   | https://i.imgur.com/66hvVWR.gif | Now, we all dead for long time, but you,                                                                                                   |
+| HAM1_G   | https://i.imgur.com/Uiupj1K.gif | I wouldn't want to be in your shoes, ha ha ha ha ha!                                                                                       |
+| HAM1_H   | https://i.imgur.com/mhVEPs8.gif | I got a message to come here.                                                                                                              |
+| HAM1_I   | https://i.imgur.com/8IOaPCQ.gif | Can you hear dem?                                                                                                                          |
+| HAM1_J   | https://i.imgur.com/5JKwOpl.gif | Dem callin' your name, boy, must want you pretty bad, don't ya tink?                                                                       |
+| HAM1_K   | https://i.imgur.com/Jv4KheW.gif | Now you do old Auntie Poulet a turn, huh, maybe she help you.                                                                              |
+| HAM1_L   | https://i.imgur.com/5W5oQLs.gif | Maybe she can give you a little juju after all of dis.                                                                                     |
+| HAM1_M   | https://i.imgur.com/tLeWyDR.gif | Give you some magic to give the law man the stink eye, hmmmmm?                                                                             |
+| HAM1_N   | https://i.imgur.com/bO0geSG.gif | Look, this is all very, um... give me what?                                                                                                |
+| HAM1_O   | https://i.imgur.com/YRgRt7m.gif | I, I, I think I've got the wrong address...                                                                                                |
+| HAM1_P   | https://i.imgur.com/jzf3JNC.gif | Do me these tings, Tommy...                                                                                                                |
+| HAM1_Q   | https://i.imgur.com/e5Zvkzj.gif | The nasty proud foofoos, mmm,                                                                                                              |
+| HAM1_R   | https://i.imgur.com/IPKbBGB.gif | been making my boys shake de heads.                                                                                                        |
+| HAM1_S   | https://i.imgur.com/S1qFhz4.gif | Now they told the policeman where me been stashing my powders.                                                                             |
+| HAM1_T   | https://i.imgur.com/4DDEq7X.gif | Dey tink it drugs, them stupid.                                                                                                            |
+| HAM1_U   | https://i.imgur.com/kNnKPso.gif | Now be a good boy Tommy and go and get the powders for Auntie Poulet.                                                                      |
+| HAM1_V   | https://i.imgur.com/HntuXg1.gif | Yeah, yeah, sure, sure.                                                                                                                    |
+| HAM3_A   | https://i.imgur.com/vOncDlj.gif | Hello? Hello - uh... I'm looking for somebody around here...                                                                               |
+| HAM3_B   | https://i.imgur.com/2vBOQO7.gif | You looking hungry, Tommy.                                                                                                                 |
+| HAM3_C   | https://i.imgur.com/3zJrBac.gif | Do I know you?                                                                                                                             |
+| HAM3_D   | https://i.imgur.com/MkidQOc.gif | Hush now.                                                                                                                                  |
+| HAM3_E   | https://i.imgur.com/5P8VcGh.gif | One more ting an I can let you go, Tommy.                                                                                                  |
+| HAM3_F   | https://i.imgur.com/P7zzJBj.gif | My boys gone war wit dem boys.                                                                                                             |
+| HAM3_G   | https://i.imgur.com/vALtU3O.gif | But no guns.                                                                                                                               |
+| HAM3_I   | https://i.imgur.com/CFeP3gw.gif | While they fight in de streets, you will take this rifle.                                                                                  |
+| HAM3_J   | https://i.imgur.com/TlYjPHh.gif | No one sees you, no one hears you.                                                                                                         |
+| HAM3_K   | https://i.imgur.com/Jj3Z0uv.gif | Now, Tommy, you do this for me, and you no longer tied to my apron strings.                                                                |
+| HAM3_L   | https://i.imgur.com/XqliMRv.gif | Kay auntie...                                                                                                                              |
+| HAT2_1   | https://i.imgur.com/m2lyHLb.gif | Oh, sorry, I - I must have the wrong address...                                                                                            |
+| HAT2_2   | https://i.imgur.com/uXljx9K.gif | Well, you might as well come in and rest your soles and have some tea.                                                                     |
+| HAT2_3   | https://i.imgur.com/dYwOsdn.gif | Do you have something there for me, Tommy?                                                                                                 |
+| HAT2_4   | https://i.imgur.com/XxyGdNo.gif | Yeah...                                                                                                                                    |
+| HAT2_5   | https://i.imgur.com/STFhSHW.gif | This place feels familiar to me, uh - it's - a smell from childhood - a deja vu...                                                         |
+| HAT2_6   | https://i.imgur.com/fxYlTBx.gif | Now Tommy, I'm going to whisper a lickle errand for you. Hear me well, aye?                                                                |
+| HAT2_7   | https://i.imgur.com/onuNR5Q.gif | You look like someone I, I...                                                                                                              |
+| HAT2_8   | https://i.imgur.com/Sgg2ob6.gif | Them have fast boats they use to cross the seas with drugs.                                                                                |
+| HAT2_9   | https://i.imgur.com/eR29bks.gif | It is their livelihood.                                                                                                                    |
+| HAT2_10  | https://i.imgur.com/o73Ln8p.gif | Me nephew bin making lickle flying bombs to take dem out.                                                                                  |
+| HAT2_11  | https://i.imgur.com/l2muKQn.gif | Blow de boats to coffin wood.                                                                                                              |
+| HAT2_12  | https://i.imgur.com/H8n1LqO.gif | Thanks for the tea.                                                                                                                        |
+| HAT2_B2  | https://i.imgur.com/SbwuVtI.gif | Kill the Cuban gangsters...                                                                                                                |
+| HAT2_B4  | https://i.imgur.com/JffRxtF.gif | ...and destroy their boats!                                                                                                                |
+| ICC1_A   | https://i.imgur.com/DRlaXbf.gif | Who are you?                                                                                                                               |
+| ICC1_B   | https://i.imgur.com/C1Gd67D.gif | Your new owner.                                                                                                                            |
+| ICC1_C   | https://i.imgur.com/dKUKJdF.gif | Were you now, or at any time, a child?                                                                                                     |
+| ICC1_E   | https://i.imgur.com/KmGvDhZ.gif | Were you a child?                                                                                                                          |
+| ICC1_F   | https://i.imgur.com/V4FpY5Y.gif | Yes! Calm down! What's wrong with you?                                                                                                     |
+| ICC1_G   | https://i.imgur.com/IzGV65K.gif | I knew it. A child.                                                                                                                        |
+| ICC1_H   | https://i.imgur.com/QFEcOUR.gif | A dirty, stinking, sniveling, snotting, vile, puking, crying little baby!                                                                  |
+| ICC1_I   | https://i.imgur.com/27CAlka.gif | A baby... an awful, horrible, disgusting little boo hoo.                                                                                   |
+| ICC1_J   | https://i.imgur.com/Ao8ds7E.gif | Mommy doesn't love you. You little shit!                                                                                                   |
+| ICC1_K   | https://i.imgur.com/TrtFrZY.gif | Ow! Calm down.                                                                                                                             |
+| ICC1_L   | https://i.imgur.com/aBbz5A8.gif | I HATE babies, and I hate children.                                                                                                        |
+| ICC1_M   | https://i.imgur.com/BdegDwj.gif | They're dirty, sniveling, snotting, vile, puking little...                                                                                 |
+| ICC1_N   | https://i.imgur.com/yrpA76B.gif | Enough already!                                                                                                                            |
+| ICC1_O   | https://i.imgur.com/l1vkrLh.gif | What is wrong with you??                                                                                                                   |
+| ICC1_P   | https://i.imgur.com/HKlTFd1.gif | You make soft ice cream, okay? It's purely for kids.                                                                                       |
+| ICC1_Q   | https://i.imgur.com/YQ9Yarg.gif | What kind of psycho are you?                                                                                                               |
+| ICC1_R   | https://i.imgur.com/ogQPUP0.gif | Just so I understand this, why make children happy if you hate them?                                                                       |
+| ICC1_S   | https://i.imgur.com/mBWPznu.gif | Oh, you stupid, sniveling, snotty-                                                                                                         |
+| ICC1_T   | https://i.imgur.com/TmR3tgQ.gif | Shut up!                                                                                                                                   |
+| ICC1_U   | https://i.imgur.com/bNp82bY.gif | - Brat!                                                                                                                                    |
+| ICC1_V   | https://i.imgur.com/4Pka3ef.gif | The ice cream is a front.                                                                                                                  |
+| ICC1_W   | https://i.imgur.com/aXS1wxE.gif | We distribute other, non-dairy products.                                                                                                   |
+| ICC1_X   | https://i.imgur.com/viVRPS3.gif | And if I see a kid, I put him to good use.                                                                                                 |
+| ICC1_Y   | https://i.imgur.com/GGqCoJk.gif | Don't I, kiddies? Yes - yes, I do. Mummy doesn't love you.                                                                                 |
+| ICC1_Z   | https://i.imgur.com/4iLRlBC.gif | She HATES you!                                                                                                                             |
+| INT1_A   | https://i.imgur.com/hA1ysBy.gif | Tommy Vercetti... Huh! Shit.                                                                                                               |
+| INT1_A1  | https://i.imgur.com/Id3yS3v.gif | pay him a little visit, right?                                                                                                             |
+| INT1_A2  | https://i.imgur.com/2rLNoi9.gif | see how he's doing.                                                                                                                        |
+| INT1_B   | https://i.imgur.com/qAfRvJa.gif | Didn't think they'd ever let him out.                                                                                                      |
+| INT1_C   | https://i.imgur.com/vMoWuWO.gif | He kept his head down, helps people forget.                                                                                                |
+| INT1_D   | https://i.imgur.com/FVoKP7u.gif | People will remember soon enough.                                                                                                          |
+| INT1_E   | https://i.imgur.com/iUUi6c1.gif | When they see him walking down the streets of their neighborhoods.                                                                         |
+| INT1_F   | https://i.imgur.com/fsKef0f.gif | It will be bad for business.                                                                                                               |
+| INT1_G   | https://i.imgur.com/KyXWJlq.gif | Well, what are we gonna do, Sonny?                                                                                                         |
+| INT1_H   | https://i.imgur.com/AT9IsIn.gif | We treat him like an old friend and keep him busy out of town. OK?                                                                         |
+| INT1_I   | https://i.imgur.com/eVpODSu.gif | We been talking about expanding down South, right?                                                                                         |
+| INT1_J   | https://i.imgur.com/rHSF8bR.gif | Vice City is twenty-four carat gold these days.                                                                                            |
+| INT1_K   | https://i.imgur.com/0BjC6Y0.gif | The Colombians, the Mexicans, hell,                                                                                                        |
+| INT1_L   | https://i.imgur.com/jxFv1Ls.gif | even those Cuban refugees are cutting themselves a piece of some nice action.                                                              |
+| INT1_M   | https://i.imgur.com/1tV0maC.gif | But it's all drugs, Sonny,                                                                                                                 |
+| INT1_N   | https://i.imgur.com/9PFSkqQ.gif | None of the families will touch that shit!                                                                                                 |
+| INT1_O   | https://i.imgur.com/xQdYuyo.gif | Times are changing.                                                                                                                        |
+| INT1_P   | https://i.imgur.com/dmzilU1.gif | The families can't keep their backs turned while our enemies reap the rewards.                                                             |
+| INT1_Q   | https://i.imgur.com/0RDhFlP.gif | So, we send someone down to do the dirty work for us...                                                                                    |
+| INT1_R   | https://i.imgur.com/OIQ0fKn.gif | and cut ourselves a nice quiet slice. OK?                                                                                                  |
+| INT1_S   | https://i.imgur.com/J9VO99j.gif | Who's our contact down there?                                                                                                              |
+| INT1_T   | https://i.imgur.com/DHyjbV8.gif | Ken Rosenberg, schmuck of a lawyer.                                                                                                        |
+| INT1_U   | https://i.imgur.com/JQR9X7y.gif | How's he gonna hold Vercetti's leash?                                                                                                      |
+| INT1_V   | https://i.imgur.com/Z7RlZJt.gif | We don't need him to.                                                                                                                      |
+| INT1_W   | https://i.imgur.com/1JNT5tD.gif | We just set him loose in Vice City,                                                                                                        |
+| INT1_X   | https://i.imgur.com/mDxoqrg.gif | we give him a little cash to get started. OK?                                                                                              |
+| INT1_Y   | https://i.imgur.com/mqWaUnu.gif | Give it a few months.                                                                                                                      |
+| INT1_Z   | https://i.imgur.com/rtrs61y.gif | Then we go down,                                                                                                                           |
+| INT2_A   | https://i.imgur.com/J1B1E9T.gif | Hey, hey, guys! It's, uh, Ken Rosenberg here! Hey! Heh, heh, hey, great, hey!                                                              |
+| INT2_B   | https://i.imgur.com/1Akm0WT.gif | Well, uh, I'm gonna drive you guys to the meet, okay?                                                                                      |
+| INT2_C   | https://i.imgur.com/FI25wLb.gif | Now, I've talked to the suppliers and they are very, huh-ha,                                                                               |
+| INT2_D   | https://i.imgur.com/2xBTuxb.gif | keen to start a business relationship, so, uh,                                                                                             |
+| INT2_E   | https://i.imgur.com/hYrgHIJ.gif | if all goes well, we should, uh,                                                                                                           |
+| INT2_F   | https://i.imgur.com/yzhxirO.gif | be doing very nicely for ourselves, which is, y'know...                                                                                    |
+| INT2_G   | https://i.imgur.com/vhavyrW.gif | good...                                                                                                                                    |
+| INT2_H   | https://i.imgur.com/zVK4jfr.gif | Okay, so. They're brothers, okay.                                                                                                          |
+| INT2_I   | https://i.imgur.com/7VlLanY.gif | One operates the uh, the business,                                                                                                         |
+| INT2_J   | https://i.imgur.com/ASGsc99.gif | and the other one does the flying.                                                                                                         |
+| INT3_A   | https://i.imgur.com/bdlqUjw.gif | Ok, that's them in the chopper.                                                                                                            |
+| INT3_B   | https://i.imgur.com/4fOcAw0.gif | All right, here's the deal.                                                                                                                |
+| INT3_C   | https://i.imgur.com/EtN0GtR.gif | They want a straight exchange on open ground.                                                                                              |
+| INT3_D   | https://i.imgur.com/dYocj0U.gif | All right? Ok. Stay tight, let's go.                                                                                                       |
+| INT3_G   | https://i.imgur.com/U0lfRso.gif | Got it?                                                                                                                                    |
+| INT3_H   | https://i.imgur.com/BRjjnfJ.gif | 100% pure grade-A Colombian, my friend.                                                                                                    |
+| INT3_I   | https://i.imgur.com/WrafFmW.gif | The greens?                                                                                                                                |
+| INT3_J   | https://i.imgur.com/ReGj5ZC.gif | Tens and twenties... used.                                                                                                                 |
+| INT3_K   | https://i.imgur.com/WoOdUTS.gif | I think we have a deal, my friend. HA HA!                                                                                                  |
+| INT3_L   | https://i.imgur.com/m61jVu8.gif | Go on, get out of here! Drive!                                                                                                             |
+| INT3_M   | https://i.imgur.com/QiWLpO1.gif | Let me see it.                                                                                                                             |
+| INT3_N   | https://i.imgur.com/A6mGtBj.gif | Oh shit!                                                                                                                                   |
+| INT4_I   | https://i.imgur.com/pzaudDe.gif | I'll drop by your office tomorrow and we can start sorting this mess out.                                                                  |
+| INT4_K   | https://i.imgur.com/KxBQEf2.gif | What are you gonna do?                                                                                                                     |
+| INTB_A   | https://i.imgur.com/GETshAT.gif | Tommy! Tommy, it's been too long.                                                                                                          |
+| INTB_B   | https://i.imgur.com/yMws4cp.gif | Hello Sonny.                                                                                                                               |
+| INTB_C   | https://i.imgur.com/mSE6Mep.gif | I know, I know. You're just overwhelmed with emotion.                                                                                      |
+| INTB_D   | https://i.imgur.com/QA7MqSU.gif | Fifteen years - seems like only yesterday.                                                                                                 |
+| INTB_E   | https://i.imgur.com/TIYGEF9.gif | I guess that's a perspective thing.                                                                                                        |
+| INTB_F   | https://i.imgur.com/KnXLVfp.gif | Hey, doing time for the family is no piece of cake,                                                                                        |
+| INTB_G   | https://i.imgur.com/qRPJlwe.gif | but the family looks after its own, ok?                                                                                                    |
+| INTB_H   | https://i.imgur.com/JMy3vqv.gif | So, how'd the deal go down - you sitting on some white gold?                                                                               |
+| INTB_I   | https://i.imgur.com/IaqyDDz.gif | Look Sonny, we were set up. The deal was an ambush. Harry and Lee are dead.                                                                |
+| INTB_J   | https://i.imgur.com/WvgxoEG.gif | You better be kidding me Tommy. Tell me you still got the money.                                                                           |
+| INTB_K   | https://i.imgur.com/Jlbm0Cl.gif | ... no Sonny... I don't have the money.                                                                                                    |
+| INTB_L   | https://i.imgur.com/pSUZt1i.gif | That was my money, Tommy, MY MONEY!                                                                                                        |
+| INTB_M   | https://i.imgur.com/iyZm0Hp.gif | You better not be screwing me Tommy because you know I'm not a man to be screwed with!                                                     |
+| INTB_N   | https://i.imgur.com/2Mu1NRq.gif | Wait Sonny.                                                                                                                                |
+| INTB_O   | https://i.imgur.com/u6bVngq.gif | You have my personal assurance that I'm going to get your money back and the drugs.                                                        |
+| INTB_P   | https://i.imgur.com/V9kXWLh.gif | And I'm gonna mail you the dicks of those responsible.                                                                                     |
+| INTB_Q   | https://i.imgur.com/0UwVYjl.gif | Hey, I already know that. You're not a fool Tommy, but I warn you, neither am I.                                                           |
+| INTB_R   | https://i.imgur.com/R47ENJ8.gif | If it was anybody else you'd be DEAD already.                                                                                              |
+| INTB_S   | https://i.imgur.com/ooQQmO5.gif | But because it's you, because we got history, I'm gonna let you handle this.                                                               |
+| INTB_T   | https://i.imgur.com/GuTRCUZ.gif | Look, Sonny, you got my word.                                                                                                              |
+| INTB_U   | https://i.imgur.com/HkOx8K5.gif | I'll be in touch.                                                                                                                          |
+| INTRO1   | https://i.imgur.com/AFJC11Q.gif | I poke my head out of the gutter for one freakin' second and fate shovels shit in my face!                                                 |
+| INTRO2   | https://i.imgur.com/8BrbROv.gif | Go get some sleep.                                                                                                                         |
+| KPM1_A   | https://i.imgur.com/UY7zZRl.gif | Awright mush, I'm gonna save your Vera, mate.                                                                                              |
+| KPM1_B   | https://i.imgur.com/WCMdEM5.gif | What the hell are you talking about?                                                                                                       |
+| KPM1_C   | https://i.imgur.com/6NRayam.gif | You know that wanker Diaz, the Bugle Master.                                                                                               |
+| KPM1_D   | https://i.imgur.com/eqdMJk3.gif | He's got your boy, Lance. Word is your mate tried to jump him...                                                                           |
+| KPM1_E   | https://i.imgur.com/TF2l9UF.gif | didn't jump high enough if you know what I mean.                                                                                           |
+| KPM1_F   | https://i.imgur.com/6nUVR89.gif | Where did he take him? In plain English?                                                                                                   |
+| KPM1_G   | https://i.imgur.com/ipDjE90.gif | Keep your barnet on! They got him across town at the junkyard.                                                                             |
+| KPM1_H   | https://i.imgur.com/9t7pz61.gif | Bloody hell... you nutter!                                                                                                                 |
+| LAW1_5   | https://i.imgur.com/lBsERJH.gif | Will you be working for my father?                                                                                                         |
+| LAW1_6   | https://i.imgur.com/P4w4tBU.gif | Maybe.                                                                                                                                     |
+| LAW1_7   | https://i.imgur.com/jwklS29.gif | Do you mind me resting my hand in your lap?                                                                                                |
+| LAW1_9   | https://i.imgur.com/owGFm23.gif | It's so difficult having a rich and powerful father. Vamos.                                                                                |
+| LAW1_10  | https://i.imgur.com/pEsyAE3.gif | See you around, handsome!                                                                                                                  |
+| LAW1_11  | https://i.imgur.com/2GnqsWP.gif | I'm sure you will.                                                                                                                         |
+| LAW1_12  | https://i.imgur.com/poou9MU.gif | Hmmmm... nice bike.                                                                                                                        |
+| LAW1_13  | https://i.imgur.com/4uXnk6O.gif | No! My Bike!                                                                                                                               |
+| LAW1_A   | https://i.imgur.com/Yy8xrvF.gif | Go get some sleep, he says -                                                                                                               |
+| LAW1_B   | https://i.imgur.com/kS9jN6Y.gif | - I have been sitting in this chair all night with the lights off drinking coffee!                                                         |
+| LAW1_C   | https://i.imgur.com/B1LcKMZ.gif | This is a disaster. We are so screwed, man!                                                                                                |
+| LAW1_D   | https://i.imgur.com/GzPM4xD.gif | These gorillas, listen to me, are gonna come down here and rip my head off. It's ridiculous!                                               |
+| LAW1_E   | https://i.imgur.com/gpFDS86.gif | I did NOT go to law school for this! Ok, now what the hell are we gonna do?                                                                |
+| LAW1_F   | https://i.imgur.com/7m4M3l7.gif | Shut up, sit down, relax. I'll tell you what we're gonna do.                                                                               |
+| LAW1_G   | https://i.imgur.com/nR2NsiR.gif | You're gonna find out who took our cocaine - and then, I'm gonna kill them.                                                                |
+| LAW1_H   | https://i.imgur.com/mMXdszG.gif | That's a good idea. That's a GREAT idea. Let me think, let me think, let me think.                                                         |

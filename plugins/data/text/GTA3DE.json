@@ -1,0 +1,9180 @@
+{
+	"data": [
+		[
+			"FEDS_BA",
+			"\" button - BACK"
+		],
+		[
+			"YD1_BON",
+			"$1000!"
+		],
+		[
+			"SCORE",
+			"$~1~"
+		],
+		[
+			"TSCORE2",
+			"$~1~"
+		],
+		[
+			"LOVE3",
+			"'A DROP IN THE OCEAN'"
+		],
+		[
+			"T4X4_2",
+			"'A RIDE IN THE PARK'"
+		],
+		[
+			"RM2",
+			"'ARMS SHORTAGE'"
+		],
+		[
+			"AS1",
+			"'BAIT'"
+		],
+		[
+			"DIAB4",
+			"'BIG'N'VEINY'"
+		],
+		[
+			"YD1",
+			"'BLING-BLING SCRAMBLE'"
+		],
+		[
+			"TM5",
+			"'BLOW FISH'"
+		],
+		[
+			"FM21",
+			"'BOMB DA BASE: ACT I'"
+		],
+		[
+			"FM3",
+			"'BOMB DA BASE: ACT II'"
+		],
+		[
+			"HM_4",
+			"'BULLION RUN'"
+		],
+		[
+			"RC3",
+			"'CASINO CALAMITY'"
+		],
+		[
+			"FM1",
+			"'CHAPERONE'"
+		],
+		[
+			"JM4",
+			"'CIPRIANI'S CHAUFFEUR'"
+		],
+		[
+			"FM2",
+			"'CUTTING THE GRASS'"
+		],
+		[
+			"JM5",
+			"'DEAD SKUNK IN THE TRUNK'"
+		],
+		[
+			"KM3",
+			"'DEAL STEAL'"
+		],
+		[
+			"LOVE6",
+			"'DECOY'"
+		],
+		[
+			"RC1",
+			"'DIABLO DESTRUCTION'"
+		],
+		[
+			"LM2",
+			"'DON'T SPANK MA BITCH UP'"
+		],
+		[
+			"LM3",
+			"'DRIVE MISTY FOR ME'"
+		],
+		[
+			"LOVE5",
+			"'ESCORT SERVICE'"
+		],
+		[
+			"AS2",
+			"'ESPRESSO-2-GO!'"
+		],
+		[
+			"RM3",
+			"'EVIDENCE DASH'"
+		],
+		[
+			"JM2",
+			"'FAREWELL 'CHUNKY' LEE CHONG'"
+		],
+		[
+			"FIRE_M",
+			"'FIREFIGHTER'"
+		],
+		[
+			"YD3",
+			"'GANGCAR ROUND-UP'"
+		],
+		[
+			"EBAL",
+			"'GIVE ME LIBERTY'"
+		],
+		[
+			"RM4",
+			"'GONE FISHING'"
+		],
+		[
+			"LOVE4",
+			"'GRAND THEFT AERO'"
+		],
+		[
+			"KM2",
+			"'GRAND THEFT AUTO'"
+		],
+		[
+			"MEA4",
+			"'HER LOVER'"
+		],
+		[
+			"DIAB2",
+			"'I SCREAM, YOU SCREAM'"
+		],
+		[
+			"KM1",
+			"'KANBU BUST-OUT'"
+		],
+		[
+			"YD4",
+			"'KINGDOM COME'"
+		],
+		[
+			"FM4",
+			"'LAST REQUESTS'"
+		],
+		[
+			"LOVE1",
+			"'LIBERATOR'"
+		],
+		[
+			"LOVE7",
+			"'LOVE'S DISAPPEARANCE'"
+		],
+		[
+			"LM1",
+			"'LUIGI'S GIRLS'"
+		],
+		[
+			"RC2",
+			"'MAFIA MASSACRE'"
+		],
+		[
+			"RM6",
+			"'MARKED MAN'"
+		],
+		[
+			"JM1",
+			"'MIKE LIPS LAST LUNCH'"
+		],
+		[
+			"MM_1",
+			"'MULTISTOREY MAYHEM'"
+		],
+		[
+			"HM1_D",
+			"'Nines' is their tag and purple is their flag and each day they rock their colors..."
+		],
+		[
+			"AM3",
+			"'PAPARAZZI PURGE'"
+		],
+		[
+			"AMBUL_M",
+			"'PARAMEDIC'"
+		],
+		[
+			"T4X4_1",
+			"'PATRIOT PLAYGROUND'"
+		],
+		[
+			"AM4",
+			"'PAYDAY FOR RAY'"
+		],
+		[
+			"RM5",
+			"'PLASTER BLASTER'"
+		],
+		[
+			"LM4",
+			"'PUMP-ACTION PIMP'"
+		],
+		[
+			"AS4",
+			"'RANSOM'"
+		],
+		[
+			"CAT1",
+			"'RANSOM'"
+		],
+		[
+			"HM_3",
+			"'RIGGED TO BLOW'"
+		],
+		[
+			"HM_5",
+			"'RUMBLE'"
+		],
+		[
+			"AS3",
+			"'S.A.M.'"
+		],
+		[
+			"TM3",
+			"'SALVATORE'S CALLED A MEETING'"
+		],
+		[
+			"AM1",
+			"'SAYONARA SALVATORE'"
+		],
+		[
+			"KM4",
+			"'SHIMA'"
+		],
+		[
+			"RM1",
+			"'SILENCE THE SNEAK'"
+		],
+		[
+			"KM5",
+			"'SMACK DOWN'"
+		],
+		[
+			"TM1",
+			"'TAKING OUT THE LAUNDRY'"
+		],
+		[
+			"TAXI_M",
+			"'TAXI DRIVER'"
+		],
+		[
+			"MEA1",
+			"'THE CROOK'"
+		],
+		[
+			"CAT2",
+			"'THE EXCHANGE'"
+		],
+		[
+			"LM5",
+			"'THE FUZZ BALL'"
+		],
+		[
+			"JM6",
+			"'THE GETAWAY'"
+		],
+		[
+			"TM2",
+			"'THE PICK-UP'"
+		],
+		[
+			"MEA2",
+			"'THE THIEVES'"
+		],
+		[
+			"MEA3",
+			"'THE WIFE'"
+		],
+		[
+			"HM_2",
+			"'TOYMINATOR'"
+		],
+		[
+			"TM4",
+			"'TRIADS AND TRIBULATIONS'"
+		],
+		[
+			"DIAB3",
+			"'TRIAL BY FIRE'"
+		],
+		[
+			"DIAB1",
+			"'TURISMO'"
+		],
+		[
+			"AM5",
+			"'TWO-FACED TANNER'"
+		],
+		[
+			"AM2",
+			"'UNDER SURVEILLANCE'"
+		],
+		[
+			"HM_1",
+			"'UZI MONEY'"
+		],
+		[
+			"YD2",
+			"'UZI RIDER'"
+		],
+		[
+			"JM3",
+			"'VAN HEIST'"
+		],
+		[
+			"COP_M",
+			"'VIGILANTE'"
+		],
+		[
+			"LOVE2",
+			"'WAKA-GASHIRA WIPEOUT!'"
+		],
+		[
+			"FEC_UND",
+			"(NO)"
+		],
+		[
+			"PAPER1",
+			"*"
+		],
+		[
+			"PAPER2",
+			"*"
+		],
+		[
+			"PAPER3",
+			"*"
+		],
+		[
+			"FEDSAS3",
+			"- CHANGE SELECTION"
+		],
+		[
+			"FEDS_SE",
+			"/ button - SELECT"
+		],
+		[
+			"FEDS_SB",
+			"/ button - SELECT \" button - BACK"
+		],
+		[
+			"FEA_2SP",
+			"2 SPEAKERS"
+		],
+		[
+			"RM_EIG",
+			"8 Ball's"
+		],
+		[
+			"BOMB1",
+			"8-Ball's Garage"
+		],
+		[
+			"EBAL_J",
+			"8-Ball's got some business up stairs."
+		],
+		[
+			"TM5_D",
+			"8-Ball's rigged a dustcart with a bomb."
+		],
+		[
+			"COLLECT",
+			"::MBULLION::"
+		],
+		[
+			"KILLS",
+			"::MKILLS::"
+		],
+		[
+			"LM5_9",
+			"::MLADIES::"
+		],
+		[
+			"FEA_UP",
+			";"
+		],
+		[
+			"FEDSSC1",
+			";-FASTER SCROLLING"
+		],
+		[
+			"FEDS_AS",
+			";=-CHANGE SELECTION"
+		],
+		[
+			"FEDSAS4",
+			";=<> - CHANGE SELECTION"
+		],
+		[
+			"FEA_LE",
+			"<"
+		],
+		[
+			"FEDS_AM",
+			"<>-CHANGE MENU"
+		],
+		[
+			"FEDSAS2",
+			"<>-CHANGE SELECTION"
+		],
+		[
+			"FEA_DO",
+			"="
+		],
+		[
+			"FEDSSC2",
+			"=-STOP SCROLLING"
+		],
+		[
+			"FEA_RI",
+			">"
+		],
+		[
+			"FEST_R2",
+			"A Ride In The Park in secs"
+		],
+		[
+			"KM1_C",
+			"A Yakuza Kanbu is in custody awaiting transfer for trial."
+		],
+		[
+			"LOVE1_E",
+			"A deal is a deal, so they'll not see a penny from me."
+		],
+		[
+			"MEAT1_A",
+			"A friend said you could fix some problems I got. Get to the payphone in Trenton if you think you can help."
+		],
+		[
+			"DIAB2_B",
+			"A gang of no-goods has threatened to remove my starring member if I don't pay them a cut."
+		],
+		[
+			"HM5_D",
+			"A gang of them against two of us, or rather..."
+		],
+		[
+			"LOVE6_A",
+			"A lesson in business, my friend."
+		],
+		[
+			"AM3_A",
+			"A reporter has been nosing around."
+		],
+		[
+			"DIAB4_A",
+			"A thieving opportunist has stolen a van of my latest publication hot off the press!"
+		],
+		[
+			"LOVE1_C",
+			"A valued resource, an old oriental gentleman I know,"
+		],
+		[
+			"JAILB_U",
+			"A'right, a'right. Get lost."
+		],
+		[
+			"CRED005",
+			"AARON GARBUT"
+		],
+		[
+			"CRED267",
+			"AARON RIGBY"
+		],
+		[
+			"CRED140",
+			"ACTORS"
+		],
+		[
+			"CRED027",
+			"ADAM COCHRANE"
+		],
+		[
+			"CRED092",
+			"ADAM DAVIDSON"
+		],
+		[
+			"CRED008",
+			"ADAM FOWLER"
+		],
+		[
+			"CRED080",
+			"ADAM TEDMAN"
+		],
+		[
+			"CRED103",
+			"ADAM TEDMAN"
+		],
+		[
+			"CRED231",
+			"ADAM TEDMAN"
+		],
+		[
+			"PAGEB7",
+			"AK47 delivered to hideout"
+		],
+		[
+			"CRED124",
+			"AL ESPINOSA AS MIGUEL"
+		],
+		[
+			"CRED033",
+			"ALAN CAMPBELL"
+		],
+		[
+			"CRED155",
+			"ALEX ANTHONY SIOUKAS"
+		],
+		[
+			"CRED251",
+			"ALEX BAZLINTON"
+		],
+		[
+			"CRD136A",
+			"ALEX HORTON"
+		],
+		[
+			"CRED021",
+			"ALEX HORTON"
+		],
+		[
+			"CRED232",
+			"ALEX MASON"
+		],
+		[
+			"CRED243",
+			"ALEXANDER ILLES"
+		],
+		[
+			"CRED036",
+			"ALEXANDER ROGER"
+		],
+		[
+			"CRED154",
+			"ALICE B. SALTZMAN"
+		],
+		[
+			"CRED031",
+			"ALISDAIR WOOD"
+		],
+		[
+			"RAMP_A",
+			"ALL RAMPAGES COMPLETED!"
+		],
+		[
+			"CRED042",
+			"ALLAN WALKER"
+		],
+		[
+			"CRED225",
+			"ALLAN WALKER"
+		],
+		[
+			"CRED157",
+			"AMY SALZMAN"
+		],
+		[
+			"CRED202",
+			"ANA HERCULES"
+		],
+		[
+			"CRED255",
+			"ANDREW SEMPLE"
+		],
+		[
+			"CRED030",
+			"ANDREW SOOSAY"
+		],
+		[
+			"CRED035",
+			"ANDRZEJ MADAJCZYK"
+		],
+		[
+			"CRED048",
+			"ANDY DUTHIE"
+		],
+		[
+			"CRED136",
+			"ANIMATED BY"
+		],
+		[
+			"CRED020",
+			"ANIMATION & DIRECTION"
+		],
+		[
+			"CRED212",
+			"ANITA FITZSIMONS"
+		],
+		[
+			"FET_APL",
+			"APPLY"
+		],
+		[
+			"CRED004",
+			"ART DIRECTOR"
+		],
+		[
+			"CRED256",
+			"ARTIST"
+		],
+		[
+			"CRED025",
+			"ARTISTS"
+		],
+		[
+			"CRED069",
+			"ASSOCIATE PRODUCER"
+		],
+		[
+			"ASUKA",
+			"ASUKA MISSIONS"
+		],
+		[
+			"B_SITE",
+			"ASUKA SUBURBAN MISSIONS"
+		],
+		[
+			"FEP_AUD",
+			"AUDIO"
+		],
+		[
+			"FET_AUD",
+			"AUDIO"
+		],
+		[
+			"CRED109",
+			"AUDIO DIRECTED BY DAN HOUSER"
+		],
+		[
+			"CRED110",
+			"AUDIO PRODUCED BY RENAUD SEBBANE"
+		],
+		[
+			"CRED043",
+			"AUDIO PROGRAMMING"
+		],
+		[
+			"CRED023",
+			"AUTO DESIGN"
+		],
+		[
+			"CRED349",
+			"Abner Williamson"
+		],
+		[
+			"CNT_ATM",
+			"Activate mission"
+		],
+		[
+			"ADJHYD",
+			"Adjust Hydraulics"
+		],
+		[
+			"AEROPL",
+			"Aeroplane"
+		],
+		[
+			"MEA1_B4",
+			"Ah, Mr Chonks sent you did he. Let's go and pay the fellow a visit."
+		],
+		[
+			"GA_14",
+			"All the vehicles. NICE! Here's a little something."
+		],
+		[
+			"JM5_B",
+			"Alright, just the guy I need to talk to!"
+		],
+		[
+			"JM6_B",
+			"Alright, listen. Get some wheels to the safehouse at St. Marks and pick up a few friends of mine."
+		],
+		[
+			"JM4_C",
+			"Alright, listen. This guy ain't Italian and he's no mechanic but he can get things fixed."
+		],
+		[
+			"JM5_C",
+			"Alright, there's a car stuffed with a stiff at the cafe near Callahan Point."
+		],
+		[
+			"JM3_A",
+			"Alright, we're gonna hit the payroll van."
+		],
+		[
+			"LM3_9B",
+			"Alright?"
+		],
+		[
+			"LM3_6A",
+			"Am I goin' to play with your big end again?"
+		],
+		[
+			"RM_AMMU",
+			"Ammu Nation"
+		],
+		[
+			"RM2_A",
+			"An old army buddy of mine runs a business in Rockford."
+		],
+		[
+			"FM2_O",
+			"And if he's rattin' us out... kill him."
+		],
+		[
+			"AM4_11",
+			"And if you're interested you'll know where to find me."
+		],
+		[
+			"JAILB_D",
+			"And no group, has claimed responsibility."
+		],
+		[
+			"RM5_B1",
+			"And today he's gonna make a Federal Deposition!"
+		],
+		[
+			"JM4_12",
+			"And watch the car, Joey just fixed this junk heap."
+		],
+		[
+			"PAGE_11",
+			"Annihilate ~1~ Yardies in 120 seconds!"
+		],
+		[
+			"VANHSTP",
+			"Any more Securicars you want cracked? Bring them to our garage in the Portland Harbor."
+		],
+		[
+			"RM2_C",
+			"Anyway, some Cartel scum roughed him up yesterday, said they'd be back for some of his stock today."
+		],
+		[
+			"END_I",
+			"Anyway, what was I saying?"
+		],
+		[
+			"FESZ_QZ",
+			"Are you sure you want to save this game?"
+		],
+		[
+			"FESZ_QR",
+			"Are you sure you want to start a new game? All progress since the last save game will be lost. Proceed?"
+		],
+		[
+			"FESZ_QF",
+			"Are you sure you wish to format the Memory Card (PS2) in MEMORY CARD slot 1?"
+		],
+		[
+			"ARMBOMB",
+			"Arm Bomb"
+		],
+		[
+			"GA_7B",
+			"Arm with ~h~::FIRE::~w~. Bomb will go off when engine is started."
+		],
+		[
+			"GA_7",
+			"Arm with ~h~::VEHB::~w~. Bomb will go off when engine is started."
+		],
+		[
+			"DIAB3_G",
+			"Arriba!"
+		],
+		[
+			"JAILB_A",
+			"As the police and emergency services deal with the aftermath..."
+		],
+		[
+			"JAILB_C",
+			"As yet no details have been released about the prisoners being transferred in the convoy,"
+		],
+		[
+			"STADIUM",
+			"Aspatria"
+		],
+		[
+			"RATNG11",
+			"Assassin"
+		],
+		[
+			"RATNG9",
+			"Associate"
+		],
+		[
+			"RM_ASU",
+			"Asuka Kasen"
+		],
+		[
+			"LRQC_1",
+			"Asuka and I are gonna have to talk, uh,"
+		],
+		[
+			"AM2_C",
+			"Asuka has a little job for you, but when you're done, drop by my casino and we can talk."
+		],
+		[
+			"PORT_S",
+			"Atlantic Quays"
+		],
+		[
+			"FEC_ATT",
+			"Attack or Fire weapon"
+		],
+		[
+			"FEB_AUD",
+			"Audio"
+		],
+		[
+			"FEM_SL9",
+			"Autosave is free"
+		],
+		[
+			"FEDS_TB",
+			"BACK"
+		],
+		[
+			"FET_CIG",
+			"BACKSPACE TO CLEAR  -  LMB,RETURN TO CHANGE"
+		],
+		[
+			"CRED244",
+			"BARANE CHAN"
+		],
+		[
+			"CRED246",
+			"BARANE CHAN"
+		],
+		[
+			"BET_JB",
+			"BETRAYED BY HIS LOVER CATALINA AND LEFT FOR DEAD. CONVICTED AND SENTENCED, HE BEGINS HIS JOURNEY TO LIBERTY CITY PENITENTIARY. BUT ONLY ONE THOUGHT BURNS IN HIS CRIMINAL MIND... REVENGE!"
+		],
+		[
+			"NEW_TAX",
+			"BIGGER! FASTER! HARDER! new Borgnine taxis open for business in Harwood. Call 555-BORGNINE today!"
+		],
+		[
+			"CRED129",
+			"BILL FIORE AS DARKEL"
+		],
+		[
+			"CRED238",
+			"BOB HILLARY"
+		],
+		[
+			"CRED088",
+			"BRANDON ROSE"
+		],
+		[
+			"CRED098",
+			"BRIAN PLANER"
+		],
+		[
+			"CRED082",
+			"BRIAN WOOD"
+		],
+		[
+			"FEP_BRI",
+			"BRIEFS"
+		],
+		[
+			"FET_BRE",
+			"BRIEFS"
+		],
+		[
+			"FED_BRI",
+			"BRIGHTNESS"
+		],
+		[
+			"BUGGY",
+			"BUGGIES LEFT:"
+		],
+		[
+			"BULL",
+			"BULLION:"
+		],
+		[
+			"1005",
+			"BUSTED"
+		],
+		[
+			"1006",
+			"BUSTED"
+		],
+		[
+			"1007",
+			"BUSTED"
+		],
+		[
+			"1008",
+			"BUSTED"
+		],
+		[
+			"1009",
+			"BUSTED"
+		],
+		[
+			"BUSTED",
+			"BUSTED!"
+		],
+		[
+			"TRAIN_3",
+			"Baillie Station"
+		],
+		[
+			"CAR_26",
+			"Banshee"
+		],
+		[
+			"CAR_5",
+			"Barracks"
+		],
+		[
+			"BARRCKS",
+			"Barracks OL"
+		],
+		[
+			"JM5_A",
+			"Beautiful! Just beautiful."
+		],
+		[
+			"SHOPING",
+			"Bedford Point"
+		],
+		[
+			"PAGE_20",
+			"Behead ~1~ Hoods in 120 seconds!"
+		],
+		[
+			"PARK",
+			"Belleville Park"
+		],
+		[
+			"BSTSTU",
+			"Best INSANE stunt so far:"
+		],
+		[
+			"ELBURRO",
+			"Best Turismo time in secs"
+		],
+		[
+			"FEST_BD",
+			"Best time for bomb defusal"
+		],
+		[
+			"BGWOFF",
+			"Big White Debug Light Switched Off"
+		],
+		[
+			"BGWHON",
+			"Big White Debug Light Switched On"
+		],
+		[
+			"BLISTA",
+			"Blista"
+		],
+		[
+			"CAR_21",
+			"Blista"
+		],
+		[
+			"CAR_19",
+			"Bobcat"
+		],
+		[
+			"PAGEB3",
+			"Body armor delivered to hideout"
+		],
+		[
+			"RM_BOMB",
+			"Bomb"
+		],
+		[
+			"BORGNIN",
+			"Borgnine"
+		],
+		[
+			"RATNG15",
+			"Boss"
+		],
+		[
+			"FEC_BRA",
+			"Brake or Reverse"
+		],
+		[
+			"KM1_H",
+			"Break him out of custody and get him to the dojo at Bedford Point."
+		],
+		[
+			"FEB_BRI",
+			"Briefs"
+		],
+		[
+			"CAR_39",
+			"Buggy"
+		],
+		[
+			"JM3_C",
+			"Bullets won't even dent the van's armor, so get a car and ram it off the road."
+		],
+		[
+			"RATNG2",
+			"Bully"
+		],
+		[
+			"PAGE_08",
+			"Burn ~1~ Yakuza in 120 seconds!"
+		],
+		[
+			"CAR_23",
+			"Bus"
+		],
+		[
+			"AM4_10",
+			"But I'm gonna need some non-union help."
+		],
+		[
+			"JM1_K",
+			"But hurry up, he won't be eating forever."
+		],
+		[
+			"DIAB4_B",
+			"But that SPANKED-up idiot has left the rear doors open"
+		],
+		[
+			"CAT2_E2",
+			"But you haven't learned, I'm not to be trusted."
+		],
+		[
+			"GTAB_M",
+			"But you've done me a favor,"
+		],
+		[
+			"FM4_8",
+			"C'mon, enough of the speeches."
+		],
+		[
+			"EBAL_E",
+			"C'mon, lets drop by and I'll introduce you."
+		],
+		[
+			"CRED174",
+			"CANAAN MCKOY"
+		],
+		[
+			"FESZ_UC",
+			"CANCEL"
+		],
+		[
+			"Y1_TEST",
+			"CAR IN WATER!"
+		],
+		[
+			"CRED259",
+			"CARLY SLATER"
+		],
+		[
+			"CRED111",
+			"CAST"
+		],
+		[
+			"CRED145",
+			"CAST"
+		],
+		[
+			"FED_RCD",
+			"CCullZones::RecalculateCullZoneData"
+		],
+		[
+			"CULREC",
+			"CCullZones::RecalculateCullZoneData()"
+		],
+		[
+			"CRED018",
+			"CHARACTERS"
+		],
+		[
+			"FEA_FM8",
+			"CHATTERBOX 109"
+		],
+		[
+			"CHFIDL",
+			"CHOOSE FILE TO DELETE"
+		],
+		[
+			"CHFILE",
+			"CHOOSE FILE TO LOAD"
+		],
+		[
+			"CRED079",
+			"CHRIS CARRO"
+		],
+		[
+			"CRED125",
+			"CHRIS PHILLIPS AS EL BURRO"
+		],
+		[
+			"CRED130",
+			"CHRIS PHILLIPS AS MARTY CHONKS"
+		],
+		[
+			"CRED012",
+			"CHRIS ROTHWELL"
+		],
+		[
+			"CRED235",
+			"CHRISSY HOBAN"
+		],
+		[
+			"CRED241",
+			"CHRISTIAN CANTAMESSA"
+		],
+		[
+			"CRED059",
+			"CHRISTINE CHALMERS"
+		],
+		[
+			"FET_CTI",
+			"CLASSIC CONTROL CONFIGURATION"
+		],
+		[
+			"CRED032",
+			"CODERS"
+		],
+		[
+			"CRED158",
+			"COLIN MCSHANE"
+		],
+		[
+			"FEC_CMP",
+			"COMBO: LOOK L+R"
+		],
+		[
+			"FET_CON",
+			"CONNECTION"
+		],
+		[
+			"FET_CME",
+			"CONTROL METHOD"
+		],
+		[
+			"FEP_CON",
+			"CONTROLS"
+		],
+		[
+			"FET_CTL",
+			"CONTROLS"
+		],
+		[
+			"FET_CCN",
+			"CONTROLS: CLASSIC"
+		],
+		[
+			"FET_SCN",
+			"CONTROLS: STANDARD"
+		],
+		[
+			"CRED159",
+			"COREY WADE"
+		],
+		[
+			"CRED046",
+			"CRAIG ARBUTHNOTT"
+		],
+		[
+			"CRD218A",
+			"CRAIG CONNER"
+		],
+		[
+			"CRED039",
+			"CRAIG CONNER"
+		],
+		[
+			"CRED224",
+			"CRAIG CONNER"
+		],
+		[
+			"CRED010",
+			"CRAIG FILSHIE"
+		],
+		[
+			"DBFOFF",
+			"CTheScripts::DbgFlag Off"
+		],
+		[
+			"DBGFON",
+			"CTheScripts::DbgFlag On"
+		],
+		[
+			"CRED128",
+			"CURTIS MCCLARIN AS CURTLY"
+		],
+		[
+			"CRED107",
+			"CUT-SCENES"
+		],
+		[
+			"CRED123",
+			"CYNTHIA FARRELL AS CATALINA"
+		],
+		[
+			"CAR_38",
+			"Cabbie"
+		],
+		[
+			"ROADBR1",
+			"Callahan Bridge"
+		],
+		[
+			"ROADBR2",
+			"Callahan Bridge"
+		],
+		[
+			"PORT_W",
+			"Callahan Point"
+		],
+		[
+			"NOGMSV",
+			"Can save only at your hideout."
+		],
+		[
+			"MEA2_E",
+			"Can you believe it?"
+		],
+		[
+			"CNTSAV",
+			"Can't save the game. On a mission."
+		],
+		[
+			"CNCSAV",
+			"Can't save the game. You're in a car"
+		],
+		[
+			"CVT_CRT",
+			"Cannot convert textures for your video card. You must login to an Administrator account to do this. Press ESC to quit."
+		],
+		[
+			"NO_PAUZ",
+			"Cannot pause in multiplayer. Press twice to quit!"
+		],
+		[
+			"RATNG14",
+			"Capo"
+		],
+		[
+			"FEN_TY5",
+			"Capture the Flag"
+		],
+		[
+			"HEALTH",
+			"Car Health:"
+		],
+		[
+			"GA_4",
+			"Car bombs are $1000 each"
+		],
+		[
+			"FEC_CAW",
+			"Car weapon"
+		],
+		[
+			"MEA4_B5",
+			"Carl, hi! I, eerr, I need more time to get your money."
+		],
+		[
+			"CARSOFF",
+			"Cars turned off."
+		],
+		[
+			"CARS_ON",
+			"Cars turned on."
+		],
+		[
+			"COLOMCR",
+			"Cartel Cruiser"
+		],
+		[
+			"RM_CATA",
+			"Catalina"
+		],
+		[
+			"SWANKS",
+			"Cedar Grove"
+		],
+		[
+			"CTRSCR",
+			"Center Screen"
+		],
+		[
+			"FEF_DI1",
+			"Change the game!"
+		],
+		[
+			"CHAT",
+			"Chatterbox FM"
+		],
+		[
+			"CHEATOF",
+			"Cheat mode OFF"
+		],
+		[
+			"CHEATON",
+			"Cheat mode ON"
+		],
+		[
+			"FEM_CES",
+			"Check Every 0kB4 Save"
+		],
+		[
+			"CHEVOK",
+			"CheckEveryOkB4Save"
+		],
+		[
+			"CAR_25",
+			"Cheetah"
+		],
+		[
+			"FEM_MA2",
+			"Chinatown"
+		],
+		[
+			"FEF_CO2",
+			"Choose the best contoller set-up for your playing style"
+		],
+		[
+			"FEF_LA2",
+			"Choose your preferred parlance"
+		],
+		[
+			"JM2_A",
+			"Chunky Lee Chong is pushing SPANK for some new gang from Colombia... or Colorado... or something..."
+		],
+		[
+			"CINCAM",
+			"Cinematic Camera"
+		],
+		[
+			"F_WASTE",
+			"Civilian females wasted"
+		],
+		[
+			"M_WASTE",
+			"Civilian males wasted"
+		],
+		[
+			"DEFNAM",
+			"Claude----------------------"
+		],
+		[
+			"RATNG10",
+			"Cleaner"
+		],
+		[
+			"FEM_CL7",
+			"Cloud Save File 7 Not Present"
+		],
+		[
+			"FEM_CL8",
+			"Cloud Save File 8 Not Present"
+		],
+		[
+			"CAR_10",
+			"Coach"
+		],
+		[
+			"BIG_DAM",
+			"Cochrane Dam"
+		],
+		[
+			"RM_G1",
+			"Colombian Cartel"
+		],
+		[
+			"LRQC_5",
+			"Come back here to my condo when you are ready,"
+		],
+		[
+			"GA_1A",
+			"Come back when you're not so busy..."
+		],
+		[
+			"CAT2_A1",
+			"Come on you dumb bitch!"
+		],
+		[
+			"JAILB_Q",
+			"Come on!"
+		],
+		[
+			"FEC_CCF",
+			"Configuration:"
+		],
+		[
+			"FEN_CON",
+			"Connection"
+		],
+		[
+			"CONTRL",
+			"Control Configuration"
+		],
+		[
+			"FEB_CPC",
+			"Control Configuration"
+		],
+		[
+			"FEC_CNT",
+			"Controller type:"
+		],
+		[
+			"CNTLS",
+			"Controls"
+		],
+		[
+			"FEB_CON",
+			"Controls"
+		],
+		[
+			"PIG_WST",
+			"Cops wasted"
+		],
+		[
+			"CRLDIC",
+			"Create and Load Icons"
+		],
+		[
+			"CRMGSV",
+			"Create copy protected magazine directory"
+		],
+		[
+			"CRROOT",
+			"CreateRootDir"
+		],
+		[
+			"LOVE4_E",
+			"Cross the bridge to Shoreside Vale and go to Francis International Airport."
+		],
+		[
+			"FES_CGA",
+			"Current game slots available:"
+		],
+		[
+			"FEF_DI2",
+			"Customize the game for your TV"
+		],
+		[
+			"FEC_CWL",
+			"Cycle Weapon left"
+		],
+		[
+			"FEC_CWR",
+			"Cycle Weapon right"
+		],
+		[
+			"DAM",
+			"DAMAGE:"
+		],
+		[
+			"CRED017",
+			"DAN HOUSER"
+		],
+		[
+			"CRED064",
+			"DAN HOUSER"
+		],
+		[
+			"CRED102",
+			"DAN HOUSER"
+		],
+		[
+			"CRED147",
+			"DAN HOUSER"
+		],
+		[
+			"CRED222",
+			"DAN HOUSER"
+		],
+		[
+			"CRED228",
+			"DAN HOUSER"
+		],
+		[
+			"CRED252",
+			"DAVE WATSON"
+		],
+		[
+			"CRED053",
+			"DAVID BEDDOES"
+		],
+		[
+			"CRED052",
+			"DAVID MURDOCH"
+		],
+		[
+			"CRED116",
+			"DEBBI MAZAR AS MARIA"
+		],
+		[
+			"FEM_DBG",
+			"DEBUG"
+		],
+		[
+			"CRED152",
+			"DEENA BERMAN"
+		],
+		[
+			"FES_DGA",
+			"DELETE GAME"
+		],
+		[
+			"FET_DG",
+			"DELETE GAME"
+		],
+		[
+			"CRED247",
+			"DEREK PAYNE"
+		],
+		[
+			"CRED009",
+			"DESIGN"
+		],
+		[
+			"DETON",
+			"DETONATION:"
+		],
+		[
+			"CRED265",
+			"DEVIN BENNET"
+		],
+		[
+			"CRED262",
+			"DEVIN WINTERBOTTOM"
+		],
+		[
+			"DIABLO",
+			"DIABLO MISSIONS"
+		],
+		[
+			"CRED137",
+			"DIRECTED BY"
+		],
+		[
+			"CRED143",
+			"DIRECTED BY CRAIG CONNER, DAN HOUSER AND LAZLOW"
+		],
+		[
+			"CRED065",
+			"DIRECTOR OF DEVELOPMENT"
+		],
+		[
+			"FEP_DIS",
+			"DISPLAY"
+		],
+		[
+			"FET_DIS",
+			"DISPLAY"
+		],
+		[
+			"CRED227",
+			"DJ BANTER AND IMAGING WRITTEN BY"
+		],
+		[
+			"CRED162",
+			"DORIS WOO"
+		],
+		[
+			"FEA_FM1",
+			"DOUBLE CLEF FM"
+		],
+		[
+			"CRED245",
+			"DUNCAN SHIELDS"
+		],
+		[
+			"MEA4_A",
+			"Damn, I'm in trouble!"
+		],
+		[
+			"DED_DED",
+			"Deadbeats wasted"
+		],
+		[
+			"FEN_TY0",
+			"Deathmatch"
+		],
+		[
+			"FEN_TY1",
+			"Deathmatch stealth"
+		],
+		[
+			"DEBUGM",
+			"Debug Menu"
+		],
+		[
+			"DSTROFF",
+			"Debug Streaming Requests Off"
+		],
+		[
+			"DSTRON",
+			"Debug Streaming Requests On"
+		],
+		[
+			"FED_CON",
+			"Delete File Confirmation"
+		],
+		[
+			"DLFILE",
+			"Delete Grand Theft Auto III Files"
+		],
+		[
+			"FES_DEE",
+			"Deleting Failed! Check Memory Card (PS2) in MEMORY CARD slot 1 and please try again."
+		],
+		[
+			"FEDL_WR",
+			"Deleting data. Please do not remove the Memory Card (PS2) in MEMORY CARD slot 1, reset or switch off the console."
+		],
+		[
+			"FED_DLW",
+			"Deleting, please wait..."
+		],
+		[
+			"GA_13",
+			"Delivered like a pro. Complete the list and there'll be a bonus for you."
+		],
+		[
+			"PAGE_02",
+			"Destroy ~1~ vehicles in 120 seconds!"
+		],
+		[
+			"PAGE_06",
+			"Destroy ~1~ vehicles in 120 seconds!"
+		],
+		[
+			"PAGE_09",
+			"Destroy ~1~ vehicles in 120 seconds!"
+		],
+		[
+			"PAGE_10",
+			"Destroy ~1~ vehicles in 120 seconds!"
+		],
+		[
+			"PAGE_16",
+			"Destroy ~1~ vehicles in 120 seconds!"
+		],
+		[
+			"RCXPLD",
+			"Detonate Vehicle"
+		],
+		[
+			"FEST_H1",
+			"Diablo Destruction"
+		],
+		[
+			"RM_BPHO",
+			"Diablo Missions"
+		],
+		[
+			"DIABLCR",
+			"Diablo Stallion"
+		],
+		[
+			"YD3_B2",
+			"Diablo Stallion so we can hit any gang in Liberty."
+		],
+		[
+			"RM_G3",
+			"Diablos"
+		],
+		[
+			"DSPLAY",
+			"Display"
+		],
+		[
+			"FEB_DIS",
+			"Display"
+		],
+		[
+			"FEST_DC",
+			"Dist. travelled by car (miles)"
+		],
+		[
+			"FEST_DF",
+			"Dist. travelled on foot (miles)"
+		],
+		[
+			"FESTDCM",
+			"Distance travelled by car (m)"
+		],
+		[
+			"FESTDFM",
+			"Distance travelled on foot (m)"
+		],
+		[
+			"HJSTAT",
+			"Distance: ~1~.~1~m  Height: ~1~.~1~m  Flips: ~1~  Rotation: ~1~\u00b0"
+		],
+		[
+			"HJSTATW",
+			"Distance: ~1~.~1~m  Height: ~1~.~1~m  Flips: ~1~  Rotation: ~1~\u00b0  And what a great landing!"
+		],
+		[
+			"HJSTATF",
+			"Distance: ~1~ft  Height: ~1~ft  Flips: ~1~  Rotation: ~1~\u00b0"
+		],
+		[
+			"HJSTAWF",
+			"Distance: ~1~ft  Height: ~1~ft  Flips: ~1~  Rotation: ~1~\u00b0  And what a great landing!"
+		],
+		[
+			"CAR_22",
+			"Dodo"
+		],
+		[
+			"FEN_TY7",
+			"Domination"
+		],
+		[
+			"FM4_5",
+			"Don't ask me why. I don't know."
+		],
+		[
+			"GTAB_H",
+			"Don't be such a pussy!"
+		],
+		[
+			"RM_DON",
+			"Donald Love"
+		],
+		[
+			"KM4_5",
+			"Donald Love wishes you to drop by his tea garden so you and he can talk."
+		],
+		[
+			"DBL_CLF",
+			"Double Clef FM"
+		],
+		[
+			"KM1_13",
+			"Drive the vehicle into the garage!"
+		],
+		[
+			"GARAGE",
+			"Drive the vehicle into the garage, then walk outside."
+		],
+		[
+			"BOMB",
+			"Drive your vehicle into the bomb shop to attach a ~h~bomb~w~. Cost - ~h~$1000."
+		],
+		[
+			"SPRAY",
+			"Drive your vehicle into the spray shop to lose your ~h~wanted level~w~, ~h~repair ~w~and ~h~respray ~w~your vehicle. Cost - ~h~$1000."
+		],
+		[
+			"SPRAY1",
+			"Drive your vehicle into the spray shop to lose your ~h~wanted level~w~, ~h~repair ~w~and ~h~respray ~w~your vehicle. Cost - ~h~$1000~w~. This time it's free."
+		],
+		[
+			"PAGE_18",
+			"Driveby and Destroy ~1~ vehicles in 120 seconds!"
+		],
+		[
+			"JM4_5",
+			"Drop by later and we'll give them something to launder, their own blood stained clothes!"
+		],
+		[
+			"YD3_C",
+			"Drop them off at the garage in Newport and remember,"
+		],
+		[
+			"CRED223",
+			"EDITED BY"
+		],
+		[
+			"CRED054",
+			"EDWIN SMITH"
+		],
+		[
+			"CRED201",
+			"ELIZABETH HOWELL"
+		],
+		[
+			"CRED266",
+			"ELIZABETH SATTERWHITE"
+		],
+		[
+			"CRED239",
+			"EMILY ANDERSON"
+		],
+		[
+			"FEL_ENG",
+			"ENGLISH"
+		],
+		[
+			"EVID",
+			"EVIDENCE:"
+		],
+		[
+			"CRED061",
+			"EXECUTIVE PRODUCER"
+		],
+		[
+			"DIAB1_A",
+			"El Burro wants to offer you an opportunity. Get to the payphone in Hepburn Heights if you want more info."
+		],
+		[
+			"CAR_4",
+			"Enforcer"
+		],
+		[
+			"ENGLIS",
+			"English"
+		],
+		[
+			"FEC_EEX",
+			"Enter /exit"
+		],
+		[
+			"ENTERT",
+			"Enter Train"
+		],
+		[
+			"FEC_EXV",
+			"Enter and exit vehicle"
+		],
+		[
+			"FEC_ENT",
+			"Enter/Exit Vehicle"
+		],
+		[
+			"CNT_EEX",
+			"Enter/Exit car"
+		],
+		[
+			"FES_GME",
+			"Error Reading Memory Card (PS2) in MEMORY CARD slot 1 please check and try again."
+		],
+		[
+			"SLONFM",
+			"Error formatting Memory Card (PS2) in MEMORY CARD slot 1."
+		],
+		[
+			"FEC_ESR",
+			"Escape key is Restricted"
+		],
+		[
+			"CAR_29",
+			"Esperanto"
+		],
+		[
+			"FM2_S",
+			"Every day they're losing men and influence in the city."
+		],
+		[
+			"RATNG13",
+			"Executioner"
+		],
+		[
+			"CAMCTRL",
+			"Exit Adjustment"
+		],
+		[
+			"EXITT",
+			"Exit Train"
+		],
+		[
+			"LOVE1_B",
+			"Experience has taught me that a man like you can be very loyal for the right price,"
+		],
+		[
+			"PAGE_13",
+			"Explode ~1~ Yardies in 120 seconds!"
+		],
+		[
+			"CRED215",
+			"FALKO BURKERT"
+		],
+		[
+			"FBICAR",
+			"FBI Car"
+		],
+		[
+			"CAR_7",
+			"FBIcar"
+		],
+		[
+			"FIL_FLT",
+			"FILTER GAMES LIST"
+		],
+		[
+			"FET_FG",
+			"FIND GAME"
+		],
+		[
+			"F_EXTIN",
+			"FIRES:"
+		],
+		[
+			"FEA_FM7",
+			"FLASHBACK 95.6"
+		],
+		[
+			"WEATHER",
+			"FORCE WEATHER"
+		],
+		[
+			"CRED172",
+			"FRANK CHAVEZ"
+		],
+		[
+			"CRED112",
+			"FRANK VINCENT AS SALVATORE LEONE"
+		],
+		[
+			"FEL_FRE",
+			"FRENCH"
+		],
+		[
+			"WIN_RSZ",
+			"Failed to select new screen resolution"
+		],
+		[
+			"TAXI4",
+			"Fare complete!"
+		],
+		[
+			"FARES",
+			"Fares:"
+		],
+		[
+			"DEL_FNM",
+			"File Successfully Deleted."
+		],
+		[
+			"FLFSGF",
+			"Fill First File With Guff"
+		],
+		[
+			"FET_FIL",
+			"Filter"
+		],
+		[
+			"FEN_GAM",
+			"Find game"
+		],
+		[
+			"FEF_BR2",
+			"Find it again by reading any mission briefs collected to date."
+		],
+		[
+			"F_FAIL1",
+			"Fire Truck mission ended."
+		],
+		[
+			"F_PASS1",
+			"Fire extinguished!"
+		],
+		[
+			"FIRE_WS",
+			"Firemen wasted"
+		],
+		[
+			"CAR_2",
+			"Firetruck"
+		],
+		[
+			"FIRETRK",
+			"Firetruck"
+		],
+		[
+			"LOVE1_A",
+			"First of all, let me thank you for dealing with that personal matter."
+		],
+		[
+			"RATNG8",
+			"Fixer"
+		],
+		[
+			"PAGEB11",
+			"Flamethrower delivered to hideout"
+		],
+		[
+			"FLASHB",
+			"Flashback FM"
+		],
+		[
+			"CAR_11",
+			"Flatbed"
+		],
+		[
+			"FESZ_FF",
+			"Format Failed! Check Memory Card (PS2) in MEMORY CARD slot 1 and please try again."
+		],
+		[
+			"FORMEN",
+			"Format Menu"
+		],
+		[
+			"FORMM1",
+			"FormatMemCard 1 (teststuff)"
+		],
+		[
+			"FEFD_WR",
+			"Formatting Memory Card (PS2) in MEMORY CARD slot 1.  Please do not remove the Memory Card (PS2), reset or switch off the console."
+		],
+		[
+			"CONSTRU",
+			"Fort Staunton"
+		],
+		[
+			"AIRPORT",
+			"Francis Intl. Airport"
+		],
+		[
+			"FRENCH",
+			"French"
+		],
+		[
+			"KF_3",
+			"Frenzy PASSED"
+		],
+		[
+			"PAGE_14",
+			"Fry ~1~ Colombians in 120 seconds!"
+		],
+		[
+			"CRED093",
+			"GAME ANALYST"
+		],
+		[
+			"FEA_FM5",
+			"GAME FM"
+		],
+		[
+			"GAMEOVR",
+			"GAME OVER"
+		],
+		[
+			"PAUSED",
+			"GAME PAUSED"
+		],
+		[
+			"GMSVLQ",
+			"GAME SAVE-LOAD-QUIT"
+		],
+		[
+			"FET_GT",
+			"GAME TYPE"
+		],
+		[
+			"CRED169",
+			"GARVIN ATWELL"
+		],
+		[
+			"CRED068",
+			"GARY J. FOREMAN"
+		],
+		[
+			"CRED028",
+			"GARY MCADAM"
+		],
+		[
+			"CRED160",
+			"GERALD COSGROVE"
+		],
+		[
+			"FEL_GER",
+			"GERMAN"
+		],
+		[
+			"FET_GFX",
+			"GFX SETUP"
+		],
+		[
+			"CRD140B",
+			"GISELLE JONES"
+		],
+		[
+			"FEC_PWL",
+			"GO Left"
+		],
+		[
+			"CRED051",
+			"GRAEME JENNINGS"
+		],
+		[
+			"CRED037",
+			"GRAEME WILLIAMSON"
+		],
+		[
+			"CRED260",
+			"GREG LAU"
+		],
+		[
+			"CRED269",
+			"GREG LAU"
+		],
+		[
+			"CRED119",
+			"GURU AS 8-BALL"
+		],
+		[
+			"GAM_FM",
+			"Game Radio FM"
+		],
+		[
+			"GAMSET",
+			"Game Settings"
+		],
+		[
+			"GMSTOR",
+			"Game Store"
+		],
+		[
+			"FEN_GNA",
+			"Game name:"
+		],
+		[
+			"FESZ_L1",
+			"Game saved successfully!"
+		],
+		[
+			"FES_SSC",
+			"Game successfully saved."
+		],
+		[
+			"FEN_TYP",
+			"Game type"
+		],
+		[
+			"FEN_UKT",
+			"Game type not found"
+		],
+		[
+			"FIL_TYP",
+			"Game type:"
+		],
+		[
+			"FIL_SPC",
+			"Games with Space available?"
+		],
+		[
+			"FEST_GC",
+			"Gang Cars Totalled:"
+		],
+		[
+			"GERMAN",
+			"German"
+		],
+		[
+			"LOVE2_G",
+			"Get a Cartel gangcar and eliminate him!"
+		],
+		[
+			"HM4_C",
+			"Get a car and snatch up as much as you can."
+		],
+		[
+			"LM5_E",
+			"Get as many of them as you can before the cops drink away their green."
+		],
+		[
+			"RM6_E",
+			"Get me to my flight at the airport and I'll make it worth your while!"
+		],
+		[
+			"HEALTH1",
+			"Get outta here! You're perfectly healthy."
+		],
+		[
+			"LOVE6_D",
+			"Get over there, pick up the van and act as a decoy."
+		],
+		[
+			"YD4_A1",
+			"Get over to Bedford Point."
+		],
+		[
+			"JM6_E",
+			"Get them to the bank before five o'clock, not a minute after."
+		],
+		[
+			"CAT2_J",
+			"Get this thing airborne!"
+		],
+		[
+			"CAT1_F",
+			"Get to Catalina before the time runs out!"
+		],
+		[
+			"AM4_1C",
+			"Get to the Phone in South Belleville Park."
+		],
+		[
+			"AM4_1A",
+			"Get to the Phone in West Belleville Park."
+		],
+		[
+			"AM4_1B",
+			"Get to the Phone on Liberty Campus."
+		],
+		[
+			"JM6_1",
+			"Get to the bank on the main drag."
+		],
+		[
+			"AM4_G",
+			"Get to the pay phone in Torrington as quick as you can and await his instructions."
+		],
+		[
+			"HOOD1_A",
+			"Get to the payphone in Wichita Gardens and we'll talk business."
+		],
+		[
+			"JM6_3",
+			"Get us out of here!"
+		],
+		[
+			"MEA1_Z1",
+			"Get your hands off me arm!"
+		],
+		[
+			"DIAB1_F",
+			"Get yourself some wheels and first through all the checkpoints wins the prize."
+		],
+		[
+			"LM5_D",
+			"Get'em to the ball they'll make a bundle."
+		],
+		[
+			"GHOST",
+			"Ghost"
+		],
+		[
+			"KM4_C",
+			"Go and collect the money immediately, so we can enter it into the casino accounts."
+		],
+		[
+			"LM2_B",
+			"Go and introduce a bat to his face!"
+		],
+		[
+			"HM5_I",
+			"Go and meet my baby brother,"
+		],
+		[
+			"MEA3_D",
+			"Go and pick up my wife from Classic Nails and bring her back to the factory."
+		],
+		[
+			"LOVE1_G",
+			"Go and rescue my friend, do whatever it takes."
+		],
+		[
+			"LM4_B",
+			"Go and take care of things for me."
+		],
+		[
+			"LM3_D",
+			"Go pick her up at Hepburn Heights..."
+		],
+		[
+			"GOBACK",
+			"GoBack"
+		],
+		[
+			"RATNG5",
+			"Goon"
+		],
+		[
+			"GORLEV",
+			"Gore Level"
+		],
+		[
+			"WIN_TTL",
+			"Grand Theft Auto III"
+		],
+		[
+			"WIN_95",
+			"Grand Theft Auto III cannot run on Windows 95"
+		],
+		[
+			"WIN_VDM",
+			"Grand Theft Auto III requires at least 12MB of available video memory"
+		],
+		[
+			"WIN_DX",
+			"Grand Theft Auto III requires at least DirectX version 8.1"
+		],
+		[
+			"EMVHPUP",
+			"Great rates paid for new and used Emergency Vehicles. Bring them to the crane in the north east of Portland Harbor."
+		],
+		[
+			"PAGEB5",
+			"Grenades delivered to hideout"
+		],
+		[
+			"FEST_R3",
+			"Gripped! in secs"
+		],
+		[
+			"CRED234",
+			"HAMISH BROWN"
+		],
+		[
+			"FEA_FM0",
+			"HEAD RADIO"
+		],
+		[
+			"FEA_EAR",
+			"HEADPHONES"
+		],
+		[
+			"HOOD",
+			"HOOD MISSIONS"
+		],
+		[
+			"FEM_HST",
+			"HOST GAME"
+		],
+		[
+			"FET_HG",
+			"HOST GAME"
+		],
+		[
+			"CRED165",
+			"HSIANG LIN"
+		],
+		[
+			"CRED146",
+			"HUNTER PLATIN"
+		],
+		[
+			"CRED126",
+			"HUNTER PLATIN AS CHICO"
+		],
+		[
+			"CRED131",
+			"HUNTER PLATIN AS CURLY BOB"
+		],
+		[
+			"CRED133",
+			"HUNTER PLATIN AS ONE-ARMED PHIL"
+		],
+		[
+			"HARWOOD",
+			"Harwood"
+		],
+		[
+			"DRIVE_A",
+			"Have an Uzi selected when entering a vehicle then hold ::LOOKLEFT:: or ::LOOKRIGHT:: to look, then ::FIREVEH:: to fire your weapon."
+		],
+		[
+			"FM2_C",
+			"He ain't pimpin' or pushin' so he must be talking."
+		],
+		[
+			"RM4_C",
+			"He goes fishing out of his boat near the lighthouse on Portland Rock most nights."
+		],
+		[
+			"KM1_G",
+			"He is a valued member of the family."
+		],
+		[
+			"AM4_F",
+			"He is understandably cautious."
+		],
+		[
+			"RM1_C",
+			"He just squealed!"
+		],
+		[
+			"RM1_B",
+			"He thinks he's gonna get an honorable discharge if he turns states evidence."
+		],
+		[
+			"FM2_N",
+			"He usually gets a taxi home after work. So follow him."
+		],
+		[
+			"HM5_J",
+			"He'll show you where they are fighting a'right son."
+		],
+		[
+			"MEA1_F",
+			"He's a crooked bastard that keeps bumping up the loan repayments so he can cut a slice."
+		],
+		[
+			"FM2_M",
+			"He's been throwing more money around than he's earning."
+		],
+		[
+			"RM5_C",
+			"He's being moved any second now from the Carson General Hospital up in Rockford."
+		],
+		[
+			"RM2_D",
+			"He's gonna need some back-up and in return he'll give you knock-down rates on any hardware you buy."
+		],
+		[
+			"JM2_C",
+			"He's got a noodle stand down in China Town."
+		],
+		[
+			"MEA4_C",
+			"He's got real angry and he's looking for payback!"
+		],
+		[
+			"RM3_B",
+			"He's involved in a legal matter and the prosecution has some rather embarrassing photos of him"
+		],
+		[
+			"AM5_C",
+			"He's more or less useless out of his car, so we've tagged it with a tracer."
+		],
+		[
+			"AM3_C",
+			"He's probably out in the bay as you read this! Steal a police boat, and sink his career!"
+		],
+		[
+			"RM1_D",
+			"He's under armed protection in WitSec property down in Newport, some apartment behind the car park."
+		],
+		[
+			"HEAD",
+			"Head Radio"
+		],
+		[
+			"HED_EX",
+			"Heads exploded"
+		],
+		[
+			"HEALTH2",
+			"Healthcare costs."
+		],
+		[
+			"RM2_L",
+			"Heh-hey! If I'd teamed up with you in Nicaragua maybe I'd still have my arm!"
+		],
+		[
+			"HELI",
+			"Helicopter"
+		],
+		[
+			"HEL_DST",
+			"Helicopters destroyed"
+		],
+		[
+			"TOWERS",
+			"Hepburn Heights"
+		],
+		[
+			"FM2_F",
+			"Here comes our little friend. Mr big mouth himself."
+		],
+		[
+			"RM6_1",
+			"Here's a key to a lock-up."
+		],
+		[
+			"AM4_E",
+			"Here's his payment for the last little job he did for us."
+		],
+		[
+			"FM2_I",
+			"Here's your SPANK, squealer, now talk."
+		],
+		[
+			"LM3_A",
+			"Hey I've gotta talk to you... All right Mick I'll talk to yah later."
+		],
+		[
+			"GTAB_G",
+			"Hey don't shoot, amigo. No, no, no problem. We all friends. Here, take this."
+		],
+		[
+			"RM2_A1",
+			"Hey kid over here!"
+		],
+		[
+			"GTAB_E",
+			"Hey take it easy amigo! No es nada! No es nada!"
+		],
+		[
+			"JM4_6",
+			"Hey watch the car! I said no fancy crap."
+		],
+		[
+			"LM3_8",
+			"Hey, I'm Joey."
+		],
+		[
+			"JM1_A",
+			"Hey, I'm bored when you gonna drill me?"
+		],
+		[
+			"GTAB_A",
+			"Hey, let's get this out of here. God knows what it is"
+		],
+		[
+			"LM1_9",
+			"Hi I'm Misty."
+		],
+		[
+			"RATNG7",
+			"Hired muscle"
+		],
+		[
+			"GUN_2A",
+			"Hold ~h~::FIRE:: ~w~to ~h~auto-target~w~ and fire! Try shooting the targets..."
+		],
+		[
+			"HELP7_A",
+			"Hold ~h~::LOCKON:: ~w~to ~h~target~w~ with the sniper rifle."
+		],
+		[
+			"RM_RPHO",
+			"Hood Missions"
+		],
+		[
+			"HOODSCR",
+			"Hoods Rumpo XL"
+		],
+		[
+			"DED_HOK",
+			"Hookers wasted"
+		],
+		[
+			"GA_15",
+			"Hope you like the new color."
+		],
+		[
+			"CNT_HRN",
+			"Horn"
+		],
+		[
+			"RM2_K",
+			"Hot damn, they're here! LOCK'N'LOAD!"
+		],
+		[
+			"FEF_ST2",
+			"How much havoc have you caused"
+		],
+		[
+			"LM3_B",
+			"How yah doing kid?"
+		],
+		[
+			"RATNG4",
+			"Hustler"
+		],
+		[
+			"HM5_G",
+			"I ain't due for my parole hearing for another three months now,"
+		],
+		[
+			"AM1_C",
+			"I am Yakuza and I know you worked for Salvatore Leone's family."
+		],
+		[
+			"END_V",
+			"I broke a nail and my hair is ruined, I mean can you believe it?"
+		],
+		[
+			"CAT2_F",
+			"I broke a nail, and my hair's ruined. Can you believe it? This one cost me fifty dollars!"
+		],
+		[
+			"AM1_D",
+			"I can give you work with our organization,"
+		],
+		[
+			"RM2_E1",
+			"I can't believe those yellow-bellied bastards left me without proper cover again!"
+		],
+		[
+			"KM4_1",
+			"I can't pay you and I wouldn't pay you if I could!"
+		],
+		[
+			"FM4_4",
+			"I couldn't let him do that, I mean the worst thing is,"
+		],
+		[
+			"AMMU_F",
+			"I don't need to see any I.D. you look trustworthy."
+		],
+		[
+			"JM6_D",
+			"I gave my word that you were the man, so don't screw this up."
+		],
+		[
+			"JM1_C",
+			"I got a little job for you pal."
+		],
+		[
+			"HM1_B",
+			"I got a problem they tryin' to play me."
+		],
+		[
+			"AMMU_D",
+			"I got all your home defence needs."
+		],
+		[
+			"MEA1_D",
+			"I got money troubles, but hey, who doesn't right?"
+		],
+		[
+			"MEA2_A",
+			"I hired some thieves to break into my apartment..."
+		],
+		[
+			"EBAL_A",
+			"I know a place on the edge of the Red Light District where we can lay low,"
+		],
+		[
+			"RM3_A",
+			"I know a real important man in town, a soft touch,"
+		],
+		[
+			"EBAL_D",
+			"I know this guy, he's connected, his name's Luigi."
+		],
+		[
+			"AM4_5",
+			"I know what you're thinking, another bent cop."
+		],
+		[
+			"GTAB_F",
+			"I left you pouring your heart out into the gutter!"
+		],
+		[
+			"END_G",
+			"I love you, I, I, I, I really do, 'cos you're such a big strong man"
+		],
+		[
+			"YD3_B",
+			"I need a Mafia Sentinel,"
+		],
+		[
+			"GTAB_P",
+			"I never killed no Yakuza!"
+		],
+		[
+			"RM5_B",
+			"I paid you good money to kill that witness and he ain't dead!"
+		],
+		[
+			"MEA1_C",
+			"I run the Bitchin' Dog Food factory around the corner."
+		],
+		[
+			"DIAB2_A",
+			"I started my exotic entertainment business with nothing but the sizeable contents of my leather pants!"
+		],
+		[
+			"YD4_C",
+			"I think it's time you witnessed the real power of 'SPANK'! Besos y fuderes, Catalina, xxx."
+		],
+		[
+			"RM4_A",
+			"I think my partner's a rat."
+		],
+		[
+			"LM2_G",
+			"I want compensation for this insult!"
+		],
+		[
+			"RM4_E",
+			"I want him sleeping with the fishes, not eating them."
+		],
+		[
+			"YD3_A",
+			"I want you to boost some gang cars"
+		],
+		[
+			"LOVE5_C",
+			"I want you to follow him, and make sure both he and my package get to Pike Creek unharmed."
+		],
+		[
+			"LOVE2_E",
+			"I want you to kill the Yakuza Waka-gashira, Kenji Kasen."
+		],
+		[
+			"HM1_E",
+			"I want you to show these punk ass bitches how a real drive-by works."
+		],
+		[
+			"JM2_E",
+			"I want you to take him out!"
+		],
+		[
+			"CAT2_G",
+			"I was so scared, but then I thought to myself, you're a big girl now."
+		],
+		[
+			"KM5_E",
+			"I will give you one last chance to prove my sister's faith in you to be well founded!"
+		],
+		[
+			"RM2_D1",
+			"I'd go myself but the old sciatica's playing up again -cough cough- so, eerr-hhrrmmm, good luck."
+		],
+		[
+			"HM5_F",
+			"I'd join you but..."
+		],
+		[
+			"GTAB_S",
+			"I'll be operating on our friend here to extract information and a little pleasure."
+		],
+		[
+			"LM3_7",
+			"I'll be with you in a minute spark plug."
+		],
+		[
+			"HEALTH3",
+			"I'll just fix you up."
+		],
+		[
+			"RM6_D",
+			"I'm a marked man, so I'm getting out of here."
+		],
+		[
+			"BETRA_B",
+			"I'm an ambitious girl and you,"
+		],
+		[
+			"MEA1_E",
+			"I'm meeting my bank manager later."
+		],
+		[
+			"JM2_B",
+			"I'm not really sure. Who needs details anyway."
+		],
+		[
+			"GTAB_K",
+			"I'm sorry about that crazy bitch, man. They, they all the same, please... por favor?"
+		],
+		[
+			"MEA4_D",
+			"I've agreed to see him..."
+		],
+		[
+			"MEA1_H",
+			"I've got a little surprise for that blood sucking leech!"
+		],
+		[
+			"TONI_P",
+			"I've got some urgent work for you! -Toni"
+		],
+		[
+			"CAT1_A",
+			"I've got your precious Maria. If you don't want her face to look like she fell out with the butcher."
+		],
+		[
+			"DIAB3_E",
+			"I've hidden a throbbing weapon on the edge of Chinatown."
+		],
+		[
+			"MEA3_C",
+			"I've left a car in the usual place."
+		],
+		[
+			"MEA2_F",
+			"I've left a car inside the factory gates."
+		],
+		[
+			"LOVE2_C",
+			"I've noticed the Yakuza and the Colombians are far from friends."
+		],
+		[
+			"LOVE4_F",
+			"I've paid off the officials."
+		],
+		[
+			"FM4_6B",
+			"I've seen too much killing. Too much blood! I..."
+		],
+		[
+			"CRED019",
+			"IAN MCQUE"
+		],
+		[
+			"FET_CCR",
+			"IN CAR"
+		],
+		[
+			"CRED236",
+			"INNES RICARD"
+		],
+		[
+			"FEF_INT",
+			"INTERNET"
+		],
+		[
+			"FES_ISC",
+			"IS CORRUPTED"
+		],
+		[
+			"FEL_ITA",
+			"ITALIAN"
+		],
+		[
+			"CAR_35",
+			"Idaho"
+		],
+		[
+			"HM3_B",
+			"If I lose those wheels, my rep on the street will be dead."
+		],
+		[
+			"RM5_D",
+			"If he squeals, I squeal..."
+		],
+		[
+			"HM2_4",
+			"If it goes out of range the RC buggy will detonate!"
+		],
+		[
+			"EBAL_O",
+			"If you don't mess this up, maybe there be more work for you. Now get outta here!"
+		],
+		[
+			"T_RATE",
+			"If you enjoy playing GTA III, please take a moment to rate it. ~N~Thank you for your support!"
+		],
+		[
+			"LOVE6_E",
+			"If you have a unique commodity, the world and his wife will try to wrestle it from your grasp..."
+		],
+		[
+			"HM2_3",
+			"If you hit a vehicle's wheels the RC buggy will detonate!"
+		],
+		[
+			"JM2_F",
+			"If you need a piece, go around back of AmmuNation opposite the subway."
+		],
+		[
+			"LM4_C",
+			"If you need a piece, go around the back of AmmuNation opposite the subway."
+		],
+		[
+			"RM2_M",
+			"If you need any firepower just drop by and take what you need from the lockers. Leave the cash under the bench."
+		],
+		[
+			"IMPEXPP",
+			"Import/Export garage, Portland Harbor. We have orders for various vehicles. Check our notice board for our requirements."
+		],
+		[
+			"FEC_INC",
+			"In Car"
+		],
+		[
+			"JM1_B",
+			"In a moment sweet heart, I got a little business to take care of."
+		],
+		[
+			"JAILB_X",
+			"In a statement made earlier today,"
+		],
+		[
+			"ITBEG",
+			"In the beginning..."
+		],
+		[
+			"LOVE3_A",
+			"In these days of moral hypocrisy certain valuable commodities can be hard to import."
+		],
+		[
+			"FEM_MA5",
+			"Industrial Park"
+		],
+		[
+			"CAR_28",
+			"Infernus"
+		],
+		[
+			"FE_INIP",
+			"Initialising and loading Pause Menu... Please wait."
+		],
+		[
+			"SLNSP",
+			"Insufficient space to save. Please insert a Memory Card (PS2) with at least 200KB of free space available into MEMORY CARD slot 1."
+		],
+		[
+			"SLONDR",
+			"Insufficient space to save. Please insert a Memory Card (PS2) with at least 500KB of free space available into MEMORY CARD slot 1."
+		],
+		[
+			"KM2_A",
+			"It is impossible to over-estimate the importance of etiquette in this line of work."
+		],
+		[
+			"AM2_F",
+			"It is too late to contact anyone and avoid incrimination."
+		],
+		[
+			"JM3_B",
+			"It leaves the edge of China Town everyday."
+		],
+		[
+			"LOVE3_C",
+			"It will drop several packages into the water."
+		],
+		[
+			"KM5_B",
+			"It would appear your attempts to dissuade the Jamaicans"
+		],
+		[
+			"JM4_3",
+			"It's a Triad ambush! Get us out of here kid!"
+		],
+		[
+			"KM3_7",
+			"It's a Yakuza trap man!"
+		],
+		[
+			"MEA4_B6",
+			"It's far too late for that Marty. You had your chance, but now I'm taking over the business..."
+		],
+		[
+			"AM4_A",
+			"It's my handsome handyman!"
+		],
+		[
+			"JAILB_S",
+			"It's no problem to kill you."
+		],
+		[
+			"AM4_D",
+			"It's time you met our man inside the LPD."
+		],
+		[
+			"ITALIA",
+			"Italian"
+		],
+		[
+			"CRED263",
+			"JAMEEL VEGA"
+		],
+		[
+			"CRED013",
+			"JAMES WORRALL"
+		],
+		[
+			"CRED015",
+			"JAMES WORRALL"
+		],
+		[
+			"CRED101",
+			"JAMES WORRALL"
+		],
+		[
+			"CRD138A",
+			"JAMIE KING"
+		],
+		[
+			"CRED066",
+			"JAMIE KING"
+		],
+		[
+			"CRED078",
+			"JEFF CASTANEDA"
+		],
+		[
+			"CRED090",
+			"JEFF ROSA"
+		],
+		[
+			"CRED150",
+			"JEFF STANTON"
+		],
+		[
+			"CRED076",
+			"JENEFER GROSS"
+		],
+		[
+			"CRED105",
+			"JENEFER GROSS"
+		],
+		[
+			"CRED075",
+			"JENNIFER KOLBE"
+		],
+		[
+			"CRED209",
+			"JENNIFER KOLBE"
+		],
+		[
+			"CRD140E",
+			"JENNY GROSS."
+		],
+		[
+			"CRED070",
+			"JEREMY POPE"
+		],
+		[
+			"CRED242",
+			"JERONIMO BARRERA"
+		],
+		[
+			"CRED258",
+			"JERONIMO BARRERA"
+		],
+		[
+			"CRED200",
+			"JOANNA SLY"
+		],
+		[
+			"CRED097",
+			"JOE GREENE"
+		],
+		[
+			"CRED113",
+			"JOE PANTOLIANO AS LUIGI GOTERELLI"
+		],
+		[
+			"CRED205",
+			"JOEL M. LILJE"
+		],
+		[
+			"JOEY",
+			"JOEY MISSIONS"
+		],
+		[
+			"CRED206",
+			"JOHN DIBENEDETTO"
+		],
+		[
+			"CRED049",
+			"JOHN HAIME"
+		],
+		[
+			"CRED163",
+			"JOSEPH GREENE"
+		],
+		[
+			"FEC_JBO",
+			"JOY ~1~"
+		],
+		[
+			"CRED233",
+			"JUDY HENDERSON CASTING"
+		],
+		[
+			"CRED081",
+			"JUNG KWAK"
+		],
+		[
+			"RM_JOEY",
+			"Joey Leone"
+		],
+		[
+			"LM3_G",
+			"Joey ain't the kind you keep waiting, remember, this is your foot in the door..."
+		],
+		[
+			"AMMU_B",
+			"Joey told me to tool you up..."
+		],
+		[
+			"LM3_6",
+			"Joey..."
+		],
+		[
+			"FET_JG",
+			"Join"
+		],
+		[
+			"BOATIN1",
+			"Jump into a boat and press ~h~::DOOR:: ~w~to get in."
+		],
+		[
+			"AM4_7",
+			"Just 'cause I lost a few partners, those suckers from internal affairs have started sniffing around."
+		],
+		[
+			"AM2_D",
+			"Just like Kenji, always trying to play with my toys."
+		],
+		[
+			"FEA_FM2",
+			"K-JAH RADIO"
+		],
+		[
+			"K_JAH",
+			"K-Jah Radio"
+		],
+		[
+			"KABOOM",
+			"KABOOOM!"
+		],
+		[
+			"CRED204",
+			"KASHONA FIELDS"
+		],
+		[
+			"CRED026",
+			"KEIRAN BAILLIE"
+		],
+		[
+			"KENJI",
+			"KENJI MISSIONS"
+		],
+		[
+			"CRED248",
+			"KEVIN WONG"
+		],
+		[
+			"DIAB3_1",
+			"KILL 25 TRIADS"
+		],
+		[
+			"CRED134",
+			"KIM GURNEY AS MISTY"
+		],
+		[
+			"CRED117",
+			"KYLE MACLACHLAN AS DONALD LOVE"
+		],
+		[
+			"JM6_2",
+			"Keep the engine running we'll be in and out in no time."
+		],
+		[
+			"LOVE6_F",
+			"Keep them busy and he should make good his escape."
+		],
+		[
+			"FEF_SA1",
+			"Keep your place in the pile!"
+		],
+		[
+			"RM_KEN",
+			"Kenji Kasen"
+		],
+		[
+			"LOVE2_F",
+			"Kenji is attending a meeting at the top of the multi-story carpark in Newport."
+		],
+		[
+			"RM_KEY",
+			"Key"
+		],
+		[
+			"CAT2_E3",
+			"Kill the idiot."
+		],
+		[
+			"PAGE_03",
+			"Kill ~1~ Mafia in 120 seconds!"
+		],
+		[
+			"PAGE_04",
+			"Kill ~1~ Triads in 120 seconds!"
+		],
+		[
+			"PAGE_05",
+			"Kill ~1~ Triads in 120 seconds!"
+		],
+		[
+			"YD_P",
+			"King Courtney would like a word. Get to the payphone in Aspatria!"
+		],
+		[
+			"TRAIN_1",
+			"Kurowski Station"
+		],
+		[
+			"CAR_30",
+			"Kuruma"
+		],
+		[
+			"KURUMA",
+			"Kuruma"
+		],
+		[
+			"FEF_LAN",
+			"LAN"
+		],
+		[
+			"CRED096",
+			"LANCE WILLIAMS"
+		],
+		[
+			"FEP_LAN",
+			"LANGUAGE"
+		],
+		[
+			"FET_LAN",
+			"LANGUAGE"
+		],
+		[
+			"LANGSL",
+			"LANGUAGE SELECTION"
+		],
+		[
+			"CRED077",
+			"LAURA PATERSON"
+		],
+		[
+			"CRED106",
+			"LAURA PATERSON"
+		],
+		[
+			"CRED226",
+			"LAZLOW"
+		],
+		[
+			"CRED229",
+			"LAZLOW"
+		],
+		[
+			"CRED164",
+			"LAZLOW JONES"
+		],
+		[
+			"CRED091",
+			"LEAD ANALYST"
+		],
+		[
+			"CRED047",
+			"LEAD TESTERS"
+		],
+		[
+			"CRED264",
+			"LEE CUMMINGS"
+		],
+		[
+			"CRED022",
+			"LEE MONTGOMERY"
+		],
+		[
+			"FET_MIG",
+			"LEFT,RIGHT,MOUSEWHEEL TO ADJUST"
+		],
+		[
+			"CRED122",
+			"LES MAU AS KENJI"
+		],
+		[
+			"CRED003",
+			"LESLIE BENZIES"
+		],
+		[
+			"YD4_B",
+			"LETTER: I hear you've been a busy boy. Well I've been a busy girl."
+		],
+		[
+			"CRED210",
+			"LIAM BURKE"
+		],
+		[
+			"CRED121",
+			"LIANA PAI AS ASUKA"
+		],
+		[
+			"GTAB_Q",
+			"LIAR! We all saw the Cartel assassin."
+		],
+		[
+			"CRED100",
+			"LIBERTY TREE EDITORIAL"
+		],
+		[
+			"CRED173",
+			"LIEZL JACINTO"
+		],
+		[
+			"CRED237",
+			"LILION BROZSKA"
+		],
+		[
+			"FEA_FM4",
+			"LIPS 106"
+		],
+		[
+			"LITTLE",
+			"LITTLE T"
+		],
+		[
+			"FET_APP",
+			"LMB,RETURN TO APPLY THE NEW SETTING"
+		],
+		[
+			"FEP_SAV",
+			"LOAD GAME"
+		],
+		[
+			"FES_LG",
+			"LOAD GAME"
+		],
+		[
+			"FET_LG",
+			"LOAD GAME"
+		],
+		[
+			"GMLOAD",
+			"LOAD GAME"
+		],
+		[
+			"LOADCAR",
+			"LOADING VEHICLE..."
+		],
+		[
+			"CRED058",
+			"LORRAINE ROY"
+		],
+		[
+			"LOVE",
+			"LOVE MISSIONS"
+		],
+		[
+			"LUIGI",
+			"LUIGI MISSIONS"
+		],
+		[
+			"CAR_33",
+			"Landstalker"
+		],
+		[
+			"FEB_LAN",
+			"Language"
+		],
+		[
+			"LANGUA",
+			"Language"
+		],
+		[
+			"LAST",
+			"Last message."
+		],
+		[
+			"FM2_J",
+			"Leave us alone for a minute."
+		],
+		[
+			"RM_G2",
+			"Leone Family"
+		],
+		[
+			"HM3_D",
+			"Let them diffuse that, let them take care of that bomb."
+		],
+		[
+			"LOVE2_D",
+			"Let's capitalise on this business opportunity."
+		],
+		[
+			"HM5_6",
+			"Let's go crack some skulls..."
+		],
+		[
+			"UNIVERS",
+			"Liberty Campus"
+		],
+		[
+			"CITYZON",
+			"Liberty City"
+		],
+		[
+			"FEM_MA0",
+			"Liberty City"
+		],
+		[
+			"JAILB_V",
+			"Liberty city is in shock today."
+		],
+		[
+			"MEA4_G",
+			"Liberty's dogs are gonna get yet another flavor this month!"
+		],
+		[
+			"CAR_12",
+			"Linerunner"
+		],
+		[
+			"LIPS",
+			"Lips 106"
+		],
+		[
+			"JM1_F",
+			"Lips Forelli is stuffing his fat face in St Marks Bistro,"
+		],
+		[
+			"YD4_A",
+			"Listen up!"
+		],
+		[
+			"FM4_2",
+			"Listen, Salvatore thinks that we're going behind his back,"
+		],
+		[
+			"FEB_SAV",
+			"Load"
+		],
+		[
+			"MC_LDFL",
+			"Load Failed!"
+		],
+		[
+			"FES_LOE",
+			"Load Failed! Check Memory Card (PS2) in MEMORY CARD slot 1 and please try again."
+		],
+		[
+			"FES_LOF",
+			"Load Failed."
+		],
+		[
+			"FES_LGA",
+			"Load Game"
+		],
+		[
+			"FES_LCG",
+			"Load the game and continue playing?"
+		],
+		[
+			"MCLOAD",
+			"Loading Data. Please do not remove the Memory Card (PS2) in MEMORY CARD slot 1, reset or switch off the console."
+		],
+		[
+			"PCLOAD",
+			"Loading File Data"
+		],
+		[
+			"FELD_WR",
+			"Loading data. Please do not remove the Memory Card (PS2) in MEMORY CARD slot 1, reset or switch off the console."
+		],
+		[
+			"FED_LFL",
+			"Loading save game has failed. The game will restart now."
+		],
+		[
+			"FED_LDW",
+			"Loading, please wait..."
+		],
+		[
+			"END_D",
+			"Local resident, Clive Denver described to police"
+		],
+		[
+			"LCKHYD",
+			"Lock Hydraulics"
+		],
+		[
+			"FEST_LF",
+			"Longest flight in Dodo"
+		],
+		[
+			"FM4_6",
+			"Look you're a marked man on Mafia turf and I've got to get out of here too."
+		],
+		[
+			"FEF_BR1",
+			"Lost the plot?"
+		],
+		[
+			"LM2_C",
+			"Luigi said to, to give you this so..."
+		],
+		[
+			"LM3_9",
+			"Luigi said you were reliable so come back later,"
+		],
+		[
+			"AMMU_A",
+			"Luigi said you'd need a piece..."
+		],
+		[
+			"RM_LUIG",
+			"Luigi's Club"
+		],
+		[
+			"LUIGIS",
+			"Luigi's Place"
+		],
+		[
+			"PAGEB9",
+			"M16 delivered to hideout"
+		],
+		[
+			"FEM_MM",
+			"MAIN MENU"
+		],
+		[
+			"CRED253",
+			"MALCOLM SMITH"
+		],
+		[
+			"FEG_MAP",
+			"MAP"
+		],
+		[
+			"CRED149",
+			"MARIA CHAMBERS"
+		],
+		[
+			"CRED153",
+			"MARIA CHAMBERS"
+		],
+		[
+			"CRED055",
+			"MARK FLETT"
+		],
+		[
+			"CRED199",
+			"MARK GARONE"
+		],
+		[
+			"CRED034",
+			"MARK HANLON"
+		],
+		[
+			"MM_MARK",
+			"MARKETING"
+		],
+		[
+			"CRED167",
+			"MATHEW MURRAY"
+		],
+		[
+			"CRED114",
+			"MICHAEL MADSEN AS TONI CIPRIANI"
+		],
+		[
+			"CRED029",
+			"MICHAEL PIRSO"
+		],
+		[
+			"CRED115",
+			"MICHAEL RAPAPORT AS JOEY LEONE"
+		],
+		[
+			"CRED056",
+			"MICHAEL SUTHERLAND"
+		],
+		[
+			"CRED270",
+			"MIKE HONG"
+		],
+		[
+			"M_PASS",
+			"MISSION PASSED! ~N~~3~$~1~"
+		],
+		[
+			"FEA_4SP",
+			"MORE THAN 2 SPEAKERS"
+		],
+		[
+			"CRED135",
+			"MOTION CAPTURE"
+		],
+		[
+			"FET_MTI",
+			"MOUSE CONTROL CONFIGURATION"
+		],
+		[
+			"FET_MST",
+			"MOUSE CONTROLLED STEERING"
+		],
+		[
+			"FET_AMS",
+			"MOUSE SETTINGS"
+		],
+		[
+			"FEA_FM9",
+			"MP3 PLAYER"
+		],
+		[
+			"FEA_FM6",
+			"MSX FM"
+		],
+		[
+			"MSX_FM",
+			"MSX FM"
+		],
+		[
+			"FEM_MP",
+			"MULTIPLAYER"
+		],
+		[
+			"FET_MP",
+			"MULTIPLAYER"
+		],
+		[
+			"CRED071",
+			"MUSIC SUPERVISOR"
+		],
+		[
+			"FEA_MUS",
+			"MUSIC VOLUME"
+		],
+		[
+			"MAFIACR",
+			"Mafia Sentinel"
+		],
+		[
+			"MGSVCN",
+			"MagazineDirectory Created"
+		],
+		[
+			"MGSVNC",
+			"MagazineDirectory Not Created"
+		],
+		[
+			"AM5_D",
+			"Make him bleed!"
+		],
+		[
+			"AM1_G",
+			"Make sure he doesn't reach his club alive."
+		],
+		[
+			"LOVE3_D",
+			"Make sure you pick them up before anyone else does."
+		],
+		[
+			"CAR_34",
+			"Manana"
+		],
+		[
+			"FEN_UKM",
+			"Map not found"
+		],
+		[
+			"FIL_MAP",
+			"Map:"
+		],
+		[
+			"MAR",
+			"Mar"
+		],
+		[
+			"AM5_A",
+			"Maria and I have gone shopping."
+		],
+		[
+			"AM3_B",
+			"Maria and I have taken a little holiday together until you can get rid of this perverted voyeur."
+		],
+		[
+			"AM4_B",
+			"Maria's all tied up at the moment but I'll tell her you called."
+		],
+		[
+			"MarketingAcceleration",
+			"Marketing Acceleration Toggled"
+		],
+		[
+			"MEA4_B4",
+			"Marty sent you huh? OK, I'm gonna show that creep the meaning of the word business."
+		],
+		[
+			"MEA3_B4",
+			"Marty wants to see me? Well it better be quick because I have to get my hair done."
+		],
+		[
+			"EBAL_K",
+			"Maybe you can do me a favor."
+		],
+		[
+			"JAILB_M",
+			"Mayor O'Donovan made it clear that the police were treating this..."
+		],
+		[
+			"EBAL_D1",
+			"Me an' him go back so I could probably get you some work. C'mon lets head over there."
+		],
+		[
+			"FM2_R",
+			"Meanwhile Joey Leone has stirred up some bad blood with the Forellis."
+		],
+		[
+			"AM1_H",
+			"Meanwhile Maria and I will catch up on old times."
+		],
+		[
+			"MED_WST",
+			"Medics wasted"
+		],
+		[
+			"AM4_1D",
+			"Meet me in the toilet block in the park."
+		],
+		[
+			"FELZ_FO",
+			"Memory Card (PS2) in MEMORY CARD slot 1 is unformatted."
+		],
+		[
+			"SLONNF",
+			"Memory Card (PS2) in MEMORY CARD slot 1 is unformatted."
+		],
+		[
+			"FESZ_FM",
+			"Memory Card (PS2) in MEMORY CARD slot 1 is unformatted. Would you like to format Memory Card (PS2) in MEMORY CARD slot 1?"
+		],
+		[
+			"FEM_MCM",
+			"Memory Card Menu"
+		],
+		[
+			"FEM_MC2",
+			"Memory Card Menu 2"
+		],
+		[
+			"MEMTST",
+			"MemoryCardTest screen"
+		],
+		[
+			"CRED347",
+			"Michael Owen"
+		],
+		[
+			"NMMISP",
+			"Missions passed"
+		],
+		[
+			"MMRAIN",
+			"Mm rain fallen"
+		],
+		[
+			"PAGEB6",
+			"Molotovs delivered to hideout"
+		],
+		[
+			"FEA_MNO",
+			"Mono"
+		],
+		[
+			"CAR_9",
+			"Moonbeam"
+		],
+		[
+			"CRED348",
+			"Morgan Hughes"
+		],
+		[
+			"CAR_15",
+			"Mr Whoopee"
+		],
+		[
+			"WHOOPEE",
+			"Mr Whoopee"
+		],
+		[
+			"MRWONGS",
+			"Mr Wongs"
+		],
+		[
+			"CAR_16",
+			"Mule"
+		],
+		[
+			"FEST_RM",
+			"Multistorey Mayhem in secs"
+		],
+		[
+			"PAGE_01",
+			"Murder ~1~ Diablos in 120 seconds!"
+		],
+		[
+			"MUSVOL",
+			"Music Volume"
+		],
+		[
+			"MUSMEN",
+			"Music/SFX"
+		],
+		[
+			"LOVE5_B",
+			"My Oriental friend will need an escort while he takes my latest acquisition to be authenticated."
+		],
+		[
+			"KM2_F",
+			"My honor demands it."
+		],
+		[
+			"AM2_E",
+			"My police source indicates that the FBI has mounted a surveillance operation"
+		],
+		[
+			"LOVE4_G",
+			"My property will be waiting for you at the customs hanger in the aircraft's fuselage."
+		],
+		[
+			"LOVE4_C",
+			"My real objective was hidden on the plane all along."
+		],
+		[
+			"KM1_A",
+			"My sister speaks highly of you,"
+		],
+		[
+			"MEA3_B",
+			"My wife has an insurance policy and all she's ever been to me is a hole in my pocket."
+		],
+		[
+			"FEC_NA",
+			"NA"
+		],
+		[
+			"CRED207",
+			"NANCY GILES"
+		],
+		[
+			"CRD137A",
+			"NAVID KHONSARI"
+		],
+		[
+			"CRED050",
+			"NEIL CORBETT"
+		],
+		[
+			"FES_SNG",
+			"NEW GAME"
+		],
+		[
+			"FET_NG",
+			"NEW GAME"
+		],
+		[
+			"NICK",
+			"NICK LOVE"
+		],
+		[
+			"FEM_NO",
+			"NO"
+		],
+		[
+			"FET_NON",
+			"NO GAMES AVAILABLE"
+		],
+		[
+			"FES_NON",
+			"NO SKINS AVAILABLE"
+		],
+		[
+			"FEM_NON",
+			"NONE"
+		],
+		[
+			"FEN_NCI",
+			"NOT CONNECTED TO THE INTERNET"
+		],
+		[
+			"FES_ISF",
+			"NOT PRESENT"
+		],
+		[
+			"FEC_STR",
+			"NUM STAR"
+		],
+		[
+			"FEN_NAM",
+			"Name:"
+		],
+		[
+			"FEF_CO1",
+			"Need more control, freak?"
+		],
+		[
+			"KM2_D",
+			"Needless to say, we must give him the cars as a gift, to repay the debt that I owe him."
+		],
+		[
+			"FEN_NET",
+			"Network"
+		],
+		[
+			"GA_2",
+			"New engine and paint job. The cops won't recognize you!"
+		],
+		[
+			"COM_EAS",
+			"Newport"
+		],
+		[
+			"FEC_NWE",
+			"Next weapon"
+		],
+		[
+			"NO",
+			"No"
+		],
+		[
+			"FES_NOC",
+			"No Memory Card (PS2) in MEMORY CARD slot 1."
+		],
+		[
+			"SLONNO",
+			"No Memory Card (PS2) in MEMORY CARD slot 1."
+		],
+		[
+			"FEC_NTT",
+			"No Text Yet For This Key"
+		],
+		[
+			"GA_3",
+			"No more freebies. $1000 to respray!"
+		],
+		[
+			"FM2_H",
+			"No, no, I wasn't followed. You got my stuff?"
+		],
+		[
+			"FEA_NON",
+			"None"
+		],
+		[
+			"HelpTextNotWanted",
+			"Not Wanted cheat"
+		],
+		[
+			"LOVE2_A",
+			"Nothing drives down real estate prices like a good old fashioned gang war,"
+		],
+		[
+			"LM5_C",
+			"Now I got girls all over town walking the streets."
+		],
+		[
+			"MC_NWRE",
+			"Now Restarting Game."
+		],
+		[
+			"RM2_N",
+			"Now get out of here, I'll handle the cops."
+		],
+		[
+			"JM3_D",
+			"Now hit it hard and the punk ass security guards should bail."
+		],
+		[
+			"JM3_F",
+			"Now it won't be doin' it's rounds all day, so don't hang around."
+		],
+		[
+			"JM4_G",
+			"Now listen to me, I'm planning a job that needs a good driver so drop by sometime later Ok?"
+		],
+		[
+			"HM3_G",
+			"Now move it!"
+		],
+		[
+			"KM3_C",
+			"Now they are negotiating terms with the Jamaicans in order to humiliate us further."
+		],
+		[
+			"FEN_PLA",
+			"Number of players:"
+		],
+		[
+			"FEC_OKK",
+			"O.K."
+		],
+		[
+			"CRED007",
+			"OBBE VERMEIJ"
+		],
+		[
+			"O_PASS",
+			"ODD JOB PASSED!"
+		],
+		[
+			"FESZ_OK",
+			"OK"
+		],
+		[
+			"JM4_10",
+			"OK, Kid. Drive me to the laundry in Chinatown first, I got a bit of business to take care of."
+		],
+		[
+			"FM2_P",
+			"OK, so the Leone's are fighting wars on two fronts."
+		],
+		[
+			"FET_CFT",
+			"ON FOOT"
+		],
+		[
+			"FEM_OPT",
+			"OPTIONS"
+		],
+		[
+			"FET_OPT",
+			"OPTIONS"
+		],
+		[
+			"CRED099",
+			"OSWALD GREENE"
+		],
+		[
+			"KM1_F",
+			"Of course failure has its own disgrace."
+		],
+		[
+			"CAT2_H",
+			"Oh we're going to have such fun, cause, you know, my sister said she wanted to come to stay with her two kids,"
+		],
+		[
+			"JM4_B",
+			"Oh! Here's the guy I was telling you about!"
+		],
+		[
+			"END_J",
+			"Oh, you know, I forget. But you know what it's like, don't you?"
+		],
+		[
+			"END_F",
+			"Oh, you know, we're gonna have such fun, 'cos you know, you know,"
+		],
+		[
+			"AM1_I",
+			"Oh... Asuka, you've got a massager."
+		],
+		[
+			"FEC_ONF",
+			"On Foot"
+		],
+		[
+			"LOVE3_B",
+			"On its approach to the airport tonight, a light aircraft will pass over the bay."
+		],
+		[
+			"JM1_I",
+			"Once he's fitted it with a bomb, go park the car where you found it."
+		],
+		[
+			"EBAL_L",
+			"One of my girls needs a ride so grab a car and pick up Misty from the clinic. Then bring her back here."
+		],
+		[
+			"JM5_D",
+			"One of the Forellis thought he was a wise guy, so he got what he had coming to him."
+		],
+		[
+			"HM3_F",
+			"One pot hole too many and that thing could blow."
+		],
+		[
+			"FEC_OMS",
+			"Only One Mouse Keys Allowed"
+		],
+		[
+			"KM3_E",
+			"Our Honor demands that you leave no one alive."
+		],
+		[
+			"AM5_B",
+			"Our source in the police has informed us that one of our drivers is a strangely animated undercover cop!"
+		],
+		[
+			"FEA_OUT",
+			"Output:"
+		],
+		[
+			"FESZ_OW",
+			"Overwriting data. Please do not remove the Memory Card (PS2) in MEMORY CARD slot 1, reset or switch off the console."
+		],
+		[
+			"PANCAK",
+			"PANCAKED!"
+		],
+		[
+			"CRED016",
+			"PAUL KUROWSKI"
+		],
+		[
+			"CRED024",
+			"PAUL KUROWSKI"
+		],
+		[
+			"CRED083",
+			"PAUL YEATES"
+		],
+		[
+			"CRED104",
+			"PAUL YEATES"
+		],
+		[
+			"FET_PAU",
+			"PAUSE MENU"
+		],
+		[
+			"CRED141",
+			"PEDESTRIAN DIALOGUE"
+		],
+		[
+			"A_SAVES",
+			"PEOPLE SAVED: ~1~"
+		],
+		[
+			"CRED213",
+			"PHILIPPA RASELLI"
+		],
+		[
+			"FEG_PNG",
+			"PING"
+		],
+		[
+			"FET_PS",
+			"PLAYER SETUP"
+		],
+		[
+			"FET_PSU",
+			"PLAYER SETUP"
+		],
+		[
+			"FEG_PLY",
+			"PLAYERS"
+		],
+		[
+			"FES_SAG",
+			"PRESENT"
+		],
+		[
+			"FESZ_QS",
+			"PROCEED WITH SAVE ?"
+		],
+		[
+			"CRED138",
+			"PRODUCED BY"
+		],
+		[
+			"CRED144",
+			"PRODUCED BY RENAUD SEBBANE"
+		],
+		[
+			"CRED002",
+			"PRODUCER"
+		],
+		[
+			"CRED063",
+			"PRODUCER"
+		],
+		[
+			"CRED221",
+			"PRODUCER FOR ROCKSTAR GAMES"
+		],
+		[
+			"CRED218",
+			"PRODUCERS FOR ROCKSTAR UK"
+		],
+		[
+			"YD4_D",
+			"PS: DIE PEEG DOG, DIE!"
+		],
+		[
+			"PANLANT",
+			"Panlantic"
+		],
+		[
+			"ALEVEL",
+			"Paramedic Mission Level ~1~"
+		],
+		[
+			"A_FAIL1",
+			"Paramedic mission ended."
+		],
+		[
+			"A_COMP1",
+			"Paramedic missions complete!"
+		],
+		[
+			"A_COMP3",
+			"Paramedic missions complete! You will never get tired when running!"
+		],
+		[
+			"CRUSH",
+			"Park in the marked area and exit your vehicle. The vehicle will then be crushed."
+		],
+		[
+			"GA_6",
+			"Park it, prime it by pressing ~h~::VEHB::~w~ and LEG IT!"
+		],
+		[
+			"PARSHP",
+			"Parse Heap"
+		],
+		[
+			"CAR_14",
+			"Patriot"
+		],
+		[
+			"FEST_R1",
+			"Patriot Playground in secs"
+		],
+		[
+			"RM_SPRY",
+			"Pay N Spray"
+		],
+		[
+			"LOVE1_F",
+			"People will read something into anything these days."
+		],
+		[
+			"CAR_32",
+			"Perennial"
+		],
+		[
+			"KM1_B",
+			"Perhaps you could help deal with a situation that has me at a disadvantage."
+		],
+		[
+			"HM3_C",
+			"Pick up my car and take it over to the garage on St. Marks, a'right yo."
+		],
+		[
+			"DIAB2_E",
+			"Pick up the bomb I've hidden in Harwood,"
+		],
+		[
+			"RATNG1",
+			"Pickpocket"
+		],
+		[
+			"SUB_IND",
+			"Pike Creek"
+		],
+		[
+			"FIL_PNG",
+			"Ping:"
+		],
+		[
+			"PAGEB1",
+			"Pistol delivered to hideout"
+		],
+		[
+			"FEN_PLC",
+			"Player color"
+		],
+		[
+			"FEN_PLS",
+			"Player settings"
+		],
+		[
+			"GTAB_U",
+			"Please amigo, don't leave me here with her, man!  She's... she's psycho, chico... man, please! Amigo? Hey... hey amigo! AMIIIIIIGO!!!... Aiiieeeeaaargghh!"
+		],
+		[
+			"NO_PCCD",
+			"Please insert Grand Theft Auto III - disc 2 into the drive or press ESC to cancel"
+		],
+		[
+			"NOCONT",
+			"Please reconnect a controller to continue."
+		],
+		[
+			"NOCONTE",
+			"Please reconnect a controller to continue."
+		],
+		[
+			"CAR_3",
+			"Police"
+		],
+		[
+			"PAGEB12",
+			"Police Bribe delivered to hideout"
+		],
+		[
+			"CAR_18",
+			"Pony"
+		],
+		[
+			"PAGE_07",
+			"Pop ~1~ Yardie heads in 120 seconds!"
+		],
+		[
+			"TUNNELP",
+			"Porter Tunnel"
+		],
+		[
+			"IND_ZON",
+			"Portland"
+		],
+		[
+			"EASTBAY",
+			"Portland Beach"
+		],
+		[
+			"PORT_E",
+			"Portland Harbor"
+		],
+		[
+			"SUBWAY1",
+			"Portland Station"
+		],
+		[
+			"S_VIEW",
+			"Portland View"
+		],
+		[
+			"SPLASH3",
+			"Press ::MENUOK:: To Continue."
+		],
+		[
+			"DYNG4",
+			"Press ::RADAR:: to open a map of the city. Your objective can be seen on the map as well as important locations."
+		],
+		[
+			"DYNK4",
+			"Press ::RADAR:: to open a map of the city. Your objective can be seen on the map as well as important locations."
+		],
+		[
+			"DYNGM4",
+			"Press ::SPRINT:: rapidly to sprint."
+		],
+		[
+			"HELP2_A",
+			"Press ::SPRINT:: when running to ~h~sprint."
+		],
+		[
+			"TTUTOR",
+			"Press ::SUBMISSIONS::~w~ to toggle taxi missions on or off."
+		],
+		[
+			"RCHELP",
+			"Press ::VEHB::, or drive the RC car into a vehicle's wheels to detonate."
+		],
+		[
+			"DYNGPS4",
+			"Press OPTIONS ::RADAR:: to open a map of the city. Your objective can be seen on the map as well as important locations."
+		],
+		[
+			"HELP4X",
+			"Press and hold ::SPRINT:: to sprint."
+		],
+		[
+			"HELP4_A",
+			"Press ~h~::ACCEL::~w~ to ~h~accelerate."
+		],
+		[
+			"HELP5_A",
+			"Press ~h~::BRAKE::~w~ to ~h~brake~w~, or to ~h~reverse~w~ if the vehicle has stopped."
+		],
+		[
+			"CAM_A",
+			"Press ~h~::CAMERA::~w~ to change ~h~camera ~w~modes when on foot or in a vehicle."
+		],
+		[
+			"EBAL_1",
+			"Press ~h~::DOOR::~w~ to ~h~enter ~w~or ~h~exit~w~ a vehicle."
+		],
+		[
+			"HELP9_A",
+			"Press ~h~::FIRE:: ~w~to ~h~fire~w~ the sniper rifle."
+		],
+		[
+			"PBOAT_1",
+			"Press ~h~::FIREVEH::~w~ to fire the boat cannons."
+		],
+		[
+			"HELP6_A",
+			"Press ~h~::HANDBRAKE:: ~w~to apply the vehicle's ~h~handbrake."
+		],
+		[
+			"LM3_1A",
+			"Press ~h~::HORN::~w~ to activate the ~h~horn~w~ and let Misty know you are here."
+		],
+		[
+			"DYNGM1",
+			"Press ~h~::NEXTWEAPON:: ~w~to cycle through your weapons. Hold ::NEXTWEAPON:: to open the Weapon Wheel."
+		],
+		[
+			"DYNG1",
+			"Press ~h~::PREVWEAPON:: or ::NEXTWEAPON:: ~w~to cycle through your weapons. Hold ::PREVWEAPON:: to open the Weapon Wheel."
+		],
+		[
+			"ATUTOR",
+			"Press ~h~::SUBMISSIONS::~w~ to toggle Paramedic missions on or off."
+		],
+		[
+			"CTUTOR",
+			"Press ~h~::SUBMISSIONS::~w~ to toggle Vigilante missions on or off."
+		],
+		[
+			"FTUTOR",
+			"Press ~h~::SUBMISSIONS::~w~ to toggle fire truck missions on or off."
+		],
+		[
+			"KM1_8A",
+			"Press ~h~::VEHB::~w~ to ~h~activate the bomb,~w~ remember to get out of the way."
+		],
+		[
+			"HELP8_A",
+			"Press ~h~::ZOOMIN:: ~w~to ~h~zoom in ~w~with the rifle and ~h~::ZOOMOUT:: ~w~to ~h~zoom out ~w~again."
+		],
+		[
+			"PREBRF",
+			"Previous Briefs"
+		],
+		[
+			"PRVMEN",
+			"Previous Mission Briefs"
+		],
+		[
+			"FEB_PMB",
+			"Previous Mission Briefs:"
+		],
+		[
+			"FEC_PWE",
+			"Previous weapon"
+		],
+		[
+			"FESZ_QD",
+			"Proceed with deleting this saved game?"
+		],
+		[
+			"FESZ_QO",
+			"Proceed with overwriting this saved game?"
+		],
+		[
+			"FEF_AU1",
+			"Pump up the volume!"
+		],
+		[
+			"CRED089",
+			"QA MANAGER"
+		],
+		[
+			"FEM_QT",
+			"QUIT GAME"
+		],
+		[
+			"FET_QG",
+			"QUIT GAME"
+		],
+		[
+			"FESZ_QU",
+			"Quit"
+		],
+		[
+			"QUITOP",
+			"Quit Options"
+		],
+		[
+			"DIAB1_5",
+			"RACE TIME:"
+		],
+		[
+			"FEA_RSS",
+			"RADIO STATION"
+		],
+		[
+			"CRED217",
+			"RADIO STATIONS AND MUSIC"
+		],
+		[
+			"RAMP_P",
+			"RAMPAGE COMPLETE!"
+		],
+		[
+			"RAMP_F",
+			"RAMPAGE FAILED"
+		],
+		[
+			"RAY",
+			"RAY MISSIONS"
+		],
+		[
+			"CRED044",
+			"RAYMOND USHER"
+		],
+		[
+			"CRED139",
+			"RECORDED AT MODERN UPRISING STUDIOS, BROOKLYN"
+		],
+		[
+			"FET_RDK",
+			"REDEFINE CONTROLS"
+		],
+		[
+			"CRD140A",
+			"RENAUD SEBBANE"
+		],
+		[
+			"CRED148",
+			"RENAUD SEBBANE"
+		],
+		[
+			"FET_DEF",
+			"RESTORE DEFAULTS"
+		],
+		[
+			"FEM_RES",
+			"RESUME"
+		],
+		[
+			"FEC_RTN",
+			"RET"
+		],
+		[
+			"FESZ_RM",
+			"RETRY?"
+		],
+		[
+			"CRED094",
+			"RICHARD HUIE"
+		],
+		[
+			"CRED168",
+			"RICHARD HUIE"
+		],
+		[
+			"CRED240",
+			"RICHIE HENDERSON"
+		],
+		[
+			"FEA_FM3",
+			"RISE FM"
+		],
+		[
+			"CRED118",
+			"ROBERT LOGGIA AS RAY MACHOWSKI"
+		],
+		[
+			"CRD140D",
+			"ROBERT STIO"
+		],
+		[
+			"CRED060",
+			"ROCKSTAR"
+		],
+		[
+			"CRED073",
+			"ROCKSTAR PRODUCTION TEAM"
+		],
+		[
+			"CRED001",
+			"ROCKSTAR STUDIOS"
+		],
+		[
+			"CRED250",
+			"ROSS BEAZLEY"
+		],
+		[
+			"CRED249",
+			"ROSS ELLIOTT"
+		],
+		[
+			"CRED151",
+			"RYAN CROY"
+		],
+		[
+			"CRED208",
+			"RYAN CROY"
+		],
+		[
+			"FEC_RSC",
+			"Radio station cycle"
+		],
+		[
+			"FEN_TY6",
+			"Rat Race"
+		],
+		[
+			"FEH_RTE",
+			"Rate GTA III"
+		],
+		[
+			"RM_RAY",
+			"Ray Machowski"
+		],
+		[
+			"RM2_E",
+			"Ray phoned ahead... but I thought there'd be more of you."
+		],
+		[
+			"RELIDE",
+			"ReLoadIde"
+		],
+		[
+			"RELIPE",
+			"ReLoadIpl"
+		],
+		[
+			"AM4_8",
+			"Reckon they can smell me."
+		],
+		[
+			"REDLIGH",
+			"Red Light District"
+		],
+		[
+			"FEM_MA1",
+			"RedLight"
+		],
+		[
+			"FET_REF",
+			"Refresh"
+		],
+		[
+			"REGCAR",
+			"Register MemoryCard One"
+		],
+		[
+			"EBAL_M",
+			"Remember no one messes with my girls!"
+		],
+		[
+			"PAGE_19",
+			"Remove ~1~ Colombian heads in 120 seconds!"
+		],
+		[
+			"A_PASS",
+			"Rescued!"
+		],
+		[
+			"END_A",
+			"Residents in Cedar Grove have been coming to terms"
+		],
+		[
+			"GA_16",
+			"Respray is complimentary."
+		],
+		[
+			"GMREST",
+			"Restart Game"
+		],
+		[
+			"PCRESRT",
+			"Restarting Grand Theft Auto III"
+		],
+		[
+			"JAILB_W",
+			"Revelations as to the professionalism of the attack struck police hours afterward,"
+		],
+		[
+			"CAR_6",
+			"Rhino"
+		],
+		[
+			"RATNG12",
+			"Right-hand man"
+		],
+		[
+			"RISE",
+			"Rise FM"
+		],
+		[
+			"PAGEB10",
+			"Rocket Launcher delivered to hideout"
+		],
+		[
+			"HOSPI_2",
+			"Rockford"
+		],
+		[
+			"SUBWAY2",
+			"Rockford Station"
+		],
+		[
+			"CNT_RTL",
+			"Rotate left"
+		],
+		[
+			"CNT_RTR",
+			"Rotate right"
+		],
+		[
+			"TRAIN_2",
+			"Rothwell Station"
+		],
+		[
+			"CAR_20",
+			"Rumpo"
+		],
+		[
+			"FEST_H4",
+			"Rumpo Rampage"
+		],
+		[
+			"CNT_RUN",
+			"Run"
+		],
+		[
+			"FEC_RUN",
+			"Run"
+		],
+		[
+			"KM5_F",
+			"Run these scumbags into the ground and wash your shame in rivers of our enemies' blood!"
+		],
+		[
+			"FRANK",
+			"SALVATORE MISSIONS"
+		],
+		[
+			"CRED062",
+			"SAM HOUSER"
+		],
+		[
+			"CRED216",
+			"SARA SEWELL"
+		],
+		[
+			"SVCONF",
+			"SAVE CONFIRMATION"
+		],
+		[
+			"FES_SLO",
+			"SAVE FILE"
+		],
+		[
+			"FET_SG",
+			"SAVE GAME"
+		],
+		[
+			"GMSAVE",
+			"SAVE GAME"
+		],
+		[
+			"FESZ_TI",
+			"SAVE Z1"
+		],
+		[
+			"CRED038",
+			"SCORE"
+		],
+		[
+			"SCROPT",
+			"SCREEN OPTIONS"
+		],
+		[
+			"FED_RES",
+			"SCREEN RESOLUTION"
+		],
+		[
+			"CRED108",
+			"SCRIPT BY DAN HOUSER AND JAMES WORRALL"
+		],
+		[
+			"CRED156",
+			"SEAN R. LYNCH"
+		],
+		[
+			"FET_SFG",
+			"SEARCHING FOR GAMES..."
+		],
+		[
+			"FET_RIG",
+			"SELECT A NEW CONTROL FOR THIS ACTION OR ESC TO CANCEL"
+		],
+		[
+			"FET_MAP",
+			"SELECT MAP"
+		],
+		[
+			"FEG_SRV",
+			"SERVER"
+		],
+		[
+			"FEA_SFX",
+			"SFX VOLUME"
+		],
+		[
+			"SFXVOL",
+			"SFX Volume"
+		],
+		[
+			"CRED203",
+			"SHIRLEY IRICK"
+		],
+		[
+			"CRED211",
+			"SIGRID PREISSL"
+		],
+		[
+			"FEM_SP",
+			"SINGLE PLAYER"
+		],
+		[
+			"FET_SP",
+			"SINGLE PLAYER"
+		],
+		[
+			"SOAKED",
+			"SOAKED!"
+		],
+		[
+			"CRED120",
+			"SONDRA JAMES AS MOMMA"
+		],
+		[
+			"FET_SRT",
+			"SORTING GAMES..."
+		],
+		[
+			"SOUND",
+			"SOUND"
+		],
+		[
+			"CRED041",
+			"SOUND DESIGN & MASTERING"
+		],
+		[
+			"CRED219",
+			"SOUNDTRACK CO-ORDINATOR"
+		],
+		[
+			"FEL_SPA",
+			"SPANISH"
+		],
+		[
+			"FEC_SPC",
+			"SPC"
+		],
+		[
+			"CRED230",
+			"SPECIAL THANKS TO"
+		],
+		[
+			"TAXI5",
+			"SPEED BONUS!"
+		],
+		[
+			"SPLAT",
+			"SPLAT!"
+		],
+		[
+			"FM2_16",
+			"SPOOKOMETER:"
+		],
+		[
+			"STANDS",
+			"STALLS WRECKED:"
+		],
+		[
+			"FET_STI",
+			"STANDARD CONTROL CONFIGURATION"
+		],
+		[
+			"CRED084",
+			"STANTON SARJEANT"
+		],
+		[
+			"FEN_STA",
+			"START GAME"
+		],
+		[
+			"FET_SGA",
+			"START GAME"
+		],
+		[
+			"FES_SG",
+			"START NEW GAME"
+		],
+		[
+			"FET_SAN",
+			"START NEW GAME"
+		],
+		[
+			"FET_SNG",
+			"START NEW GAME"
+		],
+		[
+			"FEDS_ST",
+			"START button - RESUME"
+		],
+		[
+			"FET_STA",
+			"STATISTICS"
+		],
+		[
+			"FEP_STA",
+			"STATS"
+		],
+		[
+			"CRED161",
+			"STEPHANIE ROY"
+		],
+		[
+			"CRD140C",
+			"STEPHEN DANIELS"
+		],
+		[
+			"CRED268",
+			"STEVE K."
+		],
+		[
+			"CRED170",
+			"STEVE KNEZEVICH"
+		],
+		[
+			"CRED261",
+			"STEVE KNEZEVICH"
+		],
+		[
+			"CRED166",
+			"STEVE MICHAEL ROBERT"
+		],
+		[
+			"CRED257",
+			"STUART PETRI"
+		],
+		[
+			"CRED040",
+			"STUART ROSS"
+		],
+		[
+			"CRED254",
+			"STUDIO MANAGER"
+		],
+		[
+			"FED_SUB",
+			"SUBTITLES"
+		],
+		[
+			"LOVE6_C",
+			"SWAT teams have cordoned off the area around my associate and the package."
+		],
+		[
+			"RM_SAFE",
+			"Safehouse"
+		],
+		[
+			"LITTLEI",
+			"Saint Mark's"
+		],
+		[
+			"RM_SALV",
+			"Salvatore Leone"
+		],
+		[
+			"AM1_K",
+			"Salvatore Leone will be leaving Luigi's in about three hours time. (0~1~:~1~)"
+		],
+		[
+			"AM1_F",
+			"Salvatore Leone will be leaving Luigi's in about three hours time. (~1~:~1~)"
+		],
+		[
+			"FM2_T",
+			"Salvatore is becoming dangerous and paranoid. He suspects everybody and everything."
+		],
+		[
+			"AM2_A",
+			"Salvatore's death comes as pleasurable news,"
+		],
+		[
+			"FESZ_SR",
+			"Save Failed! Check Memory Card (PS2) in MEMORY CARD slot 1 and please try again."
+		],
+		[
+			"PUSAVE",
+			"Save Only the game"
+		],
+		[
+			"FEF_SA2",
+			"Save and load your games"
+		],
+		[
+			"FESZ_SA",
+			"Save game"
+		],
+		[
+			"FES_SCG",
+			"Save the current game?"
+		],
+		[
+			"SVGMON",
+			"SaveTheGame"
+		],
+		[
+			"FESZ_WR",
+			"Saving data. Please do not remove the Memory Card (PS2) in MEMORY CARD slot 1, reset or switch off the console."
+		],
+		[
+			"FES_WAR",
+			"Saving, please wait..."
+		],
+		[
+			"SCRFOR",
+			"Screen format"
+		],
+		[
+			"CAR_8",
+			"Securicar"
+		],
+		[
+			"RM6_3",
+			"See y'around."
+		],
+		[
+			"FEDS_XB",
+			"Select"
+		],
+		[
+			"FEF_AU2",
+			"Select a radio station and sound effect"
+		],
+		[
+			"FEM_MAP",
+			"Select map"
+		],
+		[
+			"CAR_24",
+			"Sentinel"
+		],
+		[
+			"FIL_SRV",
+			"Server:"
+		],
+		[
+			"FEC_SGJ",
+			"Set Game Joystick"
+		],
+		[
+			"SET1",
+			"SetUp 1."
+		],
+		[
+			"SET2",
+			"SetUp 2"
+		],
+		[
+			"SET2EN",
+			"SetUp 2. Enabled"
+		],
+		[
+			"SET3",
+			"SetUp 3"
+		],
+		[
+			"SET3EN",
+			"SetUp 3. Enabled"
+		],
+		[
+			"SET4",
+			"SetUp 4"
+		],
+		[
+			"SET4EN",
+			"SetUp 4. Enabled"
+		],
+		[
+			"FEC_CF1",
+			"Setup1"
+		],
+		[
+			"FEC_CF2",
+			"Setup2"
+		],
+		[
+			"FEC_CF3",
+			"Setup3"
+		],
+		[
+			"FEC_CF4",
+			"Setup4"
+		],
+		[
+			"END_L",
+			"Several citizens were injured in the panic as ground fire was exchanged"
+		],
+		[
+			"JAILB_R",
+			"Se\u00f1or dickhead!"
+		],
+		[
+			"JM6_4",
+			"Shake the cops and get us to the safehouse!"
+		],
+		[
+			"SUBWAY4",
+			"Shoreside Terminal"
+		],
+		[
+			"SUB_ZO2",
+			"Shoreside Vale"
+		],
+		[
+			"SUB_ZO3",
+			"Shoreside Vale"
+		],
+		[
+			"SUB_ZON",
+			"Shoreside Vale"
+		],
+		[
+			"PAGEB4",
+			"Shotgun delivered to hideout"
+		],
+		[
+			"CLZOOF",
+			"Show Cull Zones Off"
+		],
+		[
+			"CLZOON",
+			"Show Cull Zones On"
+		],
+		[
+			"FEC_GSL",
+			"Show head bob:"
+		],
+		[
+			"CRGOFF",
+			"ShowCarRoadGroups Off"
+		],
+		[
+			"CRRGON",
+			"ShowCarRoadGroups On"
+		],
+		[
+			"PRGOFF",
+			"ShowPedRoadGroups Off"
+		],
+		[
+			"PDRGON",
+			"ShowPedRoadGroups On"
+		],
+		[
+			"SICASS",
+			"Sick Fuck"
+		],
+		[
+			"SCASSL",
+			"Sick Fuck Selected"
+		],
+		[
+			"SICSIC",
+			"Sick Fucker"
+		],
+		[
+			"SCSCSL",
+			"Sick Fucker Selected"
+		],
+		[
+			"FEM_SL1",
+			"Slot 1 is free"
+		],
+		[
+			"FEM_SL2",
+			"Slot 2 is free"
+		],
+		[
+			"FEM_SL3",
+			"Slot 3 is free"
+		],
+		[
+			"FEM_SL4",
+			"Slot 4 is free"
+		],
+		[
+			"FEM_SL5",
+			"Slot 5 is free"
+		],
+		[
+			"FEM_SL6",
+			"Slot 6 is free"
+		],
+		[
+			"FEM_SL7",
+			"Slot 7 is free"
+		],
+		[
+			"FEM_SL8",
+			"Slot 8 is free"
+		],
+		[
+			"FEC_SLC",
+			"Slot is corrupted"
+		],
+		[
+			"PAGEB8",
+			"Sniper rifle delivered to hideout"
+		],
+		[
+			"AMMU_C",
+			"So go around back of the shop. I left you a nine in the yard."
+		],
+		[
+			"EBAL_N",
+			"So keep your hands on the wheel!"
+		],
+		[
+			"HM4_H",
+			"So make regular drop off's at the garage."
+		],
+		[
+			"JM4_13",
+			"So no fancy crap, OK?"
+		],
+		[
+			"GTAB_L",
+			"So the whore got away."
+		],
+		[
+			"LM4_A",
+			"Some Diablo scumbag has been pimping his skuzzy bitches in my backyard."
+		],
+		[
+			"HM3_A",
+			"Some effa has wired my wheels to blow."
+		],
+		[
+			"DIAB3_A",
+			"Some insolent Triads stole my beautiful car last night,"
+		],
+		[
+			"DIAB3_C",
+			"Some of my most precious donkey memorabilia was in the trunk -"
+		],
+		[
+			"JAILB_I",
+			"Some of the convicts are thought to have perished in the explosion..."
+		],
+		[
+			"LM2_E",
+			"Some wiseguy's been introducing this trash to my girls down Portland Harbor."
+		],
+		[
+			"KM4_9",
+			"Some young gang just jacked out the place! They took everything!"
+		],
+		[
+			"LOVE4_B",
+			"Sorry about that, but that's sometimes the way in business."
+		],
+		[
+			"BETRA_A",
+			"Sorry, babe."
+		],
+		[
+			"JM2_G",
+			"Sort yourself with a nine, you know where it is, right?"
+		],
+		[
+			"RM_G7",
+			"Southside Hoods"
+		],
+		[
+			"SPAIN",
+			"Spanish"
+		],
+		[
+			"YD3_D",
+			"Spare text label"
+		],
+		[
+			"FEC_SMT",
+			"Special mission trigger"
+		],
+		[
+			"PAGE_17",
+			"Splatter ~1~ Colombians with a car in 120 seconds!"
+		],
+		[
+			"PAGE_15",
+			"Splatter ~1~ Hoods in 120 seconds!"
+		],
+		[
+			"SPRAYW",
+			"Spray Water"
+		],
+		[
+			"CAR_36",
+			"Stallion"
+		],
+		[
+			"RESTART",
+			"Starting new game"
+		],
+		[
+			"FEN_TY4",
+			"Stash the Cash"
+		],
+		[
+			"FEB_STA",
+			"Stats"
+		],
+		[
+			"FEM_MA7",
+			"Staunton"
+		],
+		[
+			"COM_ZON",
+			"Staunton Island"
+		],
+		[
+			"SUBWAY3",
+			"Staunton South Station"
+		],
+		[
+			"RM4_D",
+			"Steal a police boat and make sure his back stabbing plans are sunk!"
+		],
+		[
+			"FEC_WHL",
+			"Steering wheel"
+		],
+		[
+			"CAR_27",
+			"Stinger"
+		],
+		[
+			"HELP1",
+			"Stop in the blue marker."
+		],
+		[
+			"TAXIH1",
+			"Stop near a highlighted pedestrian to pick them up then drive them to their destination before the time runs out."
+		],
+		[
+			"LM1_7",
+			"Stop the vehicle next to Misty and allow her to enter it."
+		],
+		[
+			"CAR_31",
+			"Stretch"
+		],
+		[
+			"RADIO_A",
+			"Swipe across the bottom left of the screen to cycle through the ~h~radio stations."
+		],
+		[
+			"GUN_1A",
+			"Swipe across your weapon display to cycle through your weapons."
+		],
+		[
+			"LOOK_A",
+			"Swipe you finger in the center of the screen to look around. Hold your finger in the center of the screen to look behind."
+		],
+		[
+			"CRED087",
+			"TECHNICAL COORDINATOR"
+		],
+		[
+			"CRED006",
+			"TECHNICAL DIRECTION"
+		],
+		[
+			"CRED067",
+			"TECHNICAL PRODUCER"
+		],
+		[
+			"CRED057",
+			"TECHNICAL SUPPORT"
+		],
+		[
+			"CRED072",
+			"TERRY DONOVAN"
+		],
+		[
+			"CRED074",
+			"TERRY DONOVAN"
+		],
+		[
+			"CRED086",
+			"TERRY DONOVAN"
+		],
+		[
+			"CRED220",
+			"TERRY DONOVAN"
+		],
+		[
+			"CRED045",
+			"TEST MANAGER"
+		],
+		[
+			"CRED095",
+			"TEST TEAM"
+		],
+		[
+			"CRD050A",
+			"TESTERS"
+		],
+		[
+			"MEA1_B5",
+			"TEXT NO LONGER NEEDED"
+		],
+		[
+			"MEA2_B5",
+			"TEXT NO LONGER NEEDED"
+		],
+		[
+			"MEA3_B5",
+			"TEXT NO LONGER NEEDED"
+		],
+		[
+			"HM4_E",
+			"TEXT NO LONGER REQUIRED"
+		],
+		[
+			"USJI1",
+			"TEXT NO LONGER REQUIRED"
+		],
+		[
+			"USJI2",
+			"TEXT NO LONGER REQUIRED"
+		],
+		[
+			"USJI3",
+			"TEXT NO LONGER REQUIRED"
+		],
+		[
+			"C_PASS",
+			"THREAT ELIMINATED!"
+		],
+		[
+			"TONI",
+			"TONI MISSIONS"
+		],
+		[
+			"TOYZ",
+			"TOYZ"
+		],
+		[
+			"FED_TRA",
+			"TRAILS"
+		],
+		[
+			"FEG_TYP",
+			"TYPE"
+		],
+		[
+			"RM6_666",
+			"Take care of my bullet proof Patriot. See you in Miami, Ray"
+		],
+		[
+			"JM4_F",
+			"Take him to Momma's restaurant at St Marks, alright."
+		],
+		[
+			"DIAB3_F",
+			"Take it and teach these Triad vandals to fear El Burro's well-endowed wrath."
+		],
+		[
+			"MEA1_G",
+			"Take my car, pick him up and bring him back here."
+		],
+		[
+			"KM3_F",
+			"Take one of my men, steal a Yardie car, and go and pay your respects to the Colombians."
+		],
+		[
+			"AM2_G",
+			"Take out these spying cops but be careful... They're bound to have backup."
+		],
+		[
+			"JM5_E",
+			"Take the corpse to the crusher in Harwood, alright?"
+		],
+		[
+			"DIAB4_E",
+			"Take the van and follow that trail of Donkey Does Dallas volumes 1, 2 and 3"
+		],
+		[
+			"HM1_H",
+			"Take these nines off of here!"
+		],
+		[
+			"FEC_NTW",
+			"Talk To Network"
+		],
+		[
+			"AM5_1",
+			"Tanner's on to you!"
+		],
+		[
+			"FEC_TAR",
+			"Target"
+		],
+		[
+			"CAR_37",
+			"Taxi"
+		],
+		[
+			"TAXI6",
+			"Taxi mission over"
+		],
+		[
+			"FEN_TY2",
+			"Team Deathmatch"
+		],
+		[
+			"FEN_TY3",
+			"Team Deathmatch stealth"
+		],
+		[
+			"TEFONE",
+			"Test Format MemCard One"
+		],
+		[
+			"TEUFON",
+			"Test UnFormat MemCard One"
+		],
+		[
+			"LOVE4_A",
+			"Thank you for retrieving those packages, but they were only a decoy."
+		],
+		[
+			"JM2_D",
+			"That rat has sold his last stir fry."
+		],
+		[
+			"RM1_A",
+			"That scumbag McAffrey, he took more bribes than anyone."
+		],
+		[
+			"HEALTH4",
+			"That will be $250."
+		],
+		[
+			"AM1_J",
+			"That's not a massager."
+		],
+		[
+			"RM6_C",
+			"The CIA seem to have a vested interest in SPANK"
+		],
+		[
+			"KM3_B",
+			"The Colombian Cartel have ignored repeated requests to leave our interests in Liberty well alone."
+		],
+		[
+			"FM2_A",
+			"The Colombian Cartel is making SPANK somewhere in Liberty."
+		],
+		[
+			"FEM_MA6",
+			"The Docks"
+		],
+		[
+			"LM3_C",
+			"The Don's son, Joey Leone, he wants some action from his regular girl Misty."
+		],
+		[
+			"JM1_D",
+			"The Forelli brothers have owed me money for too long"
+		],
+		[
+			"COLT_IN",
+			"The Pistol is now in stock at Ammunation!"
+		],
+		[
+			"LM5_A",
+			"The Policeman's Ball is being held at the old school hall near the Callahan Bridge"
+		],
+		[
+			"FEM_MA4",
+			"The Sewer"
+		],
+		[
+			"FEM_MA3",
+			"The Tower"
+		],
+		[
+			"JM4_4",
+			"The Triads think they can mess with me, the Triads, with ME!"
+		],
+		[
+			"UZI_IN",
+			"The Uzi is now in stock at Ammunation!"
+		],
+		[
+			"LOVE2_H",
+			"The Yakuza must blame the Cartel for this declaration of war."
+		],
+		[
+			"JAILB_G",
+			"The attack took place on the Callahan Bridge,"
+		],
+		[
+			"EBAL_I",
+			"The boss will be out to see you shortly..."
+		],
+		[
+			"MEA3_A",
+			"The business is going to go under unless I get hold of some serious cash soon."
+		],
+		[
+			"KM4_B",
+			"The businesses fortunate enough to have our protection settle their accounts today."
+		],
+		[
+			"HM3_E",
+			"The clocks ticking and the wiring is messed up."
+		],
+		[
+			"WRCONT",
+			"The controller connected is an unsupported controller."
+		],
+		[
+			"WRCONTE",
+			"The controller connected is an unsupported controller."
+		],
+		[
+			"JAILB_E",
+			"The convoy left Police headquarters early this morning..."
+		],
+		[
+			"RM3_D",
+			"The evidence is being driven across town."
+		],
+		[
+			"S_PROM2",
+			"The garage next door can store one vehicle when you save your game."
+		],
+		[
+			"GREN_1",
+			"The longer you hold ~h~::THROW::~w~, the farther you will throw the grenade."
+		],
+		[
+			"KM2_C",
+			"The man's weakness is motor cars and he has requested that we acquire him certain models for his collection."
+		],
+		[
+			"MEA1_B",
+			"The name's Chonks, Marty Chonks."
+		],
+		[
+			"CAT2_A",
+			"The real question is, did you turn up to rescue Maria or to get me back?"
+		],
+		[
+			"END_K",
+			"The sound of explosions shook nearby homes as people ran for cover."
+		],
+		[
+			"MEA2_C",
+			"The thieving bastards are threatening to tell the insurance company,"
+		],
+		[
+			"HM5_A",
+			"Them Nines are down to a few scabby herds..."
+		],
+		[
+			"MEA2_H",
+			"Then bring 'em back to the factory so I can make 'em see Marty's point of view."
+		],
+		[
+			"DIAB4_H",
+			"Then deliver my donkey derby to XXX Mags in the Red Light District."
+		],
+		[
+			"LM3_F",
+			"Then run her over to his garage in Trenton and make it quick,"
+		],
+		[
+			"JM1_J",
+			"Then sit back and watch the whole show."
+		],
+		[
+			"LM2_F",
+			"Then take his car, respray it."
+		],
+		[
+			"JM3_E",
+			"Then take it to the warehouse at the docks and my guys are gonna take over from there."
+		],
+		[
+			"END_S",
+			"There have been no official denials concerning rumours"
+		],
+		[
+			"FM2_L",
+			"There is a guy named Curly Bob works the bar at Luigi's."
+		],
+		[
+			"MCGNSP",
+			"There is insufficient space on the Memory Card (PS2) in MEMORY CARD slot 1. At least 200KB is needed to save this application data. Do you wish to start? (YES or NO)"
+		],
+		[
+			"MCDNSP",
+			"There is insufficient space on the Memory Card (PS2) in MEMORY CARD slot 1. At least 500KB is needed to save this application data. Do you wish to start? (YES or NO)"
+		],
+		[
+			"MCSTNS",
+			"There is no Memory Card (PS2) in MEMORY CARD slot 1. Do you wish to start? (YES or NO)"
+		],
+		[
+			"HM2_D",
+			"There's a car parked up the way."
+		],
+		[
+			"LM2_A",
+			"There's a new high on the street goes by the name of SPANK."
+		],
+		[
+			"YD4_A2",
+			"There's a stash in an old car I need pronto!"
+		],
+		[
+			"DIAB1_E",
+			"There's a street race starting by the old school hall near the Callahan Bridge."
+		],
+		[
+			"LRQC_4",
+			"There's a warehouse at the edge of Belleville that should suit your needs."
+		],
+		[
+			"HM4_B",
+			"There's platinum all over the strip."
+		],
+		[
+			"HM2_E",
+			"There's some stuff in there to put these sissys on blass..."
+		],
+		[
+			"KM4_6",
+			"There's the money its all there!"
+		],
+		[
+			"HM2_B",
+			"These Bitches got armored cars and now they're running SPANK..."
+		],
+		[
+			"HM1_C",
+			"These young punks, they come onto the streets and they got nothing but guns and SPANK on their minds."
+		],
+		[
+			"HM5_C",
+			"They agreed to go toe to toe."
+		],
+		[
+			"KM3_D",
+			"They are finalizing a deal across town."
+		],
+		[
+			"DIAB2_D",
+			"They have a weakness for the icecream."
+		],
+		[
+			"DIAB2_H",
+			"They hide in a warehouse on Atlantic Quay."
+		],
+		[
+			"DIAB2_C",
+			"They threaten the wrong man, amigo."
+		],
+		[
+			"JM6_C",
+			"They're hittin' a bank and they need a driver."
+		],
+		[
+			"FM2_Q",
+			"They're in a turf war with the Triads with no sign of either side giving up."
+		],
+		[
+			"LOVE1_D",
+			"They're trying to extort additional funds from me but I don't believe in re-negotiation."
+		],
+		[
+			"FES_AFO",
+			"This Memory Card (PS2) is already formatted."
+		],
+		[
+			"KM4_3",
+			"This ain't what I pay you goons for. If I wanted this kind of protection I'd have used the god damn police service"
+		],
+		[
+			"DIAB1_B",
+			"This is El Burro of the Diablos."
+		],
+		[
+			"EBAL_G",
+			"This is Luigi's club. Let's go round the back and use the service door."
+		],
+		[
+			"FM4_1",
+			"This is Maria. The car's a trap! Meet me at the slip south of Callahan Bridge."
+		],
+		[
+			"JM4_D",
+			"This is Pops Capo, Toni Cipriani."
+		],
+		[
+			"HM5_5",
+			"This is a battle for respect, you cool?"
+		],
+		[
+			"FM4_7",
+			"This is a friend of mine ok, she's an old friend... it's Asuka, she's someone we can trust."
+		],
+		[
+			"RM6_B",
+			"This is it, I'm way over my head and I'm starting to drown here!"
+		],
+		[
+			"AM2_B",
+			"This is my brother Kenji."
+		],
+		[
+			"EBAL_B",
+			"This is the place right here, let's get off the street and find a change of clothes!"
+		],
+		[
+			"EBAL_3",
+			"This is the ~h~radar~w~. Use it to navigate the city. Follow the ~h~GPS route~w~ on the ~h~radar~w~ to find the hideout."
+		],
+		[
+			"END_W",
+			"This one cost me fifty dollars..."
+		],
+		[
+			"HM4_G",
+			"This platinum is mad heavy and it will slow your wheels down some."
+		],
+		[
+			"CRED346",
+			"Thomas Williamson"
+		],
+		[
+			"KM5_D",
+			"Those Cartel pigs are laughing at us, at me!"
+		],
+		[
+			"RM2_F1",
+			"Those Colombians'll be here any minute!"
+		],
+		[
+			"HM2_A",
+			"Those Nines are pressing me."
+		],
+		[
+			"JM4_11",
+			"Those washer women aint been payin' their protection money."
+		],
+		[
+			"CAT2_D",
+			"Throw over the cash."
+		],
+		[
+			"RATNG3",
+			"Thug"
+		],
+		[
+			"KM4_A",
+			"To be truly strong, it is important that you never show weakness."
+		],
+		[
+			"TUBE_2",
+			"To board a subway train, press the ~h~'enter vehicle' button~w~."
+		],
+		[
+			"DYNGM3",
+			"To change the radio station, press ::NEXTRADIO::. To use the Radio Wheel, hold ::NEXTRADIO::."
+		],
+		[
+			"DYNG3",
+			"To change the radio station, press ::PREVRADIO:: or ::NEXTRADIO::. To use the Radio Wheel, hold ::NEXTRADIO::."
+		],
+		[
+			"TUT_RAD",
+			"To change the radio station, swipe the radio station name on the bottom left of the screen left or right."
+		],
+		[
+			"DYNK3",
+			"To change the radio station, use ::PREVRADIO:: or ::NEXTRADIO::. To use the Radio Wheel, hold ::WEAPWHEEL::."
+		],
+		[
+			"HELP14",
+			"To collect weapons walk through them. These cannot be collected while in a vehicle."
+		],
+		[
+			"LM1_8A",
+			"To earn some extra cash, why not 'borrow' a taxi..."
+		],
+		[
+			"KM2_B",
+			"To my eternal shame, a man once did me a favor and I have never had the opportunity to repay his kindness."
+		],
+		[
+			"DYNG5",
+			"To turn on this vehicle's sirens press ~h~::HORN::~w~."
+		],
+		[
+			"SIREN_1",
+			"To turn on this vehicle's sirens tap ~h~::HORN::~w~."
+		],
+		[
+			"FEC_TGD",
+			"Toggle Pad Game/Debug"
+		],
+		[
+			"DOSUBM",
+			"Toggle Sub Mission"
+		],
+		[
+			"RM_TONI",
+			"Toni Cipriani"
+		],
+		[
+			"RM1_E",
+			"Torch that place, that should flush 'em out, and you'll hunt 'em down, make sure he never talks to nobody."
+		],
+		[
+			"PAGE_12",
+			"Torch ~1~ Yakuza in 120 seconds!"
+		],
+		[
+			"YAKUSA",
+			"Torrington"
+		],
+		[
+			"NOUNGM",
+			"Total Unique Jumps"
+		],
+		[
+			"TRAIN",
+			"Train"
+		],
+		[
+			"CAR_13",
+			"Trashmaster"
+		],
+		[
+			"PORT_I",
+			"Trenton"
+		],
+		[
+			"BELLYUP",
+			"Triad Fish Van"
+		],
+		[
+			"RM_G4",
+			"Triads"
+		],
+		[
+			"MEA4_B",
+			"Turns out my wife was seeing some guy I owe money to."
+		],
+		[
+			"FEC_TFD",
+			"Turret /Dodo down"
+		],
+		[
+			"FEC_TFU",
+			"Turret /Dodo up"
+		],
+		[
+			"FEC_TFL",
+			"Turret Left"
+		],
+		[
+			"FEC_TFR",
+			"Turret Right"
+		],
+		[
+			"FEC_TUL",
+			"Turret left"
+		],
+		[
+			"FEC_TUR",
+			"Turret right"
+		],
+		[
+			"FES_SET",
+			"USE SKIN"
+		],
+		[
+			"UNFRM1",
+			"UnFormatMemCard 1 (teststuff)"
+		],
+		[
+			"LOVE4_D",
+			"Unfortunately the port authorities seized the plane and were stripping it down"
+		],
+		[
+			"FEC_UJS",
+			"Unique Joystick buttons only please."
+		],
+		[
+			"FEC_EMS",
+			"Unique Keyboard Keys only please."
+		],
+		[
+			"FEC_UMS",
+			"Unique Mouse Keys only please."
+		],
+		[
+			"FEN_UKH",
+			"Unknown host"
+		],
+		[
+			"DYNG2FT",
+			"Use ::LOOK:: to look around."
+		],
+		[
+			"MEA2_G",
+			"Use it to go pick them up from their turf in the Red Light district."
+		],
+		[
+			"HM2_1",
+			"Use the RC buggies to destroy the armored cars. Press ~h~::VEHB:: ~w~to detonate."
+		],
+		[
+			"DYNK2FT",
+			"Use the mouse to look around."
+		],
+		[
+			"SPRAY_1",
+			"Use ~h~::FIREVEH:: ~w~to fire the water cannon."
+		],
+		[
+			"DYNK1",
+			"Use ~h~::NEXTWEAPON:: ~w~to cycle through your weapons. Hold ::WEAPWHEEL:: to open the Weapon Wheel."
+		],
+		[
+			"LM2_2A",
+			"Use ~h~::PUNCH::~w~ to ~h~punch ~w~and ~h~kick~w~ or ~h~swing ~w~the bat!"
+		],
+		[
+			"DYNGM2",
+			"Use ~h~::ZOOMIN:: ~w~to ~h~zoom in ~w~with the rifle and ~h~::ZOOMOUT:: ~w~to ~h~zoom out ~w~again."
+		],
+		[
+			"PAGEB2",
+			"Uzi delivered to hideout"
+		],
+		[
+			"FET_CT1",
+			"VIEW CONTROLS"
+		],
+		[
+			"CRED085",
+			"VP OF MARKETING"
+		],
+		[
+			"CAR_CRU",
+			"Vehicles crushed"
+		],
+		[
+			"CAR_EXP",
+			"Vehicles exploded"
+		],
+		[
+			"CRED127",
+			"WALTER MUDU AS D-ICE"
+		],
+		[
+			"CRED132",
+			"WALTER MUDU AS KING COURTNEY"
+		],
+		[
+			"DEAD",
+			"WASTED!"
+		],
+		[
+			"WEATHE2",
+			"WEATHER NORMAL"
+		],
+		[
+			"FEC_MWB",
+			"WHEEL DN"
+		],
+		[
+			"FEC_MWF",
+			"WHEEL UP"
+		],
+		[
+			"FED_WIS",
+			"WIDE SCREEN"
+		],
+		[
+			"CRED214",
+			"WIL QUESNEL"
+		],
+		[
+			"CRED011",
+			"WILLIAM MILLS"
+		],
+		[
+			"CRED014",
+			"WRITTEN BY"
+		],
+		[
+			"CRED142",
+			"WRITTEN BY DAN HOUSER, NAVID KHONSARI & JAMES WORRALL"
+		],
+		[
+			"EBAL_H",
+			"Wait here man while I go in and talk to Luigi."
+		],
+		[
+			"JM4_2",
+			"Wait here! Keep the engine running. This ain't a social call."
+		],
+		[
+			"HELP12",
+			"Walk into the blue marker to trigger a mission."
+		],
+		[
+			"SAVE1",
+			"Walk through the doorway to ~h~save the game~w~. You cannot save during a mission."
+		],
+		[
+			"CRED345",
+			"War Drum Studios"
+		],
+		[
+			"HM1_F",
+			"Watch your back though, there'll be Jacks on the street who'll think you're trying to blast them too!"
+		],
+		[
+			"GTAB_J",
+			"We always got a choice you dumb bastard!"
+		],
+		[
+			"GTAB_R",
+			"We are going to hunt down and kill all you Colombian dogs!"
+		],
+		[
+			"FM4_9",
+			"We better get out of here before we get more hysterical Italians wanting less friendly reunions."
+		],
+		[
+			"GA_20",
+			"We got more of these than we can shift. Sorry man, no deal."
+		],
+		[
+			"GTAB_I",
+			"We got no choice baby!"
+		],
+		[
+			"FM2_B",
+			"We got us a rat!"
+		],
+		[
+			"RM4_B",
+			"We gotta shut him up, permanently."
+		],
+		[
+			"AM1_A",
+			"We have certain issues to clear up before we continue any form of relationship,"
+		],
+		[
+			"RM2_B",
+			"We saw action in Nicaragua, back when the country knew what it was doing."
+		],
+		[
+			"KM1_D",
+			"We thankyou for your selfless actions. If you ever need help the dojo will be honoured to provide two men who will stand at your side."
+		],
+		[
+			"RM3_G",
+			"We're both gonna do pretty well outta this kid."
+		],
+		[
+			"GA_19",
+			"We're not interested in that model."
+		],
+		[
+			"CAT2_B",
+			"Well I got news for you,"
+		],
+		[
+			"JM2_H",
+			"Well remember, just watch your back in China Town, it's Triad territory."
+		],
+		[
+			"AM4_6",
+			"Well, it's a bent world."
+		],
+		[
+			"AM4_9",
+			"Well, this city is one big open sewer."
+		],
+		[
+			"RM2_F",
+			"Well, three arms are better than one, so grab whatever you need."
+		],
+		[
+			"FM2_G",
+			"Were you followed? You know what goes on here is our little secret."
+		],
+		[
+			"JM6_A",
+			"What a ride she's gonna be, huh?"
+		],
+		[
+			"KM4_10",
+			"What kind of Yakuza are YOU anyway...?"
+		],
+		[
+			"FEF_LA1",
+			"What you talking about willis?"
+		],
+		[
+			"RATNG6",
+			"Wheelman"
+		],
+		[
+			"TUBE2",
+			"When Shoreside Vale opens you will be able to Exit Shoreside Terminal to Francis International Airport."
+		],
+		[
+			"S_PROMP",
+			"When not on a mission you can ~h~save your game here~w~, this will advance time six hours."
+		],
+		[
+			"DYNG0",
+			"When on foot, hold ~h~::PEDLOOKBACK:: ~w~to look behind you."
+		],
+		[
+			"DYNK0",
+			"When on foot, hold ~h~::PEDLOOKBACK:: ~w~to look behind you."
+		],
+		[
+			"HELP15",
+			"When on foot, tap and hold the center of the screen to look behind~w~."
+		],
+		[
+			"END_O",
+			"When the 'copter finally got taken out,"
+		],
+		[
+			"BRIDGE1",
+			"When the Callahan Bridge is repaired you will be able to drive to Staunton Island."
+		],
+		[
+			"TUNNEL",
+			"When the Porter Tunnel is opened you will be able to drive to Staunton Island."
+		],
+		[
+			"TUBE1",
+			"When the subway opens you will be able to catch a train to Staunton Island."
+		],
+		[
+			"KM3_A",
+			"When trouble looms, the fool turns his back, while the wise man faces it down."
+		],
+		[
+			"DIAB4_G",
+			"When you've followed the trail to that thieving SPANK-head, waste him!"
+		],
+		[
+			"RM3_F",
+			"When you've got it all, leave it in the car and torch it."
+		],
+		[
+			"GUN_4A",
+			"While holding ~h~::FIRE::~w~ you can walk or run while remaining locked onto a target."
+		],
+		[
+			"GUN_4B",
+			"While holding ~h~::FIRE::~w~ you can walk or run while remaining locked onto a target."
+		],
+		[
+			"GUN_3A",
+			"While holding ~h~::LOCKON::~w~, use ::PED_CYCLE_TARGET_LEFT:: or ::PED_CYCLE_TARGET_RIGHT:: to switch targets."
+		],
+		[
+			"DYNCL2",
+			"While in a vehicle, use ::LOOK:: to look around. Press and hold ~h~::LOOKLEFT::~w~ and ~h~::LOOKRIGHT::~w~ to look behind you."
+		],
+		[
+			"DYNG2",
+			"While in a vehicle, use ::LOOK:: to look around. Press and hold ~h~::PEDLOOKBACK::~w~ to look behind you."
+		],
+		[
+			"DYNK2",
+			"While in a vehicle, use the mouse to look around. Press and hold ~h~::PEDLOOKBACK::~w~ to look behind you."
+		],
+		[
+			"GTAB_C",
+			"Who the Heck!"
+		],
+		[
+			"AM4_C",
+			"Who's that? Asuka? I know I've been a naughty girl but I really need to pee! OK?"
+		],
+		[
+			"FEF_ST1",
+			"Who's the bad man?"
+		],
+		[
+			"GA_1",
+			"Whoa! I don't touch nothing THAT hot!"
+		],
+		[
+			"PROJECT",
+			"Wichita Gardens"
+		],
+		[
+			"FM2_U",
+			"With loyalty like yours, what has he possibly got to worry about."
+		],
+		[
+			"JAILB_O",
+			"With the Porter tunnel project falling behind schedule,"
+		],
+		[
+			"END_Q",
+			"With the death toll already over twenty,"
+		],
+		[
+			"FESZ_FO",
+			"Would you like to format the Memory Card (PS2) in MEMORY CARD slot 1?"
+		],
+		[
+			"YARDIE",
+			"YARDIE MISSIONS"
+		],
+		[
+			"FEM_YES",
+			"YES"
+		],
+		[
+			"1000",
+			"YOU ARE DEAD"
+		],
+		[
+			"1001",
+			"YOU ARE DEAD"
+		],
+		[
+			"1002",
+			"YOU ARE DEAD"
+		],
+		[
+			"1003",
+			"YOU ARE DEAD"
+		],
+		[
+			"1004",
+			"YOU ARE DEAD"
+		],
+		[
+			"GTAB_D",
+			"YOU!"
+		],
+		[
+			"KM5_A",
+			"YOU! How fitting you should choose this moment to show your worthless face!"
+		],
+		[
+			"CRED171",
+			"YUKIMURA SATO"
+		],
+		[
+			"RM_G5",
+			"Yakuza"
+		],
+		[
+			"YAKUZCR",
+			"Yakuza Stinger"
+		],
+		[
+			"CAR_17",
+			"Yankee"
+		],
+		[
+			"YARDICR",
+			"Yardie Lobo"
+		],
+		[
+			"RM_GPHO",
+			"Yardie Missions"
+		],
+		[
+			"KM5_C",
+			"Yardie pushers line Liberty's streets selling packets of SPANK like they were selling hotdogs!"
+		],
+		[
+			"RM_G6",
+			"Yardies"
+		],
+		[
+			"JM4_A",
+			"Yeah, I know Toni, I've tuned her real sweet. She purrs, you know what I mean?"
+		],
+		[
+			"JM4_E",
+			"Yeah, I'm Toni Cipriani."
+		],
+		[
+			"END_N",
+			"Yeah, we got a good view from down here in the gardens."
+		],
+		[
+			"YES",
+			"Yes"
+		],
+		[
+			"HM1_A",
+			"Yo! This is D-Ice of the Red Jacks!"
+		],
+		[
+			"HM5_1",
+			"Yo, Ice said you was comin'. There are rules. Bats only. No guns, no cars."
+		],
+		[
+			"HM4_A",
+			"Yo, a Federal Reserve flight just smashed down at Francis International."
+		],
+		[
+			"RM3_E",
+			"You are going to have to ram that car and collect each little bit of evidence as it falls out."
+		],
+		[
+			"CAT2_C",
+			"You are muy peque\u00f1ito amigo!"
+		],
+		[
+			"LOVE5_A",
+			"You are proving to be a safe investment, a rare thing in these days of false hood."
+		],
+		[
+			"HM4_F",
+			"You can drop the bling off at one of my garages."
+		],
+		[
+			"LM1_8",
+			"You can go and see Luigi for more work or check out Liberty City."
+		],
+		[
+			"GUN_5",
+			"You can practice targeting and shooting on these paper targets. When you are finished resume the mission."
+		],
+		[
+			"BOATIN2",
+			"You can press ~h~::DOOR:: ~w~if you are near a boat to get in it."
+		],
+		[
+			"L_TRN_1",
+			"You can ride the L-train around Portland. Press ~h~::DOOR::~w~ to ~h~enter ~w~or ~h~exit~w~ a train."
+		],
+		[
+			"S_TRN_1",
+			"You can take the subway trains across Liberty. Press ~h~::DOOR::~w~ to ~h~enter ~w~or ~h~exit~w~ a train."
+		],
+		[
+			"GA_21",
+			"You cannot store any more cars in this garage."
+		],
+		[
+			"GA_9",
+			"You collected ~1~ out of 10 special cars"
+		],
+		[
+			"PU_MONY",
+			"You don't have enough cash."
+		],
+		[
+			"DIAB1_C",
+			"You drive a mean race. Drop by the payphone again and 'El Burro' may have some work for you."
+		],
+		[
+			"8001",
+			"You failed miserably!"
+		],
+		[
+			"JAILB_T",
+			"You gonna be sorry."
+		],
+		[
+			"AM4_4",
+			"You got the money? Is it all here?"
+		],
+		[
+			"KM4_2",
+			"You guys are useless."
+		],
+		[
+			"RC_6",
+			"You have 2 minutes to blow up as many Cartel Gang Cars as possible!"
+		],
+		[
+			"RC_1",
+			"You have 2 minutes to blow up as many Diablo Gang Cars as possible!"
+		],
+		[
+			"RC_5",
+			"You have 2 minutes to blow up as many Hood Gang Cars as possible!"
+		],
+		[
+			"RC_2",
+			"You have 2 minutes to blow up as many Mafia Gang Cars as possible!"
+		],
+		[
+			"RC_3",
+			"You have 2 minutes to blow up as many Yakuza Gang Cars as possible!"
+		],
+		[
+			"RC_4",
+			"You have 2 minutes to blow up as many Yardie Gang Cars as possible!"
+		],
+		[
+			"CAT2_E",
+			"You have been a busy boy!"
+		],
+		[
+			"JM1_H",
+			"You know 8-Ball right?"
+		],
+		[
+			"AM4_3",
+			"You must be Asuka's new errand boy!"
+		],
+		[
+			"KM2_E",
+			"You must obtain the cars on this list and deliver them to a garage behind the car park in Newport."
+		],
+		[
+			"HelpTextNeedCar",
+			"You need a car!"
+		],
+		[
+			"RM5_A1",
+			"You totally messed up! My ass is on the line and you can't even kill a god damned fly."
+		],
+		[
+			"RM5_A",
+			"You useless bastard!"
+		],
+		[
+			"AMMU_E",
+			"You want a license too?"
+		],
+		[
+			"RM6_A",
+			"You weren't followed? Good."
+		],
+		[
+			"A_COMP2",
+			"You will never get tired!"
+		],
+		[
+			"LM3_5",
+			"You working regular for Luigi now huh? It's about time he got a driver we can trust!"
+		],
+		[
+			"RM6_2",
+			"You'll find some cash and some 'supplies' I'd stashed in case things got tight."
+		],
+		[
+			"LRQC_3",
+			"You'll need a place to lie low."
+		],
+		[
+			"DIAB1_D",
+			"You're new in Liberty, but already you are gaining a reputation on the streets."
+		],
+		[
+			"GTAB_T",
+			"You, drop by later, I'm sure I'll require your services."
+		],
+		[
+			"GA_5",
+			"Your car is already fitted with a bomb."
+		],
+		[
+			"TAXI7",
+			"Your car is trashed, get it repaired."
+		],
+		[
+			"FESZ_L2",
+			"Your saved filename is:"
+		],
+		[
+			"Z",
+			"Z-axis value: ~1~"
+		],
+		[
+			"ZOOM",
+			"Zoom"
+		],
+		[
+			"YD3_B1",
+			"a Yakuza Stinger and a"
+		],
+		[
+			"END_E",
+			"a single gunman that he saw fleeing the scene, with a dark haired woman."
+		],
+		[
+			"LETTER1",
+			"abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789\"$,.'-?!!SDBF"
+		],
+		[
+			"DIAB2_G",
+			"and lure these fools to their doom with the jeengle-jeengle."
+		],
+		[
+			"DIAB4_C",
+			"and now my beautifully produced,"
+		],
+		[
+			"AS3_H1",
+			"and shooting the plane down on its approach."
+		],
+		[
+			"HM2_C",
+			"and slinging it to brothers with no fear."
+		],
+		[
+			"MEA2_B",
+			"and steal some stuff so I could claim on the insurance as you do."
+		],
+		[
+			"END_U",
+			"and still no leads as to the cause of the massacre."
+		],
+		[
+			"END_H",
+			"and that's just what I need."
+		],
+		[
+			"RM6_C1",
+			"and they don't like us screwing with the Cartel."
+		],
+		[
+			"JM1_E",
+			"and they need to be taught some respect."
+		],
+		[
+			"LM5_B",
+			"and they'll be looking for some 'old school' action."
+		],
+		[
+			"LRQC_6",
+			"and we can have a little chat."
+		],
+		[
+			"HM2_F",
+			"and wreck all their armored stuff."
+		],
+		[
+			"LOVE2_B",
+			"apart from an outbreak of plague... but that might be going too far in this case."
+		],
+		[
+			"JAILB_N",
+			"as a terrorist attack, both on liberty city and its citizens."
+		],
+		[
+			"RM3_C",
+			"at a morgue party or something."
+		],
+		[
+			"AM2_E2",
+			"at key locations around the city."
+		],
+		[
+			"CAT2_I",
+			"because her husband's playing around again and..."
+		],
+		[
+			"END_P",
+			"better than the fireworks on the 4th of July."
+		],
+		[
+			"END_M",
+			"between ground forces and a helicopter circling the dam."
+		],
+		[
+			"CAT1_B",
+			"bring $500,000 to the Villa at Cedar Grove."
+		],
+		[
+			"AM1_B",
+			"business or otherwise. Lets lay our cards on the table."
+		],
+		[
+			"AM1_E",
+			"but first you must prove to me that your ties with the Mafia are truly broken."
+		],
+		[
+			"LOVE1_H",
+			"but groups of men get greedy."
+		],
+		[
+			"GTAB_B",
+			"but he seems to want it badly enough so it must be worth something."
+		],
+		[
+			"MEA4_B7",
+			"but if you just step into my office..."
+		],
+		[
+			"MEA4_F",
+			"but my guess is..."
+		],
+		[
+			"EBAL_A1",
+			"but my hands are all messed up so you better drive, brother."
+		],
+		[
+			"HM5_B",
+			"but they still wanna bring it."
+		],
+		[
+			"LM3_E",
+			"but watch yourself that's Diablo turf."
+		],
+		[
+			"FM2_K",
+			"but we don't know where, and they seem to know everything we're doin' before we do."
+		],
+		[
+			"JAILB_L",
+			"by an attack by computer hackers on Police headquarter databases."
+		],
+		[
+			"DIAB4_F",
+			"collecting it as you go."
+		],
+		[
+			"LOVE6_B",
+			"even if they have little understanding as to its true value."
+		],
+		[
+			"JAILB_F",
+			"for a routine transfer of felons to Liberty Penitentiary."
+		],
+		[
+			"KM5_B1",
+			"from becoming bed fellows with the Cartel were wholly inadequate!"
+		],
+		[
+			"SHPLOF",
+			"gbShowCollisionPolys Off"
+		],
+		[
+			"SHPLON",
+			"gbShowCollisionPolys On"
+		],
+		[
+			"LOVE1_I",
+			"has been kept hostage by some South Americans in Aspatria."
+		],
+		[
+			"MEA4_E",
+			"he thinks I'm gonna pay him off..."
+		],
+		[
+			"LM2_D",
+			"here, here take it."
+		],
+		[
+			"DIAB2_F",
+			"hijack the regular icecream van on its rounds."
+		],
+		[
+			"MEA2_D",
+			"if I don't give them a cut."
+		],
+		[
+			"CNT_CAR",
+			"in car"
+		],
+		[
+			"HM1_G",
+			"is another day the 'Jacks' look soft."
+		],
+		[
+			"FM4_4B",
+			"it's all my fault... because I told him, we were an item."
+		],
+		[
+			"JAILB_H",
+			"leaving few witnesses and the bridge itself severely damaged."
+		],
+		[
+			"JAILB_B",
+			"of a devastating attack on a police convoy this morning."
+		],
+		[
+			"CNT_FOT",
+			"on foot"
+		],
+		[
+			"STOCK",
+			"out of stock"
+		],
+		[
+			"END_R",
+			"police are still finding bodies."
+		],
+		[
+			"DIAB3_D",
+			"real collectibles that are irreplaceable my friend."
+		],
+		[
+			"CAT2_B2",
+			"shooting you will be a pleasure but dating you was only business."
+		],
+		[
+			"RM5_E",
+			"so go do the job you were paid for!"
+		],
+		[
+			"FM4_3",
+			"so he was offering you to the Cartel in order to make a deal."
+		],
+		[
+			"LM3_H",
+			"so keep your eyes on the road and off Misty!"
+		],
+		[
+			"JM1_G",
+			"so steal his car and take it to 8-Ball's bomb shop up in Harwood."
+		],
+		[
+			"YD3_A1",
+			"so we can do hits on our enemies' turf."
+		],
+		[
+			"DIAB4_D",
+			"tastefully photographed adult literature is being dropped all over Liberty!"
+		],
+		[
+			"JAILB_J",
+			"that followed the initial attack."
+		],
+		[
+			"END_C",
+			"that hit the area yesterday."
+		],
+		[
+			"END_T",
+			"that the dead were members of the Colombian Cartel,"
+		],
+		[
+			"LM3_9A",
+			"there might be some work for you."
+		],
+		[
+			"YD3_C1",
+			"they're no use to us wrecked!"
+		],
+		[
+			"JAILB_P",
+			"this disaster leaves Portland isolated from the rest of the city."
+		],
+		[
+			"GTAB_O",
+			"this worm killed my brother!"
+		],
+		[
+			"KM1_E",
+			"though I am yet to be convinced that a gaijin can offer anything but disappointment."
+		],
+		[
+			"HM5_E",
+			"two of ya'll"
+		],
+		[
+			"LOVE4_H",
+			"until I intervened at great personal expense."
+		],
+		[
+			"JAILB_K",
+			"when identification of the missing felons were further hampered..."
+		],
+		[
+			"LRQC_2",
+			"why don't you go cruise around?"
+		],
+		[
+			"RM3_H",
+			"with shall we say, exotic tastes and the money to indulge them."
+		],
+		[
+			"END_B",
+			"with the emotional aftermath of a full blown war"
+		],
+		[
+			"DIAB3_B",
+			"wrecked it and left it burning."
+		],
+		[
+			"X",
+			"x"
+		],
+		[
+			"HM5_H",
+			"y'know what I mean?"
+		],
+		[
+			"AM2_A2",
+			"you are an efficient killer. I like that in a man."
+		],
+		[
+			"BETRA_C",
+			"you're just small time."
+		],
+		[
+			"GTAB_N",
+			"you're not the only one that has a score to settle with the Cartel,"
+		],
+		[
+			"AmmoText1",
+			"{AmmoReserves}-{ClipAmmo}"
+		],
+		[
+			"AmmoText2",
+			"{Ammo}"
+		],
+		[
+			"IN_ROW",
+			"~1~ IN A ROW bonus! $~1~"
+		],
+		[
+			"T4X4_2B",
+			"~1~ of 12!"
+		],
+		[
+			"T4X4_1B",
+			"~1~ of 15!"
+		],
+		[
+			"YD1_CNT",
+			"~1~ of 15!"
+		],
+		[
+			"MM_1_B",
+			"~1~ of 20!"
+		],
+		[
+			"T4X4_3C",
+			"~1~ of 20!"
+		],
+		[
+			"M_FAIL",
+			"~R~MISSION FAILED!"
+		],
+		[
+			"O_FAIL",
+			"~R~ODD JOB FAILED!"
+		],
+		[
+			"AS3_A",
+			"~W~Do we tighten it some more now, or just wait for it to turn black and fall off?"
+		],
+		[
+			"AS3_2",
+			"~b~Get to the runway marker buoys! ~y~The plane is on its final approach!"
+		],
+		[
+			"FIRST",
+			"~g~1st"
+		],
+		[
+			"SECOND",
+			"~g~2nd"
+		],
+		[
+			"DIAB1_1",
+			"~g~3...2...1... GO GO GO!"
+		],
+		[
+			"THIRD",
+			"~g~3rd"
+		],
+		[
+			"FOURTH",
+			"~g~4th"
+		],
+		[
+			"KM5_2",
+			"~g~A Yardie is off the streets."
+		],
+		[
+			"JM1_3",
+			"~g~Activate the car bomb then get out of there!"
+		],
+		[
+			"AS2_12A",
+			"~g~After you trash the first stall, you will have 8 minutes before the Cartel warn their pushers!"
+		],
+		[
+			"AS2_1",
+			"~g~All espresso stalls in Portland wrecked!"
+		],
+		[
+			"AS2_3",
+			"~g~All espresso stalls in Shoreside Vale wrecked!"
+		],
+		[
+			"AS2_2",
+			"~g~All espresso stalls in Staunton Island wrecked!"
+		],
+		[
+			"HEY7",
+			"~g~An extra gun could be useful. Go back and pick up your contact!"
+		],
+		[
+			"HM2_6",
+			"~g~Armored Car destroyed!"
+		],
+		[
+			"KM1_7",
+			"~g~Authorised police vehicles only!"
+		],
+		[
+			"KM4_8",
+			"~g~Briefcase collected!"
+		],
+		[
+			"MEA2_3",
+			"~g~Bring the car back to the factory."
+		],
+		[
+			"RM5_4",
+			"~g~Bullets won't get through that armored bodycast!"
+		],
+		[
+			"F_START",
+			"~g~Burning vehicle reported in the ~a~ area. Go and extinguish the fire."
+		],
+		[
+			"KM2_2",
+			"~g~Car delivered."
+		],
+		[
+			"RM1_1",
+			"~g~Check out the witness protection house."
+		],
+		[
+			"FM1_6",
+			"~g~Chico won't be there forever, get Maria to the waterfront!"
+		],
+		[
+			"JM1_7",
+			"~g~Close the car door! He'll notice!"
+		],
+		[
+			"AS3_5",
+			"~g~Collect the cargo!"
+		],
+		[
+			"WRONGT1",
+			"~g~Come back between 05:00 and 21:00 for a job"
+		],
+		[
+			"WRONGT2",
+			"~g~Come back between 06:00 and 14:00 for a job"
+		],
+		[
+			"WRONGT3",
+			"~g~Come back between 15:00 and 00:00 for a job"
+		],
+		[
+			"KM5_4",
+			"~g~Congratulations you killed ~1~ Yardies."
+		],
+		[
+			"KM5_5",
+			"~g~Congratulations you killed ~1~ Yardies. BONUS $~1~"
+		],
+		[
+			"DIAB1_2",
+			"~g~Congratulations you won, with an incredible time of ~1~ seconds."
+		],
+		[
+			"AS2_12",
+			"~g~Cruise Liberty's districts to find ~b~Espresso-2-Go stalls!"
+		],
+		[
+			"FM2_2",
+			"~g~Curly's left the club, tail him!"
+		],
+		[
+			"KM5_1",
+			"~g~DEALER MINCED!"
+		],
+		[
+			"FARE18",
+			"~g~Destination ~w~'AmCo Building' ~g~in Torrington"
+		],
+		[
+			"FARE5",
+			"~g~Destination ~w~'AmmuNation' ~g~in Redlight."
+		],
+		[
+			"FARE19",
+			"~g~Destination ~w~'Bolt Burgers' ~g~in Bedford Point"
+		],
+		[
+			"FARE22",
+			"~g~Destination ~w~'Cochrane Dam'"
+		],
+		[
+			"FARE11",
+			"~g~Destination ~w~'Construction site' ~g~in Fort staunton."
+		],
+		[
+			"FARE6",
+			"~g~Destination ~w~'Easy Credit Autos' ~g~in Saint Mark's."
+		],
+		[
+			"FARE12",
+			"~g~Destination ~w~'Football Stadium' ~g~in Aspatria."
+		],
+		[
+			"FARE21",
+			"~g~Destination ~w~'Francis intl. Airport'"
+		],
+		[
+			"FARE4",
+			"~g~Destination ~w~'Greasy Joe's Cafe' ~g~in Callahan Point."
+		],
+		[
+			"FARE9",
+			"~g~Destination ~w~'Import Export garage' ~g~in Portland Harbor."
+		],
+		[
+			"FARE15",
+			"~g~Destination ~w~'Liberty University' ~g~in Liberty Campus"
+		],
+		[
+			"FARE8",
+			"~g~Destination ~w~'Marcos Bistro' ~g~in Saint Mark's."
+		],
+		[
+			"FARE1",
+			"~g~Destination ~w~'Meeouch Sex Kitten Club' ~g~in Redlight."
+		],
+		[
+			"FARE17",
+			"~g~Destination ~w~'Museum' ~g~in Newport"
+		],
+		[
+			"FARE26",
+			"~g~Destination ~w~'North West Towers' ~g~in Wichita Gardens"
+		],
+		[
+			"FARE10",
+			"~g~Destination ~w~'Punk Noodles' ~g~in Chinatown."
+		],
+		[
+			"FARE16",
+			"~g~Destination ~w~'Shopping Mall' ~g~in Belleville Park Area"
+		],
+		[
+			"FARE2",
+			"~g~Destination ~w~'Supa Save' ~g~in Portland View."
+		],
+		[
+			"FARE14",
+			"~g~Destination ~w~'The Casino' ~g~in Torrington"
+		],
+		[
+			"FARE13",
+			"~g~Destination ~w~'The Church' ~g~in Bedford Point"
+		],
+		[
+			"FARE20",
+			"~g~Destination ~w~'The Park' ~g~in Belleville"
+		],
+		[
+			"FARE25",
+			"~g~Destination ~w~'The Park' ~g~in Shoreside Vale"
+		],
+		[
+			"FARE24",
+			"~g~Destination ~w~'The hospital' ~g~in Pike Creek"
+		],
+		[
+			"FARE7",
+			"~g~Destination ~w~'Woody's topless bar' ~g~in Redlight."
+		],
+		[
+			"FARE23",
+			"~g~Destination ~w~'import export garage' ~g~in Cochrane Dam district"
+		],
+		[
+			"FARE3",
+			"~g~Destination ~w~'old school hall' ~g~in Chinatown."
+		],
+		[
+			"YD4_2",
+			"~g~Destroy the madmens' vans!"
+		],
+		[
+			"YD3_H",
+			"~g~Diablo gangcar boosted!"
+		],
+		[
+			"FM2_15",
+			"~g~Don't get too close or Curly will suspect something!"
+		],
+		[
+			"HEY2",
+			"~g~Don't split up, keep the group together!"
+		],
+		[
+			"LOVEGO",
+			"~g~Donald Love has other business to attend to -Make an appointment later!"
+		],
+		[
+			"TM3_4",
+			"~g~Drive the goodfellas to Salvatore's place."
+		],
+		[
+			"ATUTOR2",
+			"~g~Drive the patients to Hospital CAREFULLY. Each bump reduces their chances of survival."
+		],
+		[
+			"DIAB2_5",
+			"~g~Exit the van then use the remote to detonate the Icecream van."
+		],
+		[
+			"DIAB2_2",
+			"~g~Find an icecream van."
+		],
+		[
+			"AS3_1",
+			"~g~Find the ~r~boat~g~ and get to the ~b~marker buoy!"
+		],
+		[
+			"KM1_6",
+			"~g~Fit the car with a bomb!"
+		],
+		[
+			"CATINF2",
+			"~g~Follow the chopper to find Catalina."
+		],
+		[
+			"YD1GO",
+			"~g~GO!"
+		],
+		[
+			"CATINF1",
+			"~g~Get Catalina!"
+		],
+		[
+			"FM1_5",
+			"~g~Get Maria safely back to Salvatore's!"
+		],
+		[
+			"DIAB1_4",
+			"~g~Get a fast car and get to the starting grid."
+		],
+		[
+			"EBAL_5",
+			"~g~Get a vehicle!"
+		],
+		[
+			"HM4_D",
+			"~g~Get a vehicle!"
+		],
+		[
+			"LM3_10",
+			"~g~Get a vehicle!"
+		],
+		[
+			"HM1_2",
+			"~g~Get a vehicle, remember only Uzi drive by kills count!"
+		],
+		[
+			"LOVE3_1",
+			"~g~Get a ~r~boat~g~ and follow the ~y~plane~g~!"
+		],
+		[
+			"FM1_1",
+			"~g~Get back into the Stretch!"
+		],
+		[
+			"EBAL_2",
+			"~g~Get back into the car!"
+		],
+		[
+			"LM1_6",
+			"~g~Get back into the car!"
+		],
+		[
+			"KM1_12",
+			"~g~Get him to the dojo but get rid of the cops first!"
+		],
+		[
+			"FM1_2",
+			"~g~Get into the Stretch!"
+		],
+		[
+			"MEA1_3",
+			"~g~Get out of the car!"
+		],
+		[
+			"GARAGE1",
+			"~g~Get out of the vehicle and walk outside."
+		],
+		[
+			"OUT_VEH",
+			"~g~Get out of the vehicle!"
+		],
+		[
+			"HM3_3",
+			"~g~Get the car repaired!"
+		],
+		[
+			"MEA2_B6",
+			"~g~Get the car resprayed to get rid of any evidence."
+		],
+		[
+			"TM2_1",
+			"~g~Get the cash back to Toni's!"
+		],
+		[
+			"AM1_5",
+			"~g~Get to the Red Light District and wait for Salvatore to leave the club."
+		],
+		[
+			"HM3_1",
+			"~g~Get to the garage but watch out if the car takes too much damage it will blow!"
+		],
+		[
+			"RM4_2",
+			"~g~Get to the lighthouse and 'rub out' Ray's partner!"
+		],
+		[
+			"LM5_8",
+			"~g~Girls working the Ball: ~1~"
+		],
+		[
+			"LOVE1_1",
+			"~g~Go 'jack a Colombian gang car, so you can infiltrate the hideout. Head north, you'll find one in Fort Staunton."
+		],
+		[
+			"LOVE5_3",
+			"~g~Go ahead and scout the exit of the tunnel!"
+		],
+		[
+			"RM2_G",
+			"~g~Go and check on Phil!"
+		],
+		[
+			"MEA3_B3",
+			"~g~Go and collect Mrs. Chonks."
+		],
+		[
+			"JM6_6",
+			"~g~Go and get a vehicle less conspicuous!"
+		],
+		[
+			"MEA1_B3",
+			"~g~Go and meet the Bank Manager."
+		],
+		[
+			"MEA2_B3",
+			"~g~Go and meet the thieves."
+		],
+		[
+			"KM3_2",
+			"~g~Go and pick up your contact."
+		],
+		[
+			"RM4_1",
+			"~g~Go and steal a police boat."
+		],
+		[
+			"RM1_5",
+			"~g~Go back and torch the safehouse!"
+		],
+		[
+			"RM6_4",
+			"~g~Go over to the lockup and collect Ray's stash."
+		],
+		[
+			"LM3_4",
+			"~g~Go pick up Misty!"
+		],
+		[
+			"LOVE2_1",
+			"~g~Go to Fort Staunton and steal a Colombian gangcar!"
+		],
+		[
+			"RM5_6",
+			"~g~He's bailed out! Smash his bodycast with a vehicle or an explosion!"
+		],
+		[
+			"HM4_1",
+			"~g~Head to the location where the cargo is scattered, you need to collect 30 pieces of bullion."
+		],
+		[
+			"IN_VEH",
+			"~g~Hey! Get back in the vehicle!"
+		],
+		[
+			"HM1_1",
+			"~g~Ice 20 Purple Nines in 2 minutes 30 seconds."
+		],
+		[
+			"AM1_6",
+			"~g~If you hang around Luigi's club, the Mafia will spot you!"
+		],
+		[
+			"RM5_1",
+			"~g~Intercept the ambulance."
+		],
+		[
+			"RM5_3",
+			"~g~It was a decoy!"
+		],
+		[
+			"TM2_3",
+			"~g~It's a trap! Waste them all!"
+		],
+		[
+			"JM5_2",
+			"~g~It's the Forelli brothers!"
+		],
+		[
+			"JOEYGO",
+			"~g~Joey's out on the town with Misty -Drop by later!"
+		],
+		[
+			"KENJGO",
+			"~g~Kenji is attending a Yakuza meeting -Call by some other time!"
+		],
+		[
+			"KENSGO",
+			"~g~Kenji is busy! -Call by later!"
+		],
+		[
+			"LOVE2_5",
+			"~g~Kenji is fender meat! Get out of Newport and dump the car!"
+		],
+		[
+			"KM3_12",
+			"~g~Kill all of the Colombians, destroy the vehicles and recover the briefcase."
+		],
+		[
+			"KM5_7",
+			"~g~Kill them quickly! Once they've pushed their SPANK they're off the streets."
+		],
+		[
+			"KM3_6",
+			"~g~Kill them, kill them all!"
+		],
+		[
+			"RM3_1",
+			"~g~Leave the evidence in a car then torch the car."
+		],
+		[
+			"LM5_7",
+			"~g~Less than four girls working the ~p~Fuzz Ball~g~ and Luigi won't be happy!"
+		],
+		[
+			"LOVE5_1",
+			"~g~Lets go!"
+		],
+		[
+			"TAXI1",
+			"~g~Look for a fare."
+		],
+		[
+			"HEY4",
+			"~g~Lose Misty and Luigi will lose your face! Go and get her!"
+		],
+		[
+			"LUIGGO",
+			"~g~Luigi's interviewing some new girls -Come back later!"
+		],
+		[
+			"YD3_I",
+			"~g~Mafia gangcar boosted!"
+		],
+		[
+			"KEMUGO",
+			"~g~Maria and Kemuri are all tied up at the moment -Drop by later!"
+		],
+		[
+			"LM3_11",
+			"~g~Misty won't ride in a bus get another vehicle!"
+		],
+		[
+			"RECORD",
+			"~g~NEW RECORD!"
+		],
+		[
+			"LOVE2_7",
+			"~g~Now dump the car!"
+		],
+		[
+			"KM1_3",
+			"~g~Now get him to the Yakuza dojo."
+		],
+		[
+			"LOVE2_8",
+			"~g~Now get out of Newport!"
+		],
+		[
+			"AS3_1A",
+			"~g~Now get to the ~b~marker buoy!"
+		],
+		[
+			"LOVE2_2",
+			"~g~Now get to the ~p~multi-storey in Newport~g~ and whack Kenji!"
+		],
+		[
+			"TM3_2",
+			"~g~Now go pick up Luigi."
+		],
+		[
+			"TM3_3",
+			"~g~Now go pick up Toni."
+		],
+		[
+			"LOVE6_1",
+			"~g~Now lead the cops away from the warehouse!"
+		],
+		[
+			"RM3_7",
+			"~g~Now torch the car!"
+		],
+		[
+			"KM1_5",
+			"~g~Okay now go to the police station."
+		],
+		[
+			"HEY5",
+			"~g~One of the girls is AWOL, Go back and round her up!"
+		],
+		[
+			"LOVE4_3",
+			"~g~Panlantic Construction...?"
+		],
+		[
+			"FM2_11",
+			"~g~Park out the front of Luigi's Club, Curly Bob will be leaving shortly."
+		],
+		[
+			"JM1_2",
+			"~g~Park the car back at Marco's Bistro."
+		],
+		[
+			"DIAB2_3",
+			"~g~Park the icecream van down at Atlantic Quays."
+		],
+		[
+			"EBAL_6",
+			"~g~Pick up Misty!"
+		],
+		[
+			"MEA4_B3",
+			"~g~Pick up his wife's lover."
+		],
+		[
+			"TM3_1",
+			"~g~Pick up the Stretch from Joey's."
+		],
+		[
+			"BAT1",
+			"~g~Pick up the bat!"
+		],
+		[
+			"DIAB2_1",
+			"~g~Pick up the briefcase in Harwood."
+		],
+		[
+			"LM5_4",
+			"~g~Pick up the girls working St. Marks."
+		],
+		[
+			"YD1_E",
+			"~g~Prepare to race!"
+		],
+		[
+			"KM3_5",
+			"~g~Press the horn to get the deal going."
+		],
+		[
+			"LM1_3",
+			"~g~Press the horn to get the girl into the car."
+		],
+		[
+			"DIAB2_6",
+			"~g~Press ~w~::HORN:: ~g~to activate the Icecream jingle."
+		],
+		[
+			"HEY8",
+			"~g~Protection means just that -Protect the Old Oriental Gentleman!"
+		],
+		[
+			"KM4_4",
+			"~g~Punish the gang responsible and retrieve the ~b~protection money~g~!"
+		],
+		[
+			"JM1_6",
+			"~g~Put the car back in the correct position."
+		],
+		[
+			"JM3_2",
+			"~g~Ram the van until its damage is below 70 percent."
+		],
+		[
+			"RAYGO",
+			"~g~Ray has other toilets to hang around -Try again later!"
+		],
+		[
+			"KM2_3",
+			"~g~Remember the ~r~cars~g~ have to be in mint condition to be accepted by the ~p~garage~g~."
+		],
+		[
+			"HM4_2",
+			"~g~Remember when the vehicle becomes too heavy and slow go to the garage and drop off the cargo."
+		],
+		[
+			"KM2_1",
+			"~g~Repair the car, it's gotta be mint."
+		],
+		[
+			"LOVE1_2",
+			"~g~Rescue the Old Oriental Gentleman."
+		],
+		[
+			"LM2_4",
+			"~g~Respray the car!"
+		],
+		[
+			"KM1_2",
+			"~g~Rig the car with a bomb!"
+		],
+		[
+			"YD4_1",
+			"~g~SPANKED-up madmen!"
+		],
+		[
+			"AM1_1",
+			"~g~Salvatore is now leaving Luigi's!"
+		],
+		[
+			"FRANGO",
+			"~g~Salvatore wants you to help Toni deal with the Triads first!"
+		],
+		[
+			"AM1_10",
+			"~g~Salvatore will be leaving Luigi's at about 0~1~:~1~"
+		],
+		[
+			"AM1_8",
+			"~g~Salvatore will be leaving Luigi's at about ~1~:~1~"
+		],
+		[
+			"WANTED1",
+			"~g~Shake the cops!"
+		],
+		[
+			"STASH",
+			"~g~Stash the SPANK back at the ~p~construction site!"
+		],
+		[
+			"LM2_3",
+			"~g~Stash the car in Luigi's lockup!"
+		],
+		[
+			"KM1_1",
+			"~g~Steal a cop car!"
+		],
+		[
+			"LOVE1_5",
+			"~g~Stop hanging around, get a Colombian Gang car and rescue Love's associate."
+		],
+		[
+			"FM3_4",
+			"~g~Stop the vehicle and let 8-Ball out!"
+		],
+		[
+			"C_BREIF",
+			"~g~Suspect last seen in the ~a~ area."
+		],
+		[
+			"JM1_1",
+			"~g~Take Forelli's car to 8-Ball's garage North of here, behind 'Easy Credit Autos'."
+		],
+		[
+			"LM3_2",
+			"~g~Take Misty to Joey's."
+		],
+		[
+			"LM1_2",
+			"~g~Take Misty to Luigi's Club."
+		],
+		[
+			"JM4_7",
+			"~g~Take Toni to his momma's restaurant."
+		],
+		[
+			"FM2_5",
+			"~g~Take him to Portland Harbor."
+		],
+		[
+			"LM2_1",
+			"~g~Take his car and get it resprayed."
+		],
+		[
+			"JM5_1",
+			"~g~Take it to the crusher!"
+		],
+		[
+			"YD3_L",
+			"~g~Take it to the ~p~garage!"
+		],
+		[
+			"RM1_2",
+			"~g~Take out McAffrey!"
+		],
+		[
+			"LOVE1_3",
+			"~g~Take the Old Oriental Gentleman back to Donald Love's building."
+		],
+		[
+			"KM3_13",
+			"~g~Take the briefcase back to the casino."
+		],
+		[
+			"MEA3_B6",
+			"~g~Take the car and dump it into the sea, this will get rid of any evidence."
+		],
+		[
+			"HM3_2",
+			"~g~Take the car back it has to be in perfect condition - no damage!"
+		],
+		[
+			"MEA1_B6",
+			"~g~Take the car to the crusher to get rid of evidence, get out of the car and the crane will pick it up."
+		],
+		[
+			"LM5_5",
+			"~g~Take the girls to the Fuzz Ball!"
+		],
+		[
+			"LOVE4_6",
+			"~g~Take the lift up the tower!"
+		],
+		[
+			"KM4_11",
+			"~g~Take the money back to the casino!"
+		],
+		[
+			"LOVE4_4",
+			"~g~Take the package back to Donald Love!"
+		],
+		[
+			"DIAB4_1",
+			"~g~Take the van to the back of XXX Magazines."
+		],
+		[
+			"JM3_1",
+			"~g~Take the van to the lock up."
+		],
+		[
+			"MEA2_B4",
+			"~g~Take them to the Bitch'n' Dog Food Factory"
+		],
+		[
+			"RM5_5",
+			"~g~That armored bodycast is flame retardant!"
+		],
+		[
+			"MM_1_C",
+			"~g~That's 20 seconds, plus ~y~5 SECONDS~g~ for each checkpoint. ~g~The timer will start ~y~IMMEDIATELY."
+		],
+		[
+			"FM1_P",
+			"~g~That's Chico over there, pull up next to him."
+		],
+		[
+			"FM1_9",
+			"~g~Thats the party up ahead, drop Maria off out front."
+		],
+		[
+			"HM1_3",
+			"~g~The 'Nines' walk their turf in Wichita Gardens."
+		],
+		[
+			"RM6_5",
+			"~g~The CIA have the bridge under surveillance, find another route across."
+		],
+		[
+			"KM3_1",
+			"~g~The Cartel are expecting a Yardie Posse. Go and steal a Yardie car! Head north, you'll find one in Newport."
+		],
+		[
+			"KM3_11",
+			"~g~The Cartel have been attacked and the briefcase has not been recovered."
+		],
+		[
+			"HOODGO",
+			"~g~The Hoods are not available at this time!"
+		],
+		[
+			"LOVE1_4",
+			"~g~The Old Oriental Gentleman must be in one of the garages..."
+		],
+		[
+			"RM3_4",
+			"~g~The Prosecution has dropped the evidence!"
+		],
+		[
+			"A_RANGE",
+			"~g~The ambulance radio is out of range, get closer to a hospital!"
+		],
+		[
+			"JM1_5",
+			"~g~The car bomb's not set!"
+		],
+		[
+			"F_RANGE",
+			"~g~The fire truck radio is out of range, get closer to a fire station!"
+		],
+		[
+			"LOVE1_7",
+			"~g~The gate will only open for a Colombian Gang-car."
+		],
+		[
+			"KM3_3",
+			"~g~The meeting is being held in the hospital parking lot in Rockford!"
+		],
+		[
+			"LOVE4_2",
+			"~g~The package is gone! Track down the Colombians and retrieve it."
+		],
+		[
+			"LOVE4_5",
+			"~g~The package should be in the plane..."
+		],
+		[
+			"LOVE3_3",
+			"~g~The plane has dropped ~1~ of 6 packages."
+		],
+		[
+			"LOVE3_5",
+			"~g~The plane is now in range."
+		],
+		[
+			"C_RANGE",
+			"~g~The police radio is out of range, get closer to a police station!"
+		],
+		[
+			"AS2_9",
+			"~g~There are still espresso stalls in Portland and Shoreside Vale!"
+		],
+		[
+			"AS2_10",
+			"~g~There are still espresso stalls in Portland and on Staunton Island"
+		],
+		[
+			"AS2_8",
+			"~g~There are still espresso stalls in Portland!"
+		],
+		[
+			"AS2_5",
+			"~g~There are still espresso stalls in Shoreside Vale and on Staunton Island!"
+		],
+		[
+			"AS2_6",
+			"~g~There are still espresso stalls in Shoreside Vale!"
+		],
+		[
+			"AS2_7",
+			"~g~There are still espresso stalls on Staunton Island!"
+		],
+		[
+			"FM2_1",
+			"~g~There's Curly Bob!"
+		],
+		[
+			"LOVE4_7",
+			"~g~There's a construction yard in Staunton Island, maybe they took the package there."
+		],
+		[
+			"NODOORS",
+			"~g~They ain't sardines! Get some wheels with enough seats."
+		],
+		[
+			"AM2_4",
+			"~g~They seen you coming like a dayglow elephant!"
+		],
+		[
+			"TONIGO",
+			"~g~Toni's taken his Momma to the opera -Call in some other time!"
+		],
+		[
+			"AS3_4",
+			"~g~Use a rocket launcher to shoot the ~y~plane~g~ down!"
+		],
+		[
+			"AS3_3",
+			"~g~Wait for the ~y~plane~g~ to start its approach!"
+		],
+		[
+			"FM2_8",
+			"~g~Whack Curly Bob!"
+		],
+		[
+			"RM5_8",
+			"~g~Witness has drowned!"
+		],
+		[
+			"YD3_J",
+			"~g~Yakuza gangcar boosted!"
+		],
+		[
+			"GOAWAY",
+			"~g~You are already on a mission!"
+		],
+		[
+			"Y1_1ST",
+			"~g~You came first with ~1~ successful checkpoints!"
+		],
+		[
+			"CAT_MON",
+			"~g~You don't have enough money yet. You need $500,000."
+		],
+		[
+			"LOVE3_2",
+			"~g~You have all the packages! Take them back to Donald Love."
+		],
+		[
+			"FM1_10",
+			"~g~You have left Maria behind, go back and pick her up."
+		],
+		[
+			"RM6_8",
+			"~g~You have left Ray behind, go back and get him."
+		],
+		[
+			"RM1_4",
+			"~g~You have used all the grenades! Get some more from ammunation!"
+		],
+		[
+			"RM3_5",
+			"~g~You have ~1~ of 6 evidence packages."
+		],
+		[
+			"COPCART",
+			"~g~You have ~1~ seconds to return to a police vehicle before the mission ends."
+		],
+		[
+			"LOVE6_3",
+			"~g~You have ~1~ seconds to return to the Securicar before you fail the mission."
+		],
+		[
+			"T4X4_2A",
+			"~g~You have ~y~2 minutes~g~ to collect ~y~12~g~ checkpoints! ~g~You may collect them in ~y~ANY ORDER."
+		],
+		[
+			"MM_1_A",
+			"~g~You have ~y~2 minutes~g~ to collect ~y~20 checkpoints~g~ in the multistorey! ~g~You may collect them in ~y~ANY ORDER."
+		],
+		[
+			"T4X4_1A",
+			"~g~You have ~y~5 minutes~g~ to collect ~y~15~g~ checkpoints. ~g~You may collect them in ~y~ANY ORDER."
+		],
+		[
+			"T4X4_3A",
+			"~g~You have ~y~5 minutes~g~ to collect ~y~20~g~ checkpoints. ~g~You may collect them in ~y~ANY ORDER."
+		],
+		[
+			"TM2_2",
+			"~g~You iced them all!"
+		],
+		[
+			"YD1_F",
+			"~g~You jumped the start -I like your style!"
+		],
+		[
+			"HEY6",
+			"~g~You left your honor with the Yakuza Kanbu. You must protect him!"
+		],
+		[
+			"KM5_6",
+			"~g~You must murder at least 8 Yardie dealers."
+		],
+		[
+			"TM4_GAT",
+			"~g~You need a 'Triad fish van' to enter."
+		],
+		[
+			"KM3_8",
+			"~g~You need a Yardie car to get on with the job!"
+		],
+		[
+			"IN_BOAT",
+			"~g~You need a boat for this job!"
+		],
+		[
+			"LM5_3",
+			"~g~You need a car!"
+		],
+		[
+			"KM1_4",
+			"~g~You need a cop car to do the job!"
+		],
+		[
+			"JM6_5",
+			"~g~You need a getaway vehicle, idiot!"
+		],
+		[
+			"JM6_7",
+			"~g~You need all 3 to rob the bank!"
+		],
+		[
+			"NOMONEY",
+			"~g~You need more cash!"
+		],
+		[
+			"IN_VEH2",
+			"~g~You need some wheels for this job!"
+		],
+		[
+			"LM5_1",
+			"~g~You pack these ladies too tight, they gonna bruise! ~g~Drop these girls off first, then come back for more."
+		],
+		[
+			"HEY9",
+			"~g~You want the word on the street? Go see the contact!"
+		],
+		[
+			"LOVE4_8",
+			"~g~You'll need a car to open the garage."
+		],
+		[
+			"LOVE5_2",
+			"~g~You'll need a car!"
+		],
+		[
+			"JM1_4",
+			"~g~You're trashing the vehicle! Get it repaired!"
+		],
+		[
+			"RM5_2",
+			"~g~You've been spotted!"
+		],
+		[
+			"HEY3",
+			"~g~You've dropped your main man, go back and get 8-Ball!"
+		],
+		[
+			"FM1_4",
+			"~g~You've dumped the Don's woman! Get back to the warehouse and wait for Maria!"
+		],
+		[
+			"TRASH",
+			"~g~You've junked your wheels real bad! Get your vehicle repaired!"
+		],
+		[
+			"AS3_6",
+			"~g~~1~ OF 8"
+		],
+		[
+			"AS2_11",
+			"~g~~1~ OF 9!"
+		],
+		[
+			"YD1_1",
+			"~r~1"
+		],
+		[
+			"YD1_2",
+			"~r~2"
+		],
+		[
+			"YD1_3",
+			"~r~3"
+		],
+		[
+			"Y1_3RD",
+			"~r~3rd with ~1~ successful checkpoints. ~r~I thought you said you were good!"
+		],
+		[
+			"FM3_7",
+			"~r~8-Ball's been iced!"
+		],
+		[
+			"EBAL_4",
+			"~r~8-Ball's dead!"
+		],
+		[
+			"MEA2_2",
+			"~r~A thief's dead!"
+		],
+		[
+			"AS1_G",
+			"~r~All the Yakuza are dead!"
+		],
+		[
+			"A_FULL",
+			"~r~Ambulance full!"
+		],
+		[
+			"MEA4_1",
+			"~r~Carlos is dead!"
+		],
+		[
+			"FM2_9",
+			"~r~Curly Bob's dead!"
+		],
+		[
+			"FM2_10",
+			"~r~Curly got away!"
+		],
+		[
+			"FM2_6",
+			"~r~Curly won't get into a smashed-up taxi!"
+		],
+		[
+			"FM2_7",
+			"~r~Curly's spooked! The meeting's off!"
+		],
+		[
+			"F_CANC",
+			"~r~Fire Fighter mission cancelled!"
+		],
+		[
+			"FM2_12",
+			"~r~He gave you the slip!"
+		],
+		[
+			"YD2_F",
+			"~r~He's bailed out on us, cap his yellow ass!"
+		],
+		[
+			"AWAY",
+			"~r~He's clean out of here!"
+		],
+		[
+			"YD2_M",
+			"~r~He's wrecked my car! Waste him!"
+		],
+		[
+			"LOVE2_3",
+			"~r~If you proceed without a Cartel car you will be identified!"
+		],
+		[
+			"TM3_A2",
+			"~r~Joey and Luigi have been cremated!"
+		],
+		[
+			"TM3_A1",
+			"~r~Joey's Fried!"
+		],
+		[
+			"TM3_A3",
+			"~r~Joey, Luigi and Toni are Toast!"
+		],
+		[
+			"Y1_J2ND",
+			"~r~Joint 2nd with ~1~ successful checkpoints. You drive like a crazed monkey!"
+		],
+		[
+			"Y1JLAST",
+			"~r~Joint last! You talk like a driver, but you drive like a talker!"
+		],
+		[
+			"FM1_3",
+			"~r~Leave Maria and Salvatore will have you whacked, go back and pick her up."
+		],
+		[
+			"BITCH_D",
+			"~r~Maria's dead!"
+		],
+		[
+			"FM1_7",
+			"~r~Maria's dead! Salvatore won't be too pleased..."
+		],
+		[
+			"MEA4_2",
+			"~r~Marty Chonks is dead!"
+		],
+		[
+			"RM1_3",
+			"~r~McAffrey escaped!"
+		],
+		[
+			"MISTY1",
+			"~r~Misty is morgue-meat!"
+		],
+		[
+			"NRECORD",
+			"~r~NO NEW RECORD!"
+		],
+		[
+			"AM1_4",
+			"~r~Nice going, you scared off the target! Call yourself a hitman?"
+		],
+		[
+			"LM5_2",
+			"~r~One of Luigi's girls is bodybag meat!"
+		],
+		[
+			"KM3_9",
+			"~r~One of the Colombians is dead, the deal's off."
+		],
+		[
+			"HM2_5",
+			"~r~Out of range!"
+		],
+		[
+			"A_CANC",
+			"~r~Paramedic mission cancelled!"
+		],
+		[
+			"RM2_H",
+			"~r~Phil has been killed!"
+		],
+		[
+			"LOVE5_4",
+			"~r~Protect the truck!"
+		],
+		[
+			"RM6_7",
+			"~r~Ray has missed his flight."
+		],
+		[
+			"RM6_6",
+			"~r~Ray is dead!"
+		],
+		[
+			"RM4_3",
+			"~r~Ray's partner has escaped!"
+		],
+		[
+			"FM1_SS",
+			"~r~SCANNER: ~g~Four-five to all units: Assist narcotics raid Atlantic Quays..."
+		],
+		[
+			"AM1_9",
+			"~r~Salvatore has escaped back into Luigi's Club!"
+		],
+		[
+			"AM1_7",
+			"~r~Salvatore's home, safe and sipping a cocktail. Ain't no one gonna call you the 'Jackal'!"
+		],
+		[
+			"RM3_8",
+			"~r~That car is a decoy!"
+		],
+		[
+			"MEA1_1",
+			"~r~The Bank Manager's dead!"
+		],
+		[
+			"AS2_4",
+			"~r~The Cartel have warned their pushers!"
+		],
+		[
+			"LOVE4_1",
+			"~r~The Colombian Cartel is here!"
+		],
+		[
+			"LOVE1_6",
+			"~r~The Old Oriental Gentleman's guts are all over the street!"
+		],
+		[
+			"LOVE3_6",
+			"~r~The Police got to the packages first!"
+		],
+		[
+			"KM1_10",
+			"~r~The Yakuza Kanbu is dead -along with your honor!"
+		],
+		[
+			"LOVE2_4",
+			"~r~The Yakuza have identified you!"
+		],
+		[
+			"YD3_K",
+			"~r~The car's nearly wrecked! Get it repaired!"
+		],
+		[
+			"KM3_10",
+			"~r~The contact is dead!"
+		],
+		[
+			"FM3_8",
+			"~r~The guards have been alerted!"
+		],
+		[
+			"LOV4_10",
+			"~r~The only lead to where the package has gone has been destroyed!"
+		],
+		[
+			"A_FAIL3",
+			"~r~The patient is dead!"
+		],
+		[
+			"RM3_6",
+			"~r~The photos will be washed up all over Liberty!"
+		],
+		[
+			"LOVE4_9",
+			"~r~The plane has been destroyed!"
+		],
+		[
+			"KM4_7",
+			"~r~The shopkeeper's breathed his last!"
+		],
+		[
+			"MEA3_1",
+			"~r~The wife's dead!"
+		],
+		[
+			"KM3_4",
+			"~r~They got away!"
+		],
+		[
+			"AWAY2",
+			"~r~They got away."
+		],
+		[
+			"SPOTTED",
+			"~r~They're on to you!"
+		],
+		[
+			"YD1_G",
+			"~r~This is a CAR RACE. You need a CAR fool!"
+		],
+		[
+			"JM4_8",
+			"~r~Toni's been wasted!"
+		],
+		[
+			"OUTTIME",
+			"~r~Too slow, man, too slow!"
+		],
+		[
+			"C_CANC",
+			"~r~Vigilante mission cancelled!"
+		],
+		[
+			"RM5_7",
+			"~r~Witness has been delivered!"
+		],
+		[
+			"KM1_11",
+			"~r~You brought the heat down on yourself!"
+		],
+		[
+			"DIAB1_3",
+			"~r~You couldn't win a raffle, LOSER!"
+		],
+		[
+			"LOVE3_4",
+			"~r~You destroyed the plane!"
+		],
+		[
+			"KM1_9",
+			"~r~You did not use a car bomb to destroy the wall"
+		],
+		[
+			"LOVE6_4",
+			"~r~You ditched the Decoy Securicar!"
+		],
+		[
+			"HM2_2",
+			"~r~You failed to destroy all the armored cars!"
+		],
+		[
+			"KM5_3",
+			"~r~You failed to kill at least ~1~ yardies."
+		],
+		[
+			"AS1_H",
+			"~r~You failed to lead the Deathsquad into the Yakuza trap!"
+		],
+		[
+			"LOVE6_2",
+			"~r~You failed to lead the police far enough away!"
+		],
+		[
+			"LOVE5_5",
+			"~r~You failed to protect the truck!"
+		],
+		[
+			"UPSIDE",
+			"~r~You flipped your wheels!"
+		],
+		[
+			"FM2_14",
+			"~r~You got too close and spooked Curly!"
+		],
+		[
+			"KM3_14",
+			"~r~You have been spotted the deal is off!"
+		],
+		[
+			"AM1_2",
+			"~r~You have been spotted!"
+		],
+		[
+			"MEA4_3",
+			"~r~You have left Carlos the loan shark behind!"
+		],
+		[
+			"MEA2_4",
+			"~r~You have left a thief behind!"
+		],
+		[
+			"MEA3_3",
+			"~r~You have left his wife behind!"
+		],
+		[
+			"MEA1_4",
+			"~r~You have left the Bank Manager behind!"
+		],
+		[
+			"FM1_8",
+			"~r~You wasted Maria's supplier!"
+		],
+		[
+			"Y1_LAST",
+			"~r~You were last! ~r~You wasted my time FOOL!"
+		],
+		[
+			"MEA3_2",
+			"~r~You were supposed to dump the vehicle in the water!"
+		],
+		[
+			"MEA1_2",
+			"~r~You were told to crush the vehicle!"
+		],
+		[
+			"MEA2_1",
+			"~r~You were told to crush the vehicle!"
+		],
+		[
+			"HM5_3",
+			"~r~You were told to use a baseball bat only!"
+		],
+		[
+			"F_FAIL2",
+			"~r~You're too late!"
+		],
+		[
+			"YD3_E",
+			"~r~You've already boosted a Diablo gangcar!"
+		],
+		[
+			"YD3_F",
+			"~r~You've already boosted a Mafia gangcar!"
+		],
+		[
+			"YD3_G",
+			"~r~You've already boosted a Yakuza gangcar!"
+		],
+		[
+			"YD3_M",
+			"~r~You've flipped it! Get another one!"
+		],
+		[
+			"LOVE2_6",
+			"~r~You've killed all the witnesses!"
+		],
+		[
+			"JM6_8",
+			"~r~You've lost all the robbers!"
+		],
+		[
+			"AM1_3",
+			"~r~You've missed Salvatore!"
+		],
+		[
+			"HM5_4",
+			"~r~Your contact's dead!"
+		],
+		[
+			"A_FAIL2",
+			"~r~Your lack of urgency has been fatal to the patient!"
+		],
+		[
+			"TAXI3",
+			"~r~Your passenger fled in terror!"
+		],
+		[
+			"C_TIME",
+			"~r~Your time as a law enforcer is over!"
+		],
+		[
+			"1010",
+			"~r~Your vehicle is upside down"
+		],
+		[
+			"1011",
+			"~r~Your vehicle is upside down"
+		],
+		[
+			"1012",
+			"~r~Your vehicle is upside down"
+		],
+		[
+			"1013",
+			"~r~Your vehicle is upside down"
+		],
+		[
+			"1014",
+			"~r~Your vehicle is upside down"
+		],
+		[
+			"TM1_J",
+			"~w~8-Ball can supply you with what you're gonna need."
+		],
+		[
+			"AS1_D",
+			"~w~Act as the bait, and get the death squads to follow you to Pike Creek"
+		],
+		[
+			"FM1_W",
+			"~w~Alright Fido, you wait here and look after the car while I go and shake my butt alright."
+		],
+		[
+			"FM1_E",
+			"~w~And here she is, the one and only Queen of Sheba!"
+		],
+		[
+			"FM1_K",
+			"~w~And watch her, she can be trouble."
+		],
+		[
+			"TM4_A2",
+			"~w~But he left one of his sugary love letters for you."
+		],
+		[
+			"YD2_G2",
+			"~w~But remember, ~r~You don't leave this car!"
+		],
+		[
+			"FM1_V",
+			"~w~C'mon Fido, let's go and check out this party!"
+		],
+		[
+			"TM5_F",
+			"~w~Careful, 8-Ball says it's real sensitive and the slightest bump could set that thing off!"
+		],
+		[
+			"AS3_I",
+			"~w~Collect the cargo from the debris and stash it!"
+		],
+		[
+			"FM3_CC",
+			"~w~Come back brother when you have the money."
+		],
+		[
+			"TM3_I",
+			"~w~Come on, let's introduce you to the Don."
+		],
+		[
+			"TM3_A",
+			"~w~Don Salvatore has called a meeting."
+		],
+		[
+			"FM1_D",
+			"~w~Dumb broad does this every time."
+		],
+		[
+			"AS3_C",
+			"~w~Eeeeeeyoooo! What IS that gooey yellow stuff?"
+		],
+		[
+			"YD1_D",
+			"~w~First driver to a checkpoint gets a Grand, then it's on to the next stop."
+		],
+		[
+			"FM3_8I",
+			"~w~Get a good vantage point then I'll head in when you fire the first shot."
+		],
+		[
+			"FM1_I",
+			"~w~Get in that car and keep your big mouth shut."
+		],
+		[
+			"YD1_B",
+			"~w~Get to the waste ground opposite the stadium in a car and wait for the other hopefuls."
+		],
+		[
+			"AS3_B",
+			"~w~Give it a quick prod..."
+		],
+		[
+			"FM3_I",
+			"~w~Go and see 8-Ball, you'll need his expertise to blow-up that boat."
+		],
+		[
+			"TM2_C",
+			"~w~Go collect the cash and bring it back here. Watch out for the Triads."
+		],
+		[
+			"FM1_U",
+			"~w~Gracias and enjoy. That's good stuff."
+		],
+		[
+			"FM1_C",
+			"~w~HEY MARIA! MOVE YOUR BUTT!"
+		],
+		[
+			"TM2_AA",
+			"~w~He'll never be as tough as his Pop, but he left you a note on the table."
+		],
+		[
+			"FM1_O",
+			"~w~He's at the rail station at the Chinatown waterfront I think."
+		],
+		[
+			"TM3_J",
+			"~w~Heeyyy! Luigi!"
+		],
+		[
+			"TM4_G",
+			"~w~Hell, if you get a chance, pop some of their soldiers too."
+		],
+		[
+			"YD2_G1",
+			"~w~Hepburn Heights... Let's kill me some filthy Diablos..."
+		],
+		[
+			"FM1_S",
+			"~w~Here you go lady."
+		],
+		[
+			"TM3_N",
+			"~w~Here's my boy."
+		],
+		[
+			"FM3_8G",
+			"~w~Here, this rifle should help you pop some heads!"
+		],
+		[
+			"YD2_CC",
+			"~w~Here, you'll need a 'piece'."
+		],
+		[
+			"FM1_N",
+			"~w~Hey Fido, let's go visit Chico and get some party treats!"
+		],
+		[
+			"FM1_S1",
+			"~w~Hey, maybe you should check out the warehouse party at the east end of Atlantic Quays."
+		],
+		[
+			"TM3_P",
+			"~w~Hey, your mother, god bless her soul, would be turning over in her grave"
+		],
+		[
+			"FM1_R",
+			"~w~Hi Chico. Nah, just the usual."
+		],
+		[
+			"TM3_N2",
+			"~w~How you doin' pop?"
+		],
+		[
+			"FM3_8F",
+			"~w~I can set this baby to detonate, but I still can't use a piece with these hands."
+		],
+		[
+			"TM3_MA",
+			"~w~I don't know where he is!"
+		],
+		[
+			"TM3_R",
+			"~w~I know Pop, I'm working on it."
+		],
+		[
+			"YD2_A",
+			"~w~I need to see if you're capable of doing my dirty work."
+		],
+		[
+			"TM3_B",
+			"~w~I need you to collect the limo and his boy, Joey, from the garage."
+		],
+		[
+			"TM3_W",
+			"~w~I see nothing but good things for you my boy..."
+		],
+		[
+			"TM3_MB",
+			"~w~I swear that boy of mine don't know himself sometimes."
+		],
+		[
+			"TM5_I",
+			"~w~I want it to rain mackerel."
+		],
+		[
+			"TM1_H",
+			"~w~I want you to destroy their laundry vans"
+		],
+		[
+			"AS3_E",
+			"~w~I was bored so I came over to keep Asuka company."
+		],
+		[
+			"FM3_8C",
+			"~w~I'll need $100,000 to cover expenses,"
+		],
+		[
+			"FM3_G",
+			"~w~I'm asking you to destroy that SPANK factory as a personal favor to me, Salvatore Leone."
+		],
+		[
+			"FM4_B",
+			"~w~I'm proud of you my boy, you kicked the shit out of those grease balls."
+		],
+		[
+			"AS2_A2",
+			"~w~I'm quite exhausted."
+		],
+		[
+			"FM4_C",
+			"~w~I've got just one little job for you before we can all celebrate."
+		],
+		[
+			"YD1_C",
+			"~w~I've got men watching checkpoints all over Staunton."
+		],
+		[
+			"FM1_TT",
+			"~w~IT'S A POLICE RAID!"
+		],
+		[
+			"FM3_D",
+			"~w~If we make an open attack on them, they'll wipe the floor with us."
+		],
+		[
+			"FM3_H",
+			"~w~If you do this for me, you will be a made man, anything you want."
+		],
+		[
+			"YD1_D1",
+			"~w~If you get more checkpoints than any other driver, I could have some work for you."
+		],
+		[
+			"AS3_G1",
+			"~w~It is full of Catalina's poison."
+		],
+		[
+			"AS2_B",
+			"~w~It reaches far beyond the Yardies selling it on the street corners."
+		],
+		[
+			"FM4_A",
+			"~w~It's my favorite cleaner."
+		],
+		[
+			"TM5_E",
+			"~w~It's on a timer so if you mess up there'll be no evidence. Go and pick up the dustcart."
+		],
+		[
+			"YD2_E",
+			"~w~Let's drive!"
+		],
+		[
+			"TM1_D",
+			"~w~Let's teach these would be tough guys what it means to be a tough guy."
+		],
+		[
+			"FM1_A",
+			"~w~Me an' the fellas need to talk business"
+		],
+		[
+			"AS2_A1",
+			"~w~Miguel certainly has some of that famous Latin stamina."
+		],
+		[
+			"AS1_A",
+			"~w~Miguel seems to think I'm mistreating him."
+		],
+		[
+			"TM4_C",
+			"~w~Most of their business goes down at the fish market in Chinatown."
+		],
+		[
+			"AS3_D",
+			"~w~My Handyman!"
+		],
+		[
+			"YD1_A1",
+			"~w~My Yardie posse could do with a driver and you've got a reputation for hot moves."
+		],
+		[
+			"TM2_E",
+			"~w~Nobody, I mean nobody, messes with TONI CIPRIANI!"
+		],
+		[
+			"TM3_G",
+			"~w~Now get going."
+		],
+		[
+			"TM3_MC",
+			"~w~Now his father, he was different. Always on top, in charge, manful..."
+		],
+		[
+			"AS3_K",
+			"~w~Now try the chilli oil..."
+		],
+		[
+			"FM1_X",
+			"~w~OK Fido, let's get out of here. Wooooh!"
+		],
+		[
+			"TM5_B",
+			"~w~OK, I've had enough of this shit."
+		],
+		[
+			"YD2_H",
+			"~w~OK, that should do it, now get us back to the Yard! GO GO GO NOW!"
+		],
+		[
+			"AS3_C1",
+			"~w~Oh hi Babe."
+		],
+		[
+			"TM4_A",
+			"~w~Oh it's you. TONI ain't here."
+		],
+		[
+			"TM3_K",
+			"~w~Oh my girls have been missing you so long Salvatore, you been away too long."
+		],
+		[
+			"AS3_J",
+			"~w~Oh you be careful now, OK baby?"
+		],
+		[
+			"FM1_AA",
+			"~w~Oh, I'd better go. I'll see you around I hope."
+		],
+		[
+			"YD2_L",
+			"~w~Ok, you're the kinda man we like as friends, now. Ya irie, man. Real shoota."
+		],
+		[
+			"FM3_8E",
+			"~w~Okay, let's do this thing!"
+		],
+		[
+			"TM5_H",
+			"~w~Park up between the gas canisters and get the hell out of there!"
+		],
+		[
+			"YD2_A1",
+			"~w~See if you can be trusted."
+		],
+		[
+			"AS1_C",
+			"~w~She has three death squads dotted around Liberty, whose sole job is to hunt you down."
+		],
+		[
+			"TM3_T",
+			"~w~She's a great woman you know. Strong. Firenze."
+		],
+		[
+			"TM3_U",
+			"~w~She's good... fine."
+		],
+		[
+			"AS3_F",
+			"~w~She's got the makings of a natural this girl."
+		],
+		[
+			"AS3_F1",
+			"~w~She's managed to extract this little gem from our guest."
+		],
+		[
+			"AS2_F",
+			"~w~Smash them to splinters!"
+		],
+		[
+			"TM1_B",
+			"~w~So the laundry won't pay any protection eh?"
+		],
+		[
+			"FM3_F",
+			"~w~So we gotta use our heads, or rather one head. Your head."
+		],
+		[
+			"TM1_G",
+			"~w~Sorry Ma. Yes Ma."
+		],
+		[
+			"AS1_B",
+			"~w~Still, he's revealed the extent to which Catalina fears your quest for revenge."
+		],
+		[
+			"TM3_S",
+			"~w~TONI! How's your Momma?"
+		],
+		[
+			"TM2_A",
+			"~w~TONI's off making people bleed or trying to."
+		],
+		[
+			"TM1_A",
+			"~w~Take a seat kid, take a god damned seat."
+		],
+		[
+			"FM4_H",
+			"~w~Take it to the crusher before the cops find it."
+		],
+		[
+			"FM1_J",
+			"~w~Take the limo but bring it back in one piece, y'hear me?"
+		],
+		[
+			"TM4_F",
+			"~w~Take these boys over and whack the Triad Warlords!"
+		],
+		[
+			"TM3_V",
+			"~w~Terrific, terrific. Now listen you guys, you go inside while I talk to our new friend here."
+		],
+		[
+			"FM1_T",
+			"~w~Thanks Chico. See you around."
+		],
+		[
+			"TM4_D",
+			"~w~That laundry still owes us protection."
+		],
+		[
+			"FM3_C",
+			"~w~The Cartel has got bottomless funds from pushing that SPANK crap."
+		],
+		[
+			"AS2_C",
+			"~w~The Cartel have a front company, The Kappa Coffee House."
+		],
+		[
+			"TM1_C",
+			"~w~The Triads think they can mess with me?"
+		],
+		[
+			"FM4_E",
+			"~w~The inside is covered in brains."
+		],
+		[
+			"TM2_B",
+			"~w~The laundry has agreed to pay - you did real good kid!"
+		],
+		[
+			"TM5_G",
+			"~w~Their fish factory will open its gates for a dustcart, so you can drive right in."
+		],
+		[
+			"TM3_C",
+			"~w~Then get Luigi from his club, come back here and pick me up,"
+		],
+		[
+			"AS3_G",
+			"~w~There is a plane coming into Francis International in 2 hours time."
+		],
+		[
+			"FM4_D",
+			"~w~There's a car around the block from Luigi's club."
+		],
+		[
+			"TM2_D",
+			"~w~They may be shoving a firecracker up your ass, but don't take no crap."
+		],
+		[
+			"FM3_E",
+			"~w~They must be making SPANK on that big boat that Curly led you to."
+		],
+		[
+			"TM4_E",
+			"~w~They reckon the Triads are protecting them now, so I say we exact a fitting punishment."
+		],
+		[
+			"TM3_F",
+			"~w~They want a war. They got a war."
+		],
+		[
+			"AS2_D",
+			"~w~They've been selling SPANK through the street stalls."
+		],
+		[
+			"YD1_A",
+			"~w~This is King Courtney."
+		],
+		[
+			"TM3_E",
+			"~w~Those Triads, they don't know when to stop."
+		],
+		[
+			"YD2_B",
+			"~w~Two of my boys will be there any second to take you for a ride,"
+		],
+		[
+			"FM4_F",
+			"~w~We had to help some guy make up his mind and it proved a little... uhh... messy."
+		],
+		[
+			"AS2_E",
+			"~w~We have no choice but to put these drug stands out of operation."
+		],
+		[
+			"FM3_A",
+			"~w~We should take these Colombian bastards out,"
+		],
+		[
+			"AS2_A",
+			"~w~We underestimated Catalina's plans for SPANK."
+		],
+		[
+			"TM4_B",
+			"~w~We're at WAR! The Triads have a fish factory as a front."
+		],
+		[
+			"YD2_C",
+			"~w~We're going for a little ride into Hepburn Heights, whack us some filthy Diablos been dissing Queen Lizzy."
+		],
+		[
+			"TM5_C",
+			"~w~We're gonna finish the Triads in Liberty once and for all!"
+		],
+		[
+			"TM5_J",
+			"~w~We're talking real biblical here, nothing low budget."
+		],
+		[
+			"FM1_H",
+			"~w~Well, you don't think I hang around for the conversation, do you?"
+		],
+		[
+			"FM1_F",
+			"~w~What were you doing up there?"
+		],
+		[
+			"FM1_G",
+			"~w~Whatever it was, I bet it cost me money."
+		],
+		[
+			"YD2_N",
+			"~w~Ya got five seconds to get back in the car, man."
+		],
+		[
+			"TM1_E",
+			"~w~Yeah, teach 'em some respect. No son of mine gets it from some Triads."
+		],
+		[
+			"FM1_L",
+			"~w~Yeah, yeah, yeah! I'm sure your new lap dog has everything covered,"
+		],
+		[
+			"FM3_8A",
+			"~w~Yo my man! Salvatore phoned ahead,"
+		],
+		[
+			"AS3_H",
+			"~w~You can avoid airport security by getting a boat out to the runway-light buoys"
+		],
+		[
+			"TM3_H",
+			"~w~You did good back there kid, real good."
+		],
+		[
+			"YD2_D",
+			"~w~You do the driving and shooting. We'll make sure you don't get cold feet."
+		],
+		[
+			"TM3_O",
+			"~w~You got yourself a good woman yet?"
+		],
+		[
+			"FM1_Y",
+			"~w~You know I enjoyed myself for the first time in a long while, and you treated me really good. With respect and everything."
+		],
+		[
+			"FM1_Q1",
+			"~w~You looking for some fun? A little... hmm? Some SPANK?"
+		],
+		[
+			"TM3_L",
+			"~w~You tell them that once this unfortunate business is taken care of,"
+		],
+		[
+			"TM1_F",
+			"~w~Your father, god rest his soul, took no crap from no Triads back in Sicily."
+		],
+		[
+			"FM1_M",
+			"~w~and isn't he big and strong?"
+		],
+		[
+			"TM1_I",
+			"~w~and mangle any triad gimp that gets in your way."
+		],
+		[
+			"FM3_8B",
+			"~w~but a job like this is gonna need a lot of fireworks."
+		],
+		[
+			"FM3_B",
+			"~w~but while we're at war with the Triads we ain't strong enough."
+		],
+		[
+			"FM3_8D",
+			"~w~but you know with me you get a lot of bang for your buck."
+		],
+		[
+			"YD2_B1",
+			"~w~see if you are who you say you are."
+		],
+		[
+			"FM1_B",
+			"~w~so you're gonna look after my girl for the evening."
+		],
+		[
+			"TM3_D",
+			"~w~then we'll all drive over to the boss's place together."
+		],
+		[
+			"TM3_Q",
+			"~w~to see you without a wife."
+		],
+		[
+			"TM3_M",
+			"~w~we'll all go down to the club and celebrate, ok?"
+		],
+		[
+			"AS1_E",
+			"~w~where some of my men will be waiting for them."
+		],
+		[
+			"FM1_Q",
+			"~w~\u00a1Ay, mira! It's my favorite lady!"
+		],
+		[
+			"Y1_2ND",
+			"~y~2nd with ~1~ successful checkpoints. ~y~Close, but you just ain't the best!"
+		],
+		[
+			"JM1_8C",
+			"~y~Here, your first can be free, but after that it'll cost."
+		],
+		[
+			"JM1_8A",
+			"~y~Hey, it's my main man!"
+		],
+		[
+			"TM3_5",
+			"~y~It's a triad ambush!"
+		],
+		[
+			"Y1_J1ST",
+			"~y~Joint 1st with ~1~ successful checkpoints. ~y~Good, but you gotta be the best to drive for Queen Lizzy!"
+		],
+		[
+			"T4X4_2C",
+			"~y~PASS THROUGH~g~ the first checkpoint to start the timer. ~g~Each checkpoint will credit you with ~y~10 SECONDS~g~."
+		],
+		[
+			"T4X4_3B",
+			"~y~PASS THROUGH~g~ the first checkpoint to start the timer. ~g~Each checkpoint will credit you with ~y~15 SECONDS~g~."
+		],
+		[
+			"T4X4_1C",
+			"~y~PASS THROUGH~g~ the first checkpoint to start the timer. ~g~Each checkpoint will credit you with ~y~20 SECONDS~g~."
+		],
+		[
+			"JM1_8B",
+			"~y~The bomb shop's automated. Just drive in, stop your car and the shop will do the rest."
+		],
+		[
+			"AutoSaveLabel",
+			"Autosave:"
+		]
+	]
+}
